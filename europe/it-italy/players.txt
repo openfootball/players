@@ -1,0 +1,37 @@
+## GK / Goalkeepers
+
+Buffon|Gianluigi Buffon,   28 Jan 1978
+Sirigu|Salvatore Sirigu,   12 Jan 1987
+Marchetti|Federico Marchetti,   7 Feb 1983
+
+
+## DF / Defenders
+
+Maggio|Christian Maggio,   11 Feb 1982
+Chiellini|Giorgio Chiellini,   14 Aug 1984
+Astori|Davide Astori,   7 Jan 1987
+De Sciglio|Mattia De Sciglio,   20 Oct 1992
+Barzagli|Andrea Barzagli,   8 May 1981
+Bonucci|Leonardo Bonucci,   1 May 1987
+Abate|Ignazio Abate,   12 Nov 1986
+
+
+## MF / Midfielders
+
+Candreva|Antonio Candreva,   28 Feb 1987
+Aquilani|Alberto Aquilani,   7 Jul 1984
+Marchisio|Claudio Marchisio,   19 Jan 1986
+De Rossi|Daniele De Rossi,   24 Jul 1983
+Montolivo|Riccardo Montolivo,   18 Jan 1985
+Pirlo|Andrea Pirlo,   19 May 1979
+Giaccherini|Emanuele Giaccherini,   5 May 1985
+Diamanti|Alessandro Diamanti,   2 May 1983
+
+
+## FW / Forwards
+
+Balotelli|Mario Balotelli,   12 Aug 1990
+Giovinco|Sebastian Giovinco,   26 Jan 1987
+Gilardino|Alberto Gilardino,   5 Jul 1982
+El Shaarawy|Stephan El Shaarawy,   27 Oct 1992
+Cerci|Alessio Cerci,   23 Jul 1987
