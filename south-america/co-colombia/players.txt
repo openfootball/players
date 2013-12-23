@@ -1,0 +1,37 @@
+## GK / Goalkeepers
+
+Ospina|David Ospina|David OSPINA RAMIREZ, 31 Aug 1988
+Castillo|Breiner Castillo|Breiner CASTILLO, 5 May 1978
+R. Zapata|Robinson Zapata|Robinson ZAPATA MONTAÑO, 30 Sep 1978
+
+
+## DF / Defenders
+
+Perea|Amaranto Perea|Luis Amaranto PEREA MOSQUERA, 30 Jan 1979
+Yepes|Mario Yepes|Mario Alberto YEPES DIAZ, 13 Jan 1976
+Mosquera|Aquivaldo Mosquera|Aquivaldo MOSQUERA ROMAÑA, 22 Jun 1981
+C. Zapata|Cristian Zapata|Cristian Eduardo ZAPATA VALENCIA, 30 Sep 1986
+Armero|Pablo Armero|Pablo Estifer ARMERO, 2 Nov 1986
+Zuñiga|Camilo Zuñiga|Juan Camilo ZUÑIGA MOSQUERA, 14 Dec 1985
+Cuadrado|Juan Guillermo Cuadrado|Juan Guillermo CUADRADO BELLO, 26 May 1988
+Valencia|Juan David Valencia|Juan David VALENCIA, 15 Jan 1986
+
+
+## MF / Midfielders
+
+Guarin|Fredy Guarin|Fredy Alejandro GUARIN VASQUEZ, 30 Jun 1986
+Sanchez|Carlos Sanchez|Carlos Alberto SANCHEZ MORENO, 9 Mar 1986
+Aguilar|Abel Aguilar|Abel Enrique AGUILAR TAPIAS, 6 Jan 1985
+Rodriguez|James Rodriguez|James David RODRIGUEZ RUBIO, 12 Jul 1991
+Chara|Diego Chara|Diego Ferney CHARA ZAMORA, 5 Apr 1986
+Pabon|Dorlan Pabon|Dorlan Mauricio PABON RIOS, 24 Jan 1988
+
+
+## FW / Forwards
+
+Falcao|Radamel Falcao|Radamel Falcao GARCIA ZARATE, 10 Feb 1986
+Gutierrez|Teofilo Gutierrez|Teofilo Antonio GUTIERREZ RONCANCIO, 17 May 1985
+Ramos|Adrian Ramos|Gustavo Adrian RAMOS VASQUEZ, 22 Jan 1986
+Moreno|Giovanni Moreno|Giovanni Andres MORENO CARDONA, 1 Jul 1986
+Martinez|Jackson Martinez|Jackson Arley MARTINEZ VALENCIA, 3 Oct 1986
+Moreno|Dayro Moreno|Dayro Mauricio MORENO GALINDO, 16 Sep 1985
