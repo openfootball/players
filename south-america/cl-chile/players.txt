@@ -32,6 +32,7 @@ Diaz|Marcelo Diaz|Marcelo Alfonso DIAZ ROJAS, 30 Dec 1986
 Sanchez|Alexis Sanchez|Alexis Alejandro SANCHEZ SANCHEZ, 19 Dec 1988
 J. Fernandes|Junior Fernandes|Antenor Junior FERNANDES DA SILVA VITORIA, 4 Oct 1988
 Vargas|Eduardo Vargas|Eduardo Jesus VARGAS ROJAS, 20 Nov 1989
+Suazo|Humberto Suazo|Humberto Andrés SUAZO PONTIVO, 10 May 1981
 Beausejour|Jean Beausejour|Jean Andre Emanuel BEAUNSEJOUR COLIQUEO, 1 Jun 1984
 Orellana|Fabian Orellana|Fabian Ariel ORELLANA VALENZUELA, 27 Jan 1986
 Paredes|Esteban Paredes|Esteban Efrain PAREDES QUINTANILLA, 1 Aug 1980
