@@ -16,16 +16,32 @@ J. Torres|Jorge Torres Nilo|Jorge Emmanuel TORRES NILO, 16 Jan 1988
 H. Mier|Hiram Mier|Hiram Ricardo MIER ALANIS, 25 Aug 1989
 G. Flores|Gerardo Flores|Gerardo FLORES ZUÑIGA,  5 Feb 1986
 
+C. Salcido|Carlos Salcido|Carlos Arnoldo SALCIDO FLORES, 2 Apr 1980
+D. Reyes|Diego Reyes|Diego Antonio REYES ROSALES,  19 Sep 1992
+
+
+Rafael Márquez,  13 Feb 1979  ## Mexico León
+Andrés Guardado,  28 Sep 1986  ## Germany Bayer Leverkusen
+Paul Aguilar,    6 March 1986  ## Mexico América
+Miguel Layún,    25 Jun 1988  ## Mexico América
+
+
 
 ## MF / Midfielders
 
-C. Salcido|Carlos Salcido|Carlos Arnoldo SALCIDO FLORES, 2 Apr 1980
-D. Reyes|Diego Reyes|Diego Antonio REYES ROSALES,  19 Sep 1992
 G. Torrado|Gerardo Torrado|Gerardo TORRADO DIEZ DE BONILLA, 30 Apr 1979
 P. Barrera|Pablo Barrera|Pablo Edson BARRERA ACOSTA,  21 Jun 1987
 H. Herrera|Héctor Herrera|Héctor Miguel HERRERA LOPEZ, 19 Apr 1990
 J. Zavala|Jesús Zavala|Jesús Eduardo ZAVALA CASTAÑEDA, 21 Jul 1987
 A. Guardado|Andrés Guardado|José Andrés GUARDADO HERNANDEZ, 28 Sep 1986
+
+
+Carlos Peña, 29 Mar 1990  ## Mexico León
+Marco Fabián,  21 Jul 1989  ## Mexico Cruz Azul
+Luis Montes, 16 May 1986  ## Mexico León
+Juan Carlos Medina, 22 Aug 1983   ## Mexico América
+Isaác Brizuela,  28 Aug 1990  ## Mexico Toluca
+José Juan Vázquez, 14 Mar 1988  ##  Mexico León
 
 
 ## FW / Forwards
@@ -36,3 +52,7 @@ G. dos Santos|Giovani dos Santos|Giovani DOS SANTOS RAMIREZ, 11 May 1989
 J. Aquino|Javier Aquino|Javier Ignacio AQUINO CARMONA, 11 Feb 1990
 J. Hernández|Javier Hernández|Javier HERNANDEZ BALCAZAR, 1 Jun 1988
 R. Jiménez|Raúl Jiménez|Raúl Alonso JIMENEZ RODRIGUEZ, 5 May 1991
+
+Oribe Peralta, 12 Jan 1984  ##  Mexico Santos Laguna
+Alan Pulido,    8 Mar 1991  ##  Mexico UANL
+
