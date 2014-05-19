@@ -1,0 +1,9 @@
+##############################
+# All Players, All Countries
+
+africa/ci-cote-d-ivoire/players
+africa/cm-cameroon/players
+africa/dz-algeria/players
+africa/gh-ghana/players
+africa/ng-nigeria/players
+
