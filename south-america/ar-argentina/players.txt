@@ -1,30 +1,47 @@
+###################
+# Argentina
 
 ## GK / Goalkeepers
 
 Romero|Sergio Romero|Sergio German ROMERO, 22 Feb 1987
-Andujar|Mariano Andujar|Mariano Gonzalo ANDUJAR, 30 Jul 1983
-Orion|Agustin Orion|Agustin Ignacio ORION, 26 Jul 1981
+Andúja|Mariano Andújar|Mariano Gonzalo ANDUJAR, 30 Jul 1983
+Orión|Agustín Orión|Agustín Ignacio ORION, 26 Jul 1981
 
 
 ## DF / Defenders
 
 Zabaleta|Pablo Zabaleta|Pablo Javier ZABALETA GIROD, 16 Jan 1985
-Fernandez|Federico Fernandez|Federico FERNANDEZ, 21 Feb 1989
+Fernández|Federico Fernández|Federico FERNANDEZ, 21 Feb 1989
 Garay|Ezequiel Garay|Ezequiel Marcelo GARAY GONZALEZ, 10 Oct 1986
 Rojo|Marcos Rojo|Faustino Marcos Alberto ROJO, 20 Mar 1990
+Martín Demichelis,       20 Dec 1980   ## England Manchester City
+Nicolás Otamendi,        12 Feb 1988   ## Brazil Atlético Mineiro
+Hugo Campagnaro,         27 Jun 1980    ## Italy Internazionale
+José María Basanta,       3 Apr 1984  ## Mexico Monterrey
+Lisandro Ezequiel López,  1 Sep 1989  ## Spain Getafe
+Gabriel Mercado,          18 Mar 1987  ## Argentina River Plate
 
 
 ## MF / Midfielders
 
-Di Maria|Angel Di Maria|Angel Fabian DI MARIA HERNANDEZ, 14 Feb 1988
+Di María|Ángel di María|Ángel Fabian DI MARIA HERNANDEZ, 14 Feb 1988
 Mascherano|Javier Mascherano|Javier Alejandro MASCHERANO, 8 Jun 1984
 Gago|Fernando Gago|Fernando Ruben GAGO, 10 Apr 1986
-Banega|Ever Banega|Ever Maximiliano David BANEGA, 29 Jun 1988
+Banega|Éver Banega|Éver Maximiliano David BANEGA, 29 Jun 1988
+Maxi Rodríguez,      2 Jan 1981   ## Argentina Newell's Old Boys
+José Ernesto Sosa,   19 Jun 1985   ## Spain Atlético Madrid
+Lucas Biglia,       30 Jan 1986    ## Italy Lazio
+Augusto Fernández,   10 Apr 1986   ## Spain Celta Vigo
+Ricardo Álvarez,   12 Apr 1988    ## Italy Internazionale
+Enzo Pérez,        22 Feb 1986     ## Portugal Benfica
+Fabián Rinaudo,    15 May 1987      ## Italy Catania
 
 
 ## FW / Forwards
 
 Messi|Lionel Messi|Lionel Andres MESSI, 24 Jun 1987
-Aguero|Sergio Aguero|Sergio Leonel AGUERO DEL CASTILLO, 2 Jun 1988
-Higuain|Gonzalo Higuain|Gonzalo Gerardo HIGUAIN, 10 Dec 1987
+Agüero|Sergio Agüero|Sergio Leonel AGUERO DEL CASTILLO, 2 Jun 1988
+Higuaín|Gonzalo Higuaín|Gonzalo Gerardo HIGUAIN, 10 Dec 1987
 Lavezzi|Ezequiel Lavezzi|Ezequiel Iván LAVEZZI, 3 May 1985
+Rodrigo Palacio,  5 February 1982     ## Italy Internazionale
+Franco Di Santo,  7 April 1989        ## Germany Werder Bremen
