@@ -1,0 +1,46 @@
+#######################
+# United States
+
+## GK
+
+Tim Howard,   6 Mar 1979       ##   England Everton
+Brad Guzan,   9 Sep 1984       ##  England Aston Villa
+Nick Rimando,   17 Jun 1979     ##   United States Real Salt Lake
+
+## DF
+
+DaMarcus Beasley,   24 May 1982   ##   Mexico Puebla
+Clarence Goodson,   17 May 1982   ##   United States San Jose Earthquakes
+Michael Parkhurst,   24 Jan 1984   ##   United States Columbus Crew
+Geoff Cameron,   11 Jul 1985          ##   England Stoke City
+Fabian Johnson,   11 Dec 1987     ##   Germany 1899 Hoffenheim
+Omar Gonzalez,   11 Oct 1988       ##   United States Los Angeles Galaxy
+Brad Evans,   20 Apr 1985            ##   United States Seattle Sounders FC
+Matt Besler,   11 Feb 1987        ##   United States Sporting Kansas City
+Timothy Chandler,   29 Mar 1990      ##   Germany 1. FC Nürnberg
+John Brooks,   28 Jan 1993         ##   Germany Hertha BSC
+DeAndre Yedlin,   9 Jul 1993          ##  United States Seattle Sounders FC
+
+## MF
+
+Michael Bradley,   31 Jul 1987     ##   Canada Toronto FC
+Maurice Edu,   18 Apr 1986        ##   United States Philadelphia Union
+Jermaine Jones,   3 Nov 1981   ##   Turkey Beşiktaş
+Kyle Beckerman,   23 Apr 1982     ##   United States Real Salt Lake
+Alejandro Bedoya,   29 Apr 1987   ##   France Nantes
+Graham Zusi,   18 Aug 1986       ##   United States Sporting Kansas City
+Mikkel Diskerud,   2 Oct 1990   ##   Norway Rosenborg
+Brad Davis,   8 Nov 1981       ##  United States Houston Dynamo
+Joe Corona,   9 Jul 1990           ##  Mexico Tijuana
+Julian Green,   6 Jun 1995         ##  Germany Bayern Munich
+
+## FW
+
+Landon Donovan,   4 Mar 1982         ##   United States Los Angeles Galaxy
+Clint Dempsey,   9 Mar 1983          ##   United States Seattle Sounders FC
+Jozy Altidore,   6 Nov 1989       ##   England Sunderland
+Chris Wondolowski,   28 Jan 1983   ##   United States San Jose Earthquakes
+Terrence Boyd,   16 Feb 1991      ##   Austria Rapid Wien
+Aron Jóhannsson,   10 Nov 1990    ##  Netherlands AZ
+
+
