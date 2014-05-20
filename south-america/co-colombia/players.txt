@@ -1,37 +1,57 @@
+########################
+# Colombia
+
+
 ## GK / Goalkeepers
 
 Ospina|David Ospina|David OSPINA RAMIREZ, 31 Aug 1988
 Castillo|Breiner Castillo|Breiner CASTILLO, 5 May 1978
 R. Zapata|Robinson Zapata|Robinson ZAPATA MONTAÑO, 30 Sep 1978
+Faryd Mondragón,   21 Jun 1971   ## Colombia Deportivo Cali
+Camilo Vargas,     1 Sep 1989    ## Colombia Santa Fe
 
 
 ## DF / Defenders
 
-Perea|Amaranto Perea|Luis Amaranto PEREA MOSQUERA, 30 Jan 1979
+Perea|Luis Amaranto Perea|Luis Amaranto PEREA MOSQUERA, 30 Jan 1979
 Yepes|Mario Yepes|Mario Alberto YEPES DIAZ, 13 Jan 1976
 Mosquera|Aquivaldo Mosquera|Aquivaldo MOSQUERA ROMAÑA, 22 Jun 1981
-C. Zapata|Cristian Zapata|Cristian Eduardo ZAPATA VALENCIA, 30 Sep 1986
+C. Zapata|Cristián Zapata|Cristián Eduardo ZAPATA VALENCIA, 30 Sep 1986
 Armero|Pablo Armero|Pablo Estifer ARMERO, 2 Nov 1986
-Zuñiga|Camilo Zuñiga|Juan Camilo ZUÑIGA MOSQUERA, 14 Dec 1985
+Zúñiga|Juan Camilo Zúñiga|Juan Camilo ZUÑIGA MOSQUERA, 14 Dec 1985
 Cuadrado|Juan Guillermo Cuadrado|Juan Guillermo CUADRADO BELLO, 26 May 1988
 Valencia|Juan David Valencia|Juan David VALENCIA, 15 Jan 1986
+Carlos Valdés,   22 May 1985    ##   Argentina San Lorenzo
+Santiago Arias,   13 Jan 1992   ##  Netherlands PSV Eindhoven
+Éder Álvarez Balanta,  28 Feb 1993  ##   Argentina River Plate
 
 
 ## MF / Midfielders
 
-Guarin|Fredy Guarin|Fredy Alejandro GUARIN VASQUEZ, 30 Jun 1986
-Sanchez|Carlos Sanchez|Carlos Alberto SANCHEZ MORENO, 9 Mar 1986
+Guarín|Fredy Guarín|Fredy Alejandro GUARIN VASQUEZ, 30 Jun 1986
+Sánchez|Carlos Sánchez|Carlos Alberto SANCHEZ MORENO, 9 Mar 1986
 Aguilar|Abel Aguilar|Abel Enrique AGUILAR TAPIAS, 6 Jan 1985
-Rodriguez|James Rodriguez|James David RODRIGUEZ RUBIO, 12 Jul 1991
+Rodríguez|James Rodríguez|James David RODRIGUEZ RUBIO, 12 Jul 1991
 Chara|Diego Chara|Diego Ferney CHARA ZAMORA, 5 Apr 1986
 Pabon|Dorlan Pabon|Dorlan Mauricio PABON RIOS, 24 Jan 1988
+Macnelly Torres,   1 Nov 1984     ## Saudi Arabia Al-Shabab
+Aldo Leão Ramírez,  18 Apr 1981   ## Mexico Morelia
+Juan Guillermo Cuadrado,  26 May 1988   ## Italy Fiorentina
+Elkin Soto,   4 Aug 1980          ## Germany Mainz 05
+Edwin Valencia,    29 Mar 1985    ## Brazil Fluminense
+Alexander Mejía,   7 Sep 1988     ## Colombia Atlético Nacional
+Juan Fernando Quintero,  18 Jan 1993    ## Portugal Porto
 
 
 ## FW / Forwards
 
 Falcao|Radamel Falcao|Radamel Falcao GARCIA ZARATE, 10 Feb 1986
-Gutierrez|Teofilo Gutierrez|Teofilo Antonio GUTIERREZ RONCANCIO, 17 May 1985
-Ramos|Adrian Ramos|Gustavo Adrian RAMOS VASQUEZ, 22 Jan 1986
+Gutiérrez|Teófilo Gutiérrez|Teófilo Antonio GUTIERREZ RONCANCIO, 17 May 1985
+Ramos|Adrián Ramos|Gustavo Adrián RAMOS VASQUEZ, 22 Jan 1986
 Moreno|Giovanni Moreno|Giovanni Andres MORENO CARDONA, 1 Jul 1986
-Martinez|Jackson Martinez|Jackson Arley MARTINEZ VALENCIA, 3 Oct 1986
+Martínez|Jackson Martínez|Jackson Arley MARTINEZ VALENCIA, 3 Oct 1986
 Moreno|Dayro Moreno|Dayro Mauricio MORENO GALINDO, 16 Sep 1985
+Carlos Bacca,    8 Sep 1986      ## Spain Sevilla
+Víctor Ibarbo,   19 May 1990    ## Italy Cagliari
+Luis Muriel,     18 April 1991  ## Italy Udinese
+
