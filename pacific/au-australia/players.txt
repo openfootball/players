@@ -1,0 +1,45 @@
+###############
+# Australia
+
+## GK
+
+Eugene Galeković,   12 Jun 1981     ##   Australia Adelaide United
+Mathew Ryan,   8 Apr 1992          ##  Belgium Club Brugge
+Mitchell Langerak,   22 Aug 1988  ##  Germany Borussia Dortmund
+Mark Birighitti,   17 Apr 1991     ##   Australia Newcastle Jets
+
+## DF
+
+Luke Wilkshire,   1 Oct 1981      ##   Russia Dynamo Moscow
+Matthew Špiranović,   27 Jun 1988    ##   Australia Western Sydney Wanderers
+Ryan McGowan,   15 Aug 1989        ##   China Shandong Luneng Taishan
+Ivan Franjić,   10 Sep 1987     ##  Australia Brisbane Roar
+Jason Davidson,   29 Jun 1991        ##   Netherlands Heracles Almelo
+Curtis Good,   23 Mar 1993          ##   Scotland Dundee United
+Alex Wilkinson,   13 Aug 1984      ##   South Korea Jeonbuk Hyundai Motors
+Bailey Wright,   28 Jul 1992         ##   England Preston North End
+
+## MF
+
+Mark Bresciano,   11 Feb 1980    ## Qatar Al-Gharafa
+Matt McKay,   11 Jan 1983         ##   Australia Brisbane Roar
+Mile Jedinak,   3 Aug 1984         ##   England Crystal Palace
+Mark Milligan,   4 Aug 1985        ##   Australia Melbourne Victory
+Dario Vidošić,   8 Apr 1987         ##   Switzerland Sion
+Tommy Oar,   10 Dec 1991         ##   Netherlands Utrecht
+James Holland,   15 May 1989          ##    Austria Austria Wien
+James Troisi,   3 Jul 1988           ##   Italy Atalanta
+Tom Rogić,   16 Dec 1992         ##    Scotland Celtic
+Adam Sarota,   28 Dec 1988       ##   Netherlands Utrecht
+Oliver Bozanic,   8 Jan 1989      ##   Switzerland Luzern
+Joshua Brillante,   25 Mar 1993     ##   Australia Newcastle Jets
+Massimo Luongo,   25 Sep 1992   ##    England Swindon Town
+Ben Halloran,   14 Jun 1992          ##   Germany Fortuna Düsseldorf
+
+## FW
+
+Tim Cahill,   6 Dec 1979          ##   United States New York Red Bulls
+Joshua Kennedy,   20 Aug 1982       ##   Japan Nagoya Grampus
+Mathew Leckie,   4 Feb 1991       ##   Germany FSV Frankfurt
+Adam Taggart,   2 Jun 1993            ##   Australia Newcastle Jets
+
