@@ -1,0 +1,46 @@
+#################
+# Netherlands
+
+## GK
+
+Michel Vorm,       20 Oct 1983     ##  Wales Swansea City
+Jasper Cillessen,  22 Apr 1989  ##   Netherlands Ajax
+Tim Krul,           3 Apr 1988           ##    England Newcastle United
+Jeroen Zoet,        6 Jan 1991      ##   Netherlands PSV Eindhoven
+
+## DF
+
+Ron Vlaar,            16 Feb 1985          ##   England Aston Villa
+Bruno Martins Indi,    8 Feb 1992  ##   Netherlands Feyenoord
+Daryl Janmaat,        22 Jul 1989          ##   Netherlands Feyenoord
+Stefan de Vrij,        5 Feb 1992      ##   Netherlands Feyenoord
+Patrick van Aanholt,   29 Aug 1990  ##   Netherlands Vitesse Arnhem
+Joël Veltman,          15 Jan 1992        ##   Netherlands Ajax
+Paul Verhaegh,          1 Sep 1983      ##   Germany FC Augsburg
+Terence Kongolo,       14 Feb 1994    ##   Netherlands Feyenoord
+Karim Rekik,            2 Dec 1994         ##   Netherlands PSV Eindhoven
+
+
+## MF
+
+Rafael van der Vaart,    11 Feb 1983    ##   Germany Hamburger SV
+Wesley Sneijder,         9 Jun 1984              ##   Turkey Galatasaray
+Arjen Robben,           23 Jan 1984             ##   Germany Bayern Munich
+Nigel de Jong,          13 Nov 1984           ##   Italy Milan
+Daley Blind,             9 Mar 1990                 ##  Netherlands Ajax
+Jonathan de Guzmán,     13 Sep 1987     ##   Wales Swansea City
+Jordy Clasie,           27 Jun 1991                ##  Netherlands Feyenoord
+Memphis Depay,          13 Feb 1994           ##   Netherlands PSV Eindhoven
+Leroy Fer,               5 Jan 1990                 ##  England Norwich City
+Georginio Wijnaldum,    11 Nov 1990     ##   Netherlands PSV Eindhoven
+Jean-Paul Boëtius,      22 Mar 1994          ##   Netherlands Feyenoord
+Quincy Promes,           4 Jan 1992             ##   Netherlands Twente
+Tonny Vilhena,           3 Jan 1995             ##  Netherlands Feyenoord
+
+## FW
+
+Dirk Kuyt,              22 Jul 1980     ##   Turkey Fenerbahçe
+Robin van Persie,        6 Aug 1983    ##   England Manchester United
+Klaas-Jan Huntelaar,    12 Aug 1983    ##   Germany Schalke 04
+Jeremain Lens,          24 Nov 1987    ##  Ukraine Dynamo Kyiv
+
