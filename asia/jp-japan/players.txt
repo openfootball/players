@@ -15,6 +15,9 @@ Konno|Yasuyuki Konno,   25 Jan 1983
 Kurihara|Yuzo Kurihara,   18 Sep 1983
 H. Sakai|Hiroki Sakai,   12 Apr 1990
 Yoshida|Maya Yoshida,   24 Aug 1988
+Masato Morishige,      21 May 1987   ## Japan F.C. Tokyo
+
+
 
 ## MF / Midfielders
 
@@ -24,6 +27,10 @@ Hosogai|Hajime Hosogai,   10 Jun 1986
 Nakamura|Kengo Nakamura,   31 Oct 1980
 Hasebe|Makoto Hasebe,   18 Jan 1984
 Takahashi|Hideto Takahashi,   17 Oct 1987
+Hotaru Yamaguchi,  6 Oct 1990   ## Japan Cerezo Osaka
+Toshihiro Aoyama,  22 Feb 1986  ## Japan Sanfrecce Hiroshima
+
+
 
 ## FW / Forwards
 
@@ -33,3 +40,8 @@ Kagawa|Shinji Kagawa,   17 Mar 1989
 Havenaar|Mike Havenaar,   20 May 1987
 Maeda|Ryōichi Maeda,   9 Oct 1981
 Inui|Takashi Inui,   2 Jun 1988
+Yoshito Ōkubo,      9 Jun 1982  ##  Japan Kawasaki Frontale
+Yoichiro Kakitani,  3 Jan 1990  ##  Japan Cerezo Osaka
+Yuya Osako,        18 May 1990   ##  Germany 1860 München
+Manabu Saitō,       4 Apr 1990   ## Japan Yokohama F. Marinos
+
