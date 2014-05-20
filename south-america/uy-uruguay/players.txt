@@ -1,32 +1,42 @@
+######################
+# Uruguay
+
 
 ## GK / Goalkeepers
 
 Muslera|Fernando Muslera|Nestor Fernando MUSLERA MICOL, 16 Jun 1986
 Castillo|Juan Castillo|Juan Guillermo CASTILLO IRIART, 17 Apr 1978
-Silva|Martín Silva|Martin Andres SILVA LEITES, 25 Mar 1983
+Silva|Martín Silva|Martín Andres SILVA LEITES, 25 Mar 1983
+Rodrigo Muñoz, 22 Jan 1982   ## Paraguay Libertad
 
 
 ## DF / Defenders
 
 Lugano|Diego Lugano|Diego Alfredo LUGANO MORENO, 2 Nov 1980
-Godín|Diego Godín|Diego Roberto GODIN LEAL, 16 Feb1986
+Godín|Diego Godín|Diego Roberto GODIN LEAL, 16 Feb 1986
 Coates|Sebastián Coates|Sebastián COATES NION, 7 Oct 1990
 Aguirregaray|Matías Aguirregaray|Matías AGUIRREGARAY GURUCEAGA, 1 Apr 1989
 M. Pereira|Maxi Pereira|Victorio Maximiliano PEREIRA PAEZ, 8 Jun 1984
 Scotti|Andrés Scotti|Andrés SCOTTI PONCE DE LEON, 14 Dec 1975
 Cáceres|Martín Cáceres|José Martín CACERES SILVA, 7 Apr 1987
+Jorge Fucile,         19 Nov 1984  ##   Portugal Porto
+José María Giménez,   20 Jan 1995  ##   Spain Atlético Madrid
+Alejandro Silva,       4 Sep 1989  ##  Argentina Lanús
+
 
 
 ## MF / Midfielders
 
 Gargano|Walter Gargano|Walter Alejandro GARGANO GUEVARA, 27 Jul 1984
-A. Pereira|Álvaro Pereira|Alvaro Daniel PEREIRA BARRAGAN, 28 Nov 1985
+Á. Pereira|Álvaro Pereira|Álvaro Daniel PEREIRA BARRAGAN, 28 Nov 1985
 Rodríguez|Cristian Rodríguez|Cristian Gabriel RODRIGUEZ, 30 Sep 1985
 Eguren|Sebastián Eguren|Sebastián EGUREN LEDESMA, 8 Jan 1981
 Lodeiro|Nicolás Lodeiro|Marcelo Nicolas LODEIRO BENITEZ, 21 Mar 1989
 Pérez|Diego Pérez|Diego Fernando PEREZ AGUADO, 18 May 1980
 Arévalo Ríos|Egidio Arévalo Ríos|Egidio Raul AREVALO RIOS, 27 Sep 1982
-González|Álvaro González|Alvaro Rafael GONZALEZ LUENGO, 29 Oct 1984
+González|Álvaro González|Álvaro Rafael GONZALEZ LUENGO, 29 Oct 1984
+Gastón Ramírez,   2 Dec 1990   ## England Southampton
+Nicolás Lodeiro, 21 Mar 1989   ## Brazil Botafogo
 
 
 ## FW / Forwards
@@ -36,3 +46,5 @@ Forlán|Diego Forlán|Diego FORLÁN CORAZO,  19 May 1979
 Hernández|Abel Hernández|Abel Mathias HERNÁNDEZ PLATERO,  8 Aug 1990
 Ramírez|Gastón Ramírez|Gastón Exequiel RAMÍREZ PEREYRA, 2 Dec 1990
 Cavani|Edinson Cavani|Edinson Roberto CAVANI GOMEZ, 14 Feb 1987
+Christian Stuani, 12 Oct 1986    ## Spain Espanyol
+
