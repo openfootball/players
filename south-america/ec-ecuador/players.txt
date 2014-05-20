@@ -1,8 +1,12 @@
+##############
+# Ecuador
+
 
 ## GK / Goalkeepers
 
-Banguera|Maximo Banguera|Maximo Orlando BANGUERA VALDIVIESO, 16 Dec 1985
-Dominguez|Alexander Dominguez|Alexander DOMINGUEZ CARABALI, 5 Jun 1987
+Banguera|Máximo Banguera|Máximo Orlando BANGUERA VALDIVIESO, 16 Dec 1985
+Domínguez|Alexander Domínguez|Alexander DOMINGUEZ CARABALI, 5 Jun 1987
+Adrián Bone, 8 Sep 1988    ## Ecuador El Nacional
 
 
 ## DF / Defenders
@@ -10,9 +14,12 @@ Dominguez|Alexander Dominguez|Alexander DOMINGUEZ CARABALI, 5 Jun 1987
 Erazo|Frickson Erazo|Frickson Rafael ERAZO VIVERO, 5 May 1988
 Campos|Jayro Campos|Jayro Rolando CAMPOS LEON, 19 Jul 1984
 Paredes|Juan Carlos Paredes|Juan Carlos PAREDES REASCO, 8 Jul 1987
-W. Ayovi|Walter Ayovi|Walter Orlando AYOVI COROZO, 11 Aug 1979
+W. Ayoví|Walter Ayoví|Walter Orlando AYOVI COROZO, 11 Aug 1979
 Achilier|Gabriel Achilier|Gabriel Eduardo ACHILIER ZURITA, 24 Mar 1985
 Guagua|Jorge Guagua|Jorge Daniel GUAGUA TAMAYO, 28 Sep 1981
+Óscar Bagüí,       10 Dec 1982   ## Ecuador Emelec
+Cristian Ramírez,  15 Aug 1994   ## Germany Fortuna Düsseldorf
+John Narváez,      12 Jun 1991   ## Ecuador Emelec
 
 
 ## MF / Midfielders
@@ -23,6 +30,15 @@ Noboa|Christian Noboa|Christian Fernando NOBOA TELLO, 9 Apr 1985
 Castillo|Segundo Castillo|Segundo Alejandro CASTILLO NAZARENO, 15 May 1982
 Saritama|Luis Saritama|Luis Fernando SARITAMA PADILLA, 20 Oct 1983
 Arroyo|Michael Arroyo|Michael Antonio ARROYO MINA, 23 Apr 1987
+Édison Méndez,   15 Mar 1979   ##  Colombia Santa Fe
+João Rojas,     14 Jun 1989    ##   Mexico Cruz Azul
+Oswaldo Minda,   26 Jul 1983   ##  United States Chivas USA
+Renato Ibarra,   20 Jan 1991   ##   Netherlands Vitesse
+Pedro Quiñónez,   4 Mar 1986   ##  Ecuador Emelec
+Fidel Martínez,   15 Feb 1990  ##   Mexico Tijuana
+Carlos Gruezo,   19 Apr 1995   ##   Germany VfB Stuttgart
+Ángel Mena,      21 Jan 1988   ##   Ecuador Emelec
+Cristian Penilla,   2 May 1991  ##   Ecuador Barcelona
 
 
 ## FW / Forwards
@@ -30,6 +46,8 @@ Arroyo|Michael Arroyo|Michael Antonio ARROYO MINA, 23 Apr 1987
 F. Caicedo|Felipe Caicedo|Felipe Salvador CAICEDO COROZO, 5 Sep 1988
 F. Martinez|Fidel Martinez|Fidel MARTINEZ TENORIO, 15 Feb 1990
 J. Rojas|Joao Rojas|Joao Robin ROJAS MENDOZA, 14 Jun 1989
-J. Ayovi|Jaime Ayovi|Jaime Javier AYOVI COROZO, 21 Feb 1988
+J. Ayoví|Jaime Ayoví|Jaime Javier AYOVI COROZO, 21 Feb 1988
 E. Valencia|Enner Valencia|Enner Remberto VALENCIA LASTRA, 11 Apr 1989
 Mina|Narciso Mina|Arrinton Narciso MINA VILLALBA, 25 Nov 1982
+Armando Wila,  12 May 1985    ## Ecuador Universidad Católica
+
