@@ -1,9 +1,13 @@
+####################
+# Spain / España
+
 
 ## GK / Goalkeepers
 
 I. Casillas|Iker Casillas|Iker CASILLAS FERNANDEZ,  20 May 1981
 V. Valdés|Víctor Valdés|Víctor VALDES ARRIBAS, 14 Jan 1982
 Reina|Pepe Reina|José Manuel REINA PAEZ, 31 Aug 1982
+David de Gea, 7 Nov 1990  ##  England Manchester United
 
 
 ## DF / Defenders
@@ -15,6 +19,10 @@ Ramos|Sergio Ramos|Sergio RAMOS GARCIA, 30 Mar 1986
 Arbeloa|Álvaro Arbeloa|Álvaro ARBELOA COCA,  17 Jan 1983
 Jordi Alba|Jordi ALBA RAMOS,  21 Mar 1989
 Monreal|Nacho Monreal|Ignacio MONREAL ERASO, 26 Feb 1986
+Juanfran,  9 Jan 1985   ##  Spain Atlético Madrid
+Alberto Moreno,  5 Jul 1992  ## Spain Sevilla
+Daniel Carvajal,   11 Jan 1992  ## Spain Real Madrid
+
 
 
 ## MF / Midfielders
@@ -28,6 +36,9 @@ Sergio|Sergio Busquets|Sergio BUSQUETS BURGOS, 16 Jul 1988
 S. Cazorla|Santi Cazorla|Santiago CAZORLA GONZALEZ, 13 Dec 1984
 Silva|David Silva|David Josue JIMENEZ SILVA, 8 Jan 1986
 J. Navas|Jesús Navas|Jesús NAVAS GONZALEZ,  21 Nov 1985
+Xabi Alonso,    25 Nov 1981   ## Spain Real Madrid
+Koke,            8 Jan 1992   ## Spain Atlético Madrid
+Ander Iturraspe, 8 Mar 1989   ## Spain Athletic Bilbao
 
 
 ## FW / Forwards
@@ -36,4 +47,8 @@ David Villa|David VILLA SANCHEZ, 3 Dec 1981
 Torres|Fernando Torres|Fernando José TORRES SANZ,  20 Mar 1984
 Pedro|Pedro Rodríguez|Pedro Eliezer RODRIGUEZ LEDESMA, 28 Jul 1987
 Soldado|Roberto Soldado|Roberto SOLDADO RILLO,  27 May 1985
+
+Fernando Llorente, 26 Feb 1985  ## Italy Juventus
+Álvaro Negredo,    20 Aug 1985  ## England Manchester City
+Diego Costa,        7 Oct 1988  ## Spain Atlético Madrid
 
