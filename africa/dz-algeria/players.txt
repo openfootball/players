@@ -1,3 +1,45 @@
 ####################
 # Algeria
 
+## GK
+
+Raïs M'Bolhi,          25 April 1986    ##   Bulgaria CSKA Sofia
+Mohamed Zemmamouche,   19 March 1985    ##   Algeria USM Alger
+Azzedine Doukha,        5 August 1986   ##   Algeria USM El Harrach
+Cédric Si Mohamed,      9 January 1985  ##  Algeria CS Constantine
+
+## DF
+
+Madjid Bougherra,   7 October 1982   ##   Qatar Lekhwiya
+Rafik Halliche,     2 September 1986   ##   Portugal Académica
+Djamel Mesbah,      9 October 1984      ##   Italy Livorno
+Carl Medjani,      15 May 1985          ##   France Valenciennes
+Essaïd Belkalem,    1 January 1989    ##   England Watford
+Liassine Cadamuro-Bentaïba,  5 March 1988     ##   Spain Mallorca
+Faouzi Ghoulam,   1 February 1991    ##  Italy Napoli
+Nacereddine Khoualed,   16 April 1986   ##   Algeria USM Alger
+Aïssa Mandi,            22 October 1991 ##   France Reims
+
+## MF
+
+Medhi Lacen,        15 May 1984       ##   Spain Getafe
+Adlène Guedioura,   12 November 1985  ##   England Crystal Palace
+Hassan Yebda,       14 May 1984       ##   Italy Udinese
+Foued Kadir,         5 December 1983  ##   France Rennes
+Mehdi Mostefa,      30 August 1983    ##   France Ajaccio
+Sofiane Feghouli,   26 December 1989  ##   Spain Valencia
+Ryad Boudebouz,     19 February 1990  ##   France Bastia
+Saphir Taïder,      29 February 1992  ##   Italy Internazionale
+Abdelmoumene Djabou,   31 January 1987  ##   Tunisia Club Africain
+Yacine Brahimi,     8 February 1990  ##   Spain Granada
+Nabil Bentaleb,    24 November 1994  ##   England Tottenham Hotspur
+Amir Karaoui,      7 March 1987      ##   Algeria ES Sétif
+Riyad Mahrez,     21 February 1991   ##   England Leicester City
+
+## FW
+
+Rafik Djebbour,            8 March 1984     ##   England Nottingham Forest
+El Arbi Hillel Soudani,   25 November 1987  ##   Croatia Dinamo Zagreb
+Islam Slimani,            18 June 1988      ##   Portugal Sporting Lisbon
+Nabil Ghilas,             20 April 1990     ##   Portugal Porto
+
