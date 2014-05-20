@@ -6,6 +6,7 @@
 Enyeama|Vincent Enyeama,   29 Aug 1982
 Ejide|Austin Ejide|Austine Amamchukwu Ejide,   8 Apr 1984
 Agbim|Chigozie Agbim,   28 Nov 1984
+Daniel Akpeyi,  3 Aug 1986    ## Nigeria Warri Wolves
 
 
 ## DF / Defenders
@@ -18,6 +19,10 @@ Kwambe|Solomon Kwambe|Solomon Sesugh Kwambe, 30 Sep 1993
 Benjamin|Francis Benjamin|Francis Ishida Benjamin, 20 Jun 1993
 Omeruo|Kenneth Omeruo|Kenneth Josiah Omeruo, 17 Oct 1993
 
+Joseph Yobo,     6 Sep 1980  ## England Norwich City
+Juwon Oshaniwa, 14 Sep 1990  ## Israel Ashdod
+Kunle Odunlami,  5 Mar 1990  ## Nigeria Sunshine Stars
+
 
 ## MF / Midfielders
 
@@ -28,6 +33,13 @@ Babatunde|Michael Babatunde,   24 Dec 1992
 Onazi|Ogenyi Onazi|Ogenyi Eddy Onazi, 25 Dec 1992
 Eze|Emeka Eze|Emeka Christian Eze,  22 Dec 1992
 Mba|Sunday Mba,  28 Nov 1988
+Ejike Uzoenyi,   23 Mar 1988  ## Nigeria Enugu Rangers
+Victor Moses,    12 Dec 1990   ## England Liverpool
+Nnamdi Oduamadi, 17 Oct 1990    ##  Italy Brescia
+Joel Obi,         22 May 1991    ##  Italy Parma
+Nosa Igiebor,     9 Nov 1990   ##  Spain Real Betis
+Reuben Gabriel,   25 Sep 1990   ## Belgium Waasland-Beveren
+Ramon Azeez,     12 Dec 1992     ## Spain Almería
 
 
 ## FW / Forwards
@@ -38,3 +50,12 @@ Akpala|Joseph Akpala|Joseph Eneojo Akpala, 24 Aug 1986
 Muhammed|Muhammad Gambo,   10 Mar 1988
 Ujah|Anthony Ujah,   14 Oct 1990
 Oduamadi|Nnamdi Oduamadi|Nnamdi ODUAMADI CHIDIEBERE, 17 Oct 1990
+
+Peter Odemwingie,  15 Jul 1981   ##  England Stoke City
+Victor Obinna,    25 Mar 1987     ## Italy Chievo
+Emmanuel Emenike, 10 May 1987    ## Turkey Fenerbahçe
+Shola Ameobi,      12 Oct 1981    ## England Newcastle United
+Uche Nwofor,       28 Feb 1989    ## Netherlands Heerenveen
+Michel Babatunde,  24 Dec 1992    ## Ukraine Volyn Lutsk
+Michael Uchebo,     2 Feb 1990    ## Belgium Cercle Brugge
+
