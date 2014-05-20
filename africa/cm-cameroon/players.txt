@@ -3,22 +3,22 @@
 
 ## GK
 
-Guy N'dy Assembé,   28 February 1986  ## France Guingamp
-Charles Itandje,     2 November 1982  ## Turkey Konyaspor
-Sammy N'Djock,      25 February 1990  ##  Turkey Fethiyespor
-Loïc Feudjou,       14 April 1992     ##  Cameroon Coton Sport
+Guy N'dy Assembé,   28 Feb 1986  ## France Guingamp
+Charles Itandje,     2 Nov 1982  ## Turkey Konyaspor
+Sammy N'Djock,      25 Feb 1990  ##  Turkey Fethiyespor
+Loïc Feudjou,       14 Apr 1992     ##  Cameroon Coton Sport
 
 ## DF
 
-Nicolas N'Koulou,      27 March 1990    ##   France Marseille
-Aurélien Chedjou,      20 June 1985     ##   Turkey Galatasaray
-Henri Bedimo,           4 June 1984     ##   France Lyon
-Benoit Assou-Ekotto,   24 March 1984    ##   England Queens Park Rangers
-Dany Nounkeu,          11 April 1986    ##   Turkey Beşiktaş
-Gaëtan Bong,           25 April 1988    ##   Greece Olympiacos
+Nicolas N'Koulou,      27 Mar 1990    ##   France Marseille
+Aurélien Chedjou,      20 Jun 1985     ##   Turkey Galatasaray
+Henri Bedimo,           4 Jun 1984     ##   France Lyon
+Benoit Assou-Ekotto,   24 Mar 1984    ##   England Queens Park Rangers
+Dany Nounkeu,          11 Apr 1986    ##   Turkey Beşiktaş
+Gaëtan Bong,           25 Apr 1988    ##   Greece Olympiacos
 Allan Nyom,            10 May 1988      ##  Spain Granada
-Jean-Armel Kana-Biyik,   3 July 1989    ##   France Rennes
-Cedric Djeugoue,       28 August 1992   ##   Cameroon Coton Sport
+Jean-Armel Kana-Biyik,   3 Jul 1989    ##   France Rennes
+Cedric Djeugoue,       28 Aug 1992   ##   Cameroon Coton Sport
 
 ## MF
 
@@ -33,12 +33,12 @@ Raoul Loé,              31 Jan 1989     ##  Spain Osasuna
 
 ## FW
 
-Samuel Eto'o,           10 March 1981   ##  England Chelsea
-Pierre Webó,           20 January 1982  ##   Turkey Fenerbahçe
-Mohammadou Idrissou,   8 March 1980     ##  Germany 1. FC Kaiserslautern
-Maxim Choupo-Moting,   23 March 1989    ##   Germany Mainz 05
-Vincent Aboubakar,     22 January 1992  ##  France Lorient
-Benjamin Moukandjo,    12 November 1988 ##  France Nancy
+Samuel Eto'o,           10 Mar 1981   ##  England Chelsea
+Pierre Webó,           20 Jan 1982  ##   Turkey Fenerbahçe
+Mohammadou Idrissou,   8 Mar 1980     ##  Germany 1. FC Kaiserslautern
+Maxim Choupo-Moting,   23 Mar 1989    ##   Germany Mainz 05
+Vincent Aboubakar,     22 Jan 1992  ##  France Lorient
+Benjamin Moukandjo,    12 Nov 1988 ##  France Nancy
 Fabrice Olinga,        12 May 1996      ## Belgium Zulte Waregem
 
 

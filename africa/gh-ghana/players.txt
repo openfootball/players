@@ -3,39 +3,38 @@
 
 ## GK
 
-Adam Kwarasey,   12 December 1987    ##  Norway Strømsgodset
-Fatau Dauda,     6 April 1985        ##  South Africa Orlando Pirates
-Steven Adams,   28 September 1989    ##  Ghana Aduana Stars
+Adam Kwarasey,   12 Dec 1987    ##  Norway Strømsgodset
+Fatau Dauda,     6 Apr 1985        ##  South Africa Orlando Pirates
+Steven Adams,   28 Sep 1989    ##  Ghana Aduana Stars
 
 ## DF
 
-Samuel Inkoom,   1 June 1989          ##   Greece Platanias
-Harrison Afful,   24 June 1986        ##   Tunisia Espérance
-John Boye,   23 April 1987            ##  France Rennes
-Jonathan Mensah,   13 July 1990       ##   France Évian
-Daniel Opare,   18 October 1990       ##   Belgium Standard Liège
+Samuel Inkoom,   1 Jun 1989          ##   Greece Platanias
+Harrison Afful,   24 Jun 1986        ##   Tunisia Espérance
+John Boye,   23 Apr 1987            ##  France Rennes
+Jonathan Mensah,   13 Jul 1990       ##   France Évian
+Daniel Opare,   18 Oct 1990       ##   Belgium Standard Liège
 Jerry Akaminko,   2 May 1988          ##   Turkey Eskişehirspor
-Rashid Sumaila,   18 December 1992    ##  South Africa Mamelodi Sundowns
-Jeff Schlupp,   23 December 1992      ##   England Leicester City
+Rashid Sumaila,   18 Dec 1992    ##  South Africa Mamelodi Sundowns
+Jeff Schlupp,   23 Dec 1992      ##   England Leicester City
 
 ## MF
 
-Sulley Muntari,   27 August 1984    ##  Italy Milan
-Kwadwo Asamoah,   9 December 1988   ##   Italy Juventus
-Michael Essien,   3 December 1982   ##   Italy Milan
-Emmanuel Agyemang-Badu,   2 December 1990  ##   Italy Udinese
-André Ayew,         17 December 1989   ## France Marseille
-Christian Atsu,     10 January 1992    ## Netherlands Vitesse
-Wakaso Mubarak,     25 July 1990       ## Russia Rubin Kazan
-Mohammed Rabiu,     31 December 1989   ## Russia Kuban Krasnodar
-Albert Adomah,      13 December 1987   ##  England Middlesbrough
-Kevin-Prince Boateng,   6 March 1987   ##   Germany Schalke 04
-Afriyie Acquah,      5 January 1992    ##   Italy Parma
+Sulley Muntari,   27 Aug 1984    ##  Italy Milan
+Kwadwo Asamoah,   9 Dec 1988   ##   Italy Juventus
+Michael Essien,   3 Dec 1982   ##   Italy Milan
+Emmanuel Agyemang-Badu,   2 Dec 1990  ##   Italy Udinese
+André Ayew,         17 Dec 1989   ## France Marseille
+Christian Atsu,     10 Jan 1990       ## Russia Rubin Kazan
+Mohammed Rabiu,     31 Dec 1989   ## Russia Kuban Krasnodar
+Albert Adomah,      13 Dec 1987   ##  England Middlesbrough
+Kevin-Prince Boateng,   6 Mar 1987   ##   Germany Schalke 04
+Afriyie Acquah,      5 Jan 1992    ##   Italy Parma
 
 ## FW
 
-Asamoah Gyan,   22 November 1985   ##   United Arab Emirates Al-Ain
-Majeed Waris,   19 September 1991  ##   France Valenciennes
-Jordan Ayew,   11 September 1991   ##   France Sochaux
-David Accam,   28 September 1990   ##   Sweden Helsingborg
+Asamoah Gyan,   22 Nov 1985   ##   United Arab Emirates Al-Ain
+Majeed Waris,   19 Sep 1991  ##   France Valenciennes
+Jordan Ayew,   11 Sep 1991   ##   France Sochaux
+David Accam,   28 Sep 1990   ##   Sweden Helsingborg
 
