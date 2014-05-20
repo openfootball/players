@@ -1,0 +1,38 @@
+##########################
+# England
+
+## GK
+
+Joe Hart,   19 May 1987    ##  England Manchester City
+Ben Foster,   3 May 1983   ##  England West Bromwich Albion
+Fraser Forster,   17 Mar 1988  ##    Scotland Celtic
+
+## DF
+
+Glen Johnson,   23 Aug 1984   ##    England Liverpool
+Phil Jagielka,   17 Aug 1982  ##   England Everton
+Gary Cahill,   19 Dec 1985  ##   England Chelsea
+Leighton Baines,   11 Dec 1984  ##    England Everton
+Chris Smalling,   22 Nov 1989   ##    England Manchester United
+Phil Jones,   21 Feb 1992    ##    England Manchester United
+Luke Shaw,   12 Jul 1995         ##    England Southampton
+
+## MF
+
+Steven Gerrard,    30 May 1980   ##    England Liverpool
+Frank Lampard,   20 Jun 1978    ##    England Chelsea
+James Milner,   4 Jan 1986   ##    England Manchester City
+Alex Oxlade-Chamberlain,   15 Aug 1993  ##    England Arsenal
+Jack Wilshere,   1 Jan 1992   ##    England Arsenal
+Jordan Henderson,   17 Jun 1990  ##    England Liverpool
+Ross Barkley,   5 Dec 1993   ##    England Everton
+Adam Lallana,   10 May 1988       ##    England Southampton
+Raheem Sterling,   8 Dec 1994   ##    England Liverpool
+
+## FW
+
+Wayne Rooney,   24 Oct 1985    ##    England Manchester United
+Danny Welbeck,   26 Nov 1990  ##    England Manchester United
+Daniel Sturridge,   1 Sep 1989  ##    England Liverpool
+Rickie Lambert,   16 Feb 1982    ##    England Southampton
+

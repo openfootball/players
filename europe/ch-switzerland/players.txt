@@ -1,0 +1,38 @@
+#################################
+# Switzerland
+
+## GK
+
+Diego Benaglio,   8 Sep 1983   ##  Germany VfL Wolfsburg
+Yann Sommer,   17 Dec 1988      ##  Switzerland Basel
+Roman Bürki,   14 Nov 1990      ##  Switzerland Grasshopper
+
+## DF
+
+Stephan Lichtsteiner,   16 Jan 1984   ##   Italy Juventus
+Philippe Senderos,   14 Feb 1985     ##   Spain Valencia
+Johan Djourou,   18 Jan 1987          ##   Germany Hamburger SV
+Steve von Bergen,   10 Jun 1983         ##   Switzerland Young Boys
+Reto Ziegler,   16 Jan 1986          ##    Italy Sassuolo
+Ricardo Rodríguez,   25 Aug 1992      ##  Germany VfL Wolfsburg
+Fabian Schär,   20 Dec 1991   ##   Switzerland Basel
+Michael Lang,   8 Feb 1991    ##   Switzerland Grasshopper
+
+## MF
+
+Tranquillo Barnetta,   22 May 1985   ##   Germany Eintracht Frankfurt
+Gökhan Inler,   27 Jun 1984         ##   Italy Napoli
+Valon Behrami,   19 Apr 1985       ##   Italy Napoli
+Gelson Fernandes,   2 Sep 1986  ##   Germany SC Freiburg
+Blerim Džemaili,   12 Apr 1986      ##   Italy Napoli
+Xherdan Shaqiri,   10 Oct 1991    ##   Germany Bayern Munich
+Granit Xhaka,   27 Sep 1992     ##   Germany Borussia Mönchengladbach
+Valentin Stocker,   12 Apr 1989     ##   Switzerland Basel
+
+## FW
+
+Admir Mehmedi,   16 Mar 1991        ##   Germany SC Freiburg
+Mario Gavranović,   24 Nov 1989  ##   Switzerland Zürich
+Haris Seferović,   22 Feb 1992   ##   Spain Real Sociedad
+Josip Drmić,   8 Aug 1992          ##   Germany 1. FC Nürnberg
+
