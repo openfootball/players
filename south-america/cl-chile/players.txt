@@ -1,19 +1,27 @@
+###############
+# Chile
+
 
 ## GK / Goalkeepers
 
 Bravo|Claudio Bravo|Claudio Andres BRAVO MUÑOZ, 13 Apr 1983
 Pinto|Miguel Pinto|Miguel Angel PINTO JEREZ, 4 Jul 1983
 Herrera|Johnny Herrera|Johnny Cristian HERRERA MUÑOZ, 9 May 1981
+Cristopher Toselli,  22 Jun 1988   ## Chile Universidad Católica
+Paulo Garcés,         2 Aug 1984   ## Chile O'Higgins
 
 
 ## DF / Defenders
 
 Mena|Eugenio Mena|Eugenio Esteban MENA REVECO, 18 Jul 1988
-Gonzalez|Marcos Gonzalez|Marcos Andres GONZALEZ SALAZAR, 9 Jun 1980
-Rojas|Jose Rojas|Jose Manuel ROJAS BAHAMONDES, 23 Jun 1983
+González|Marcos González|Marcos Andres GONZALEZ SALAZAR, 9 Jun 1980
+Rojas|José Rojas|José Manuel ROJAS BAHAMONDES, 23 Jun 1983
 Acevedo|Albert Acevedo|Albert Alejandro ACEVEDO VERGARA, 6 May 1983
 Medel|Gary Medel|Gary Alexis MEDEL SOTO, 3 Aug 1987
 Jara|Gonzalo Jara|Gonzalo Alejandro JARA REYES, 29 Aug 1985
+Mauricio Isla,   12 Jun 1988   ## Italy Juventus
+Miiko Albornoz,  30 Nov 1990   ## Sweden Malmö
+
 
 
 ## MF / Midfielders
@@ -24,15 +32,25 @@ Carmona|Carlos Carmona|Carlos Emilio CARMONA TELLO, 21 Feb 1987
 Millar|Rodrigo Millar|Rodrigo Javier MILLAR CARVAJAL, 3 Nov 1981
 M. Fernandez|Matias Fernandez|Matías Ariel FERNANDEZ FERNANDEZ, 15 May 1986
 Aranguiz|Charles Aranguiz|Charles Mariano ARANGUIZ SANDOVAL, 17 Apr 1989
-Diaz|Marcelo Diaz|Marcelo Alfonso DIAZ ROJAS, 30 Dec 1986
+Díaz|Marcelo Díaz|Marcelo Alfonso DIAZ ROJAS, 30 Dec 1986
+Jean Beausejour,  1 Jun 1984   ##   England Wigan Athletic
+Jorge Valdivia,   19 Oct 1983  ##  Brazil Palmeiras
+Arturo Vidal,   22 May 1987    ##   Italy Juventus
+José Pedro Fuenzalida,   22 Feb 1985    ##  Chile Colo-Colo
+Charles Aránguiz,   17 Apr 1989         ##   Brazil Internacional
+Felipe Gutiérrez,   8 Oct 1990          ##   Netherlands Twente
+Pablo Hernández,   24 Oct 1986          ##   Chile O'Higgins
+
 
 
 ## FW / Forwards
 
-Sanchez|Alexis Sanchez|Alexis Alejandro SANCHEZ SANCHEZ, 19 Dec 1988
+Sánchez|Alexis Sánchez|Alexis Alejandro SANCHEZ SANCHEZ, 19 Dec 1988
 J. Fernandes|Junior Fernandes|Antenor Junior FERNANDES DA SILVA VITORIA, 4 Oct 1988
 Vargas|Eduardo Vargas|Eduardo Jesus VARGAS ROJAS, 20 Nov 1989
 Suazo|Humberto Suazo|Humberto Andrés SUAZO PONTIVO, 10 May 1981
 Beausejour|Jean Beausejour|Jean Andre Emanuel BEAUNSEJOUR COLIQUEO, 1 Jun 1984
-Orellana|Fabian Orellana|Fabian Ariel ORELLANA VALENZUELA, 27 Jan 1986
+Orellana|Fabián Orellana|Fabián Ariel ORELLANA VALENZUELA, 27 Jan 1986
 Paredes|Esteban Paredes|Esteban Efrain PAREDES QUINTANILLA, 1 Aug 1980
+Mauricio Pinilla, 4 Feb 1984    ##  Italy Cagliari
+
