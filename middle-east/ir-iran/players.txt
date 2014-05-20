@@ -1,0 +1,45 @@
+###################
+# Iran
+
+## GK
+
+Rahman Ahmadi,   30 Jul 1980    ##   Iran Sepahan
+Alireza Haghighi,   2 May 1988   ##   Portugal Sporting Covilhã
+Daniel Davari,   6 Jan 1988  ##   Germany Eintracht Braunschweig
+Sosha Makani,   18 Nov 1986  ##   Iran Foolad
+Alireza Beiranvand,   22 Sep 1992   ##   Iran Naft Tehran
+
+## DF
+
+Jalal Hosseini,   3 Feb 1982     ##   Iran Persepolis
+Ehsan Hajsafi,   25 Feb 1990     ##   Iran Sepahan
+Khosro Heydari,   14 Sep 1983   ##   Iran Esteghlal
+Pejman Montazeri,   6 Sep 1983  ##  Qatar Umm Salal
+Hossein Mahini,   16 Sep 1986   ##    Iran Persepolis
+Mehrdad Pouladi,   26 Feb 1987   ##   Iran Persepolis
+Hashem Beikzadeh,   22 Jan 1984   ##   Iran Esteghlal
+Amir Hossein Sadeghi,   6 Sep 1981   ##   Iran Esteghlal
+Ahmad Alenemeh,   10 Oct 1982     ##  Iran Naft Tehran
+Mohammad Reza Khanzadeh,   11 May 1991  ##   Iran Zob Ahan
+Steven Beitashour,   1 Feb 1987    ##   Canada Vancouver Whitecaps
+
+## MF
+
+Javad Nekounam,   7 Oct 1980    ##   Kuwait Al-Kuwait
+Andranik Teymourian,   6 Mar 1983  ##   Iran Esteghlal
+Mohammad Reza Khalatbari,   14 Sep 1984   ##   United Arab Emirates Ajman
+Masoud Shojaei,   9 Jun 1984     ##   Spain Las Palmas
+Ghasem Haddadifar,   12 Jul 1983  ##   Iran Zob Ahan
+Ashkan Dejagah,   5 Jul 1986      ##   England Fulham
+Reza Haghighi,   1 Feb 1989   ##   Iran Persepolis
+Alireza Jahanbakhsh,   11 Aug 1993  ##   Netherlands NEC
+Bakhtiar Rahmani,   23 Sep 1991  ##  Iran Foolad
+
+## FW
+
+Karim Ansarifard,   3 Apr 1990           ##   Iran Tractor Sazi
+Reza Ghoochannejhad,   20 Sep 1987   ##  England Charlton Athletic
+Reza Norouzi,   21 Sep 1982          ##  Iran Naft Tehran
+Mehdi Sharifi,   16 Aug 1992            ##   Iran Sepahan
+Sardar Azmoun,   1 Jan 1995            ##   Russia Rubin Kazan
+
