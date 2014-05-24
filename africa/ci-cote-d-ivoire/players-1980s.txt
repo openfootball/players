@@ -1,11 +1,9 @@
-########################
-# Côte d'Ivoire
+###########################
+# Côte d'Ivoire  - 1980s
 
 
 ## GK
 
-Boubacar Barry,     30 Dec 1979    ## Belgium Lokeren
-Sayouba Mandé,       5 Jun 1993    ## Norway Stabæk
 Badra Ali Sangaré,  30 May 1986    ## Ivory Coast ASEC Mimosas
 Sylvain Gbohouo,    29 Oct 1988    ## Ivory Coast Séwé Sport
 
@@ -17,11 +15,8 @@ Kolo Touré,         19 Mar 1981     ## England Liverpool
 Arthur Boka,         2 Apr 1983     ## Germany VfB Stuttgart
 Sol Bamba,          13 Jan 1985     ## Turkey Trabzonspor
 Benjamin Angoua,    28 Nov 1986     ## France Valenciennes
-Serge Aurier,       24 Dec 1992     ## France Toulouse
 Ousmane Viera,      21 Dec 1986     ## Turkey Çaykur Rizespor
 Constant Djakpa,    17 Oct 1986     ## Germany Eintracht Frankfurt
-Jean-Daniel Akpa-Akpro,  11 Oct 1992  ##  France Toulouse
-Brice Dja Djédjé,   23 Dec 1990     ## France Marseille
 
 ## MF
 
@@ -30,16 +25,12 @@ Cheick Tioté,       21 Jun 1986 ##  England Newcastle United
 Didier Ya Konan,    25 Feb 1984 ## Germany Hannover 96
 Max Gradel,         30 Nov 1987 ##  France Saint-Étienne
 Serey Die,           7 Nov 1984 ##  Switzerland Basel
-Mathis Bolly,       14 Nov 1990 ##   Germany Fortuna Düsseldorf
-Ismaël Diomande,    28 Aug 1992 ## France Saint-Étienne
 
 ## FW
 
-Didier Drogba,      11 Mar 1978  ## Turkey Galatasaray
 Salomon Kalou,       5 Aug 1985  ## France Lille
 Gervinho,           27 May 1987  ## Italy Roma
 Wilfried Bony,      10 Dec 1988  ## Wales Swansea City
 Seydou Doumbia,     31 Dec 1987  ## Russia CSKA Moscow
-Lacina Traoré,      20 May 1990  ## England Everton
 Giovanni Sio,       31 Mar 1989  ## Switzerland Basel
 

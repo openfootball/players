@@ -1,0 +1,28 @@
+######################
+# Brazil  - 1990s
+
+
+# NB: let official (player) shirt name go first (e.g. Neymar Jr)
+
+
+## GK / Goalkeepers
+
+
+
+## DF / Defenders
+
+
+
+## MF / Midfielders
+
+Fernando|Fernando Lucas MARTINS, 3 Mar 1992, 175
+Lucas|Lucas RODRIGUES MOURA SILVA, 13 Aug 1992, 173
+Oscar|Oscar DOS SANTOS EMBOABA JUNIOR,  9 Sep 1991, 180
+Bernard|Bernard ANICIO CALDEIRA DUARTE, 8 Sep 1992, 164
+
+
+## FW / Forwards
+
+Neymar Jr|Neymar|Neymar DA SILVA SANTOS JUNIOR,  5 Feb 1992, 174
+
+
