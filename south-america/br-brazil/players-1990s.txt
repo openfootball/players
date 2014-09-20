@@ -20,6 +20,8 @@ Lucas|Lucas RODRIGUES MOURA SILVA, 13 Aug 1992, 173
 Oscar|Oscar DOS SANTOS EMBOABA JUNIOR,  9 Sep 1991, 180
 Bernard|Bernard ANICIO CALDEIRA DUARTE, 8 Sep 1992, 164
 
+Coutinho,   12 Jun 1992
+
 
 ## FW / Forwards
 

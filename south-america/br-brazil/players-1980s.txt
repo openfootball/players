@@ -43,6 +43,8 @@ Ramires,     24 Mar 1987   ##  England Chelsea
 Fernandinho,  4 May 1985   ##  England Manchester City
 Willian,      9 Aug 1988   ##  England Chelsea
 
+Lucas,        9 Jan 1987
+
 
 ## FW / Forwards
 

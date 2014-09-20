@@ -28,6 +28,8 @@ Daniel Carvajal,   11 Jan 1992  ##  Real Madrid
 
 Jesús Gámez,    10 Apr 1985    ##  Atlético Madrid
 Alberto Botía,  27 Jan 1989
+José Enrique,   23 Jan 1986
+Javi Manquillo,  5 May 1994
 
 
 ## MF / Midfielders

@@ -63,4 +63,5 @@ Mattia Destro,   20 Mar 1991     ## Italy Roma
 Lorenzo Insigne,   4 Jun 1991    ## Italy Napoli
 Ciro Immobile,    20 Feb 1990    ## Italy Torino
 
+Fabio Borini,     29 Mar 1991
 

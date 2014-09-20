@@ -8,6 +8,9 @@ Mathew Ryan,   8 Apr 1992          ##  Belgium Club Brugge
 Mitchell Langerak,   22 Aug 1988  ##  Germany Borussia Dortmund
 Mark Birighitti,   17 Apr 1991     ##   Australia Newcastle Jets
 
+Brad Jones,     19 Mar 1983
+
+
 ## DF
 
 Luke Wilkshire,   1 Oct 1981      ##   Russia Dynamo Moscow

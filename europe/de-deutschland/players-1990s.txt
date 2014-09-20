@@ -17,6 +17,9 @@ Mario Götze,   3 Jun 1992           ##   Germany Bayern Munich
 Julian Draxler,   20 Sep 1993       ##   Germany Schalke 04
 Christoph Kramer,   12 Feb 1991     ##   Germany Borussia Mönchengladbach
 
+Emre Can,        12 Jan 1994
+
+
 ## FW
 
 André Schürrle,   6 Nov 1990     ##   England Chelsea

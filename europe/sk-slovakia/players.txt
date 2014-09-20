@@ -1,5 +1,5 @@
 ####################
-#  Serbia
+#  Slovakia
 
 
 ## GK / Goalkeepers
@@ -7,11 +7,11 @@
 
 ## DF / Defenders
 
+Martin Škrtel, 15 Dez 1984
+
 
 ## MF / Midfielders
 
-Luka Milivojević, 7 Apr 1991
-Lazar Marković,   2 Mar 1994
 
 
 ## FW / Forwards
