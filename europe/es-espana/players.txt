@@ -11,6 +11,7 @@ David de Gea, 7 Nov 1990  ##  England Manchester United
 
 Miguel Ángel Moyà, 2 Apr 1984
 Roberto,           10 Feb 1986
+Fernando Pacheco,  18 May 1992
 
 
 ## DF / Defenders
@@ -24,12 +25,16 @@ Jordi Alba|Jordi ALBA RAMOS,  21 Mar 1989
 Monreal|Nacho Monreal|Ignacio MONREAL ERASO, 26 Feb 1986
 Juanfran,  9 Jan 1985   ##   Atlético Madrid
 Alberto Moreno,  5 Jul 1992  ##  Sevilla
-Daniel Carvajal,   11 Jan 1992  ##  Real Madrid
+Daniel Carvajal|Dani Carvajal,   11 Jan 1992  ##  Real Madrid
 
 Jesús Gámez,    10 Apr 1985    ##  Atlético Madrid
 Alberto Botía,  27 Jan 1989
 José Enrique,   23 Jan 1986
 Javi Manquillo,  5 May 1994
+
+
+Nacho|Nacho Fernández Iglesias,      18 Jan 1990, 178
+
 
 
 ## MF / Midfielders
@@ -53,6 +58,9 @@ Gabi,           10 Jul 1983
 Saúl Ñíguez,    21 Nov 1994
 David Fuster,    3 Feb 1982
 
+Isco,               21 Apr 1992
+Asier Illarramendi,  8 Mar 1990
+
 
 
 ## FW / Forwards
@@ -67,5 +75,6 @@ Fernando Llorente, 26 Feb 1985  ## Italy Juventus
 Diego Costa,        7 Oct 1988  ## Spain Atlético Madrid
 
 Álvaro Morata,    23 Oct 1992
+Jesé,             26 Feb 1992
 
 

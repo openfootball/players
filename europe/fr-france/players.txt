@@ -21,6 +21,7 @@ Lucas Digne,   20 Jul 1993          ##   France Paris Saint-Germain
 Éric Abidal,     11 Sep 1979
 Arthur Masuaku,   7 Jan 1993
 
+
 ## MF
 
 Franck Ribéry,   7 Apr 1983          ##   Germany Bayern Munich
