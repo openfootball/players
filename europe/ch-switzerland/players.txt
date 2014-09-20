@@ -4,8 +4,10 @@
 ## GK
 
 Diego Benaglio,   8 Sep 1983   ##  Germany VfL Wolfsburg
-Yann Sommer,   17 Dec 1988      ##  Switzerland Basel
-Roman Bürki,   14 Nov 1990      ##  Switzerland Grasshopper
+Yann Sommer,     17 Dec 1988      ##  Switzerland Basel
+Roman Bürki,     14 Nov 1990      ##  Switzerland Grasshopper
+Germano Vailati, 30 Aug 1980 
+
 
 ## DF
 
@@ -17,6 +19,9 @@ Reto Ziegler,   16 Jan 1986          ##    Italy Sassuolo
 Ricardo Rodríguez,   25 Aug 1992      ##  Germany VfL Wolfsburg
 Fabian Schär,   20 Dec 1991   ##   Switzerland Basel
 Michael Lang,   8 Feb 1991    ##   Switzerland Grasshopper
+
+Philipp Degen,   15 Feb 1983
+
 
 ## MF
 
@@ -30,6 +35,9 @@ Granit Xhaka,   27 Sep 1992     ##   Germany Borussia Mönchengladbach
 Valentin Stocker,   12 Apr 1989     ##   Switzerland Basel
 
 Pajtim Kasami,    2 Jun 1992
+Luca Zuffi,       27 Mar 1990
+Fabian Frei,      8 Jan 1989
+Davide Calla,     6 Oct 1984
 
 
 ## FW
@@ -38,4 +46,6 @@ Admir Mehmedi,   16 Mar 1991        ##   Germany SC Freiburg
 Mario Gavranović,   24 Nov 1989  ##   Switzerland Zürich
 Haris Seferović,   22 Feb 1992   ##   Spain Real Sociedad
 Josip Drmić,   8 Aug 1992          ##   Germany 1. FC Nürnberg
+
+Marco Streller,   18 Jun 1981
 

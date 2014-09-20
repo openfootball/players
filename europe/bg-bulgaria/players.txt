@@ -1,5 +1,5 @@
 ####################
-#  Paraguay
+#  Bulgaria
 
 
 ## GK / Goalkeepers
@@ -7,12 +7,10 @@
 
 ## DF / Defenders
 
+Ivan Ivanov, 25 Feb 1988
+
 
 ## MF / Midfielders
 
 
 ## FW / Forwards
-
-Jorge Benitez,    2 Sep 1992
-Derlis Gonzalez, 20 Mar 1994
-

@@ -1,5 +1,5 @@
 ####################
-#  Albania
+#  Egypt
 
 
 ## GK / Goalkeepers
@@ -10,11 +10,8 @@
 
 ## MF / Midfielders
 
-Taulant Xhaka, 28 Mar 1991
+Ahmed Hamoudi,   21 Jul 1990
+Mohamed Elneny,  11 Jul 1992
 
 
 ## FW / Forwards
-
-Agon Mehmeti,    20 Nov 1989
-Shkelzen Gashi,  15 Jul 1988
-

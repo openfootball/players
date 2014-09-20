@@ -22,6 +22,7 @@ Lisandro Ezequiel López,  1 Sep 1989  ## Spain Getafe
 Gabriel Mercado,          18 Mar 1987  ## Argentina River Plate
 
 Cristian Ansaldi,  20 Sep 1986
+Walter Samuel,     23 Mar 1978
 
 
 
@@ -41,6 +42,7 @@ Fabián Rinaudo,    15 May 1987      ## Italy Catania
 
 Alejandro Domínguez,  10 Jun 1981
 Roberto Pereyra,      7 Jan 1991
+Matías Delgado,       15 Dez 1982
 
 
 ## FW / Forwards
