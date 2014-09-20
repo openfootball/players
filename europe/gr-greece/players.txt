@@ -18,6 +18,10 @@ Vangelis Moras,   26 Aug 1981      ##  Italy Hellas Verona
 Giorgos Tzavellas,   26 Nov 1987  ##   Greece PAOK
 Kostas Manolas,   14 Jun 1991         ##  Greece Olympiacos
 
+Kostas Giannoulis,  9 Dez 1987
+Dimitris Siovas,    16 Sep 1988
+
+
 ## MF
 
 Giorgos Karagounis,    6 Mar 1977      ##  England Fulham

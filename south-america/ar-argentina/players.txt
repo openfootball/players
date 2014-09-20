@@ -39,6 +39,7 @@ Ricardo Álvarez,   12 Apr 1988    ## Italy Internazionale
 Enzo Pérez,        22 Feb 1986     ## Portugal Benfica
 Fabián Rinaudo,    15 May 1987      ## Italy Catania
 
+Alejandro Domínguez,  10 Jun 1981
 
 ## FW / Forwards
 

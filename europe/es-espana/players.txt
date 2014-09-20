@@ -10,6 +10,7 @@ Reina|Pepe Reina|José Manuel REINA PAEZ, 31 Aug 1982
 David de Gea, 7 Nov 1990  ##  England Manchester United
 
 Miguel Ángel Moyà, 2 Apr 1984
+Roberto,           10 Feb 1986
 
 
 ## DF / Defenders
@@ -25,7 +26,8 @@ Juanfran,  9 Jan 1985   ##   Atlético Madrid
 Alberto Moreno,  5 Jul 1992  ##  Sevilla
 Daniel Carvajal,   11 Jan 1992  ##  Real Madrid
 
-Jesús Gámez, 10 Apr 1985    ##  Atlético Madrid
+Jesús Gámez,    10 Apr 1985    ##  Atlético Madrid
+Alberto Botía,  27 Jan 1989
 
 
 ## MF / Midfielders
@@ -47,6 +49,7 @@ Mario Suárez,   24 Feb 1987
 Raúl García,    11 Jul 1986
 Gabi,           10 Jul 1983
 Saúl Ñíguez,    21 Nov 1994
+David Fuster,    3 Feb 1982
 
 
 

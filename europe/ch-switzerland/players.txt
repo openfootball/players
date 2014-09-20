@@ -29,6 +29,9 @@ Xherdan Shaqiri,   10 Oct 1991    ##   Germany Bayern Munich
 Granit Xhaka,   27 Sep 1992     ##   Germany Borussia Mönchengladbach
 Valentin Stocker,   12 Apr 1989     ##   Switzerland Basel
 
+Pajtim Kasami,    2 Jun 1992
+
+
 ## FW
 
 Admir Mehmedi,   16 Mar 1991        ##   Germany SC Freiburg

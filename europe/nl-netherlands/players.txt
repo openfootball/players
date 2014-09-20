@@ -37,6 +37,9 @@ Jean-Paul Boëtius,      22 Mar 1994          ##   Netherlands Feyenoord
 Quincy Promes,           4 Jan 1992             ##   Netherlands Twente
 Tonny Vilhena,           3 Jan 1995             ##  Netherlands Feyenoord
 
+Ibrahim Afellay,         2 Apr 1986
+
+
 ## FW
 
 Dirk Kuyt,              22 Jul 1980     ##   Turkey Fenerbahçe
