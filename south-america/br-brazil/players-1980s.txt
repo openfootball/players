@@ -23,6 +23,10 @@ Maicon,  26 Jul 1981    ## Italy Roma
 Maxwell,  27 Aug 1981   ## France Paris Saint-Germain
 Henrique, 14 Oct 1986   ## Italy Napoli
 
+Guilherme Siqueira,  28 Apr 1986
+Miranda,              7 Sep 1984
+
+
 
 ## MF / Midfielders
 

@@ -9,6 +9,8 @@ V. Valdés|Víctor Valdés|Víctor VALDES ARRIBAS, 14 Jan 1982
 Reina|Pepe Reina|José Manuel REINA PAEZ, 31 Aug 1982
 David de Gea, 7 Nov 1990  ##  England Manchester United
 
+Miguel Ángel Moyà, 2 Apr 1984
+
 
 ## DF / Defenders
 
@@ -19,10 +21,11 @@ Ramos|Sergio Ramos|Sergio RAMOS GARCIA, 30 Mar 1986
 Arbeloa|Álvaro Arbeloa|Álvaro ARBELOA COCA,  17 Jan 1983
 Jordi Alba|Jordi ALBA RAMOS,  21 Mar 1989
 Monreal|Nacho Monreal|Ignacio MONREAL ERASO, 26 Feb 1986
-Juanfran,  9 Jan 1985   ##  Spain Atlético Madrid
-Alberto Moreno,  5 Jul 1992  ## Spain Sevilla
-Daniel Carvajal,   11 Jan 1992  ## Spain Real Madrid
+Juanfran,  9 Jan 1985   ##   Atlético Madrid
+Alberto Moreno,  5 Jul 1992  ##  Sevilla
+Daniel Carvajal,   11 Jan 1992  ##  Real Madrid
 
+Jesús Gámez, 10 Apr 1985    ##  Atlético Madrid
 
 
 ## MF / Midfielders
@@ -39,6 +42,9 @@ J. Navas|Jesús Navas|Jesús NAVAS GONZALEZ,  21 Nov 1985
 Xabi Alonso,    25 Nov 1981   ## Spain Real Madrid
 Koke,            8 Jan 1992   ## Spain Atlético Madrid
 Ander Iturraspe, 8 Mar 1989   ## Spain Athletic Bilbao
+
+Mario Suárez,   24 Feb 1987
+
 
 
 ## FW / Forwards

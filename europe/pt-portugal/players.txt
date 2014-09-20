@@ -29,6 +29,8 @@ Vieirinha,   24 Jan 1986         ##  Germany VfL Wolfsburg
 William Carvalho,   7 Apr 1992     ##   Portugal Sporting CP
 Rafa Silva,   17 May 1993            ##   Portugal Braga
 
+Tiago, 2 May 1981
+
 ## FW
 
 Cristiano Ronaldo,   5 Febr 1985   ## Spain Real Madrid

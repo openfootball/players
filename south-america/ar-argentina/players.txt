@@ -21,6 +21,9 @@ José María Basanta,       3 Apr 1984  ## Mexico Monterrey
 Lisandro Ezequiel López,  1 Sep 1989  ## Spain Getafe
 Gabriel Mercado,          18 Mar 1987  ## Argentina River Plate
 
+Cristian Ansaldi,  20 Sep 1986
+
+
 
 ## MF / Midfielders
 
