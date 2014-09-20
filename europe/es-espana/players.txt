@@ -44,6 +44,9 @@ Koke,            8 Jan 1992   ## Spain Atlético Madrid
 Ander Iturraspe, 8 Mar 1989   ## Spain Athletic Bilbao
 
 Mario Suárez,   24 Feb 1987
+Raúl García,    11 Jul 1986
+Gabi,           10 Jul 1983
+Saúl Ñíguez,    21 Nov 1994
 
 
 

@@ -31,6 +31,8 @@ Albert Adomah,      13 Dec 1987   ##  England Middlesbrough
 Kevin-Prince Boateng,   6 Mar 1987   ##   Germany Schalke 04
 Afriyie Acquah,      5 Jan 1992    ##   Italy Parma
 
+Enoch Adu,    14 Sep 1990
+
 ## FW
 
 Asamoah Gyan,   22 Nov 1985   ##   United Arab Emirates Al-Ain
