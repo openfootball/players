@@ -40,6 +40,8 @@ Enzo Pérez,        22 Feb 1986     ## Portugal Benfica
 Fabián Rinaudo,    15 May 1987      ## Italy Catania
 
 Alejandro Domínguez,  10 Jun 1981
+Roberto Pereyra,      7 Jan 1991
+
 
 ## FW / Forwards
 
@@ -49,3 +51,6 @@ Higuaín|Gonzalo Higuaín|Gonzalo Gerardo HIGUAIN, 10 Dec 1987
 Lavezzi|Ezequiel Lavezzi|Ezequiel Iván LAVEZZI, 3 May 1985
 Rodrigo Palacio,  5 February 1982     ## Italy Internazionale
 Franco Di Santo,  7 April 1989        ## Germany Werder Bremen
+
+Carlos Tévez,     5 Feb 1984
+

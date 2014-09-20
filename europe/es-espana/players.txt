@@ -64,3 +64,6 @@ Fernando Llorente, 26 Feb 1985  ## Italy Juventus
 Álvaro Negredo,    20 Aug 1985  ## England Manchester City
 Diego Costa,        7 Oct 1988  ## Spain Atlético Madrid
 
+Álvaro Morata,    23 Oct 1992
+
+

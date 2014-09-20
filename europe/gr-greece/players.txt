@@ -20,6 +20,7 @@ Kostas Manolas,   14 Jun 1991         ##  Greece Olympiacos
 
 Kostas Giannoulis,  9 Dez 1987
 Dimitris Siovas,    16 Sep 1988
+Tassos Avlonitis,   1 Jan 1990
 
 
 ## MF
@@ -33,10 +34,16 @@ Panagiotis Kone,   26 Jul 1987          ##  Italy Bologna
 Panagiotis Tachtsidis,   15 Feb 1991   ##  Italy Torino
 Andreas Samaris,   13 Jun 1989            ## Greece Olympiacos
 
+Andreas Bouchalakis,   5 Apr 1993
+
+
 ## FW
 
 Dimitris Salpingidis,   18 Aug 1981     ##   Greece PAOK
 Giorgos Samaras,   21 Feb 1985        ##  Scotland Celtic
 Theofanis Gekas,   23 May 1980             ##  Turkey Konyaspor
 Kostas Mitroglou,   12 Mar 1988          ##   England Fulham
+
+Dimitris Diamantakos,   5 Mar 1993
+
 

@@ -9,6 +9,8 @@ Jefferson|Jefferson DE OLIVEIRA GALVAO,          2 Jan 1983, 190
 D. Cavalieri|Diego CAVALIERI,                    1 Dec 1982, 189
 Victor,    21 Jan 1983      ## Brazil Atlético Mineiro
 
+Rubinho,   4 Aug 1982
+
 
 ## DF / Defenders
 

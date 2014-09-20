@@ -39,3 +39,6 @@ Karim Benzema,   19 Dec 1987      ##   Spain Real Madrid
 Olivier Giroud,   30 Sep 1986    ##   England Arsenal
 Loïc Rémy,   2 Jan 1987            ##   England Newcastle United
 
+Kingsley Coman, 13 Jun 1996
+
+

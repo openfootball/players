@@ -8,6 +8,8 @@ Sirigu|Salvatore Sirigu,   12 Jan 1987
 Marchetti|Federico Marchetti,   7 Feb 1983
 Mattia Perin, 10 Nov 1992   ## Italy Genoa
 
+Marco Storari, 7 Jan 1977
+
 
 ## DF / Defenders
 
@@ -22,6 +24,8 @@ Andrea Ranocchia, 16 Feb 1988  ## Italy Internazionale
 Manuel Pasqual, 13 Mar 1982    ## Italy Fiorentina
 Gabriel Paletta, 15 Feb 1986   ## Italy Parma
 Matteo Darmian, 2 Dec 1989     ## Italy Torino
+
+Angelo Ogbonna,  25 May 1988
 
 
 
@@ -39,6 +43,11 @@ Thiago Motta,   28 Aug 1982     ## France Paris Saint-Germain
 Marco Verratti,   5 Nov 1992    ## France Paris Saint-Germain
 Marco Parolo,     25 Jan 1985   ## Italy Parma
 Rômulo,           22 May 1987   ## Italy Verona
+
+Simone Pepe,   30 Aug 1983
+Claudio Marchisio,  19 Jan 1986
+Simone Padoin,    18 Mar 1984
+Luca Marrone,     28 Mar 1990
 
 
 ## FW / Forwards
