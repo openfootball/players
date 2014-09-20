@@ -1,15 +1,13 @@
 ####################
-#  Slovenia
+#  Romania
 
 
 ## GK / Goalkeepers
 
-Jan Oblak, 7 Jan 1993
-
-
 
 ## DF / Defenders
 
+Cosmin Moţi, 3 Dez 1994
 
 
 ## MF / Midfielders
@@ -17,6 +15,4 @@ Jan Oblak, 7 Jan 1993
 
 
 ## FW / Forwards
-
-Roman Bezjak,  21 Feb 1989
 

@@ -30,6 +30,7 @@ Miranda,              7 Sep 1984
 Ricardinho,           9 Sep 1984
 Leandro Salino,      22 Apr 1985
 
+Júnior Caiçara,      27 Apr 1989
 
 
 ## MF / Midfielders
@@ -44,6 +45,8 @@ Fernandinho,  4 May 1985   ##  England Manchester City
 Willian,      9 Aug 1988   ##  England Chelsea
 
 Lucas,        9 Jan 1987
+Marcelinho,    24 Aug 1984
+Wanderson,      2 Jan 1988
 
 
 ## FW / Forwards
@@ -51,4 +54,6 @@ Lucas,        9 Jan 1987
 Fred|Frederico CHAVES GUEDES, 3 Oct 1983, 185
 Hulk|Givanildo VIEIRA DE SOUSA, 25 Jul 1986, 180
 Jô|João Alves de Assis Silva,  20 Mar 1987
+
+Júnior Quixadá,   12 Dez 1985
 

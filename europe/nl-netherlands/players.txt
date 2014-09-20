@@ -47,3 +47,4 @@ Robin van Persie,        6 Aug 1983    ##   England Manchester United
 Klaas-Jan Huntelaar,    12 Aug 1983    ##   Germany Schalke 04
 Jeremain Lens,          24 Nov 1987    ##  Ukraine Dynamo Kyiv
 
+Virgil Misidjan,         24 Jul 1993

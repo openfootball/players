@@ -21,6 +21,7 @@ Lucas Digne,   20 Jul 1993          ##   France Paris Saint-Germain
 Éric Abidal,     11 Sep 1979
 Arthur Masuaku,   7 Jan 1993
 
+Alexandre Barthe,  5 Mar 1986
 
 ## MF
 
@@ -33,6 +34,9 @@ Rio Mavuba,   8 Mar 1984            ##   France Lille
 Paul Pogba,   15 Mar 1993           ##   Italy Juventus
 Clément Grenier,   7 Jan 1991     ##   France Lyon
 Antoine Griezmann,   21 Mar 1991    ##   Spain Real Sociedad
+
+Anicet Abel,       16 Mar 1990
+
 
 ## FW
 
