@@ -20,6 +20,8 @@ Paul Verhaegh,          1 Sep 1983      ##   Germany FC Augsburg
 Terence Kongolo,       14 Feb 1994    ##   Netherlands Feyenoord
 Karim Rekik,            2 Dec 1994         ##   Netherlands PSV Eindhoven
 
+Nathan Aké,            18 Feb 1995
+
 
 ## MF
 

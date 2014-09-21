@@ -17,6 +17,8 @@ Chris Smalling,   22 Nov 1989   ##    England Manchester United
 Phil Jones,   21 Feb 1992    ##    England Manchester United
 Luke Shaw,   12 Jul 1995         ##    England Southampton
 
+John Terry,  7 Dec 1980
+
 ## MF
 
 Steven Gerrard,    30 May 1980   ##    England Liverpool
@@ -28,7 +30,7 @@ Jordan Henderson,   17 Jun 1990  ##    England Liverpool
 Ross Barkley,   5 Dec 1993   ##    England Everton
 Adam Lallana,   10 May 1988       ##    England Southampton
 Raheem Sterling,   8 Dec 1994   ##    England Liverpool
-
+Lewis Baker,      25 Apr 1995 
 
 ## FW
 

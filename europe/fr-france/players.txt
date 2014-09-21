@@ -23,6 +23,9 @@ Arthur Masuaku,   7 Jan 1993
 
 Alexandre Barthe,  5 Mar 1986
 
+Kurt Zouma,  27 Oct 1994
+
+
 ## MF
 
 Franck Ribéry,   7 Apr 1983          ##   Germany Bayern Munich
