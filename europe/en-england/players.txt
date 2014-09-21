@@ -23,6 +23,16 @@ Kieran Gibbs,  26 Sep 1989, 178
 Calum Chambers, 20 Jan 1995, 182
 Carl Jenkinson,  
 
+Jon Flanagan, 1 Jan 1993
+Lloyd Jones,  7 Oct 1995
+
+Raheem Sterling, 8 Dec 1994
+Cameron Brannagan, 9 May 1996
+Jack Dunn,  19 Nov 1994
+Jordan Rossiter,  24 Mar 1997
+
+
+
 ## MF
 
 Steven Gerrard,    30 May 1980   ##    England Liverpool
@@ -44,4 +54,4 @@ Daniel Sturridge,   1 Sep 1989  ##    England Liverpool
 Rickie Lambert,   16 Feb 1982    ##    England Southampton
 
 Theo Walcott,    16 Mar 1989, 175
-
+Jerome Sinclair, 20 Sep 1996
