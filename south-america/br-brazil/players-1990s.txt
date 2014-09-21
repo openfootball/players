@@ -12,6 +12,7 @@
 ## DF / Defenders
 
 Abner|Abner Felipe Souza de Almeida,  30 May 1996, 177
+Rafael|Rafael da Silva,   9 Jul 1990
 
 
 ## MF / Midfielders
@@ -22,7 +23,7 @@ Oscar|Oscar DOS SANTOS EMBOABA JUNIOR,  9 Sep 1991, 180
 Bernard|Bernard ANICIO CALDEIRA DUARTE, 8 Sep 1992, 164
 
 Coutinho,   12 Jun 1992
-
+Andreas Pereira,  1 Jan 1996
 
 ## FW / Forwards
 

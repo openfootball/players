@@ -1,20 +1,16 @@
 ####################
-#  Denmark
+#  Scotland
 
 
 ## GK / Goalkeepers
 
-Robin Olsen, 8 Jan 1990
-Anders Lindegaard,  13 Apr 1984
 
 ## DF / Defenders
-
-Andreas Christensen,  10 May 1996
 
 
 ## MF / Midfielders
 
+Darren Fletcher, 1 Feb 1984
 
 
 ## FW / Forwards
-

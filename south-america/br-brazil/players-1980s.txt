@@ -47,7 +47,7 @@ Willian,      9 Aug 1988   ##  England Chelsea
 Lucas,        9 Jan 1987
 Marcelinho,    24 Aug 1984
 Wanderson,      2 Jan 1988
-
+Anderson,       13 Apr 1988
 
 ## FW / Forwards
 

@@ -19,6 +19,8 @@ Nicolas Lombaerts,   20 Mar 1985    ##   Russia Zenit Saint Petersburg
 Anthony Vanden Borre,   24 Oct 1987  ##   Belgium Anderlecht
 Laurent Ciman,   5 Aug 1985     ##   Belgium Standard Liège
 
+Marnick Vermijl,  13 Jan 1992
+
 ## MF
 
 Mousa Dembélé,   16 Jul 1987    ##   England Tottenham Hotspur
@@ -30,6 +32,7 @@ Steven Defour,   15 Apr 1988    ##   Portugal Porto
 Kevin De Bruyne,   28 Jun 1991   ##   Germany VfL Wolfsburg
 Nacer Chadli,   2 Oct1989    ##   England Tottenham Hotspur
 Adnan Januzaj,   5 Feb 1995  ##   England Manchester United
+
 
 ## FW
 
