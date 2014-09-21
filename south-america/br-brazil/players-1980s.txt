@@ -48,6 +48,7 @@ Lucas,        9 Jan 1987
 Marcelinho,    24 Aug 1984
 Wanderson,      2 Jan 1988
 Anderson,       13 Apr 1988
+Fernando,        4 May 1985, 176
 
 ## FW / Forwards
 

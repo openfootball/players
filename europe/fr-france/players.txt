@@ -23,7 +23,8 @@ Arthur Masuaku,   7 Jan 1993
 
 Alexandre Barthe,  5 Mar 1986
 
-Kurt Zouma,  27 Oct 1994
+Kurt Zouma,    27 Oct 1994
+Gaël Clichy,   26 Jul 1985
 
 
 ## MF
@@ -45,7 +46,7 @@ Mathieu Flamini,  7 Mar 1984, 178
 Abou Diaby,       11 May 1986, 192
 Francis Coquelin, 13 May 1991, 178
 
-
+Samir Nasri,       26 Jun 1987,  178
 
 ## FW
 

@@ -13,13 +13,14 @@ Koen Casteels,   25 Jun 1992     ##  Germany 1899 Hoffenheim
 Daniel Van Buyten,   7 Feb 1978  ##   Germany Bayern Munich
 Vincent Kompany,   10 Apr 1986      ##   England Manchester City
 Jan Vertonghen,   24 Apr 1987       ##   England Tottenham Hotspur
-Thomas Vermaelen,   14 Nov1985  ##   England Arsenal
+Thomas Vermaelen,   14 Nov 1985  ##   England Arsenal
 Toby Alderweireld,   2 Mar 1989     ##   Spain Atlético Madrid
 Nicolas Lombaerts,   20 Mar 1985    ##   Russia Zenit Saint Petersburg
 Anthony Vanden Borre,   24 Oct 1987  ##   Belgium Anderlecht
 Laurent Ciman,   5 Aug 1985     ##   Belgium Standard Liège
 
 Marnick Vermijl,  13 Jan 1992
+Dedryck Boyata,   28 Nov 1990
 
 ## MF
 
