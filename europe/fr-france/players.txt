@@ -41,6 +41,12 @@ Antoine Griezmann,   21 Mar 1991    ##   Spain Real Sociedad
 Anicet Abel,       16 Mar 1990
 
 
+Mathieu Flamini,  7 Mar 1984, 178
+Abou Diaby,       11 May 1986, 192
+Francis Coquelin, 13 May 1991, 178
+
+
+
 ## FW
 
 Karim Benzema,   19 Dec 1987      ##   Spain Real Madrid
@@ -49,4 +55,5 @@ Loïc Rémy,   2 Jan 1987            ##   England Newcastle United
 
 Kingsley Coman, 13 Jun 1996
 
+Yaya Sanogo,   27 Jan 1993, 188
 

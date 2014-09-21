@@ -18,9 +18,12 @@ Julian Draxler,   20 Sep 1993       ##   Germany Schalke 04
 Christoph Kramer,   12 Feb 1991     ##   Germany Borussia Mönchengladbach
 
 Emre Can,        12 Jan 1994
+Gedion Zelalem,  26 Jan 1997
 
 
 ## FW
 
 André Schürrle,   6 Nov 1990     ##   England Chelsea
 Kevin Volland,   30 Jul 1992      ##   Germany 1899 Hoffenheim
+
+Serge Gnabry,    14 Jul 1995

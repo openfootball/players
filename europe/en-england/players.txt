@@ -18,6 +18,10 @@ Phil Jones,   21 Feb 1992    ##    England Manchester United
 Luke Shaw,   12 Jul 1995         ##    England Southampton
 
 John Terry,  7 Dec 1980
+Kieran Gibbs,  26 Sep 1989, 178
+
+Calum Chambers, 20 Jan 1995, 182
+Carl Jenkinson,  
 
 ## MF
 
@@ -38,4 +42,6 @@ Wayne Rooney,   24 Oct 1985    ##    England Manchester United
 Danny Welbeck,   26 Nov 1990  ##    England Manchester United
 Daniel Sturridge,   1 Sep 1989  ##    England Liverpool
 Rickie Lambert,   16 Feb 1982    ##    England Southampton
+
+Theo Walcott,    16 Mar 1989, 175
 

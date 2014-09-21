@@ -33,6 +33,7 @@ José Enrique,   23 Jan 1986
 Javi Manquillo,  5 May 1994
 
 
+
 Nacho|Nacho Fernández Iglesias,      18 Jan 1990, 178
 
 
@@ -62,6 +63,8 @@ Asier Illarramendi,  8 Mar 1990
 
 Dani Abalo,        29 Sep 1987
 
+Mikel Arteta,       26 Mar 1982
+Santi Cazorla,      13 Dez 1984, 168
 
 
 ## FW / Forwards
