@@ -30,7 +30,6 @@ Carl Jenkinson,
 Jon Flanagan, 1 Jan 1993
 Lloyd Jones,  7 Oct 1995
 
-Raheem Sterling, 8 Dec 1994
 Cameron Brannagan, 9 May 1996
 Jack Dunn,  19 Nov 1994
 Jordan Rossiter,  24 Mar 1997
@@ -55,9 +54,6 @@ Michael Carrick,  28 Jul 1981
 Ashley Young,      9 Jul 1985
 Jesse Lingard,    15 Dec 1992
 Scott Sinclair,    25 Mar 1989, 177
-
-Frank Lampard,      20 Jun 1978, 184
-
 
 ## FW
 
