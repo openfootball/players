@@ -1,0 +1,103 @@
+=================================
+=  Argentina
+
+Valentin Carboni,             F,  1.78 m,  b. 5 Mar 2005 @ Buenos Aires
+
+Facundo Buonanotte,           M,  1.74 m,  b. 23 Dec 2004 @ Pérez
+Álvaro Killane,               G,  - ,      b. 14 Dec 2004
+Luka Romero,                  M,  1.65 m,  b. 18 Nov 2004 @ Durango
+Santiago Castro,              F,  1.78 m,  b. 18 Sep 2004 @ San Martín
+Nico Paz,                     M,  1.76 m,  b. 8 Sep 2004 @ Santa Cruz de Tenerife
+Valentín Barco,               D,  1.68 m,  b. 23 Jul 2004 @ 25 de Mayo
+Alejandro Garnacho,           F,  1.80 m,  b. 1 Jul 2004 @ Madrid
+
+Alejo Véliz,                  F,  1.87 m,  b. 19 Sep 2003 @ Bernardo de Irigoyen
+Ignacio Miramón,              M,  1.73 m,  b. 12 Jun 2003 @ Bolívar
+Gino Infantino,               M,  1.79 m,  b. 19 May 2003 @ Rosario
+Matías Soulé,                 F,  1.76 m,  b. 15 Apr 2003 @ Mar del Plata
+Franco Carboni,               D,  1.83 m,  b. 4 Apr 2003 @ Buenos Aires
+Tiago Geralnik,               M,  1.77 m,  b. 31 Mar 2003 @ Rosario
+Maximo Perrone,               M,  1.78 m,  b. 7 Jan 2003 @ Capital Federal
+
+Giuliano Simeone,             F,  1.84 m,  b. 18 Dec 2002 @ Rome
+Carlos Alcaraz,               M,  1.76 m,  b. 30 Nov 2002 @ La Plata
+Joaquín Panichelli,           F,  1.87 m,  b. 7 Oct 2002 @ Córdoba
+Marco Pellegrino,             D,  1.84 m,  b. 18 Jul 2002 @ Capital Federal
+Bruno Amione,                 D,  1.87 m,  b. 3 Jan 2002 @ Calchaquí
+
+Julián Malatini,              D,  1.75 m,  b. 31 May 2001 @ Córdoba
+Enzo Barrenechea,             M,  1.86 m,  b. 25 May 2001 @ Villa María
+Santiago Pierotti,            M,  1.89 m,  b. 3 Apr 2001 @ Pilar
+Lucas Beltrán,                F,  1.76 m,  b. 29 Mar 2001 @ Córdoba
+Enzo Fernández,               M,  1.78 m,  b. 17 Jan 2001 @ San Martín
+
+Adrián Rodríguez,             G,  1.94 m,  b. 12 Dec 2000 @ Palma de Mallorca
+Nehuén Pérez,                 D,  1.84 m,  b. 24 Jun 2000 @ Hurlingham
+Agustín Martegani,            M,  1.82 m,  b. 20 Mar 2000 @ Rojas
+Julián Álvarez,               F,  1.70 m,  b. 31 Jan 2000 @ Calchín
+
+Juan Manuel Cruz,             F,  1.84 m,  b. 19 Jul 1999 @ Capital Federal
+Facundo Medina,               D,  1.79 m,  b. 28 May 1999 @ Villa Fiorito
+Tadeo Allende,                F,  1.85 m,  b. 20 Feb 1999 @ Mina Clavero
+Federico Gattoni,             D,  1.83 m,  b. 16 Feb 1999 @ Capital Federal
+Leonardo Balerdi,             D,  1.85 m,  b. 26 Jan 1999 @ Villa Mercedes
+
+Alexis Mac Allister,          M,  1.74 m,  b. 24 Dec 1998 @ La Pampa
+Exequiel Palacios,            M,  1.77 m,  b. 5 Oct 1998 @ Famaillá
+Valentín Castellanos,         F,  1.79 m,  b. 3 Oct 1998 @ Mendoza
+Martín Payero,                M,  1.87 m,  b. 11 Sep 1998 @ Pascanas
+Nicolás Domínguez,            M,  1.79 m,  b. 28 Jun 1998 @ Haedo
+Cristian Romero,              D,  1.85 m,  b. 27 Apr 1998 @ Córdoba
+Nicolás González,             F,  1.80 m,  b. 6 Apr 1998 @ Belén de Escobar
+Lisandro Martínez,            D,  1.78 m,  b. 18 Jan 1998 @ Gualeguay
+Juan Foyth,                   D,  1.79 m,  b. 12 Jan 1998 @ La Plata
+
+Nahuel Molina,                D,  1.75 m,  b. 2 Dec 1997 @ Embalse
+Nicolás Capaldo,              M,  1.77 m,  b. 14 Sep 1997 @ Santa Rosa
+Lautaro Martínez,             F,  1.74 m,  b. 22 Aug 1997 @ Bahía Blanca
+Marcos Senesi,                D,  1.85 m,  b. 10 May 1997 @ Concordia
+Lucas Robertone,              M,  1.75 m,  b. 18 Mar 1997 @ Concordia
+Gonzalo Montiel,              D,  1.78 m,  b. 1 Jan 1997 @ Virrey del Pino
+
+Emi Buendía,                  M,  1.70 m,  b. 25 Dec 1996 @ Mar del Plata
+Lucas Martínez Quarta,        D,  1.83 m,  b. 10 May 1996 @ Mar del Plata
+Augusto Batalla,              G,  1.85 m,  b. 30 Apr 1996 @ Florencio Varela
+Giovani Lo Celso,             M,  1.70 m,  b. 9 Apr 1996 @ Rosario
+Lucas Boyé,                   F,  1.80 m,  b. 28 Feb 1996 @ San Gregorio
+Nahuel Tenaglia,              D,  1.82 m,  b. 21 Feb 1996 @ Saladillo
+
+Giovanni Simeone,             F,  1.80 m,  b. 5 Jul 1995 @ Buenos Aires
+Ángel Correa,                 F,  1.72 m,  b. 9 Mar 1995 @ Rosario
+
+Joaquín Correa,               F,  1.88 m,  b. 13 Aug 1994 @ Juan Bautista Alberdi
+Lucas Ocampos,                M,  1.87 m,  b. 11 Jul 1994 @ Quilmes
+Leandro Paredes,              M,  1.80 m,  b. 29 Jun 1994 @ San Justo
+Franco Cervi,                 M,  1.80 m,  b. 26 May 1994 @ San Lorenzo
+Rodrigo De Paul,              M,  1.80 m,  b. 24 May 1994 @ Sarandí
+Juan Musso,                   G,  1.91 m,  b. 6 May 1994 @ San Nicolás
+Guido Rodríguez,              M,  1.85 m,  b. 12 Apr 1994 @ Sáenz Peña
+Fabrizio Angileri,            D,  1.88 m,  b. 15 Mar 1994 @ Junin
+Ezequiel Ávila,               F,  1.81 m,  b. 6 Feb 1994 @ Rosario
+
+Paulo Dybala,                 F,  1.77 m,  b. 15 Nov 1993 @ Laguna Larga
+Lautaro Gianetti,             D,  1.84 m,  b. 13 Nov 1993 @ San Nicolás
+Gonzalo Escalante,            M,  1.82 m,  b. 27 Mar 1993 @ Bella Vista
+Jeremias Ledesma,             G,  1.86 m,  b. 13 Feb 1993 @ Rosario
+
+Lucas Alario,                 F,  1.80 m,  b. 8 Oct 1992 @ Tostado
+Emiliano Martínez,            G,  1.95 m,  b. 2 Sep 1992 @ Mar del Plata
+Nicolás Tagliafico,           D,  1.72 m,  b. 31 Aug 1992 @ Rafael Calzada
+Erik Lamela,                  M,  1.81 m,  b. 25 Mar 1992 @ Florida
+Paulo Gazzaniga,              G,  1.96 m,  b. 2 Jan 1992 @ Murphy
+
+Marcos Acuña,                 D,  1.72 m,  b. 28 Oct 1991 @ Zapala
+Germán Pezzella,              D,  1.87 m,  b. 27 Jun 1991 @ Bahía Blanca
+Roberto Pereyra,              M,  1.82 m,  b. 7 Jan 1991 @ San Miguel de Tucumán
+
+José Luis Palomino,           D,  1.88 m,  b. 5 Jan 1990 @ San Miguel de Tucumán
+
+Óscar Trejo,                  F,  1.80 m,  b. 26 Apr 1988 @ Santiago del Estero
+Agustin Marchesin,            G,  1.88 m,  b. 16 Mar 1988 @ González Chávez
+Alejandro Gómez,              F,  1.67 m,  b. 15 Feb 1988 @ Capital Federal
+
+Federico Fazio,               D,  1.95 m,  b. 17 Mar 1987 @ Capital Federal
