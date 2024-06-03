@@ -1,0 +1,714 @@
+=================================
+=  England
+
+Harry Howell,                 F,  - ,      b. 29 Sep 2008
+Tyler Jones,                  G,  - ,      b. 18 Apr 2008
+Matthew Taylor,               M,  - ,      b. 31 Mar 2008
+Freddie Simmonds,             D,  - ,      b. 9 Mar 2008
+Bendito Mantato,              M,  - ,      b. 25 Jan 2008
+
+Emilio Ballard-Matthews,      F,  - ,      b. 30 Nov 2007
+Marcell Washington,           D,  - ,      b. 21 Aug 2007 @ Cambridge
+Mikey Moore,                  F,  - ,      b. 11 Aug 2007 @ Southwark
+Ollie Harrison,               M,  - ,      b. 7 Aug 2007 @ Blaydon
+Reece Munro,                  D,  - ,      b. 21 Jul 2007
+Luke Craggs,                  D,  - ,      b. 14 Jul 2007 @ Gateshead
+Trey Nyoni,                   M,  - ,      b. 30 Jun 2007
+Jacob Devaney,                D,  - ,      b. 11 Jun 2007
+Sean Neave,                   F,  - ,      b. 27 May 2007 @ Newcastle upon Tyne
+Harry Amass,                  D,  - ,      b. 16 May 2007
+Jayce Fitzgerald,             M,  - ,      b. 9 May 2007
+Rayan Oyebade,                D,  - ,      b. 30 Apr 2007
+Trevan Sanusi,                F,  - ,      b. 25 Apr 2007
+Joe Brayson,                  M,  - ,      b. 21 Apr 2007 @ Newcastle upon Tyne
+Shea Lacey,                   M,  - ,      b. 14 Apr 2007
+Sekou Kaba,                   F,  - ,      b. 28 Mar 2007
+Ethan Nwaneri,                M,  - ,      b. 21 Mar 2007
+Jack Fletcher,                M,  - ,      b. 19 Mar 2007 @ Manchester
+Leo Shahar,                   D,  - ,      b. 18 Mar 2007
+Sam Amissah,                  D,  - ,      b. 7 Mar 2007
+Christian Chigozie,           D,  - ,      b. 1 Mar 2007 @ Luton
+Kian Noble,                   D,  - ,      b. 26 Feb 2007
+Carter Pinnington,            D,  - ,      b. 21 Feb 2007
+Jonathan Esenga,              D,  - ,      b. 9 Feb 2007
+Ben Broggio,                  M,  - ,      b. 29 Jan 2007
+Bless Akolbire,               M,  - ,      b. 25 Jan 2007
+Logan Watts,                  D,  - ,      b. 22 Jan 2007
+Matteo Dashi,                 M,  - ,      b. 22 Jan 2007
+Harrison Armstrong,           M,  - ,      b. 19 Jan 2007 @ Liverpool
+Preston Fearon,               M,  - ,      b. 16 Jan 2007
+Kai Crampton,                 G,  - ,      b. 15 Jan 2007 @ Watford
+Frankie Runham,               M,  - ,      b. 9 Jan 2007 @ Eastbourne
+Saheed Olagunju,              D,  - ,      b. 7 Jan 2007 @ Greenwich
+Joshua King,                  M,  - ,      b. 3 Jan 2007
+Zachary Baumann,              M,  - ,      b. 2 Jan 2007
+
+Luca Furnell-Gill,            D,  - ,      b. 29 Dec 2006 @ Keighley
+Sam Proctor,                  G,  - ,      b. 21 Dec 2006 @ Boston
+Aidan Harris,                 G,  - ,      b. 16 Dec 2006 @ Sunderland
+Conor McLeod,                 M,  - ,      b. 15 Dec 2006 @ Birmingham
+Reece Clairmont,              D,  - ,      b. 14 Dec 2006 @ Waltham Forest
+Thomas Bryant,                D,  - ,      b. 11 Dec 2006 @ Newcastle upon Tyne
+Jaydan Kamason,               D,  - ,      b. 8 Dec 2006 @ Lambeth
+Matty Henderson-Hall,         D,  - ,      b. 8 Dec 2006 @ Bradford
+Jakai Bascoe-Fisher,          F,  - ,      b. 27 Nov 2006 @ Waltham Forest
+Daniel Oyetunde,              F,  - ,      b. 26 Nov 2006 @ Enfield
+Cam'ron Ismail,               D,  - ,      b. 22 Nov 2006 @ Islington
+Kiano Dyer,                   M,  - ,      b. 21 Nov 2006 @ Birmingham
+Amara Nallo,                  D,  - ,      b. 18 Nov 2006 @ Enfield
+Dan Casey,                    M,  - ,      b. 18 Nov 2006
+Gabriel Caliste,              M,  - ,      b. 18 Nov 2006 @ Redbridge
+Joshua Ajala,                 F,  - ,      b. 13 Nov 2006 @ Redbridge
+Lucas Pitt,                   D,  - ,      b. 31 Oct 2006
+Adam Harrison,                G,  - ,      b. 20 Oct 2006 @ Newcastle upon Tyne
+Louie Copley,                 M,  - ,      b. 20 Oct 2006 @ Southend-on-Sea
+Joshua van Schoor,            D,  - ,      b. 8 Oct 2006 @ Warrington
+Myles Lewis-Skelly,           M,  - ,      b. 26 Sep 2006 @ Lambeth
+Matty Warhurst,               F,  - ,      b. 25 Sep 2006 @ Stalybridge
+Ayden Heaven,                 D,  - ,      b. 22 Sep 2006 @ Islington
+Caden Voice,                  D,  - ,      b. 14 Sep 2006 @ Walsall
+Anthony Munda,                M,  - ,      b. 8 Sep 2006 @ Newcastle upon Tyne
+Fola Onanuga,                 M,  - ,      b. 1 Sep 2006
+Justin Oboavwoduo,            F,  - ,      b. 23 Aug 2006 @ Manchester
+Ashton Missin,                F,  - ,      b. 15 Aug 2006 @ Halifax
+Tyron Akpata,                 M,  - ,      b. 12 Aug 2006 @ Havering
+Jimmy Sinclair,               D,  - ,      b. 11 Aug 2006 @ Nottingham
+Osman Kamara,                 F,  - ,      b. 6 Aug 2006 @ Tower Hamlets
+Harrison Murray-Campbell,     D,  - ,      b. 4 Aug 2006 @ Luton
+Hindolo Mustapha,             M,  - ,      b. 29 Jul 2006 @ Lambeth
+Coby Small,                   D,  - ,      b. 26 Jul 2006 @ Hackney
+Josh Nichols,                 D,  - ,      b. 26 Jul 2006 @ Newham
+Seb Boothe,                   M,  - ,      b. 17 Jul 2006 @ Bedford
+Fin McAllister,               M,  - ,      b. 16 Jul 2006 @ Salford
+Dylan Charlton,               D,  - ,      b. 2 Jul 2006 @ Gateshead
+Cody Pennington,              M,  - ,      b. 13 Jun 2006 @ Preston
+Ishé Samuels-Smith,           D,  - ,      b. 5 Jun 2006 @ Manchester
+Odin Samuels-Smith,           D,  - ,      b. 5 Jun 2006 @ Manchester
+Joel Ndala,                   F,  - ,      b. 31 May 2006 @ Manchester
+Billy Blacker,                F,  - ,      b. 25 May 2006
+Dondre Abraham,               G,  - ,      b. 24 May 2006 @ Enfield
+Isaiah Dada-Mascoll,          M,  - ,      b. 24 May 2006 @ Manchester
+Michael Golding,              M,  - ,      b. 23 May 2006 @ Kingston upon Thames
+Archie Whitehall,             M,  - ,      b. 21 May 2006 @ Nottingham
+Zach Abbott,                  D,  - ,      b. 13 May 2006
+Reiss Denny,                  M,  - ,      b. 11 May 2006 @ Reading
+Lakyle Samuel,                D,  - ,      b. 6 May 2006 @ Manchester
+Josh-Kofi Acheampong,         D,  - ,      b. 5 May 2006 @ Waltham Forest
+Lewis Miley,                  M,  - ,      b. 1 May 2006 @ Gateshead
+Favour Fawunmi,               F,  - ,      b. 26 Apr 2006 @ Newham
+Fabian Reynolds,              F,  - ,      b. 6 Apr 2006
+Romari Forde,                 F,  - ,      b. 28 Mar 2006 @ Watford
+Daniel Rigge,                 M,  - ,      b. 25 Mar 2006 @ Stockport
+Harry Mills,                  M,  - ,      b. 17 Mar 2006
+Somto Boniface,               D,  - ,      b. 11 Mar 2006 @ London
+Taylor Ross,                  G,  - ,      b. 10 Mar 2006 @ Bolton
+Charlie Tasker,               D,  - ,      b. 24 Feb 2006
+Elyh Harrison,                G,  - ,      b. 19 Feb 2006 @ Redbridge
+Hayden Carson,                D,  - ,      b. 19 Feb 2006 @ Whitehaven
+Lewis Orford,                 M,  - ,      b. 18 Feb 2006 @ Havering
+Ted Curd,                     G,  - ,      b. 14 Feb 2006 @ Kingston upon Thames
+Leo Black,                    D,  - ,      b. 9 Feb 2006 @ Hackney
+Tyrique George,               F,  - ,      b. 4 Feb 2006 @ Camden
+Noah Cooper,                  G,  - ,      b. 2 Feb 2006 @ Bromley
+Harrison McMahon,             M,  - ,      b. 29 Jan 2006 @ South Ockendon
+Kamarni Ryan,                 M,  - ,      b. 29 Jan 2006 @ Hackney
+Chinonso Chibueze,            F,  - ,      b. 28 Jan 2006 @ Lewisham
+Scott Bailey,                 M,  - ,      b. 22 Jan 2006 @ Durham
+Jimmy Jay-Morgan,             F,  - ,      b. 21 Jan 2006 @ Poole
+Tom Olyott,                   F,  - ,      b. 21 Jan 2006 @ Liverpool
+Ethan Wheatley,               F,  - ,      b. 20 Jan 2006 @ Stockport
+Kadan Young,                  F,  - ,      b. 19 Jan 2006 @ Worcester
+Jayden Danns,                 F,  - ,      b. 16 Jan 2006 @ Liverpool
+Sebastian Ferdinand,          F,  - ,      b. 12 Jan 2006 @ Watford
+Noah Hay,                     D,  - ,      b. 11 Jan 2006 @ Westminster
+Leon Chiwome,                 F,  - ,      b. 10 Jan 2006 @ Brighton
+Adam Berry,                   F,  - ,      b. 9 Jan 2006 @ Ashton-under-Lyne
+Finlay Herrick,               G,  - ,      b. 9 Jan 2006 @ Hatfield
+Harrison Dudziak,             M,  - ,      b. 9 Jan 2006 @ Westminster
+Joe Johnson,                  D,  - ,      b. 9 Jan 2006
+Travis Akomeah,               D,  - ,      b. 6 Jan 2006 @ Islington
+
+Harry Powell,                 D,  - ,      b. 31 Dec 2005 @ Newcastle upon Tyne
+Rory Powell,                  D,  - ,      b. 31 Dec 2005 @ Newcastle upon Tyne
+Brian Okonkwo,                G,  - ,      b. 30 Dec 2005 @ Camden
+Damon Park,                   D,  - ,      b. 29 Dec 2005 @ Manchester
+Damola Ajayi,                 M,  - ,      b. 27 Dec 2005 @ Lambeth
+Carter Milmore,               D,  - ,      b. 19 Dec 2005 @ Durham
+Zane Albarus,                 M,  - ,      b. 18 Dec 2005 @ Milton Keynes
+Jaden Heskey,                 F,  - ,      b. 17 Dec 2005 @ Manchester
+Ezra Carrington,              D,  - ,      b. 16 Dec 2005 @ Manchester
+Oliver Scarles,               D,  - ,      b. 12 Dec 2005 @ Bromley
+Jack Moorhouse,               M,  - ,      b. 29 Nov 2005 @ Manchester
+Alfie Harrison,               M,  - ,      b. 28 Nov 2005 @ Manchester
+Luke Campbell,                G,  - ,      b. 27 Nov 2005 @ Slough
+Lemar Gordon,                 F,  - ,      b. 17 Nov 2005 @ Ealing
+Thomas Myles,                 G,  - ,      b. 17 Nov 2005 @ Preston
+Ethan Williams,               M,  - ,      b. 14 Nov 2005 @ Manchester
+Habeeb Ogunneye,              D,  - ,      b. 12 Nov 2005 @ Hackney
+Jack Butler,                  M,  - ,      b. 12 Nov 2005 @ Liverpool
+Max Merrick,                  G,  - ,      b. 10 Nov 2005 @ High Wycombe
+Tony Gbopo,                   D,  - ,      b. 9 Nov 2005 @ Nottingham
+Aaron Loupalo-Bi,             F,  - ,      b. 7 Nov 2005 @ Lambeth
+Mason Rees,                   M,  - ,      b. 6 Nov 2005 @ Solihull
+Jahmai Simpson-Pusey,         D,  - ,      b. 4 Nov 2005 @ Manchester
+True Grant,                   G,  - ,      b. 2 Nov 2005 @ Manchester
+Donnell McNeilly,             F,  - ,      b. 30 Oct 2005 @ Lewisham
+Taylan Harris,                F,  - ,      b. 30 Oct 2005
+Jemiah Umolu,                 F,  - ,      b. 28 Oct 2005 @ Westminster
+Charlie Pavey,                M,  - ,      b. 23 Oct 2005
+Michael Okeke,                M,  - ,      b. 16 Oct 2005 @ Manchester
+Benjamin Arthur,              D,  - ,      b. 9 Oct 2005
+Travis Patterson,             D,  - ,      b. 6 Oct 2005
+Zach Marsh,                   F,  - ,      b. 6 Oct 2005 @ Luton
+Blaise Uwandji,               F,  - ,      b. 5 Oct 2005
+Josh Robertson,               M,  - ,      b. 3 Oct 2005
+James Nolan,                  D,  - ,      b. 2 Oct 2005 @ Chorley
+Callum Bates,                 M,  - ,      b. 28 Sep 2005
+Charlie Penman,               D,  - ,      b. 25 Sep 2005
+Josh Donaldson,               F,  - ,      b. 25 Sep 2005 @ Gateshead
+Luis Brown,                   D,  - ,      b. 25 Sep 2005
+Darren Palmer,                M,  - ,      b. 24 Sep 2005 @ South Shields
+Josh Davidson,                D,  - ,      b. 23 Sep 2005 @ Liverpool
+Jacob Wright,                 M,  - ,      b. 21 Sep 2005 @ Manchester
+Joe Knight,                   M,  - ,      b. 21 Sep 2005
+Emilio Lawrence,              F,  - ,      b. 20 Sep 2005 @ Manchester
+Jacob Beaumont-Clark,         M,  - ,      b. 19 Sep 2005 @ Manchester
+Lewis Koumas,                 M,  - ,      b. 19 Sep 2005 @ Chester
+Liam Jones,                   M,  - ,      b. 12 Sep 2005
+Sebastian Naylor,             D,  - ,      b. 10 Sep 2005 @ Manchester
+Ryan Battrum,                 D,  - ,      b. 8 Sep 2005 @ Havering
+Ruben Curley,                 M,  - ,      b. 5 Sep 2005 @ Manchester
+Sahil Bashir,                 F,  - ,      b. 5 Sep 2005 @ Bradford
+Tyrese Hall,                  M,  - ,      b. 4 Sep 2005 @ Camden
+Oliver Gofford,               M,  - ,      b. 3 Sep 2005 @ Windsor
+Kaiden Wilson,                D,  - ,      b. 2 Sep 2005 @ Bristol
+Brody Peart,                  F,  - ,      b. 26 Aug 2005
+Leo Castledine,               M,  - ,      b. 20 Aug 2005 @ Kingston upon Thames
+George Abbott,                M,  - ,      b. 17 Aug 2005 @ Islington
+Shaun Mavididi,               F,  - ,      b. 13 Aug 2005 @ Havering
+Kamari Doyle,                 M,  - ,      b. 1 Aug 2005 @ Bristol
+Billy Gee,                    F,  - ,      b. 30 Jul 2005 @ Tooting
+Isaac Smith,                  D,  - ,      b. 26 Jul 2005 @ Liverpool
+Max Alleyne,                  D,  - ,      b. 21 Jul 2005 @ Bristol
+Ty Barnett,                   M,  - ,      b. 19 Jul 2005 @ Birmingham
+Emran Soglo,                  M,  1.78 m,  b. 11 Jul 2005 @ Créteil
+Zain Silcott Duberry,         F,  - ,      b. 9 Jul 2005 @ Hackney
+Ashley Phillips,              D,  - ,      b. 26 Jun 2005
+Jayden Barber,                D,  - ,      b. 23 Jun 2005
+Daniel Adu-Adjei,             F,  - ,      b. 21 Jun 2005 @ Hammersmith
+Kyrie Pierre,                 M,  - ,      b. 17 Jun 2005 @ Bristol
+Rio Kyerematen,               M,  - ,      b. 9 Jun 2005 @ Westminster
+Joe Gardner,                  M,  - ,      b. 6 Jun 2005 @ Nottingham
+Amario Cozier-Duberry,        F,  - ,      b. 29 May 2005 @ Islington
+David Ozoh,                   M,  - ,      b. 6 May 2005
+Josh Feeney,                  D,  - ,      b. 6 May 2005 @ Blackpool
+Bailey Smith,                 F,  - ,      b. 2 May 2005
+Jayden Luker,                 M,  - ,      b. 30 Apr 2005 @ Southwark
+Zack Nelson,                  M,  - ,      b. 21 Apr 2005 @ Camden
+Alfie Dorrington,             D,  - ,      b. 20 Apr 2005 @ Enfield
+Will Lankshear,               F,  - ,      b. 20 Apr 2005 @ Hatfield
+Kobbie Mainoo,                M,  - ,      b. 19 Apr 2005 @ Stockport
+Eden Page,                    D,  - ,      b. 14 Apr 2005 @ Sunderland
+Jack Hinshelwood,             M,  1.81 m,  b. 11 Apr 2005 @ Chichester
+Axel Piesold,                 M,  - ,      b. 31 Mar 2005 @ Haringey
+Tom Wooster,                  G,  - ,      b. 30 Mar 2005 @ Sheffield
+Edward Jones,                 D,  - ,      b. 28 Mar 2005
+Samuel Rak-Sakyi,             M,  - ,      b. 27 Mar 2005 @ Lambeth
+Luca Gunter,                  G,  - ,      b. 23 Mar 2005 @ Enfield
+Nico O'Reilly,                M,  - ,      b. 21 Mar 2005 @ Manchester
+Ben Parkinson,                F,  - ,      b. 10 Mar 2005 @ Newcastle upon Tyne
+Owen Barker,                  M,  - ,      b. 23 Feb 2005 @ Bolton
+Tyler Fredricson,             D,  - ,      b. 23 Feb 2005 @ Stockport
+Ellis Stanton,                M,  - ,      b. 19 Feb 2005 @ Sunderland
+Luke Faxon,                   G,  - ,      b. 15 Feb 2005 @ Sheffield
+Calum Scanlon,                D,  - ,      b. 14 Feb 2005 @ Birmingham
+Kane Taylor,                  M,  - ,      b. 14 Feb 2005 @ Birmingham
+Finley Munroe,                D,  - ,      b. 8 Feb 2005
+Bobby Clark,                  F,  - ,      b. 7 Feb 2005 @ Epsom
+Max Kinsey-Wellings,          D,  - ,      b. 2 Feb 2005
+Lino Sousa,                   D,  - ,      b. 19 Jan 2005
+Tommy Reid,                   G,  - ,      b. 18 Jan 2005 @ Hastings
+Jack Tierney,                 D,  - ,      b. 17 Jan 2005 @ Liverpool
+Josh Powell,                  D,  - ,      b. 9 Jan 2005 @ Nottingham
+Ronnie Stutter,               F,  - ,      b. 6 Jan 2005 @ Hackney
+
+Kain Ryan,                    D,  - ,      b. 31 Dec 2004
+Mikell Barnes,                M,  - ,      b. 30 Dec 2004
+Roman Dixon,                  D,  - ,      b. 26 Dec 2004 @ Stafford
+Terrell Works,                F,  - ,      b. 26 Dec 2004 @ Wandsworth
+Kyle McAdam,                  D,  - ,      b. 24 Dec 2004
+Alfie McNally,                G,  - ,      b. 22 Dec 2004 @ Hillingdon
+Caylan Vickers,               F,  - ,      b. 22 Dec 2004
+Josh Robinson,                D,  - ,      b. 20 Dec 2004 @ London
+Sonny Aljofree,               D,  - ,      b. 19 Dec 2004 @ Plymouth
+Reuell Walters,               D,  - ,      b. 16 Dec 2004 @ Lambeth
+Joshua Duffus,                M,  - ,      b. 15 Dec 2004 @ Lambeth
+Luca Barrington,              F,  - ,      b. 12 Dec 2004 @ Manchester
+Ethan Ennis,                  M,  - ,      b. 11 Dec 2004
+James Wright,                 G,  - ,      b. 2 Dec 2004
+Kobei Moore,                  F,  - ,      b. 30 Nov 2004 @ Birmingham
+Henry Timi Davies,            F,  - ,      b. 27 Nov 2004 @ Hackney
+Will Dickson,                 F,  - ,      b. 25 Nov 2004 @ Liverpool
+Todd Alcock,                  M,  - ,      b. 23 Nov 2004
+Rico Lewis,                   D,  1.75 m,  b. 21 Nov 2004 @ Manchester
+Regan Clayton,                D,  - ,      b. 11 Nov 2004 @ Havering
+Jack Nadin,                   M,  - ,      b. 31 Oct 2004 @ Chesterfield
+Manni Norkett,                F,  - ,      b. 30 Oct 2004 @ Nottingham
+Isaac Heath,                  M,  - ,      b. 28 Oct 2004 @ Leeds
+Kaelan Casey,                 D,  - ,      b. 28 Oct 2004 @ Brentwood
+George Murray-Jones,          G,  - ,      b. 27 Oct 2004 @ Waltham Forest
+Divin Mubama,                 F,  - ,      b. 25 Oct 2004 @ Newham
+Bradley Ibrahim,              M,  1.85 m,  b. 21 Oct 2004 @ Macclesfield
+Matthew Whittingham,          M,  - ,      b. 21 Oct 2004 @ St Helens
+Ciaran Thompson,              D,  - ,      b. 17 Oct 2004 @ North Shields
+Brodi Hughes,                 D,  - ,      b. 16 Oct 2004 @ Winchester
+Charlie Lutz,                 F,  - ,      b. 15 Oct 2004 @ Worcester
+Jackson Izquierdo,            G,  - ,      b. 15 Oct 2004 @ Windsor
+Fletcher Holman,              F,  - ,      b. 12 Oct 2004 @ Eastbourne
+Ben Perry,                    M,  - ,      b. 11 Oct 2004 @ Derby
+Kaden Rodney,                 M,  - ,      b. 7 Oct 2004 @ Lambeth
+Jake Burger,                  M,  - ,      b. 6 Oct 2004 @ Luton
+Louis Flower,                 F,  - ,      b. 6 Oct 2004 @ Cambridge
+Jacob Slater,                 D,  - ,      b. 5 Oct 2004
+Kaide Gordon,                 F,  - ,      b. 5 Oct 2004 @ Burton upon Trent
+Alex Matos,                   F,  - ,      b. 3 Oct 2004 @ Bedford
+Maxwell McKnight,             D,  - ,      b. 3 Oct 2004 @ Colchester
+Gideon Kodua,                 F,  - ,      b. 2 Oct 2004 @ Newham
+Jimi Gower,                   M,  - ,      b. 1 Oct 2004 @ Havering
+Daniel Gore,                  M,  - ,      b. 26 Sep 2004
+Billy Bates,                  D,  - ,      b. 25 Sep 2004 @ Cheshunt
+Sam Murray,                   D,  - ,      b. 25 Sep 2004
+Hugo Fisher,                  G,  - ,      b. 24 Sep 2004 @ Bojnice
+Detlef Esapa Osong,           F,  - ,      b. 21 Sep 2004
+Mason Terry,                  G,  - ,      b. 20 Sep 2004 @ Southend-on-Sea
+Francis Okoronkwo,            F,  - ,      b. 18 Sep 2004 @ Blyth
+Jadel Katongo,                D,  - ,      b. 14 Sep 2004 @ Manchester
+Marvin Kaleta,                D,  - ,      b. 14 Sep 2004 @ Manchester
+Tommy Pilling,                F,  - ,      b. 14 Sep 2004 @ St Helens
+James McConnell,              M,  - ,      b. 13 Sep 2004 @ Newcastle upon Tyne
+Sydie Peck,                   M,  - ,      b. 13 Sep 2004 @ Enfield
+Sean Tarima,                  D,  - ,      b. 12 Sep 2004 @ Newham
+Terence Miles,                D,  - ,      b. 12 Sep 2004 @ Liverpool
+Richard Olise,                D,  - ,      b. 9 Sep 2004 @ Hillingdon
+Daniel Ogwuru,                F,  - ,      b. 8 Sep 2004 @ Manchester
+Lewis Hall,                   D,  1.79 m,  b. 8 Sep 2004 @ Slough
+Aaron Bott,                   G,  - ,      b. 6 Sep 2004 @ Mansfield
+Jaden Williams,               F,  - ,      b. 6 Sep 2004 @ Harrow
+Jenson Metcalfe,              M,  - ,      b. 6 Sep 2004 @ Wigan
+Owen Farmer,                  F,  - ,      b. 6 Sep 2004 @ Solihull
+George Earthy,                M,  - ,      b. 5 Sep 2004 @ Havering
+Harvey Araujo,                D,  - ,      b. 3 Sep 2004
+Sam Mather,                   F,  - ,      b. 3 Sep 2004 @ Salford
+Jamie Bynoe-Gittens,          F,  1.75 m,  b. 8 Aug 2004 @ Reading
+Victor Akinwale,              F,  - ,      b. 6 Aug 2004 @ Greenwich
+Elijah Campbell,              D,  - ,      b. 2 Aug 2004 @ Manchester
+Alfie Devine,                 M,  - ,      b. 1 Aug 2004 @ Warrington
+Charles Sagoe Junior,         F,  - ,      b. 24 Jul 2004 @ Kingston upon Thames
+Kyle Crossley,                F,  - ,      b. 24 Jul 2004 @ Sunderland
+Omari Forson,                 M,  - ,      b. 20 Jul 2004
+Frankie Ealing,               D,  1.76 m,  b. 14 Jul 2004 @ Birmingham
+Lee Jonas,                    D,  - ,      b. 6 Jul 2004 @ Liverpool
+Luke Chambers,                D,  - ,      b. 24 Jun 2004 @ Preston
+Zak Sturge,                   D,  - ,      b. 15 Jun 2004 @ Hillingdon
+Pharrell Johnson,             D,  - ,      b. 19 May 2004
+James Clarridge,              D,  - ,      b. 8 May 2004 @ Mansfield
+Oliver Arblaster,             M,  1.80 m,  b. 5 May 2004 @ Sheffield
+Michael Olakigbe,             F,  - ,      b. 25 Apr 2004 @ Lambeth
+Junior Robinson,              D,  - ,      b. 6 Apr 2004 @ Bethnal Green
+Ethan McLeod,                 F,  - ,      b. 1 Apr 2004 @ Birmingham
+Charlie Sayers,               D,  - ,      b. 29 Mar 2004
+Stefan Parkes,                D,  - ,      b. 28 Mar 2004 @ Brent
+Dane Scarlett,                F,  1.80 m,  b. 24 Mar 2004 @ Hillingdon
+Antwoine Hackford,            F,  - ,      b. 20 Mar 2004 @ Sheffield
+James Huntley,                M,  - ,      b. 2 Mar 2004
+Joseph Whitworth,             G,  - ,      b. 29 Feb 2004 @ Sutton
+Mathew Mallon,                D,  - ,      b. 25 Feb 2004 @ Liverpool
+Jordan Hackett,               D,  - ,      b. 20 Feb 2004 @ Hammersmith
+Jack Wells-Morrison,          M,  - ,      b. 18 Feb 2004 @ Wandsworth
+Alfie Pond,                   D,  1.91 m,  b. 17 Feb 2004 @ Exeter
+Adam Wharton,                 M,  1.82 m,  b. 6 Feb 2004 @ Blackburn
+Shola Shoretire,              F,  - ,      b. 2 Feb 2004 @ Newcastle upon Tyne
+Jacob Knightbridge,           G,  - ,      b. 25 Jan 2004 @ Romford
+Roshaun Mathurin,             M,  - ,      b. 23 Jan 2004 @ Leytonstone
+Jamie Miley,                  M,  - ,      b. 14 Jan 2004 @ Gateshead
+Ben Chrisene,                 D,  1.83 m,  b. 12 Jan 2004 @ Exeter
+Brooke Norton-Cuffy,          D,  1.81 m,  b. 12 Jan 2004 @ Hammersmith
+Jude Soonsup-Bell,            F,  - ,      b. 10 Jan 2004 @ Chippenham
+Benicio Baker-Boaitey,        F,  - ,      b. 9 Jan 2004 @ Hammersmith
+Kam Kandola,                  D,  - ,      b. 3 Jan 2004 @ Wolverhampton
+Toby Collyer,                 M,  - ,      b. 3 Jan 2004 @ Worthing
+
+Jay Turner-Cook,              M,  - ,      b. 31 Dec 2003 @ South Shields
+Oliver Sanderson,             F,  1.86 m,  b. 30 Dec 2003 @ Chichester
+Taylor-Jay Hart,              M,  - ,      b. 18 Dec 2003
+Joe Sheridan,                 D,  - ,      b. 10 Dec 2003
+Kian Breckin,                 M,  - ,      b. 10 Dec 2003 @ Manchester
+Dylan Williams,               D,  - ,      b. 3 Dec 2003
+Michael Ndiweni,              F,  - ,      b. 2 Dec 2003 @ Newcastle upon Tyne
+Alfie Gilchrist,              D,  - ,      b. 28 Nov 2003 @ Kingston upon Thames
+Ethan Brierley,               M,  - ,      b. 23 Nov 2003 @ Rochdale
+Imani Lanquedoc,              M,  - ,      b. 15 Nov 2003 @ Croydon
+Micah Hamlton,                M,  - ,      b. 13 Nov 2003 @ Manchester
+Will Brook,                   G,  - ,      b. 9 Nov 2003 @ Pontefract
+Aidan Francis-Clarke,         D,  - ,      b. 8 Nov 2003
+Marcus Ifill,                 M,  - ,      b. 2 Nov 2003 @ Swindon
+Rhys Bennett,                 D,  - ,      b. 30 Oct 2003 @ Manchester
+Matt Dibley-Dias,             M,  1.83 m,  b. 29 Oct 2003 @ Lower Hutt
+Jack Perkins,                 M,  - ,      b. 26 Oct 2003 @ Nottingham
+Logan Pye,                    D,  - ,      b. 26 Oct 2003 @ Sunderland
+Stanley Mills,                M,  1.80 m,  b. 25 Oct 2003 @ Norwich
+Billy Vigar,                  F,  - ,      b. 22 Oct 2003 @ Worthing
+Carney Chukwuemeka,           M,  1.82 m,  b. 20 Oct 2003 @ Eisenstadt
+Joe Hugill,                   F,  - ,      b. 19 Oct 2003 @ Durham
+Charlie Patino,               M,  - ,      b. 17 Oct 2003 @ Watford
+Teddy Rowe,                   M,  - ,      b. 17 Oct 2003
+Louie Marsh,                  F,  - ,      b. 16 Oct 2003 @ Sheffield
+Zane Monlouis,                D,  - ,      b. 16 Oct 2003 @ Lewisham
+Taylor Foran,                 D,  - ,      b. 14 Oct 2003 @ Hillingdon
+Tawanda Chirewa,              M,  - ,      b. 11 Oct 2003
+Callum Doyle,                 D,  1.85 m,  b. 3 Oct 2003 @ Manchester
+Rico Richards,                M,  1.75 m,  b. 27 Sep 2003 @ Birmingham
+Chisom Afoka,                 M,  - ,      b. 23 Sep 2003
+Harvey Griffiths,             M,  - ,      b. 22 Sep 2003 @ Oldham
+James Balagizi,               M,  1.89 m,  b. 20 Sep 2003 @ Manchester
+Tai Sodje,                    F,  - ,      b. 20 Sep 2003 @ Sheffield
+Reece Welch,                  D,  - ,      b. 19 Sep 2003 @ Huddersfield
+Luke Mbete-Tabu,              D,  - ,      b. 18 Sep 2003 @ Westminster
+Archie Woods,                 M,  - ,      b. 17 Sep 2003 @ Brentwood
+Charlie Whitaker,             M,  - ,      b. 16 Sep 2003
+Harvey Blair,                 F,  - ,      b. 14 Sep 2003 @ Huddersfield
+Freddie Potts,                M,  1.83 m,  b. 12 Sep 2003 @ Romford
+Khayon Edwards,               F,  - ,      b. 12 Sep 2003 @ Islington
+Aaron Keto-Diyawa,            D,  - ,      b. 11 Sep 2003
+Charlie McNeill,              F,  - ,      b. 9 Sep 2003 @ Droylsden
+Katia Kouyate,                F,  - ,      b. 9 Sep 2003 @ Manchester
+Callum McFarlane,             F,  1.91 m,  b. 8 Sep 2003
+Malcolm Ebiowei,              F,  - ,      b. 4 Sep 2003 @ Lambeth
+Ademola Ola-Adebomi,          F,  - ,      b. 3 Sep 2003 @ Lambeth
+Ben Jackson,                  D,  - ,      b. 3 Sep 2003 @ Hillingdon
+Dominic Sadi,                 M,  - ,      b. 2 Sep 2003 @ Enfield
+Alex Scott,                   M,  1.78 m,  b. 21 Aug 2003 @ Guernsey
+Andre Brooks,                 D,  - ,      b. 20 Aug 2003 @ Sheffield
+Jili Buyabu,                  M,  - ,      b. 9 Aug 2003 @ Enfield
+Mason Burstow,                F,  1.87 m,  b. 4 Aug 2003 @ Greenwich
+Danny Imray,                  D,  - ,      b. 27 Jul 2003 @ Harold Wood
+Sebastian Revan,              D,  - ,      b. 14 Jul 2003 @ West Bromwich
+Daniel Jebbison,              F,  1.90 m,  b. 11 Jul 2003 @ Oakville
+Tim Iroegbunam,               M,  - ,      b. 30 Jun 2003 @ West Bromwich
+Jude Bellingham,              M,  1.80 m,  b. 29 Jun 2003 @ Stourbridge
+Finley Burns,                 D,  1.85 m,  b. 17 Jun 2003 @ Southwark
+Kie Plumley,                  G,  - ,      b. 21 May 2003
+Noah Watson,                  D,  - ,      b. 5 May 2003 @ Bromley
+Ovie Ejeheri,                 G,  1.83 m,  b. 23 Apr 2003 @ Greenwich
+Levi Laing,                   D,  - ,      b. 12 Apr 2003 @ Kingston upon Thames
+Harvey Elliott,               M,  1.70 m,  b. 4 Apr 2003 @ Chertsey
+Teddy Sharman-Lowe,           G,  1.89 m,  b. 30 Mar 2003 @ Leicester
+Cameron Ferguson,             F,  - ,      b. 24 Mar 2003 @ Liverpool
+Owen Dodgson,                 D,  1.78 m,  b. 19 Mar 2003 @ Lancaster
+Bashir Humphreys,             D,  1.86 m,  b. 15 Mar 2003 @ Exeter
+Martial Godo,                 M,  1.69 m,  b. 14 Mar 2003 @ Greenwich
+Ryan Trevitt,                 M,  1.70 m,  b. 12 Mar 2003
+Nile John,                    M,  - ,      b. 6 Mar 2003 @ White City
+Tyler Onyango,                M,  - ,      b. 4 Mar 2003 @ Luton
+Hubert Graczyk,               G,  - ,      b. 28 Feb 2003 @ Skwierzyna
+Levi Colwill,                 D,  1.87 m,  b. 26 Feb 2003 @ Southampton
+Karamoko Dembélé,             M,  1.61 m,  b. 22 Feb 2003 @ Lambeth
+Ben Greenwood,                D,  - ,      b. 20 Feb 2003 @ Frimley
+William Fish,                 D,  1.85 m,  b. 17 Feb 2003 @ Manchester
+Amadou Diallo,                F,  - ,      b. 15 Feb 2003
+John-Kymani Gordon,           F,  - ,      b. 13 Feb 2003 @ Croydon
+Liam Delap,                   F,  1.86 m,  b. 8 Feb 2003 @ Winchester
+Imari Samuels,                D,  1.87 m,  b. 5 Feb 2003 @ Hammersmith
+Jack Hinchy,                  M,  1.80 m,  b. 30 Jan 2003 @ Swindon
+Jarell Quansah,               D,  - ,      b. 29 Jan 2003 @ Warrington
+Aaron Ramsey,                 M,  - ,      b. 21 Jan 2003 @ Birmingham
+Nathan Butler-Oyedeji,        F,  - ,      b. 4 Jan 2003 @ Waltham Forest
+Lewis Dobbin,                 F,  - ,      b. 3 Jan 2003 @ Stoke-on-Trent
+CJ Egan-Riley,                D,  1.83 m,  b. 2 Jan 2003 @ Manchester
+
+Josh Wilson-Esbrand,          D,  1.76 m,  b. 26 Dec 2002 @ Hackney
+Filip Marschall,              G,  1.95 m,  b. 15 Dec 2002 @ Bedford
+Dylan Stephenson,             M,  - ,      b. 10 Dec 2002 @ Ashington
+Kamarai Simon-Swyer,          M,  1.83 m,  b. 4 Dec 2002 @ Redbridge
+Cameron Plain,                G,  - ,      b. 28 Nov 2002 @ Winchester
+Jay Stansfield,               F,  1.87 m,  b. 24 Nov 2002 @ Exeter
+Oscar Kelly,                  G,  - ,      b. 22 Nov 2002 @ Liverpool
+Chris Francis,                D,  - ,      b. 15 Nov 2002
+Tino Livramento,              D,  1.73 m,  b. 12 Nov 2002 @ Croydon
+Luciano D'Auria-Henry,        D,  - ,      b. 11 Nov 2002
+Luke Plange,                  F,  1.78 m,  b. 4 Nov 2002 @ Kingston upon Thames
+Charlie Wiggett,              D,  - ,      b. 2 Nov 2002 @ Reading
+Alex Kirk,                    D,  - ,      b. 27 Oct 2002
+Idris Odutayo,                D,  1.85 m,  b. 26 Oct 2002 @ Lambeth
+Odel Offiah,                  D,  1.81 m,  b. 26 Oct 2002 @ Camden
+Kaine Kesler Hayden,          D,  1.75 m,  b. 23 Oct 2002 @ Birmingham
+James McAtee,                 M,  1.80 m,  b. 18 Oct 2002 @ Salford
+Max Robson,                   M,  - ,      b. 17 Oct 2002 @ Haywards Heath
+Thomas Hill,                  M,  - ,      b. 13 Oct 2002 @ Formby
+James Trafford,               G,  1.97 m,  b. 10 Oct 2002 @ Carlisle
+Lewis Warrington,             M,  1.75 m,  b. 10 Oct 2002 @ Birkenhead
+Jesuran Rak-Sakyi,            M,  1.78 m,  b. 5 Oct 2002 @ Southwark
+Joe White,                    M,  1.86 m,  b. 1 Oct 2002 @ Carlisle
+Kido Taylor-Hart,             F,  - ,      b. 30 Sep 2002 @ Barnet
+Joe Young,                    G,  1.79 m,  b. 22 Sep 2002 @ Telford
+Miguel Azeez,                 M,  - ,      b. 20 Sep 2002 @ Camden
+Myles Peart-Harris,           M,  1.87 m,  b. 18 Sep 2002 @ Isleworth
+Nathan Carlyon,               M,  - ,      b. 14 Sep 2002 @ Durham
+Josh Scott,                   D,  - ,      b. 13 Sep 2002 @ Gateshead
+Josh Brooking,                D,  - ,      b. 1 Sep 2002 @ Reading
+Morgan Rogers,                M,  1.87 m,  b. 26 Jul 2002 @ Halesowen
+Jarrad Branthwaite,           D,  1.87 m,  b. 27 Jun 2002 @ Carlisle
+Ben Knight,                   M,  - ,      b. 14 Jun 2002 @ Cambridge
+Jack Barrett,                 G,  - ,      b. 4 Jun 2002
+Jaden Philogene-Bidace,       M,  1.81 m,  b. 18 May 2002 @ Hammersmith
+Cole Palmer,                  F,  1.89 m,  b. 6 May 2002 @ Wythenshawe
+Teden Mengi,                  D,  1.83 m,  b. 30 Apr 2002 @ Manchester
+Femi Seriki,                  D,  - ,      b. 28 Apr 2002 @ Manchester
+Alex Mighten,                 M,  1.81 m,  b. 11 Apr 2002 @ Nottingham
+Daniel Chesters,              M,  1.79 m,  b. 4 Apr 2002 @ Hitchin
+Thierry Nevers,               F,  - ,      b. 26 Mar 2002 @ Reading
+Noni Madueke,                 M,  1.82 m,  b. 10 Mar 2002 @ Barnet
+Tyrell Ashcroft,              D,  - ,      b. 7 Mar 2002
+Jensen Weir,                  M,  1.86 m,  b. 31 Jan 2002 @ Warrington
+Taylor Harwood-Bellis,        D,  1.88 m,  b. 30 Jan 2002 @ Stockport
+James Hill,                   D,  1.84 m,  b. 10 Jan 2002 @ Bristol
+Will Brown,                   G,  - ,      b. 10 Jan 2002 @ Newcastle upon Tyne
+
+Cameron Archer,               F,  1.81 m,  b. 9 Dec 2001 @ Walsall
+Harry Tyrer,                  G,  - ,      b. 6 Dec 2001 @ Crosby
+Tino Anjorin,                 M,  1.85 m,  b. 23 Nov 2001 @ Poole
+MacKenzie Hunt,               M,  - ,      b. 14 Nov 2001 @ Liverpool
+George Wickens,               G,  - ,      b. 8 Nov 2001 @ Petersfield
+Remi Savage,                  D,  - ,      b. 26 Oct 2001 @ Liverpool
+Tommy Doyle,                  M,  1.72 m,  b. 17 Oct 2001 @ Manchester
+Keenan Appiah-Forson,         M,  - ,      b. 16 Oct 2001 @ Greenwich
+Mason Greenwood,              F,  1.81 m,  b. 1 Oct 2001 @ Bradford
+Arthur Okonkwo,               G,  1.95 m,  b. 9 Sep 2001 @ Camden
+Bukayo Saka,                  M,  1.78 m,  b. 5 Sep 2001 @ Ealing
+Folarin Balogun,              F,  1.78 m,  b. 3 Jul 2001 @ New York
+Carl Rushworth,               G,  1.88 m,  b. 2 Jul 2001 @ Halifax
+Luke Thomas,                  D,  1.74 m,  b. 10 Jun 2001 @ Leicester
+Jacob Ramsey,                 M,  1.66 m,  b. 28 May 2001 @ Birmingham
+George Shelvey,               G,  1.88 m,  b. 22 Apr 2001 @ Nottingham
+Marcus Dewhurst,              G,  1.89 m,  b. 20 Mar 2001 @ Kingston Upon Hull
+James Garner,                 M,  1.86 m,  b. 13 Mar 2001 @ Birkenhead
+Anthony Gordon,               M,  1.73 m,  b. 24 Feb 2001 @ Liverpool
+Keane Lewis-Potter,           F,  1.75 m,  b. 22 Feb 2001 @ Kingston upon Hull
+Clinton Mola,                 M,  1.83 m,  b. 15 Feb 2001 @ Camden
+Tyreece John-Jules,           F,  1.83 m,  b. 14 Feb 2001 @ Westminster
+Kyle John,                    D,  1.76 m,  b. 13 Feb 2001 @ Chester
+Rhys Williams,                D,  1.96 m,  b. 3 Feb 2001 @ Preston
+Curtis Jones,                 M,  1.85 m,  b. 30 Jan 2001 @ Liverpool
+James Hillson,                G,  - ,      b. 14 Jan 2001 @ Bedford
+Arvin Appiah,                 F,  1.73 m,  b. 5 Jan 2001 @ Amsterdam
+
+Brooklyn Lyons-Foster,        D,  1.81 m,  b. 1 Dec 2000 @ Archway
+Callum Hudson-Odoi,           M,  1.77 m,  b. 7 Nov 2000 @ Wandsworth
+Jonathan Panzo,               D,  1.85 m,  b. 25 Oct 2000 @ Southwark
+Felix Nmecha,                 M,  1.86 m,  b. 10 Oct 2000 @ Hamburg
+Nathan Ferguson,              D,  1.80 m,  b. 6 Oct 2000 @ Birmingham
+Oliver Skipp,                 M,  1.75 m,  b. 16 Sep 2000 @ Hatfield
+Brandon Williams,             D,  1.82 m,  b. 3 Sep 2000 @ Manchester
+Angel Gomes,                  M,  1.68 m,  b. 31 Aug 2000 @ Enfield
+Djed Spence,                  D,  1.84 m,  b. 9 Aug 2000 @ London
+Emile Smith Rowe,             M,  1.82 m,  b. 28 Jul 2000 @ Croydon
+Jayden Bogle,                 D,  1.78 m,  b. 27 Jul 2000 @ Reading
+Marc Guéhi,                   D,  1.82 m,  b. 13 Jul 2000 @ Abidjan
+Joseph Anang,                 G,  1.83 m,  b. 8 Jun 2000
+Phil Foden,                   M,  1.71 m,  b. 28 May 2000 @ Stockport
+Ryan Sessegnon,               M,  1.78 m,  b. 18 May 2000 @ Roehampton
+Rhian Brewster,               F,  1.76 m,  b. 1 Apr 2000 @ Redbridge
+Jadon Sancho,                 F,  1.78 m,  b. 25 Mar 2000 @ Lambeth
+Tom McGill,                   G,  1.85 m,  b. 25 Mar 2000 @ Haywards Heath
+Conor Gallagher,              M,  1.82 m,  b. 6 Feb 2000 @ Epsom
+Billy Crellin,                G,  1.85 m,  b. 30 Jan 2000 @ Blackpool
+Morgan Gibbs-White,           M,  1.78 m,  b. 27 Jan 2000 @ Stafford
+Ryan Giles,                   M,  1.79 m,  b. 26 Jan 2000 @ Telford
+Ben Johnson,                  D,  1.75 m,  b. 24 Jan 2000 @ Waltham Forest
+Max Aarons,                   D,  1.76 m,  b. 4 Jan 2000 @ Hammersmith
+
+Alfie Doughty,                M,  1.83 m,  b. 21 Dec 1999 @ Hatfield
+Reiss Nelson,                 F,  1.75 m,  b. 10 Dec 1999 @ Lambeth
+Reece James,                  D,  1.83 m,  b. 8 Dec 1999 @ Redbridge
+Jaidon Anthony,               F,  1.83 m,  b. 1 Dec 1999 @ Hackney
+Dwight McNeil,                M,  1.83 m,  b. 22 Nov 1999 @ Rochdale
+Kelland Watts,                D,  1.92 m,  b. 3 Nov 1999 @ Alnwick
+Ellery Balcombe,              G,  1.83 m,  b. 15 Oct 1999 @ Watford
+Tyrese Fornah,                M,  1.81 m,  b. 11 Sep 1999 @ Camden
+Tyrick Mitchell,              D,  1.74 m,  b. 1 Sep 1999 @ Brent
+Joe Willock,                  M,  1.79 m,  b. 20 Aug 1999 @ Waltham Forest
+John McAtee,                  F,  1.80 m,  b. 23 Jul 1999 @ Salford
+Scott Twine,                  F,  1.74 m,  b. 14 Jul 1999 @ Swindon
+Nathan Tella,                 M,  1.73 m,  b. 5 Jul 1999 @ Lambeth
+Trevoh Chalobah,              M,  1.90 m,  b. 5 Jul 1999 @ Freetown
+Eddie Nketiah,                F,  1.75 m,  b. 30 May 1999 @ Lewisham
+Japhet Tanganga,              D,  1.84 m,  b. 31 Mar 1999 @ Hackney
+Marcus Tavernier,             M,  1.77 m,  b. 22 Mar 1999 @ Leeds
+Josh Bowler,                  M,  1.75 m,  b. 5 Mar 1999 @ Chertsey
+Flynn Downes,                 M,  1.72 m,  b. 20 Jan 1999 @ Brentwood
+Declan Rice,                  M,  1.85 m,  b. 14 Jan 1999 @ Kingston upon Thames
+Mason Mount,                  M,  1.78 m,  b. 10 Jan 1999 @ Portsmouth
+
+Reece Oxford,                 D,  1.90 m,  b. 16 Dec 1998 @ Edmonton
+Nathan Trott,                 G,  1.84 m,  b. 21 Nov 1998
+Josh Dasilva,                 M,  1.80 m,  b. 23 Oct 1998 @ Redbridge
+Lewis O'Brien,                M,  1.73 m,  b. 14 Oct 1998 @ Colchester
+Trent Alexander-Arnold,       D,  1.75 m,  b. 7 Oct 1998 @ Liverpool
+Alfie Whiteman,               G,  1.90 m,  b. 2 Oct 1998 @ Tottenham
+Jordi Osei-Tutu,              D,  1.76 m,  b. 2 Oct 1998 @ Slough
+Lloyd Kelly,                  D,  1.78 m,  b. 1 Oct 1998 @ Bristol
+Gabriel Osho,                 D,  - ,      b. 14 Aug 1998 @ Reading
+Tom Davies,                   M,  1.80 m,  b. 30 Jun 1998 @ Liverpool
+Eberechi Eze,                 M,  1.73 m,  b. 29 Jun 1998 @ Greenwich
+Aaron Ramsdale,               G,  1.88 m,  b. 14 May 1998 @ Stoke-on-Trent
+Omar Richards,                D,  1.85 m,  b. 15 Feb 1998 @ Lewisham
+Ben Godfrey,                  D,  1.83 m,  b. 15 Jan 1998 @ York
+Elijah Adebayo,               F,  1.93 m,  b. 7 Jan 1998 @ Brent
+
+Harvey Barnes,                M,  1.74 m,  b. 9 Dec 1997 @ Burnley
+Aaron Wan-Bissaka,            D,  1.83 m,  b. 26 Nov 1997 @ Croydon
+Ryan Yates,                   M,  1.90 m,  b. 21 Nov 1997 @ Nottingham
+Ben White,                    D,  1.85 m,  b. 8 Nov 1997 @ Poole
+Marcus Rashford,              F,  1.80 m,  b. 31 Oct 1997 @ Manchester
+Sean Longstaff,               M,  1.81 m,  b. 30 Oct 1997 @ North Shields
+Ezri Konsa,                   D,  1.83 m,  b. 23 Oct 1997 @ Newham
+Tosin Adarabioyo,             D,  1.96 m,  b. 24 Sep 1997 @ Manchester
+Dominic Solanke,              F,  1.87 m,  b. 14 Sep 1997 @ Reading
+Ainsley Maitland-Niles,       M,  1.77 m,  b. 29 Aug 1997 @ Goodmayes
+Rico Henry,                   D,  1.70 m,  b. 8 Jul 1997 @ Birmingham
+Joe Gomez,                    D,  1.88 m,  b. 23 May 1997 @ Catford
+Max Kilman,                   D,  1.86 m,  b. 23 May 1997 @ Chelsea
+Max Lowe,                     D,  1.75 m,  b. 11 May 1997 @ Birmingham
+Nathaniel Phillips,           D,  1.90 m,  b. 21 Mar 1997 @ Bolton
+Dominic Calvert-Lewin,        F,  1.76 m,  b. 16 Mar 1997 @ Sheffield
+Dean Henderson,               G,  1.90 m,  b. 12 Mar 1997 @ Whitehaven
+Lewis Cook,                   M,  1.75 m,  b. 3 Feb 1997 @ Leeds
+Joe Worrall,                  D,  1.93 m,  b. 10 Jan 1997 @ Nottingham
+
+Ben Chilwell,                 D,  1.78 m,  b. 21 Dec 1996 @ Milton Keynes
+Jarrod Bowen,                 F,  1.74 m,  b. 20 Dec 1996 @ Leominster
+James Maddison,               M,  1.79 m,  b. 23 Nov 1996 @ Coventry
+Jack Harrison,                M,  1.75 m,  b. 20 Nov 1996 @ Stoke-on-Trent
+Mason Holgate,                D,  1.84 m,  b. 22 Oct 1996 @ Doncaster
+Reece Burke,                  D,  1.89 m,  b. 2 Sep 1996 @ Newham
+Demarai Gray,                 M,  1.79 m,  b. 28 Jun 1996 @ Birmingham
+Dele Alli,                    M,  1.88 m,  b. 11 Apr 1996 @ Milton Keynes
+Ivan Toney,                   F,  1.79 m,  b. 16 Mar 1996 @ Northampton
+
+Ollie Watkins,                F,  1.79 m,  b. 30 Dec 1995 @ Torbay
+Josh Brownhill,               M,  1.79 m,  b. 19 Dec 1995 @ Warrington
+Carlton Morris,               F,  1.85 m,  b. 16 Dec 1995 @ Cambridge
+Kalvin Phillips,              M,  1.77 m,  b. 2 Dec 1995 @ Leeds
+Matt Targett,                 D,  1.83 m,  b. 18 Sep 1995 @ Eastleigh
+Jack Grealish,                M,  1.75 m,  b. 10 Sep 1995 @ Birmingham
+Harry Toffolo,                D,  1.83 m,  b. 19 Aug 1995 @ Welwyn Garden City
+Charlie Goode,                D,  1.96 m,  b. 3 Aug 1995 @ Watford
+Luke Shaw,                    D,  1.85 m,  b. 12 Jul 1995 @ Kingston upon Thames
+Will Hughes,                  M,  1.85 m,  b. 17 Apr 1995 @ Weybridge
+Tom King,                     G,  1.86 m,  b. 9 Mar 1995 @ Plymouth
+Jacob Murphy,                 M,  1.76 m,  b. 24 Feb 1995 @ Wembley
+Harrison Reed,                M,  1.81 m,  b. 27 Jan 1995 @ Worthing
+Calum Chambers,               D,  1.82 m,  b. 20 Jan 1995 @ Petersfield
+Joe Rothwell,                 M,  1.85 m,  b. 11 Jan 1995 @ Manchester
+Adam Webster,                 D,  1.85 m,  b. 4 Jan 1995 @ West Wittering
+
+Raheem Sterling,              F,  1.70 m,  b. 8 Dec 1994 @ Kingston
+Cauley Woodrow,               F,  1.84 m,  b. 2 Dec 1994 @ Hemel Hempstead
+Rob Holding,                  D,  1.89 m,  b. 9 Nov 1994 @ Bolton
+James Ward-Prowse,            M,  1.73 m,  b. 1 Nov 1994 @ Southampton
+Matt Macey,                   G,  1.98 m,  b. 9 Sep 1994 @ Bristol
+Ben Osborn,                   M,  1.76 m,  b. 5 Aug 1994 @ Derby
+Solly March,                  M,  1.85 m,  b. 26 Jul 1994 @ Eastbourne
+John Stones,                  D,  1.88 m,  b. 28 May 1994 @ Barnsley
+Dan Potts,                    D,  1.73 m,  b. 13 Apr 1994 @ Barking
+Jordan Pickford,              G,  1.85 m,  b. 7 Mar 1994 @ Washington
+Nathan Redmond,               M,  1.73 m,  b. 6 Mar 1994 @ Birmingham
+Remi Matthews,                G,  1.84 m,  b. 10 Feb 1994 @ Gorleston
+Eric Dier,                    D,  1.88 m,  b. 15 Jan 1994 @ Cheltenham
+
+Jamaal Lascelles,             D,  1.88 m,  b. 11 Dec 1993 @ Derby
+Ross Barkley,                 M,  1.89 m,  b. 5 Dec 1993 @ Liverpool
+Jordan Clark,                 M,  1.83 m,  b. 22 Sep 1993 @ Barnsley
+Charlie Taylor,               D,  1.75 m,  b. 18 Sep 1993 @ York
+Jack Robinson,                D,  1.80 m,  b. 1 Sep 1993 @ Warrington
+Harry Kane,                   F,  1.88 m,  b. 28 Jul 1993 @ Walthamstow
+Daniel Bentley,               G,  1.88 m,  b. 13 Jul 1993 @ Basildon
+Sam Johnstone,                G,  1.93 m,  b. 25 Mar 1993 @ Preston
+Tyrone Mings,                 D,  1.91 m,  b. 13 Mar 1993 @ Bath
+Harry Maguire,                D,  1.88 m,  b. 5 Mar 1993 @ Sheffield
+Michael Keane,                D,  1.91 m,  b. 11 Jan 1993 @ Stockport
+
+James Tarkowski,              D,  1.85 m,  b. 19 Nov 1992 @ Manchester
+Ryan Fredericks,              D,  1.73 m,  b. 10 Oct 1992 @ Potters Bar
+Luke Berry,                   M,  1.77 m,  b. 12 Jul 1992 @ Bassingbourn
+Marcus Bettinelli,            G,  1.94 m,  b. 24 May 1992 @ Camberwell
+Dan Burn,                     D,  1.98 m,  b. 9 May 1992 @ Blyth
+Nick Pope,                    G,  1.91 m,  b. 19 Apr 1992 @ Cambridge
+Mark Gillespie,               G,  1.90 m,  b. 27 Mar 1992 @ Newcastle upon Tyne
+Danny Ings,                   F,  1.78 m,  b. 16 Mar 1992 @ Winchester
+Callum Wilson,                F,  1.80 m,  b. 27 Feb 1992 @ Coventry
+Jonjo Shelvey,                M,  1.83 m,  b. 27 Feb 1992 @ Romford
+
+Lewis Dunk,                   D,  1.90 m,  b. 21 Nov 1991 @ Brighton
+Andros Townsend,              M,  1.81 m,  b. 16 Jul 1991 @ Whipps Cross
+James Shea,                   G,  1.80 m,  b. 16 Jun 1991 @ Islington
+Adam Smith,                   D,  1.80 m,  b. 29 Apr 1991 @ Leytonstone
+Steve Cook,                   D,  1.85 m,  b. 19 Apr 1991 @ Hastings
+Nathaniel Clyne,              D,  1.75 m,  b. 5 Apr 1991 @ Stockwell
+Wes Foderingham,              G,  1.85 m,  b. 14 Jan 1991 @ Hammersmith
+
+Danny Welbeck,                F,  1.85 m,  b. 26 Nov 1990 @ Manchester
+Kieran Trippier,              D,  1.78 m,  b. 19 Sep 1990 @ Bury
+Jason Steele,                 G,  1.88 m,  b. 18 Aug 1990 @ Newton Aycliffe
+Kyle Walker,                  D,  1.83 m,  b. 28 May 1990 @ Sheffield
+Craig Dawson,                 D,  1.88 m,  b. 6 May 1990 @ Rochdale
+
+Aaron Cresswell,              D,  1.70 m,  b. 15 Dec 1989 @ Liverpool
+Joel Ward,                    D,  1.88 m,  b. 29 Oct 1989 @ Emsworth
+Ben Mee,                      D,  1.80 m,  b. 23 Sep 1989 @ Sale
+Jay Rodriguez,                F,  1.85 m,  b. 29 Jul 1989 @ Burnley
+Jack Cork,                    M,  1.85 m,  b. 25 Jun 1989 @ Carshalton
+James Tomkins,                D,  1.92 m,  b. 29 Mar 1989 @ Basildon
+
+Jay Spearing,                 M,  1.68 m,  b. 25 Nov 1988 @ Wirral
+Chris Basham,                 M,  1.80 m,  b. 20 Jul 1988 @ Hebburn
+Adam Lallana,                 M,  1.72 m,  b. 10 May 1988 @ St Albans
+Fraser Forster,               G,  2.01 m,  b. 17 Mar 1988 @ Hexham
+
+Tom Huddlestone,              M,  1.88 m,  b. 28 Dec 1986 @ Nottingham
+Thomas Heaton,                G,  1.88 m,  b. 15 Apr 1986 @ Chester
+James Milner,                 M,  1.75 m,  b. 4 Jan 1986 @ Wortley
+
+Scott Carson,                 G,  1.83 m,  b. 3 Sep 1985 @ Whitehaven
+Ashley Young,                 D,  1.75 m,  b. 9 Jul 1985 @ Stevenage
+
+Andy Lonergan,                G,  1.92 m,  b. 19 Oct 1983 @ Preston
+
+Billy Eastwood,               G,  - ,      -
+Bradley Moonan,               D,  - ,      -
+Bradley Slade,                D,  - ,      -
+Chimaechi Eze,                F,  - ,      -
+Daniel Maher,                 D,  - ,      -
+Dino Kaiser,                  G,  - ,      -
+Dom Plank,                    M,  - ,      -
+Elisha Sowunmi,               M,  - ,      -
+Emeka Adiele,                 D,  - ,      -
+Ezra Mayers,                  D,  - ,      -
+Fraser Harper,                F,  - ,      -
+George Finney,                D,  - ,      -
+George Pickford,              G,  - ,      -
+Harvey Foster,                M,  - ,      -
+Jethro Medine,                D,  - ,      -
+Joel Catesby,                 F,  - ,      -
+Luca Davis,                   D,  - ,      -
+Makenzie Bradbury,            M,  - ,      -
+Mehmet Halim,                 F,  - ,      -
+Mo Diomande,                  D,  - ,      -
+Riley Hargan,                 M,  - ,      -
+Sebastian Jensen,             G,  - ,      -
+Taeneal Brandy,               F,  - ,      -
+Testimony Igbinoghene,        D,  - ,      -
+Thomas Edozie,                M,  - ,      -
+Triston Rowe,                 D,  - ,      -
+Wesley Okoduwa,               D,  - ,      -
+Will Anderson,                G,  - ,      -

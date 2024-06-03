@@ -1,0 +1,439 @@
+=================================
+=  France
+
+Ayyoub Bouaddi,               M,  1.75 m,  b. 2 Oct 2007 @ Senlis
+Amidou Doumbouya,             M,  1.82 m,  b. 5 Aug 2007 @ Bourges
+Kouakou Gadou,                D,  1.95 m,  b. 17 Jan 2007 @ Aubervilliers
+
+Ethan Mbappé,                 M,  1.76 m,  b. 29 Dec 2006 @ Montreuil
+Yanis Issoufou,               F,  1.82 m,  b. 28 Oct 2006 @ Nîmes
+Daouda Traoré,                M,  1.88 m,  b. 22 Jul 2006 @ Ivry-sur-Seine
+Eli Junior Kroupi,            M,  1.79 m,  b. 23 Jun 2006 @ Lorient
+Mohamed-Amine Bouchenna,      F,  1.79 m,  b. 15 Jun 2006 @ Beaumont-sur-Oise
+Lilian Baret,                 M,  - ,      b. 25 May 2006
+Paul Argney,                  G,  1.86 m,  b. 23 May 2006 @ Granville
+Senny Mayulu,                 M,  1.83 m,  b. 17 May 2006 @ Le Blanc-Mesnil
+Yoram Zague,                  D,  1.68 m,  b. 15 May 2006 @ Paris
+Arthur Tchaptchet,            D,  1.88 m,  b. 10 May 2006 @ Besançon
+Fodé Sylla,                   M,  1.86 m,  b. 16 Apr 2006 @ Saint-Quentin
+Keyliane Abdallah,            F,  1.85 m,  b. 5 Apr 2006 @ Marseille
+Aboubacar Ali Abdallah,       F,  1.84 m,  b. 2 Apr 2006 @ Sainte-Marie
+Bastien Meupiyou,             D,  1.91 m,  b. 19 Mar 2006 @ Paris
+Warren Zaire-Emery,           M,  1.78 m,  b. 8 Mar 2006 @ Montreuil
+Nhoa Sangui,                  D,  1.78 m,  b. 27 Feb 2006 @ Creil
+Mathis Lambourde,             F,  1.80 m,  b. 9 Jan 2006 @ Les Lilas
+
+Aaron Malouda,                F,  1.83 m,  b. 30 Nov 2005 @ Écully
+Rabby Nzingoula,              M,  1.84 m,  b. 25 Nov 2005 @ Lille
+Leny Yoro,                    D,  1.90 m,  b. 13 Nov 2005 @ Saint-Maurice
+Samir El Mourabet,            M,  1.68 m,  b. 6 Oct 2005 @ Strasbourg
+Noah Edjouma,                 F,  1.81 m,  b. 4 Oct 2005 @ Clamart
+Ichem Ferrah,                 F,  1.71 m,  b. 23 Sep 2005 @ Tourcoing
+Yoni Gomis,                   D,  1.86 m,  b. 23 Sep 2005 @ Saint-Aubin-lès-Elbeuf
+Mamadou Diakhon,              F,  - ,      b. 22 Sep 2005 @ Strasbourg
+Mamadou Sarr,                 D,  1.94 m,  b. 29 Aug 2005 @ Martigues
+Valentin Atangana Edoa,       M,  1.73 m,  b. 25 Aug 2005 @ Yaoundé
+Lisandru Olmeta,              G,  1.90 m,  b. 21 Jul 2005 @ Ajaccio
+Jérémy Jacquet,               D,  1.88 m,  b. 13 Jul 2005 @ Bondy
+Mohamed Bechikh,              F,  1.83 m,  b. 13 Jul 2005 @ Créteil
+Justin Bengui João,           G,  1.90 m,  b. 9 Jul 2005 @ Montbéliard
+Lucas Michal,                 F,  - ,      b. 22 Jun 2005 @ Bourg-la-Reine
+Nathan Zézé,                  D,  1.90 m,  b. 18 Jun 2005 @ Nantes
+Noha Lemina,                  M,  1.72 m,  b. 17 Jun 2005 @ Libreville
+Mokrane Bentoumi,             M,  1.69 m,  b. 16 Jun 2005 @ Rouen
+Adame Faïz,                   M,  1.76 m,  b. 10 Jun 2005 @ Tours
+Ylies Aradj,                  D,  1.77 m,  b. 5 Jun 2005 @ Toulouse
+Désiré Doué,                  M,  1.77 m,  b. 3 Jun 2005 @ Angers
+El Chadaille Bitshiabu,       D,  1.96 m,  b. 16 May 2005 @ Villeneuve-Saint-Georges
+Ilyes Housni,                 F,  1.76 m,  b. 14 May 2005 @ Créteil
+Jean-Mattéo Bahoya,           F,  1.80 m,  b. 7 May 2005 @ Montfermeil
+Mathys Tel,                   F,  1.83 m,  b. 27 Apr 2005 @ Sarcelles
+Christian Mawissa,            D,  1.85 m,  b. 18 Apr 2005 @ Saint-Jean-de-Verges
+Dehmaine Assoumani,           M,  1.81 m,  b. 17 Apr 2005 @ Drancy
+Enzo Mongo,                   D,  1.85 m,  b. 8 Apr 2005 @ Sarcelles
+Junior Ndiaye,                F,  1.80 m,  b. 29 Mar 2005 @ Dubai
+Saël Kumbedi,                 D,  1.75 m,  b. 26 Mar 2005 @ Stains
+Axel Gueguin,                 F,  1.72 m,  b. 24 Mar 2005 @ Montpellier
+Guillaume Restes,             G,  1.86 m,  b. 11 Mar 2005 @ Toulouse
+Steve Ngoura,                 F,  1.85 m,  b. 22 Feb 2005 @ Ivry-sur-Seine
+Ousmane Touré,                D,  1.87 m,  b. 18 Feb 2005 @ Lille
+Jeanuël Belocian,             D,  1.86 m,  b. 17 Feb 2005 @ Les Abymes
+Mahamadou Diawara,            M,  1.87 m,  b. 17 Feb 2005 @ Longjumeau
+Eliesse Ben Seghir,           M,  1.78 m,  b. 16 Feb 2005 @ Gassin
+Anthony Bermont,              F,  - ,      b. 10 Feb 2005 @ Beauvais
+Ritchy Valme,                 D,  - ,      b. 3 Feb 2005 @ Gonesse
+Killian Prouchet,             D,  1.75 m,  b. 23 Jan 2005 @ Tournan-en-Brie
+Trevis Dago,                  F,  1.83 m,  b. 21 Jan 2005 @ Villeneuve-Saint-Georges
+Noah Lahmadi,                 M,  - ,      b. 5 Jan 2005 @ La Tronche
+
+Thérence Koudou,              D,  1.78 m,  b. 13 Dec 2004 @ Livry-Gargan
+Badredine Bouanani,           M,  1.72 m,  b. 8 Dec 2004 @ Lille
+Wilson Odobert,               F,  - ,      b. 28 Nov 2004 @ Meaux
+Samuel Koeberlé,              M,  1.75 m,  b. 26 Nov 2004 @ Reims
+Ayman Kari,                   M,  1.76 m,  b. 19 Nov 2004 @ Ivry-sur-Seine
+Joseph Nduquidi,              M,  1.87 m,  b. 31 Oct 2004 @ Metz
+Christ Mbondi,                F,  - ,      b. 20 Oct 2004
+Cheick Doumbia,               D,  1.75 m,  b. 18 Oct 2004 @ Courcouronnes
+Kassoum Ouattara,             D,  1.76 m,  b. 14 Oct 2004 @ Paris
+Amine Messoussa,              F,  1.80 m,  b. 12 Oct 2004 @ Lyon
+Aïman Maurer,                 F,  1.73 m,  b. 25 Sep 2004 @ Neuilly-sur-Seine
+Edan Diop,                    M,  1.80 m,  b. 28 Aug 2004 @ Tours
+Willy Kambwala,               D,  1.92 m,  b. 25 Aug 2004 @ Kinshasa
+Alex Lebarbier,               M,  - ,      b. 23 Aug 2004 @ Paris
+Malamine Efekele,             F,  1.80 m,  b. 19 Jul 2004 @ Livry-Gargan
+Gino Caoki,                   M,  1.92 m,  b. 17 Jul 2004 @ Saint-Herblain
+Teo Allix,                    D,  1.83 m,  b. 5 Jul 2004 @ Montpellier
+Nicolas Wasbauer,             D,  - ,      b. 4 Jul 2004 @ Toulouse
+Stredair Owusu Appuah,        F,  1.85 m,  b. 27 Jun 2004 @ Sarcelles
+Antonin Cartillier,           D,  1.76 m,  b. 23 Jun 2004 @ Blois
+Khalil Fayad,                 M,  1.72 m,  b. 9 Jun 2004 @ Montpellier
+Alexandre Tunkadi,            M,  1.83 m,  b. 7 Jun 2004 @ Antony
+Kény Mbala,                   D,  1.91 m,  b. 2 Jun 2004 @ Nantes
+Reda Belahyane,               M,  1.69 m,  b. 1 Jun 2004 @ Paris
+Antoine Mendy,                D,  1.87 m,  b. 27 May 2004 @ Marseille
+Yannis Nahounou,              D,  1.90 m,  b. 16 May 2004 @ Meaux
+Aurélien Pelon,               D,  1.86 m,  b. 6 May 2004 @ La Roche-sur-Yon
+Mathéo Bodmer,                M,  1.79 m,  b. 6 May 2004 @ Lille
+Élysée Logbo,                 F,  1.88 m,  b. 6 May 2004 @ Paris
+Mamadou Coulibaly,            M,  - ,      b. 21 Apr 2004 @ Paris
+Rayan Bamba,                  D,  - ,      b. 14 Apr 2004 @ Paris
+Ismaël Gharbi,                M,  1.73 m,  b. 10 Apr 2004 @ Paris
+Mohamed El Arouch,            M,  1.66 m,  b. 6 Apr 2004 @ Orange
+Lesley Ugochukwu,             M,  1.88 m,  b. 26 Mar 2004 @ Rennes
+Mathieu Patouillet,           G,  1.88 m,  b. 20 Feb 2004 @ Lyon
+Djaoui Cissé,                 M,  1.88 m,  b. 31 Jan 2004 @ Juvisy-sur-Orge
+Mohamed Sylla,                D,  1.89 m,  b. 30 Jan 2004 @ Aubervilliers
+Yann Batola,                  G,  - ,      b. 26 Jan 2004 @ Orléans
+Mohamed-Ali Cho,              F,  1.82 m,  b. 19 Jan 2004 @ Stains
+
+Bilal Nadir,                  M,  1.79 m,  b. 28 Nov 2003 @ Nice
+Taïryk Arconte,               F,  1.81 m,  b. 12 Nov 2003 @ Les Abymes
+Paolo Sciortino,              M,  1.77 m,  b. 5 Nov 2003 @ Marseille
+Soungoutou Magassa,           M,  1.88 m,  b. 8 Oct 2003 @ Stains
+Loum Tchaouna,                F,  1.80 m,  b. 8 Sep 2003 @ N'Djamena
+Axel Camblan,                 F,  1.68 m,  b. 30 Aug 2003 @ Brest
+Rayan Cherki,                 M,  1.77 m,  b. 17 Aug 2003 @ Lyon
+Félix Lemaréchal,             M,  1.81 m,  b. 7 Aug 2003 @ Tours
+Ismaël Doukouré,              D,  1.82 m,  b. 25 Jul 2003 @ Lille
+Tom Pouilly,                  M,  1.80 m,  b. 18 Jun 2003 @ Liévin
+Malo Gusto,                   D,  1.79 m,  b. 19 May 2003 @ Décines-Charpieu
+Andy Diouf,                   M,  1.81 m,  b. 17 May 2003 @ Neuilly-sur-Seine
+Junior Mwanga,                D,  1.84 m,  b. 11 May 2003 @ Lyon
+Tom Louchet,                  D,  1.78 m,  b. 4 May 2003 @ Manosque
+Moussa Cissé,                 D,  1.77 m,  b. 29 Apr 2003 @ Saint-Denis
+Jérémy Sebas,                 F,  1.76 m,  b. 14 Apr 2003 @ Sainte-Anne
+Tom Negrel,                   G,  1.92 m,  b. 13 Apr 2003 @ Nîmes
+Justin Lacombe,               G,  1.92 m,  b. 9 Apr 2003 @ Tulle
+Adam Mabrouk,                 M,  1.81 m,  b. 3 Apr 2003 @ Évry
+Cheick Keita,                 D,  1.85 m,  b. 2 Apr 2003 @ Champigny-sur-Marne
+Isaak Touré,                  D,  1.90 m,  b. 28 Mar 2003 @ Gonesse
+Matthis Abline,               F,  1.76 m,  b. 28 Mar 2003 @ Angers
+Jaouen Hadjam,                D,  1.84 m,  b. 26 Mar 2003 @ Paris
+Josué Escartin,               D,  1.93 m,  b. 21 Mar 2003 @ Fleury-les-Aubrais
+Yann Liénard,                 G,  1.92 m,  b. 16 Mar 2003 @ Aubagne
+Antoine Joujou,               F,  1.89 m,  b. 12 Mar 2003 @ Mantes-la-Jolie
+Aurélien Platret,             D,  1.77 m,  b. 20 Feb 2003 @ Grasse
+Hugo Boutsingkham,            D,  1.72 m,  b. 20 Jan 2003 @ Champs-sur-Marne
+Arthur Atta,                  M,  1.89 m,  b. 14 Jan 2003 @ Rennes
+Alan Virginius,               F,  1.79 m,  b. 3 Jan 2003 @ Soisy-sous-Montmorency
+Elye Wahi,                    F,  1.84 m,  b. 2 Jan 2003 @ Courcouronnes
+
+Pablo Pagis,                  F,  1.81 m,  b. 29 Dec 2002 @ Montbéliard
+Yllan Okou,                   D,  1.80 m,  b. 23 Dec 2002 @ Poitiers
+Castello Lukeba,              D,  1.84 m,  b. 17 Dec 2002 @ Lyon
+Farès Chaïbi,                 M,  1.83 m,  b. 28 Nov 2002 @ Lyon
+Billy Koumetio,               D,  1.95 m,  b. 14 Nov 2002 @ Lyon
+Dembo Sylla,                  D,  1.75 m,  b. 10 Nov 2002 @ Laval
+Eduardo Camavinga,            M,  1.82 m,  b. 10 Nov 2002 @ Miconje
+Djibrili Konte,               F,  1.82 m,  b. 4 Nov 2002 @ Saint-Denis
+Johann Lepenant,              M,  1.76 m,  b. 22 Oct 2002 @ Granville
+Guéla Doué,                   D,  1.86 m,  b. 17 Oct 2002 @ Angers
+Théo Le Bris,                 M,  1.65 m,  b. 1 Oct 2002 @ Rennes
+Noam Emeran,                  F,  1.79 m,  b. 24 Sep 2002 @ Paray-le-Monial
+Yanis Massolin,               M,  1.97 m,  b. 20 Sep 2002 @ Moulins
+Timothée Pembele,             D,  1.84 m,  b. 9 Sep 2002 @ Beaumont-sur-Oise
+Bradley Barcola,              F,  1.82 m,  b. 2 Sep 2002 @ Villeurbanne
+Dilane Bakwa,                 F,  1.79 m,  b. 26 Aug 2002 @ Créteil
+Nabil Aberdin,                D,  - ,      b. 23 Aug 2002 @ Paris
+Yoann Cathline,               F,  1.76 m,  b. 22 Jul 2002 @ Champigny-sur-Marne
+Enzo Millot,                  M,  1.75 m,  b. 17 Jul 2002 @ Le Chesnay
+Adil Aouchiche,               M,  1.81 m,  b. 15 Jul 2002 @ Le Blanc-Mesnil
+Théo Borne,                   G,  1.91 m,  b. 15 Jul 2002 @ Montbéliard
+Joe-Loic Affamah,             F,  1.75 m,  b. 29 Jun 2002 @ Lomé
+Hugo Ekitike,                 F,  1.89 m,  b. 20 Jun 2002 @ Reims
+Tanguy Nianzou,               D,  1.87 m,  b. 7 Jun 2002 @ Paris
+Albin Demouchy,               D,  1.78 m,  b. 31 May 2002 @ Dieppe
+Maxime Estève,                D,  1.93 m,  b. 26 May 2002 @ Montpellier
+Théo Zidane,                  M,  1.96 m,  b. 18 May 2002 @ Marseille
+Kiliann Sildillia,            D,  1.86 m,  b. 16 May 2002 @ Montigny-lès-Metz
+Quentin Merlin,               D,  1.74 m,  b. 16 May 2002 @ Nantes
+Chrislain Matsima,            D,  1.90 m,  b. 15 May 2002 @ Colombes
+Bradley Locko,                D,  1.80 m,  b. 6 May 2002 @ Ivry-sur-Seine
+Skelly Alvero,                M,  1.98 m,  b. 2 May 2002 @ Stains
+Sacha Delaye,                 M,  1.71 m,  b. 23 Apr 2002 @ Rennes
+Naouirou Ahamada,             M,  1.83 m,  b. 29 Mar 2002 @ Marseille
+Nathanaël Mbuku,              F,  1.70 m,  b. 16 Mar 2002 @ Villeneuve-Saint-Georges
+Maghnes Akliouche,            M,  1.75 m,  b. 25 Feb 2002 @ Tremblay-en-France
+Brice Negouai,                D,  1.85 m,  b. 17 Feb 2002 @ Villeurbanne
+Lucien Agoumé,                M,  1.85 m,  b. 9 Feb 2002 @ Yaoundé
+Arnaud Kalimuendo,            F,  1.75 m,  b. 20 Jan 2002 @ Suresnes
+Mohamed Achi,                 M,  1.71 m,  b. 16 Jan 2002 @ Bondy
+Étienne Youté Kinkoué,        D,  1.95 m,  b. 14 Jan 2002 @ Lyon
+Léo Jousselin,                D,  1.81 m,  b. 2 Jan 2002 @ Nantes
+
+Michael Olise,                M,  1.89 m,  b. 12 Dec 2001
+Rassoul Ndiaye,               M,  1.79 m,  b. 11 Dec 2001 @ Besançon
+Adrien Truffert,              D,  1.73 m,  b. 20 Nov 2001 @ Liège
+Lucas Chevalier,              G,  1.92 m,  b. 6 Nov 2001 @ Calais
+Joris Chotard,                M,  1.79 m,  b. 24 Sep 2001 @ Orange
+Josué Casimir,                F,  1.78 m,  b. 24 Sep 2001 @ Baie-Mahault
+Jordy Makengo,                D,  1.91 m,  b. 3 Aug 2001 @ Saint-Denis
+Han-Noah Massengo,            M,  1.77 m,  b. 7 Jul 2001 @ Villepinte
+Yanis Begraoui,               F,  1.75 m,  b. 4 Jul 2001 @ Étampes
+Neil El Aynaoui,              M,  1.85 m,  b. 2 Jul 2001 @ Nancy
+Evann Guessand,               F,  1.87 m,  b. 1 Jul 2001 @ Ajaccio
+Yannis M'Bemba,               D,  1.90 m,  b. 1 Jul 2001 @ Amiens
+Marvin Senaya,                D,  1.79 m,  b. 28 Jun 2001 @ Saint-Louis
+Loïc Mbe Soh,                 D,  1.87 m,  b. 13 Jun 2001 @ Souza Gare
+Anthony Rouault,              D,  1.86 m,  b. 29 May 2001 @ Saint-Colomb-de-Lauzun
+Loris Mouyokolo,              D,  1.94 m,  b. 22 May 2001 @ Drancy
+Kouadio Koné,                 M,  1.76 m,  b. 17 May 2001 @ Colombes
+Maxime Bastian,               D,  1.73 m,  b. 9 May 2001 @ Saverne
+Yannick Pandor,               G,  1.92 m,  b. 1 May 2001 @ Marseille
+Naël Jaby,                    M,  1.75 m,  b. 20 Apr 2001 @ Clermont-Ferrand
+Guillaume Dietsch,            G,  1.85 m,  b. 17 Apr 2001 @ Forbach
+Teddy Boulhendi,              G,  1.85 m,  b. 9 Apr 2001 @ Martigues
+Ateef Konaté,                 F,  1.79 m,  b. 4 Apr 2001 @ Aubervilliers
+Khéphren Thuram,              M,  1.92 m,  b. 26 Mar 2001 @ Reggio Emilia
+William Saliba,               D,  1.93 m,  b. 24 Mar 2001 @ Bondy
+Benoît Badiashile,            D,  1.92 m,  b. 6 Mar 2001 @ Limoges
+Tanguy Coulibaly,             M,  1.75 m,  b. 18 Feb 2001 @ Sèvres
+Thomas Himeur,                G,  1.87 m,  b. 17 Jan 2001 @ Toulouse
+Steven Baseya,                D,  1.89 m,  b. 14 Jan 2001 @ Longjumeau
+Yann Gboho,                   M,  1.73 m,  b. 14 Jan 2001 @ Man
+Bafodé Diakité,               D,  1.82 m,  b. 6 Jan 2001 @ Toulouse
+
+Wesley Fofana,                D,  1.85 m,  b. 17 Dec 2000 @ Marseille
+Julien Ponceau,               M,  1.70 m,  b. 28 Nov 2000 @ Catumbela
+Enzo Loiodice,                M,  1.76 m,  b. 27 Nov 2000 @ Paris
+Junior Dina Ebimbe,           M,  1.83 m,  b. 21 Nov 2000 @ Stains
+Melvin Bard,                  D,  1.73 m,  b. 6 Nov 2000 @ Écully
+Niels Nkounkou,               D,  1.84 m,  b. 1 Nov 2000 @ Pontoise
+Alexis Beka Beka,             M,  1.75 m,  b. 4 Oct 2000 @ Paris
+Sacha Boey,                   D,  1.78 m,  b. 13 Sep 2000 @ Montreuil
+Amine Salama,                 F,  1.92 m,  b. 18 Jul 2000 @ Paris
+Lorenz Assignon,              D,  1.81 m,  b. 22 Jun 2000 @ Grasse
+Sofiane Diop,                 M,  1.75 m,  b. 9 Jun 2000 @ Tours
+Mohamed Simakan,              D,  1.87 m,  b. 3 May 2000 @ Marseille
+Warmed Omari,                 D,  1.85 m,  b. 23 Apr 2000 @ Bandraboua
+Loïc Badé,                    D,  1.91 m,  b. 11 Apr 2000 @ Sèvres
+Maxence Lacroix,              D,  1.90 m,  b. 6 Apr 2000 @ Villeneuve-Saint-Georges
+Giulian Biancone,             D,  1.87 m,  b. 31 Mar 2000 @ Fréjus
+Billal Brahimi,               F,  1.83 m,  b. 14 Mar 2000 @ Paris
+Nathan Ngoumou,               M,  1.82 m,  b. 14 Mar 2000 @ Toulouse
+Andy Pelmard,                 D,  1.79 m,  b. 12 Mar 2000 @ Nice
+Amine Gouiri,                 F,  1.80 m,  b. 16 Feb 2000 @ Bourgoin-Jallieu
+Maxence Caqueret,             M,  1.74 m,  b. 15 Feb 2000 @ Vénissieux
+Léo Leroy,                    M,  1.85 m,  b. 14 Feb 2000 @ Marseille
+Dominique Youfeigane,         G,  1.88 m,  b. 7 Feb 2000 @ Saint-Maurice
+Enzo Le Fée,                  M,  1.70 m,  b. 3 Feb 2000 @ Lorient
+Aurélien Tchouaméni,          M,  1.85 m,  b. 27 Jan 2000 @ Rouen
+
+Jean-Clair Todibo,            D,  1.90 m,  b. 30 Dec 1999 @ Cayenne
+Hianga'a M'Bock,              M,  1.86 m,  b. 28 Dec 1999 @ Brest
+Boubacar Kamara,              D,  1.78 m,  b. 23 Nov 1999 @ Marseille
+Yehvann Diouf,                G,  1.85 m,  b. 16 Nov 1999 @ Montreuil
+Lilian Brassier,              D,  1.84 m,  b. 2 Nov 1999 @ Argenteuil
+Simon Elisor,                 F,  1.86 m,  b. 22 Jul 1999 @ Périgueux
+Adrien Lebeau,                M,  1.75 m,  b. 8 Jul 1999 @ Vénissieux
+Moussa Diaby,                 F,  1.70 m,  b. 7 Jul 1999 @ Paris
+Dan-Axel Zagadou,             D,  1.95 m,  b. 3 Jun 1999 @ Créteil
+Ibrahima Konaté,              D,  1.93 m,  b. 25 May 1999 @ Paris
+Mattéo Guendouzi,             M,  1.80 m,  b. 14 Apr 1999 @ Poissy
+Modibo Sagnan,                D,  1.87 m,  b. 14 Apr 1999 @ Saint-Denis
+Stanley Nsoki,                D,  1.85 m,  b. 9 Apr 1999 @ Poissy
+Gregoire Coudert,             G,  1.88 m,  b. 3 Apr 1999 @ Rodez
+Boubakary Soumaré,            M,  1.88 m,  b. 27 Feb 1999 @ Noisy-le-Sec
+Nabil Alioui,                 F,  1.75 m,  b. 18 Feb 1999 @ Toulon
+Alban Lafont,                 G,  1.93 m,  b. 23 Jan 1999 @ Ouagadougou
+Youssouf Fofana,              M,  1.76 m,  b. 10 Jan 1999 @ Paris
+Nicolas Cozza,                D,  1.78 m,  b. 8 Jan 1999 @ Ganges
+
+Kylian Mbappé,                F,  1.78 m,  b. 20 Dec 1998 @ Paris
+Stéphane Diarra,              M,  1.73 m,  b. 9 Dec 1998 @ Abidjan
+Randal Kolo Muani,            F,  1.87 m,  b. 5 Dec 1998 @ Bondy
+Lucas Perrin,                 D,  1.87 m,  b. 19 Nov 1998 @ Marseille
+Jules Koundé,                 D,  1.78 m,  b. 12 Nov 1998 @ Paris
+Dayot Upamecano,              D,  1.88 m,  b. 27 Oct 1998 @ Evreux
+Théo Sainte-Luce,             D,  1.81 m,  b. 20 Oct 1998 @ Chauny
+Bilal Boutobba,               M,  1.75 m,  b. 29 Aug 1998 @ Marseille
+Ronaël Pierre-Gabriel,        D,  1.77 m,  b. 13 Aug 1998 @ Paris
+Romain Faivre,                M,  1.80 m,  b. 14 Jul 1998 @ Asnières-sur-Seine
+Yann Karamoh,                 F,  1.85 m,  b. 8 Jul 1998 @ Abidjan
+Faitout Maouassa,             D,  1.70 m,  b. 6 Jul 1998 @ Villepinte
+Mahdi Camara,                 M,  1.78 m,  b. 30 Jun 1998 @ Martigues
+Jean-Ricner Bellegarde,       M,  1.70 m,  b. 27 Jun 1998 @ Colombe
+Youssef Maziz,                M,  1.75 m,  b. 24 Jun 1998 @ Thionville
+Arnaud Nordin,                F,  1.70 m,  b. 17 Jun 1998 @ Paris
+Jean-Victor Makengo,          M,  1.77 m,  b. 12 Jun 1998 @ Etampes
+Alexis Claude-Maurice,        M,  1.74 m,  b. 6 Jun 1998 @ Noisy-le-Grand
+Yoël Armougom,                D,  1.73 m,  b. 5 Jun 1998 @ Saint-Denis
+Hugo Magnetti,                M,  1.73 m,  b. 30 May 1998 @ Marseille
+Jérémy Le Douaron,            F,  1.89 m,  b. 21 Apr 1998 @ Saint-Brieuc
+Warren Tchimbembé,            M,  1.80 m,  b. 21 Apr 1998 @ Gonesse
+Yann Kitala,                  F,  1.86 m,  b. 9 Apr 1998 @ Paris
+Axel Disasi,                  D,  1.90 m,  b. 11 Mar 1998 @ Gonesse
+Kelvin Amian,                 D,  1.80 m,  b. 8 Feb 1998 @ Toulouse
+Jeff Reine-Adélaïde,          M,  1.83 m,  b. 17 Jan 1998 @ Champigny-sur-Marne
+Odsonne Édouard,              F,  1.83 m,  b. 16 Jan 1998 @ Kourou
+Jessy Deminguet,              M,  1.78 m,  b. 7 Jan 1998 @ Caen
+
+Ludovic Blas,                 M,  1.80 m,  b. 31 Dec 1997 @ Colombes
+Randy Nteka,                  M,  1.89 m,  b. 6 Dec 1997 @ Paris
+Christopher Nkunku,           F,  1.75 m,  b. 14 Nov 1997 @ Lagny-sur-Marne
+Nordi Mukiele,                D,  1.85 m,  b. 1 Nov 1997 @ Montreuil
+Ibrahima Sissoko,             M,  1.93 m,  b. 27 Oct 1997 @ Meaux
+Romain Perraud,               D,  1.73 m,  b. 22 Sep 1997 @ Toulouse
+Irvin Cardona,                F,  1.85 m,  b. 8 Aug 1997 @ Nîmes
+Julien Le Cardinal,           D,  1.82 m,  b. 3 Aug 1997 @ Saint-Brieuc
+Jean-Kévin Duverne,           D,  1.84 m,  b. 12 Jul 1997 @ Paris
+Anthony Caci,                 D,  1.84 m,  b. 1 Jul 1997 @ Forbach
+Jean-Philippe Mateta,         F,  1.92 m,  b. 28 Jun 1997 @ Clamart
+Yohann Magnin,                M,  1.83 m,  b. 21 Jun 1997 @ Clermont-Ferrand
+Ousmane Dembélé,              F,  1.78 m,  b. 15 May 1997 @ Vernon
+Christopher Operi,            D,  1.83 m,  b. 29 Apr 1997 @ Abidjan
+Lucas Tousart,                M,  1.75 m,  b. 29 Apr 1997 @ Arras
+Quentin Boisgard,             M,  1.74 m,  b. 17 Mar 1997 @ Toulouse
+Martin Terrier,               F,  1.84 m,  b. 4 Mar 1997 @ Armentières
+Gerzino Nyamsi,               D,  1.95 m,  b. 22 Jan 1997 @ Saint-Brieuc
+Issa Diop,                    D,  1.93 m,  b. 9 Jan 1997 @ Toulouse
+
+Tanguy NDombèlé,              M,  1.76 m,  b. 28 Dec 1996 @ Longjumeau
+Mathias Pereira Lage,         M,  1.80 m,  b. 30 Nov 1996 @ Clermont-Ferrand
+Robin Le Normand,             D,  1.87 m,  b. 11 Nov 1996 @ Pabu
+Aloïs Confais,                M,  1.74 m,  b. 7 Sep 1996 @ Evreux
+Angelo Fulgini,               M,  1.87 m,  b. 20 Aug 1996 @ Abidjan
+Valentin Rosier,              D,  1.75 m,  b. 19 Aug 1996 @ Montauban
+Adam Abeddou,                 M,  1.70 m,  b. 17 Aug 1996 @ Arras
+Neal Maupay,                  F,  1.71 m,  b. 14 Aug 1996 @ Versailles
+Samuel Grandsir,              M,  1.68 m,  b. 14 Aug 1996 @ Evreux
+Franck Honorat,               F,  1.80 m,  b. 11 Aug 1996 @ Toulon
+Mehdi Chahiri,                M,  1.80 m,  b. 25 Jul 1996 @ Grande-Synthe
+Rémy Descamps,                G,  1.94 m,  b. 25 Jun 1996 @ Marcq-en-Barœul
+Marcus Coco,                  F,  1.84 m,  b. 24 Jun 1996 @ Les Abymes
+Kingsley Coman,               M,  1.78 m,  b. 13 Jun 1996 @ Paris
+Jordan Siebatcheu,            F,  1.90 m,  b. 26 Apr 1996 @ Washington, DC
+Romain Del Castillo,          M,  1.72 m,  b. 29 Mar 1996 @ Lyon
+Benjamin Pavard,              D,  1.82 m,  b. 28 Mar 1996 @ Maubeuge
+Matthieu Udol,                D,  1.78 m,  b. 20 Mar 1996 @ Metz
+Alexandre Olliero,            G,  1.93 m,  b. 15 Feb 1996 @ La Rochelle
+Lucas Hernández,              D,  1.84 m,  b. 14 Feb 1996 @ Marseille
+Kévin Ndoram,                 M,  1.74 m,  b. 22 Jan 1996 @ Saint-Sébastien-sur-Loire
+Fabien Centonze,              D,  1.90 m,  b. 16 Jan 1996 @ Voiron
+
+Anthony Martial,              F,  1.81 m,  b. 5 Dec 1995 @ Massy
+Thomas Lemar,                 M,  1.70 m,  b. 12 Nov 1995 @ Baie-Mahault
+Presnel Kimpembe,             D,  1.83 m,  b. 13 Aug 1995 @ Beaumont-sur-Oise
+Grejohn Kyei,                 F,  1.87 m,  b. 12 Aug 1995 @ Gonesse
+Gautier Lloris,               D,  1.91 m,  b. 18 Jul 1995 @ Nice
+Sofiane Sidi Ali,             M,  1.75 m,  b. 14 Jul 1995 @ Gap
+Clément Lenglet,              D,  1.86 m,  b. 17 Jun 1995 @ Beauvais
+Ferland Mendy,                D,  1.78 m,  b. 8 Jun 1995 @ Meulan
+Wesley Saïd,                  F,  1.71 m,  b. 19 Apr 1995 @ Noisy-le-Grand
+Baptiste Santamaria,          M,  1.80 m,  b. 9 Mar 1995 @ Bourges
+Nolan Mbemba,                 D,  1.82 m,  b. 19 Feb 1995 @ Amiens
+Stéphane Sparagna,            D,  1.86 m,  b. 17 Feb 1995 @ Marseille
+Yann Bodiger,                 M,  1.88 m,  b. 9 Feb 1995 @ Sète
+
+Frédéric Guilbert,            D,  1.78 m,  b. 24 Dec 1994 @ Valognes
+Brendan Chardonnet,           D,  1.81 m,  b. 22 Dec 1994 @ Saint-Renan
+Valentin Rongier,             M,  1.72 m,  b. 7 Dec 1994 @ Mâcon
+Kurt Zouma,                   D,  1.90 m,  b. 27 Oct 1994 @ Lyon
+Morgan Sanson,                M,  1.82 m,  b. 18 Aug 1994 @ Saint-Doulchard
+Tiemoué Bakayoko,             M,  1.89 m,  b. 17 Aug 1994 @ Paris
+Yan Marillat,                 G,  1.80 m,  b. 12 Aug 1994 @ La Tronche
+Corentin Tolisso,             M,  1.65 m,  b. 3 Aug 1994 @ Tarare
+Benjamin Mendy,               D,  1.80 m,  b. 17 Jul 1994 @ Longjumeau
+Marc-Aurèle Caillard,         G,  1.91 m,  b. 12 May 1994 @ Melun
+Gaëtan Laborde,               F,  1.81 m,  b. 3 May 1994 @ Mont-de-Marsan
+Brice Samba,                  G,  1.86 m,  b. 25 Apr 1994 @ Linzolo
+Kader Bamba,                  F,  1.76 m,  b. 25 Apr 1994 @ Sarcelles
+Jimmy Cabot,                  D,  1.64 m,  b. 18 Apr 1994 @ Chambéry
+Arthur Desmas,                G,  1.96 m,  b. 7 Apr 1994 @ Brest
+Jordan Amavi,                 D,  1.76 m,  b. 9 Mar 1994 @ Toulon
+Ludovic Ajorque,              F,  1.96 m,  b. 25 Feb 1994 @ Saint-Joseph
+Quentin Cornette,             F,  1.72 m,  b. 17 Jan 1994 @ La Ciotat
+Benjamin Bourigeaud,          M,  1.78 m,  b. 14 Jan 1994 @ Calais
+
+Adrien Thomasson,             M,  1.82 m,  b. 10 Dec 1993 @ Bourg-Saint-Maurice
+Samuel Umtiti,                D,  1.82 m,  b. 14 Nov 1993 @ Yaoundé
+Julien Laporte,               D,  1.85 m,  b. 4 Nov 1993 @ Bayonne
+Samuel Gigot,                 D,  1.87 m,  b. 12 Oct 1993 @ Avignon
+Teddy Teuma,                  M,  1.76 m,  b. 30 Sep 1993 @ Toulon
+Lucas Digne,                  D,  1.78 m,  b. 20 Jul 1993 @ Meaux
+Nabil Fekir,                  M,  1.73 m,  b. 18 Jul 1993 @ Lyon
+Pierre Lees-Melou,            M,  1.85 m,  b. 25 May 1993 @ Langon
+Ruben Aguilar,                D,  1.72 m,  b. 26 Apr 1993 @ Grenoble
+Raphaël Varane,               D,  1.91 m,  b. 25 Apr 1993 @ Lille
+Gauthier Gallon,              G,  1.86 m,  b. 23 Apr 1993 @ Nice
+Dimitri Foulquier,            D,  1.83 m,  b. 23 Mar 1993 @ Sarcelles
+Christopher Jullien,          D,  1.95 m,  b. 22 Mar 1993 @ Lagny-sur-Marne
+Alassane Pléa,                F,  1.80 m,  b. 10 Mar 1993 @ Lille
+Maxime Dupé,                  G,  1.86 m,  b. 4 Mar 1993 @ Malestroit
+Jordan Veretout,              M,  1.77 m,  b. 1 Mar 1993 @ Ancenis
+Alphonse Areola,              G,  1.90 m,  b. 27 Feb 1993 @ Paris
+Flavien Tait,                 M,  1.75 m,  b. 2 Feb 1993 @ Longjumeau
+Laurent Abergel,              M,  1.70 m,  b. 1 Feb 1993 @ Marseille
+Jérôme Roussillon,            D,  1.75 m,  b. 6 Jan 1993 @ Sarcelles
+
+Jonathan Gradit,              D,  1.80 m,  b. 24 Nov 1992 @ Talence
+Yoann Salmier,                D,  1.88 m,  b. 21 Nov 1992 @ Villiers-le-Bel
+Jonathan Clauss,              D,  1.85 m,  b. 25 Sep 1992 @ Osthoffen
+Layvin Kurzawa,               D,  1.81 m,  b. 4 Sep 1992 @ Fréjuis
+Christophe Hérelle,           D,  1.88 m,  b. 22 Aug 1992 @ Nice
+Thomas Delaine,               D,  1.80 m,  b. 24 Mar 1992 @ Lens
+Jordan Ferri,                 M,  1.72 m,  b. 12 Mar 1992 @ Cavaillon
+
+Téji Savanier,                M,  1.71 m,  b. 22 Dec 1991 @ Montpellier
+Florent Mollet,               M,  1.71 m,  b. 19 Nov 1991 @ Fontaine-lès-Dijon
+Maxime Colin,                 D,  1.80 m,  b. 15 Nov 1991 @ Arras
+Kenny Lala,                   D,  1.87 m,  b. 3 Oct 1991 @ VIllepinte
+Alexandre Lacazette,          F,  1.74 m,  b. 28 May 1991 @ Lyon
+Florian Lejeune,              D,  1.88 m,  b. 20 May 1991 @ Paris
+Francis Coquelin,             M,  1.78 m,  b. 13 May 1991 @ Laval
+Benjamin Lecomte,             G,  1.86 m,  b. 26 Apr 1991 @ Paris
+Antoine Griezmann,            F,  1.75 m,  b. 21 Mar 1991 @ Mâcon
+Oualid El Hajjam,             D,  1.81 m,  b. 19 Feb 1991 @ Châteauroux
+Clément Grenier,              M,  1.86 m,  b. 7 Jan 1991 @ Annonay
+
+Alexandre Letellier,          G,  1.91 m,  b. 11 Dec 1990 @ Paris
+Florian Sotoca,               F,  1.87 m,  b. 25 Oct 1990 @ Narbonne
+Josuha Guilavogui,            M,  1.87 m,  b. 19 Sep 1990 @ Ollioules
+Benjamin Stambouli,           D,  1.80 m,  b. 13 Aug 1990 @ Marseille
+Wissam Ben Yedder,            F,  1.70 m,  b. 12 Aug 1990 @ Sarcelles
+Mathieu Gorgelin,             G,  1.87 m,  b. 5 Aug 1990 @ Ambérieu-en-Bugey
+Benjamin André,               M,  1.77 m,  b. 3 Aug 1990 @ Nice
+Jonas Martin,                 M,  1.82 m,  b. 9 Apr 1990 @ Besançon
+Rémy Cabella,                 M,  1.71 m,  b. 8 Mar 1990 @ Ajaccio
+Mamadou Sakho,                D,  1.87 m,  b. 13 Feb 1990 @ Paris
+
+Vincent Le Goff,              D,  1.75 m,  b. 15 Oct 1989 @ Quimper
+Moussa Sissoko,               M,  1.87 m,  b. 16 Aug 1989 @ Le Blanc Mesnil
+Florent Ogier,                D,  1.82 m,  b. 21 Mar 1989 @ Lyon
+Matthieu Dreyer,              G,  1.88 m,  b. 20 Mar 1989 @ Strasbourg
+Maxime Gonalons,              M,  1.87 m,  b. 10 Mar 1989 @ Vénissieux
+
+Étienne Capoue,               M,  1.90 m,  b. 11 Jul 1988 @ Niort
+Johan Gastien,                M,  1.80 m,  b. 25 Jan 1988 @ Niort
+
+Nicolas Pallois,              D,  1.90 m,  b. 19 Sep 1987 @ Elbeuf
+Rémy Riou,                    G,  1.91 m,  b. 6 Aug 1987 @ Lyon
+Kévin Gameiro,                F,  1.72 m,  b. 9 May 1987 @ Senlis
+
+Hugo Lloris,                  G,  1.88 m,  b. 26 Dec 1986 @ Nice
+Anthony Losilla,              M,  1.85 m,  b. 10 Mar 1986 @ Firminy
+
+Jean-Louis Leca,              G,  1.77 m,  b. 21 Sep 1985 @ Bastia
+Steve Mandanda,               G,  1.85 m,  b. 28 Mar 1985 @ Kinshasa
+
+Ludovic Butelle,              G,  1.88 m,  b. 3 Apr 1983 @ Reims
