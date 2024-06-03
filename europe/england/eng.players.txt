@@ -366,6 +366,7 @@ Louie Marsh,                  F,  - ,      b. 16 Oct 2003 @ Sheffield
 Zane Monlouis,                D,  - ,      b. 16 Oct 2003 @ Lewisham
 Taylor Foran,                 D,  - ,      b. 14 Oct 2003 @ Hillingdon
 Tawanda Chirewa,              M,  - ,      b. 11 Oct 2003
+Samuel Iling-Junior,          F,  1.82 m,  b. 4 Oct 2003 @ Islington
 Callum Doyle,                 D,  1.85 m,  b. 3 Oct 2003 @ Manchester
 Rico Richards,                M,  1.75 m,  b. 27 Sep 2003 @ Birmingham
 Chisom Afoka,                 M,  - ,      b. 23 Sep 2003
@@ -560,11 +561,13 @@ Lloyd Kelly,                  D,  1.78 m,  b. 1 Oct 1998 @ Bristol
 Gabriel Osho,                 D,  - ,      b. 14 Aug 1998 @ Reading
 Tom Davies,                   M,  1.80 m,  b. 30 Jun 1998 @ Liverpool
 Eberechi Eze,                 M,  1.73 m,  b. 29 Jun 1998 @ Greenwich
+Keinan Davis,                 F,  1.91 m,  b. 1 Jun 1998 @ Stevenage
 Aaron Ramsdale,               G,  1.88 m,  b. 14 May 1998 @ Stoke-on-Trent
 Omar Richards,                D,  1.85 m,  b. 15 Feb 1998 @ Lewisham
 Ben Godfrey,                  D,  1.83 m,  b. 15 Jan 1998 @ York
 Elijah Adebayo,               F,  1.93 m,  b. 7 Jan 1998 @ Brent
 
+Fikayo Tomori,                D,  1.85 m,  b. 19 Dec 1997 @ Calgary
 Harvey Barnes,                M,  1.74 m,  b. 9 Dec 1997 @ Burnley
 Aaron Wan-Bissaka,            D,  1.83 m,  b. 26 Nov 1997 @ Croydon
 Ryan Yates,                   M,  1.90 m,  b. 21 Nov 1997 @ Nottingham
@@ -572,6 +575,7 @@ Ben White,                    D,  1.85 m,  b. 8 Nov 1997 @ Poole
 Marcus Rashford,              F,  1.80 m,  b. 31 Oct 1997 @ Manchester
 Sean Longstaff,               M,  1.81 m,  b. 30 Oct 1997 @ North Shields
 Ezri Konsa,                   D,  1.83 m,  b. 23 Oct 1997 @ Newham
+Tammy Abraham,                F,  1.90 m,  b. 2 Oct 1997 @ Camberwell
 Tosin Adarabioyo,             D,  1.96 m,  b. 24 Sep 1997 @ Manchester
 Dominic Solanke,              F,  1.87 m,  b. 14 Sep 1997 @ Reading
 Ainsley Maitland-Niles,       M,  1.77 m,  b. 29 Aug 1997 @ Goodmayes
@@ -594,6 +598,7 @@ Reece Burke,                  D,  1.89 m,  b. 2 Sep 1996 @ Newham
 Demarai Gray,                 M,  1.79 m,  b. 28 Jun 1996 @ Birmingham
 Dele Alli,                    M,  1.88 m,  b. 11 Apr 1996 @ Milton Keynes
 Ivan Toney,                   F,  1.79 m,  b. 16 Mar 1996 @ Northampton
+Ruben Loftus-Cheek,           M,  1.91 m,  b. 23 Jan 1996 @ Lewisham
 
 Ollie Watkins,                F,  1.79 m,  b. 30 Dec 1995 @ Torbay
 Josh Brownhill,               M,  1.79 m,  b. 19 Dec 1995 @ Warrington
@@ -664,6 +669,7 @@ Kyle Walker,                  D,  1.83 m,  b. 28 May 1990 @ Sheffield
 Craig Dawson,                 D,  1.88 m,  b. 6 May 1990 @ Rochdale
 
 Aaron Cresswell,              D,  1.70 m,  b. 15 Dec 1989 @ Liverpool
+Chris Smalling,               D,  1.94 m,  b. 22 Nov 1989 @ Greenwich
 Joel Ward,                    D,  1.88 m,  b. 29 Oct 1989 @ Emsworth
 Ben Mee,                      D,  1.80 m,  b. 23 Sep 1989 @ Sale
 Jay Rodriguez,                F,  1.85 m,  b. 29 Jul 1989 @ Burnley
