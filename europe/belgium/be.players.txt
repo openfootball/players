@@ -3,80 +3,338 @@
 
 Julien Duranville,            F,  1.70 m,  b. 5 May 2006 @ Uccle
 Madi Monamay,                 D,  1.85 m,  b. 6 Apr 2006
+Matt Lendfers,                G,  1.87 m,  b. 10 Mar 2006
 
+Frederic Soelle Soelle,       F,  1.90 m,  b. 24 Dec 2005
+Lars Montegnies,              M,  - ,      b. 15 Nov 2005
+Ebbe De Vlaeminck,            G,  - ,      b. 4 Nov 2005
+Mohamed Cissé,                M,  1.78 m,  b. 23 Oct 2005 @ Conakry
+Jannes van Hof,               G,  - ,      b. 11 Oct 2005
+Roméo Monticelli,             D,  - ,      b. 2 Oct 2005
 Vincent Burlet,               D,  1.80 m,  b. 23 Sep 2005 @ Liège
+Adam Nhaili,                  F,  - ,      b. 9 Aug 2005
+Mike Penders,                 G,  2.00 m,  b. 31 Jul 2005 @ Maasmechelen
+Ilias El Hari,                F,  - ,      b. 6 Jul 2005
+Samuel Ntanda,                F,  1.84 m,  b. 30 Jun 2005 @ Brussels
 Stanis Idumbo Muzambo,        M,  1.70 m,  b. 29 Jun 2005 @ Melun
+Mika Godts,                   F,  1.76 m,  b. 7 Jun 2005 @ Leuven
+Tom Poitoux,                  G,  1.86 m,  b. 4 Jun 2005
 Joseph Nonge,                 M,  1.84 m,  b. 15 May 2005 @ Brussels
+Kobe Corbanie,                D,  - ,      b. 10 May 2005
+Chemsdine Talbi,              M,  1.75 m,  b. 9 May 2005 @ Sambrevile
+Irsan Muric,                  F,  - ,      b. 12 Apr 2005
+Karol Youndje,                D,  - ,      b. 12 Apr 2005 @ Yaoundé
 Malick Fofana,                F,  1.69 m,  b. 31 Mar 2005 @ Aalst
+Oskar Annell,                 G,  1.90 m,  b. 15 Feb 2005
 Arthur Vermeeren,             M,  1.76 m,  b. 7 Feb 2005 @ Lier
+Matias Fernandez-Pardo,       F,  - ,      b. 3 Feb 2005
 Ayanda Shishuba,              M,  1.69 m,  b. 2 Feb 2005 @ Tournai
+Arthur Piedfort,              D,  1.80 m,  b. 1 Feb 2005 @ Herentals
+Cihan Çanak,                  M,  1.75 m,  b. 24 Jan 2005 @ Verviers
+Lucas Noubi,                  D,  1.80 m,  b. 15 Jan 2005 @ Mouscron
+Matthieu Epolo,               G,  1.81 m,  b. 15 Jan 2005
+Siemen Buvé,                  G,  - ,      b. 15 Jan 2005
 Enock Agyei,                  F,  1.72 m,  b. 13 Jan 2005
 Noah Mbamba,                  M,  1.82 m,  b. 5 Jan 2005 @ Elsene
 
+Noah Sadiki,                  D,  1.83 m,  b. 17 Dec 2004 @ Brussels
+Andrea Librici,               F,  1.81 m,  b. 9 Dec 2004
+Lucas Stassin,                F,  1.83 m,  b. 29 Nov 2004
+Norman Bassette,              F,  - ,      b. 11 Nov 2004 @ Arlon
+Chris Lokesa,                 M,  - ,      b. 7 Nov 2004
+Ngal'ayel Mukau,              M,  - ,      b. 3 Nov 2004
+Corneille Ngangala,           D,  - ,      b. 29 Oct 2004
+Mario Stroeykens,             M,  1.77 m,  b. 29 Sep 2004
+Bilal Bafdili,                M,  - ,      b. 3 Aug 2004
+Mathias Delorge-Knieper,      M,  1.85 m,  b. 31 Jul 2004
+Nicolas Closset,              G,  - ,      b. 10 Jul 2004
+Thomas Lutte,                 M,  - ,      b. 9 Jul 2004
+Dirk Asare,                   M,  - ,      b. 4 Jul 2004
+Pierre Dwomoh,                M,  1.85 m,  b. 21 Jun 2004
+Mattéo Nkurunziza,            G,  - ,      b. 2 Jun 2004
 Léandre Kuavita,              M,  1.80 m,  b. 31 May 2004
+Kjell Peersman,               G,  1.94 m,  b. 21 May 2004 @ Wilrijk
+Niels Devalckeneer,           G,  1.93 m,  b. 17 May 2004
+Arnaud Dony,                  D,  1.70 m,  b. 8 May 2004
+Tristan Teuchy,               D,  - ,      b. 14 Apr 2004
+Martin Wasinski,              D,  1.85 m,  b. 7 Apr 2004
+Lukas Mondele,                M,  1.79 m,  b. 29 Mar 2004 @ Brussels
+Martin Delavallée,            G,  1.80 m,  b. 18 Mar 2004
 Jelle Van Neck,               G,  1.91 m,  b. 7 Mar 2004 @ Bruges
+Milan Robberechts,            F,  1.80 m,  b. 4 Mar 2004
+Massimo Decoene,              M,  - ,      b. 11 Feb 2004
 Sekou Diawara,                F,  1.87 m,  b. 8 Feb 2004 @ Deinze
+Richie Sagrado,               D,  - ,      b. 30 Jan 2004
+Timon Vanhoutte,              G,  - ,      b. 29 Jan 2004
+Jack Senga-Ngoyi,             D,  - ,      b. 27 Jan 2004
+Mehdi Boukamir,               D,  - ,      b. 26 Jan 2004
+Romeo Vermant,                F,  1.81 m,  b. 24 Jan 2004 @ Gelsenkirchen
+Nathan Huygevelde,            M,  1.85 m,  b. 23 Jan 2004
+Bram Lagae,                   D,  - ,      b. 14 Jan 2004
+Luca Chavet,                  D,  - ,      b. 11 Jan 2004
 Romeo Lavia,                  M,  1.81 m,  b. 6 Jan 2004 @ Brussels
+Alouis Diriken,               D,  - ,      b. 4 Jan 2004
+Matte Smets,                  M,  1.84 m,  b. 4 Jan 2004
 
+Cisse Sandra,                 M,  1.86 m,  b. 16 Dec 2003
+Djovkar Doudaev,              D,  - ,      b. 10 Nov 2003
 Noam Mayoka-Tika,             M,  1.83 m,  b. 2 Nov 2003 @ Charleroi
+Zeno Debast,                  D,  1.91 m,  b. 24 Oct 2003 @ Halle
+Lynnt Audoor,                 M,  1.82 m,  b. 13 Oct 2003 @ Merelbeke
 Arne Engels,                  M,  1.85 m,  b. 8 Sep 2003 @ Opwijk
+Anthony Descotte,             F,  1.79 m,  b. 3 Aug 2003 @ Gosselies
+Manuel Osifo,                 D,  1.85 m,  b. 31 Jul 2003
+Ismaël El Abbassi,            F,  - ,      b. 24 Jul 2003
+Fedde Leysen,                 D,  1.87 m,  b. 9 Jul 2003
+Zeno Van Den Bosch,           D,  1.91 m,  b. 6 Jul 2003 @ Brasschaat
+Nathan Ngoy,                  D,  1.83 m,  b. 10 Jun 2003
+Alexandro Calut,              D,  1.80 m,  b. 22 Apr 2003 @ Charleroi
+Johan Bakayoko,               F,  1.79 m,  b. 20 Apr 2003 @ Overijse
+Tuur Rommens,                 D,  1.85 m,  b. 26 Mar 2003 @ Turnhout
+Luca Oyen,                    M,  1.72 m,  b. 14 Mar 2003 @ Nottingham
+Bas Langenbick,               G,  - ,      b. 13 Feb 2003
+Nils de Wilde,                M,  - ,      b. 27 Jan 2003
+Noah Dodeigne,                D,  - ,      b. 21 Jan 2003
+Ilay Camara,                  D,  1.74 m,  b. 18 Jan 2003 @ Bonheiden
+Vic Chambaere,                G,  1.90 m,  b. 10 Jan 2003 @ Roeselare
+Kazeem Olaigbe,               M,  - ,      b. 2 Jan 2003
 
+Youssuf Sylla,                F,  1.91 m,  b. 19 Dec 2002
 Aster Vranckx,                M,  1.83 m,  b. 4 Oct 2002 @ Erps-Kwerps
+Fabio Ferraro,                M,  1.80 m,  b. 3 Sep 2002 @ Halle
+Joël Schingtienne,            D,  1.88 m,  b. 14 Aug 2002
+Marco Kana,                   D,  1.78 m,  b. 8 Aug 2002 @ Kinshasa
+Nayel Mehssatou,              D,  1.68 m,  b. 8 Aug 2002 @ Brussels
+Christiaan Ravych,            D,  1.87 m,  b. 30 Jul 2002 @ Kortrijk
+Rein Van Helden,              D,  1.87 m,  b. 24 Jul 2002 @ Genk
+Sada Diallo,                  M,  - ,      b. 22 Jul 2002
+Hugo Siquet,                  D,  1.75 m,  b. 9 Jul 2002 @ Marche-en-Famenne
+Senne Lammens,                G,  1.93 m,  b. 7 Jul 2002 @ Zottegem
+Xander Blomme,                M,  1.74 m,  b. 21 Jun 2002 @ Eeklo
+Dion De Neve,                 M,  1.82 m,  b. 12 Jun 2002 @ Aalst
 Koni De Winter,               D,  1.88 m,  b. 12 Jun 2002 @ Antwerp
+Thibo Baeten,                 F,  1.85 m,  b. 4 Jun 2002 @ Aalst
 Jérémy Doku,                  F,  1.79 m,  b. 27 May 2002 @ Borgerhout
+Mandela Keita,                M,  1.81 m,  b. 10 May 2002 @ Leuven
+Killian Sardella,             D,  1.77 m,  b. 2 May 2002
+Anouar Ait El Hadj,           M,  1.67 m,  b. 20 Apr 2002 @ Molenbeek
+Ibe Hautekiet,                D,  1.88 m,  b. 13 Apr 2002 @ Kortrijk
+Célestin De Schrevel,         G,  1.87 m,  b. 2 Apr 2002
+Ignace Van Der Brempt,        D,  1.91 m,  b. 1 Apr 2002 @ Antwerp
+Rune Paeshuyse,               D,  1.87 m,  b. 28 Mar 2002 @ Edegem
+Robert-Jan Vanwesemael,       D,  - ,      b. 26 Mar 2002
 Mats Lemmens,                 D,  1.86 m,  b. 10 Mar 2002 @ Genk
+Tobe Leysen,                  G,  1.87 m,  b. 9 Mar 2002 @ Geel
 Ameen Al-Dakhil,              D,  1.87 m,  b. 6 Mar 2002 @ Baghdad
+Olivier Dumont,               M,  1.82 m,  b. 6 Mar 2002 @ Visé
+Allan Delferrière,            D,  1.83 m,  b. 3 Mar 2002 @ Liège
+Maarten Vandevoordt,          G,  1.87 m,  b. 26 Feb 2002 @ Sint-Truiden
 Eliot Matazo,                 M,  1.83 m,  b. 15 Feb 2002 @ Woluwe-Saint-Lambert
+Jarne Steuckers,              F,  1.79 m,  b. 4 Feb 2002 @ Sint-Truiden
+Ken Nkuba,                    F,  1.73 m,  b. 21 Jan 2002 @ Mons
+Jannes Van Hecke,             M,  1.75 m,  b. 15 Jan 2002
+Louis Fortin,                 G,  1.88 m,  b. 12 Jan 2002
+Bas Van Den Eynden,           M,  - ,      b. 7 Jan 2002
+Nicolas Alavoine,             G,  1.84 m,  b. 5 Jan 2002
 
+Matisse Samoise,              M,  1.73 m,  b. 21 Nov 2001
+Maxime Wenssens,              G,  1.91 m,  b. 17 Nov 2001
+Niklo Dailly,                 F,  1.73 m,  b. 6 Nov 2001 @ Brussels
+Dylan Mbayo,                  F,  1.75 m,  b. 11 Oct 2001
+Joachim Imbrechts,            G,  1.83 m,  b. 9 Oct 2001 @ Ixelles
+Bryan Limbombe,               F,  1.72 m,  b. 14 Sep 2001 @ Mechelen
 Amadou Onana,                 M,  1.92 m,  b. 16 Aug 2001 @ Dakar
+Lucas Lissens,                D,  1.83 m,  b. 25 Jul 2001 @ Sint-Martens-Lennik
+Stan Van Dessel,              M,  1.69 m,  b. 24 Jul 2001 @ Diest
+Laurit Krasniqi,              D,  - ,      b. 14 Jul 2001
+Oregan Ravet,                 G,  1.89 m,  b. 13 Jul 2001
+Yari Verschaeren,             M,  1.72 m,  b. 12 Jul 2001 @ Antwerp
 Jackson Tchatchoua,           M,  1.78 m,  b. 23 Jun 2001 @ Ixelles
+David Mindombe,               D,  1.83 m,  b. 19 Jun 2001
+Louis Patris,                 D,  1.87 m,  b. 7 Jun 2001
+Maxime Delanghe,              G,  1.89 m,  b. 23 May 2001 @ Halle
+Michel-Ange Balikwisha,       F,  1.78 m,  b. 10 May 2001 @ Gent
+Nick Shinton,                 G,  1.96 m,  b. 10 May 2001 @ Aalst
+Mitchy Ntelo,                 F,  1.83 m,  b. 4 May 2001 @ Liège
+Thomas Van Den Keybus,        M,  1.79 m,  b. 25 Apr 2001 @ Bruges
+Nachon Nsingi,                F,  1.76 m,  b. 24 Apr 2001
+Kyan Vaesen,                  F,  1.90 m,  b. 13 Apr 2001 @ Dewsbury
+Tom Roufosse,                 G,  1.81 m,  b. 28 Mar 2001 @ Rocourt
+Théo Gécé,                    M,  - ,      b. 14 Mar 2001
 Charles De Ketelaere,         F,  1.85 m,  b. 10 Mar 2001 @ Bruges
 Largie Ramazani,              F,  1.67 m,  b. 27 Feb 2001 @ Sint-Agatha-Berchem
+Nicolas Raskin,               M,  1.79 m,  b. 23 Feb 2001 @ Liège
+Ilias Takidine,               F,  1.71 m,  b. 5 Feb 2001
 Yorbe Vertessen,              F,  1.76 m,  b. 8 Jan 2001 @ Tienen
 
+Brandon Baiye,                M,  1.77 m,  b. 27 Dec 2000 @ Liège
+Thierry Lutonda,              D,  1.67 m,  b. 27 Oct 2000 @ Liège
+Maxim De Cuyper,              D,  1.83 m,  b. 22 Oct 2000 @ Knokke-Heist
+Ewoud Pletinckx,              D,  1.90 m,  b. 10 Oct 2000
+Toon Raemaekers,              D,  1.94 m,  b. 9 Sep 2000
+Yentl Van Genechten,          D,  1.91 m,  b. 18 Aug 2000 @ Heist-op-den-Berg
+Adriano Bertaccini,           F,  1.73 m,  b. 13 Aug 2000 @ Charleroi
+Shawn Adewoye,                D,  1.81 m,  b. 29 Jun 2000 @ Leopoldsburg
 Cyril Ngonge,                 F,  1.79 m,  b. 26 May 2000 @ Uccle
 Arthur Theate,                D,  1.91 m,  b. 25 May 2000 @ Liège
+Brian De Keersmaecker,        M,  1.82 m,  b. 6 May 2000 @ Bornem
+Théo Leoni,                   M,  - ,      b. 21 Apr 2000
+Boris Lambert,                D,  1.87 m,  b. 10 Apr 2000 @ Han-sur-Lesse
 Olivier Deman,                M,  1.81 m,  b. 6 Apr 2000 @ Antwerp
+Corentin Michel,              G,  1.86 m,  b. 20 Mar 2000 @ Ottignies-Louvain-la-Neuve
+Othmane Boussaid,             F,  1.66 m,  b. 7 Mar 2000 @ Kortrijk
 Loïs Openda,                  F,  1.74 m,  b. 16 Feb 2000 @ Liège
+Siemen Voet,                  D,  1.94 m,  b. 3 Feb 2000 @ Gent
 
+Noah Fadiga,                  D,  1.80 m,  b. 3 Dec 1999 @ Bruges
 Albert Sambi Lokonga,         M,  1.80 m,  b. 22 Oct 1999 @ Verviers
 Maxime Busi,                  D,  1.82 m,  b. 14 Oct 1999 @ Liège
+Gary Magnée,                  M,  1.75 m,  b. 12 Oct 1999 @ Soumagne
 Mile Svilar,                  G,  1.89 m,  b. 27 Aug 1999 @ Antwerp
+Francis Amuzu,                M,  1.70 m,  b. 23 Aug 1999 @ Accra
+Zinho Vanheusden,             D,  1.87 m,  b. 29 Jul 1999 @ Hasselt
 Alexis Saelemaekers,          M,  1.80 m,  b. 27 Jun 1999 @ Berchem-Sainte-Agathe
+Daan Heymans,                 M,  1.86 m,  b. 15 Jun 1999 @ Retie
+Jelle Bataille,               D,  1.75 m,  b. 20 May 1999 @ Tournai
+William Balikwisha,           M,  1.74 m,  b. 12 May 1999 @ Brussels
+Jérôme Déom,                  M,  1.75 m,  b. 19 Apr 1999 @ Libramont-Chevigny
+Milan Corryn,                 M,  1.80 m,  b. 4 Apr 1999 @ Aalst
+Daam Foulon,                  D,  1.80 m,  b. 23 Mar 1999 @ Mechelen
 Sebastiaan Bornauw,           D,  1.90 m,  b. 22 Mar 1999 @ Wemmel
+Thibo Somers,                 F,  1.73 m,  b. 16 Mar 1999
 Hannes Delcroix,              D,  1.85 m,  b. 28 Feb 1999 @ Grande Hatte
 Senne Lynen,                  M,  1.85 m,  b. 19 Feb 1999 @ Borsbeek
+Daouda Peeters,               M,  1.85 m,  b. 26 Jan 1999 @ Kamsar
 
+Alec Van Hoorenbeeck,         D,  1.87 m,  b. 30 Dec 1998 @ Mortsel
+Dante Rigo,                   M,  1.80 m,  b. 11 Dec 1998 @ Tremelo
+Gaëtan Coucke,                G,  1.87 m,  b. 3 Dec 1998 @ Tongeren
+Jacky Donkor,                 F,  1.76 m,  b. 12 Nov 1998 @ Ghent
 Sami Lahssaini,               M,  1.77 m,  b. 18 Sep 1998 @ Liège
+Jason Eyenga-Lokilo,          F,  1.75 m,  b. 17 Sep 1998 @ Brussels
+Charles Vanhoutte,            M,  1.82 m,  b. 16 Sep 1998 @ Kortrijk
 Thibault De Smet,             D,  1.82 m,  b. 5 Jun 1998 @ Bruges
+Moutir Chajia,                M,  1.77 m,  b. 4 Jun 1998 @ Heusden-Zolder
+Siebe Horemans,               D,  1.86 m,  b. 2 Jun 1998 @ Gent
 Siebe Van Der Heyden,         D,  1.85 m,  b. 30 May 1998 @ Denderleeuw
+Robbe Decostere,              D,  1.78 m,  b. 8 May 1998
+Wout Faes,                    D,  1.85 m,  b. 3 Apr 1998 @ Mol
 Orel Mangala,                 M,  1.80 m,  b. 18 Mar 1998 @ Brussels
+Arnaud Bodart,                G,  1.84 m,  b. 11 Mar 1998 @ Seraing
+Elton Kabangu,                F,  1.78 m,  b. 8 Feb 1998 @ Kortrijk
+Viktor Boone,                 D,  1.93 m,  b. 25 Jan 1998
+Rubin Seigers,                D,  1.89 m,  b. 11 Jan 1998 @ Lommel
 
+Elias Cobbaut,                D,  1.88 m,  b. 24 Nov 1997 @ Mechelen
+Aaron Leya Iseka,             F,  1.80 m,  b. 15 Nov 1997 @ Brussels
+Julien Ngoy,                  F,  1.85 m,  b. 2 Nov 1997 @ Antwerp
+Sofian Kiyine,                M,  1.82 m,  b. 2 Oct 1997 @ Verviers
 Dodi Lukebakio,               M,  1.87 m,  b. 24 Sep 1997 @ Asse
+Antoine Bernier,              M,  1.70 m,  b. 10 Sep 1997 @ Dinant
+Nordin Jackers,               G,  1.87 m,  b. 5 Sep 1997 @ Veldwezelt
+Landry Dimata,                F,  1.85 m,  b. 1 Sep 1997 @ Mbuji-Mayi
+Philippe Rommens,             M,  1.76 m,  b. 20 Aug 1997 @ Wommelgem
+Thibault Vlietinck,           D,  1.78 m,  b. 19 Aug 1997 @ Knokke
 Youri Tielemans,              M,  1.76 m,  b. 7 May 1997 @ Sint-Pieters-Leeuw
+Ortwin De Wolf,               G,  1.85 m,  b. 23 Apr 1997 @ Lokeren
+Arno Verschueren,             M,  1.75 m,  b. 8 Apr 1997 @ Lier
 Manuel Benson,                F,  1.78 m,  b. 28 Mar 1997 @ Lokeren
 Maximiliano Caufriez,         D,  1.89 m,  b. 16 Feb 1997 @ Beveren
+Casper de Norre,              D,  1.75 m,  b. 7 Feb 1997 @ Hasselt
+Hugo Cuypers,                 F,  1.85 m,  b. 7 Feb 1997 @ Liège
+Bryan Heynen,                 M,  1.82 m,  b. 6 Feb 1997 @ Neeroeteren
+Senna Miangue,                D,  1.92 m,  b. 5 Feb 1997 @ Antwerp
 Dimitri Lavalée,              D,  1.87 m,  b. 13 Jan 1997 @ Soumagne
+Alessio Castro-Montes,        M,  1.75 m,  b. 10 Jan 1997 @ Sint-Truiden
+
+Alexis De Sart,               M,  1.80 m,  b. 12 Nov 1996 @ Waremme
+Mathias Fixelles,             M,  1.81 m,  b. 11 Aug 1996 @ Soignies
+Siebe Schrijvers,             M,  1.76 m,  b. 18 Jul 1996 @ Lommel
+Jordi Vanlerberghe,           D,  1.89 m,  b. 27 Jun 1996 @ Duffel
+Fabrice Sambu,                D,  1.85 m,  b. 3 Jun 1996 @ Liège
+David Henen,                  M,  1.85 m,  b. 19 Apr 1996 @ Libramont-Chevigny
+Isaac Mbenza,                 M,  1.87 m,  b. 8 Mar 1996 @ Saint-Denis
+Jari Vandeputte,              M,  1.74 m,  b. 14 Feb 1996 @ Gent
+Gilles Dewaele,               D,  1.82 m,  b. 13 Feb 1996 @ Knokke
+Zakaria Bakkali,              M,  1.68 m,  b. 26 Jan 1996 @ Liège
 
 Timothy Castagne,             D,  1.80 m,  b. 5 Dec 1995 @ Aarlen
+Dario van den Buijs,          D,  1.82 m,  b. 12 Sep 1995 @ Lier
+Youssef Challouk,             M,  1.73 m,  b. 28 Aug 1995 @ Boom
+Kylian Hazard,                F,  1.73 m,  b. 5 Aug 1995 @ La Louvière
+Wolke Janssens,               D,  1.85 m,  b. 1 Aug 1995 @ Peer
+Nick Gillekens,               G,  1.85 m,  b. 5 Jul 1995 @ Leuven
+Boli Bolingoli-Mbombo,        D,  1.80 m,  b. 1 Jul 1995 @ Antwerp
+Anas Tahiri,                  M,  1.79 m,  b. 5 May 1995 @ Brussels
 Divock Origi,                 F,  1.85 m,  b. 18 Apr 1995 @ Ostend
 Leander Dendoncker,           M,  1.88 m,  b. 15 Apr 1995 @ Passendale
+Mathieu Maertens,             M,  1.82 m,  b. 27 Mar 1995
+Lucas Pirard,                 G,  1.91 m,  b. 10 Mar 1995 @ Sprimont
+Pieter Gerkens,               M,  1.79 m,  b. 17 Feb 1995 @ Bilzen
 Adnan Januzaj,                M,  1.86 m,  b. 5 Feb 1995 @ Brussels
 
+Julien de Sart,               M,  1.86 m,  b. 23 Dec 1994 @ Waremme
+Cyriel Dessers,               F,  1.85 m,  b. 8 Dec 1994 @ Leuven
 Leandro Trossard,             M,  1.72 m,  b. 4 Dec 1994 @ Waterschei
+Benito Raman,                 F,  1.72 m,  b. 7 Nov 1994 @ Gent
+Nikola Storm,                 F,  1.78 m,  b. 30 Sep 1994 @ Maldegem
 Thomas Foket,                 D,  1.77 m,  b. 25 Sep 1994 @ Brussels
+Björn Engels,                 D,  1.93 m,  b. 15 Sep 1994 @ Kaprijke
+Anthony Limbombe,             F,  1.75 m,  b. 15 Jul 1994 @ Mechelen
+Dennis Praet,                 M,  1.81 m,  b. 14 May 1994 @ Leuven
+Rob Schoofs,                  M,  1.82 m,  b. 23 Mar 1994 @ Sint-Truiden
+Davy Roef,                    G,  1.87 m,  b. 6 Feb 1994 @ Antwerp
+Guillaume Hubert,             G,  1.97 m,  b. 11 Jan 1994 @ Charleroi
 
+Massimo Bruno,                M,  1.77 m,  b. 17 Sep 1993 @ Boussu
 Yannick Ferreira Carrasco,    M,  1.81 m,  b. 4 Sep 1993 @ Elsene
+Mats Rits,                    M,  1.80 m,  b. 18 Jul 1993 @ Antwerp
 Romelu Lukaku,                F,  1.90 m,  b. 13 May 1993 @ Antwerp
+Hendrik van Crombrugge,       G,  1.88 m,  b. 30 Apr 1993 @ Leuven
+Hannes Van der Bruggen,       M,  1.80 m,  b. 1 Apr 1993 @ Aalst
 Thorgan Hazard,               M,  1.74 m,  b. 29 Mar 1993 @ La Louvière
+Brandon Mechele,              D,  1.80 m,  b. 28 Jan 1993 @ Bredene
 
+Pietro Perdichizzi,           D,  1.82 m,  b. 16 Dec 1992 @ Charleroi
 Thomas Kaminski,              G,  1.88 m,  b. 23 Oct 1992 @ Dendermonde
+Laurent Henkinet,             G,  1.89 m,  b. 14 Sep 1992 @ Rocourt
+Hans Vanaken,                 M,  1.85 m,  b. 24 Aug 1992 @ Akselwal
+Tom Vandenberghe,             G,  1.90 m,  b. 17 Aug 1992
+Colin Coosemans,              G,  1.85 m,  b. 3 Aug 1992 @ Gent
 Koen Casteels,                G,  1.96 m,  b. 25 Jun 1992 @ Bonheiden
 Thibaut Courtois,             G,  1.99 m,  b. 11 May 1992 @ Bree
+Bruno Godeau,                 D,  1.90 m,  b. 10 May 1992 @ Brussels
+Théo Defourny,                G,  1.94 m,  b. 25 Apr 1992 @ Bourg-Saint-Maurice
 Matz Sels,                    G,  1.88 m,  b. 26 Feb 1992 @ Lint
+Pierre-Yves Ngawa,            D,  1.87 m,  b. 9 Feb 1992 @ Liège
 
+Renaud Emond,                 F,  1.86 m,  b. 5 Dec 1991 @ Virton
+Geoffry Hairemans,            M,  1.87 m,  b. 21 Oct 1991 @ Wilrijk
 Thomas Meunier,               D,  1.91 m,  b. 12 Sep 1991 @ Sainte-Ode
+Funso Ojo,                    M,  1.77 m,  b. 28 Aug 1991 @ Antwerp
 Kevin De Bruyne,              M,  1.81 m,  b. 28 Jun 1991 @ Drongen
 Christian Kabasele,           D,  1.88 m,  b. 24 Feb 1991 @ Lubumbashi
+Lukas Van Eeno,               M,  1.75 m,  b. 6 Feb 1991 @ Brugge
 
+Jo Coppens,                   G,  1.90 m,  b. 21 Dec 1990 @ Heusden
+Dedryck Boyata,               D,  1.88 m,  b. 8 Sep 1990 @ Uccle
+Jonathan Heris,               D,  1.84 m,  b. 3 Sep 1990 @ Brussels
+Yannick Thoelen,              G,  1.88 m,  b. 18 Jul 1990 @ Tessenderlo
+Guillaume François,           D,  1.73 m,  b. 3 Jun 1990 @ Libramont
+Anthony Moris,                G,  1.84 m,  b. 29 Apr 1990 @ Liège
+
+Joren Dom,                    D,  1.73 m,  b. 29 Nov 1989 @ Antwerp
+Nacer Chadli,                 M,  1.87 m,  b. 2 Aug 1989 @ Liège
+Koen Van Langendonck,         G,  1.89 m,  b. 9 Jun 1989 @ Neerpelt
+Toby Alderweireld,            D,  1.87 m,  b. 2 Mar 1989 @ Wilrijk
+Sébastien Bruzzese,           G,  1.84 m,  b. 1 Mar 1989 @ Liège
 Axel Witsel,                  M,  1.86 m,  b. 12 Jan 1989 @ Liège
+
+Laurent Depoitre,             F,  1.90 m,  b. 7 Dec 1988 @ Tournai
+Ritchie De Laet,              D,  1.86 m,  b. 28 Nov 1988 @ Antwerp
+Sinan Bolat,                  G,  1.87 m,  b. 3 Sep 1988 @ Kayseki
+Simon Mignolet,               G,  1.93 m,  b. 6 Mar 1988 @ Sint-Truiden
+Sven Kums,                    M,  1.76 m,  b. 26 Feb 1988 @ Asse
+
+Davino Verhulst,              G,  1.91 m,  b. 25 Nov 1987 @ Beveren
+Jan Vertonghen,               D,  1.89 m,  b. 24 Apr 1987 @ Sint-Niklaas

@@ -2,364 +2,757 @@
 =  Spain
 
 David Otorbi,                 F,  - ,      b. 16 Oct 2007 @ Valencia
+Buba Sangaré,                 D,  - ,      b. 6 Aug 2007 @ Elche
 Lamine Yamal,                 F,  1.80 m,  b. 13 Jul 2007 @ Esplugues de Llobregat
 Iván Corralejo,               M,  - ,      b. 1 May 2007
+Sydney Osazuwa,               F,  - ,      b. 21 Apr 2007
+Adrián Arnu,                  F,  1.85 m,  b. 4 Mar 2007 @ Palencia
 Pau Cubarsí,                  D,  1.82 m,  b. 22 Jan 2007 @ Estanyol
 
+Jhafets,                      G,  - ,      b. 16 Sep 2006
 Victor Musa,                  F,  - ,      b. 5 Sep 2006 @ Tudela
+Hugo Barrachina,              D,  - ,      b. 30 Aug 2006 @ Zaragoza
+Hugo Martínez,                M,  - ,      b. 23 Aug 2006 @ Albacete
 Héctor Fort,                  D,  1.85 m,  b. 2 Aug 2006 @ Barcelona
 Rodrigo Marina,               F,  - ,      b. 28 Jul 2006 @ Cáceres
+Carlos Jiménez,               D,  - ,      b. 23 Jul 2006
 Dani Muñoz,                   M,  - ,      b. 16 Jul 2006 @ Málaga
 Alejandro Morata,             D,  1.79 m,  b. 6 Jul 2006
 Fran Árbol,                   G,  1.85 m,  b. 30 Jun 2006 @ Granada
-Pablo García,                 F,  - ,      b. 13 Jun 2006
 Jorge Benito,                 G,  - ,      b. 6 Jun 2006
 Daniel Budesca,               D,  1.83 m,  b. 27 May 2006 @ Murcia
 Paco Esteban,                 F,  - ,      b. 2 May 2006 @ Málaga
 Jon Martín,                   D,  1.85 m,  b. 23 Apr 2006 @ San Sebastián
+David Carballo,               M,  - ,      b. 3 Mar 2006
+Marco Esteban,                D,  - ,      b. 1 Mar 2006 @ Oviedo
 Enric García,                 F,  - ,      b. 28 Feb 2006
+Borja Cortina,                D,  - ,      b. 24 Feb 2006 @ Valencia
 Pau Prim,                     M,  1.79 m,  b. 22 Feb 2006 @ Barcelona
+Jaime Vázquez,                D,  - ,      b. 1 Feb 2006 @ Oviedo
 Javier Díaz,                  D,  - ,      b. 21 Jan 2006 @ Madrid
 Marc Guiu,                    F,  1.87 m,  b. 4 Jan 2006 @ Granollers
 
+Mario Guilabert,              M,  - ,      b. 22 Dec 2005
+Bomba,                        D,  1.82 m,  b. 23 Nov 2005 @ Sant Quirze del Vallès
 Aingeru Olabarrieta,          F,  1.82 m,  b. 14 Nov 2005 @ Luiaondo
 Siren Diao,                   F,  1.89 m,  b. 21 Oct 2005 @ Figueres
+Adam Boayar,                  F,  - ,      b. 13 Oct 2005
 Jorge Castellanos,            M,  - ,      b. 5 Oct 2005 @ Madrid
 Salvi Esquivel,               G,  - ,      b. 30 Sep 2005 @ Estepona
 Victor Moreno,                M,  1.74 m,  b. 30 Sep 2005 @ Estepona
 Pablo Busto,                  D,  1.80 m,  b. 15 Sep 2005 @ Seville
 Assane Diao,                  F,  1.85 m,  b. 7 Sep 2005 @ Ndongane
+Llorenç Serred,               G,  - ,      b. 4 Sep 2005
 Alberto Risco,                M,  - ,      b. 30 Aug 2005
 Rubén Montero,                G,  1.83 m,  b. 28 Aug 2005 @ Albacete
 Carles Sogorb,                D,  1.73 m,  b. 23 Aug 2005 @ Palma de Mallorca
 Dani Pérez,                   M,  1.73 m,  b. 26 Jul 2005 @ Seville
+Carlos Espí,                  F,  1.85 m,  b. 24 Jul 2005 @ Tavernes de la Valldigna
 Fran González,                G,  1.99 m,  b. 24 Jun 2005 @ León
+Marcos Fernández,             F,  - ,      b. 23 Jun 2005
 Antonio Salguero,             D,  - ,      b. 11 Jun 2005
 Junior Bita,                  M,  1.82 m,  b. 8 Jun 2005 @ Adzopé
+Lucas Terrer,                 M,  - ,      b. 7 Jun 2005
 Javier Boñar,                 D,  1.80 m,  b. 3 Jun 2005 @ Madrid
+Eliezer Mayenda,              F,  1.80 m,  b. 8 May 2005 @ Zaragoza
 Álex Jiménez,                 D,  1.71 m,  b. 8 May 2005 @ Leganés
+Diego Menéndez,               M,  - ,      b. 27 Apr 2005
+Pau Navarro,                  D,  - ,      b. 25 Apr 2005
 Íñigo Arguibide,              D,  1.78 m,  b. 19 Apr 2005 @ Pamplona
 Alberto Collado,              M,  - ,      b. 16 Apr 2005 @ Algeciras
+Iván Garriel,                 D,  - ,      b. 3 Apr 2005 @ Íscar
+Adrián Liso,                  F,  1.78 m,  b. 2 Apr 2005 @ Zaragoza
 Darío Frey,                   D,  - ,      b. 2 Apr 2005 @ Madrid
+Jeremy Arévalo,               F,  1.80 m,  b. 19 Mar 2005 @ Santander
+Edgar Alcañiz,                M,  - ,      b. 18 Mar 2005 @ Sueca
+Koke,                         D,  - ,      b. 16 Mar 2005 @ Valladolid
+Iker Gil,                     F,  1.71 m,  b. 15 Mar 2005 @ Zaragoza
+Rodrigo Mendoza,              M,  1.82 m,  b. 15 Mar 2005 @ Murcia
 Michael Dacosta Gonzalez,     F,  - ,      b. 5 Mar 2005 @ Alicante
 Marcos Solís,                 D,  - ,      b. 27 Feb 2005
+Nono,                         G,  - ,      b. 26 Feb 2005
+Juan Sabater,                 D,  - ,      b. 24 Feb 2005
 Gaizka García,                G,  1.92 m,  b. 17 Feb 2005 @ Vitoria-Gasteiz
 Vicent Abril,                 G,  1.92 m,  b. 15 Feb 2005 @ Valencia
+Alejandro Lozano,             F,  - ,      b. 14 Feb 2005
+Nordin,                       F,  - ,      b. 14 Feb 2005
 Sergio Mestre,                G,  1.93 m,  b. 13 Feb 2005 @ Madrid
+Rafel Bauzà,                  M,  1.83 m,  b. 30 Jan 2005 @ Sant Llorenç des Cardessar
 Selvi,                        M,  1.89 m,  b. 29 Jan 2005 @ El Pinell de Brai
+Borja Montes,                 D,  - ,      b. 28 Jan 2005
+Xavi Grande,                  D,  - ,      b. 28 Jan 2005 @ Valencia
 Marcos Peña,                  M,  - ,      b. 22 Jan 2005 @ Almería
+Didac Castellá,               F,  - ,      b. 21 Jan 2005
 Mahamadou Susoho,             M,  - ,      b. 20 Jan 2005 @ Granollers
 Borja Vázquez,                F,  - ,      b. 18 Jan 2005 @ Jerez de la Frontera
+Sergio Rivarés,               F,  - ,      b. 18 Jan 2005
 Josán Gordo,                  G,  - ,      b. 12 Jan 2005 @ Seville
 Yarek Gasiorowski,            D,  1.90 m,  b. 12 Jan 2005 @ Polinyà del Xúquer
 Julio Díaz,                   M,  - ,      b. 10 Jan 2005 @ San Fernando de Henares
 Jacobo Ramón,                 D,  1.88 m,  b. 6 Jan 2005 @ Madrid
 Álvaro Gómez,                 F,  - ,      b. 4 Jan 2005
 
+Iker Vidal,                   F,  - ,      b. 22 Dec 2004 @ Valladolid
+Íñigo García,                 F,  - ,      b. 21 Dec 2004
 Unai Hernández,               M,  1.71 m,  b. 14 Dec 2004 @ Badalona
 Sergio Rodelas,               F,  - ,      b. 1 Dec 2004 @ Granada
 Alejandro Herranz,            D,  - ,      b. 26 Nov 2004
+Pau Sans,                     F,  1.71 m,  b. 24 Nov 2004 @ Zaragoza
 Tomás Mendes,                 M,  - ,      b. 21 Nov 2004 @ Almería
 Paco Sanz,                    D,  1.88 m,  b. 15 Nov 2004 @ Aravaca
 Asier Osambela,               M,  1.86 m,  b. 30 Oct 2004 @ Pamplona
+Luismi Quirant,               G,  - ,      b. 28 Oct 2004
 Stefan Bajčetić,              M,  1.85 m,  b. 22 Oct 2004 @ Vigo
 Pau Mascaró,                  F,  1.78 m,  b. 20 Oct 2004
+Sergio Aragoneses Padilla,    G,  - ,      b. 9 Oct 2004 @ Santa Cruz de Tenerife
 Nacho Ferri,                  F,  1.92 m,  b. 5 Oct 2004 @ Montaverner
 Carles Garrido,               F,  1.82 m,  b. 4 Oct 2004 @ Barcelona
+Iván Fresneda,                D,  1.83 m,  b. 28 Sep 2004 @ Madrid
 Antonio Espigares,            D,  1.87 m,  b. 5 Sep 2004 @ Granada
+Víctor Barberá,               F,  1.72 m,  b. 20 Aug 2004 @ Barcelona
 Bruno Iribarne,               G,  1.91 m,  b. 18 Aug 2004 @ Almería
+José Luis Català,             D,  1.88 m,  b. 16 Aug 2004 @ Palma de Mallorca
 Carlos Reina,                 M,  - ,      b. 10 Aug 2004 @ Seville
 Gavi,                         M,  1.73 m,  b. 5 Aug 2004 @ Los Palacios y Villafranca
+Héctor Criado,                D,  - ,      b. 5 Aug 2004 @ Madrid
 Gorka Rivera,                 D,  1.84 m,  b. 1 Aug 2004 @ Leganés
+Yayo,                         M,  - ,      b. 30 Jul 2004
 José Antonio de la Rosa,      F,  1.74 m,  b. 28 Jul 2004 @ Huelva
 Iñaki González,               M,  1.79 m,  b. 27 Jul 2004 @ Badajoz
 Manu Bueno,                   M,  1.78 m,  b. 27 Jul 2004 @ Jerez de la Frontera
 Ángel Ortiz,                  M,  - ,      b. 25 Jul 2004 @ Almendralejo
+Alejandro Primo,              G,  - ,      b. 10 Jul 2004
 Jan Oliveras,                 D,  1.72 m,  b. 7 Jul 2004 @ Manresa
+Brian Mahugo,                 G,  - ,      b. 3 Jul 2004
+Diego Espinosa,               D,  - ,      b. 2 Jul 2004
 Adrián Niño,                  F,  1.75 m,  b. 19 Jun 2004 @ Rota
+Marcos Navarro,               D,  - ,      b. 30 May 2004
+Pablo Cortés,                 F,  - ,      b. 28 May 2004 @ Zaragoza
 Yellu,                        M,  1.92 m,  b. 25 May 2004 @ Murcia
+Hodei Arrillaga,              D,  - ,      b. 21 May 2004 @ Mutriku
+Saúl del Cerro,               M,  1.85 m,  b. 20 May 2004 @ Burgos
 Ángel Alarcón,                F,  1.75 m,  b. 15 May 2004 @ Castelldefels
 Juanma Herzog,                M,  1.86 m,  b. 13 May 2004 @ Santa Cruz de Tenerife
 Álvaro Bastida,               M,  1.70 m,  b. 12 May 2004 @ Chiclana de la Frontera
 Samu Omorodion,               F,  1.93 m,  b. 5 May 2004 @ Melilla
 Iker Almena,                  M,  1.77 m,  b. 4 May 2004 @ L'Hospitalet de Llobregat
+Chuki,                        M,  - ,      b. 29 Apr 2004 @ Valladolid
 Álex Quevedo,                 G,  1.91 m,  b. 28 Apr 2004 @ Mahón
+Jorge Cabello,                D,  1.80 m,  b. 25 Apr 2004 @ Telde
+Álex Valle,                   D,  1.80 m,  b. 25 Apr 2004 @ Badalona
 Carlos Ballestero,            D,  1.78 m,  b. 24 Apr 2004 @ Oviedo
+Fran Tafalla,                 D,  - ,      b. 22 Apr 2004 @ Orihuela
+Félix Garreta,                D,  - ,      b. 21 Apr 2004 @ Palau-solità i Plegamans
 Egoitz Muñoz,                 D,  1.79 m,  b. 14 Apr 2004 @ Vitoria-Gasteiz
 Marc Jurado,                  D,  1.78 m,  b. 13 Apr 2004 @ Sabadell
 Martín Tejón,                 M,  1.65 m,  b. 12 Apr 2004 @ Villamarchante
 Mateo Flores,                 M,  - ,      b. 7 Apr 2004 @ Valencina de la Concepción
+Roger Martínez,               M,  1.77 m,  b. 5 Apr 2004 @ Badalona
 Ginés Sorroche,               M,  - ,      b. 24 Mar 2004 @ Lorca
 Gonzalo García,               F,  1.82 m,  b. 24 Mar 2004 @ Madrid
 Joselu,                       F,  - ,      b. 12 Mar 2004 @ Villalbilla
+Neco Celorio,                 M,  1.69 m,  b. 7 Mar 2004 @ Torrelavega
 Mario Martín,                 M,  1.77 m,  b. 5 Mar 2004 @ Sonseca
 Ander Astralaga,              G,  1.90 m,  b. 3 Mar 2004 @ Berango
+Jesús Belza,                  F,  - ,      b. 26 Feb 2004
+Marco Suárez,                 G,  - ,      b. 26 Feb 2004
+Eric Gómez,                   F,  1.74 m,  b. 24 Feb 2004 @ Alcorcón
 Javi Navarro,                 M,  - ,      b. 24 Feb 2004 @ Elche
 Rafael Obrador,               D,  1.81 m,  b. 24 Feb 2004 @ Campos
 Aleix Garrido,                M,  1.70 m,  b. 22 Feb 2004 @ Ripoll
 Aitor Gismera,                M,  1.82 m,  b. 21 Feb 2004 @ Getafe
+Álex Calvo,                   F,  1.70 m,  b. 20 Feb 2004 @ Córdoba
+Fabio Blanco,                 F,  1.79 m,  b. 18 Feb 2004 @ Almería
+Marcos Moreno,                F,  - ,      b. 14 Feb 2004
 Diego Piñeiro,                G,  1.83 m,  b. 13 Feb 2004 @ Madrid
 Dani Requena,                 M,  - ,      b. 12 Feb 2004 @ Cenes de la Vega
 Mario Dominguez,              F,  1.75 m,  b. 10 Feb 2004 @ Granada
 Joselito,                     M,  1.84 m,  b. 9 Feb 2004 @ Huelva
-Mario González,               M,  1.75 m,  b. 5 Feb 2004 @ Málaga
+Jesús Martínez,               M,  - ,      b. 8 Feb 2004 @ Santander
+Divaio Bobson,                F,  1.82 m,  b. 6 Feb 2004 @ Barcelona
+Ian Forns,                    D,  - ,      b. 5 Feb 2004 @ Cardedeu
 Salim El Jebari,              F,  1.78 m,  b. 5 Feb 2004 @ Madrid
 Germán García,                G,  - ,      b. 1 Feb 2004 @ Alcalá de Guadaíra
+Javi Hernández,               M,  - ,      b. 30 Jan 2004
+Israel García,                M,  1.82 m,  b. 29 Jan 2004 @ Leganés
 César Fernández,              G,  1.81 m,  b. 28 Jan 2004 @ O Barco de Valdeorras
+Edu Llorente,                 M,  - ,      b. 28 Jan 2004 @ Madrid
 Ander Sánchez,                M,  - ,      b. 24 Jan 2004 @ Vitoria-Gasteiz
 Yuzún Ley,                    D,  1.80 m,  b. 18 Jan 2004 @ Arrecife
 Jastin García,                F,  1.80 m,  b. 15 Jan 2004 @ Lleida
+Juan Larios,                  D,  1.70 m,  b. 12 Jan 2004 @ Seville
+Hugo Zárate,                  M,  - ,      b. 9 Jan 2004 @ Miranda de Ebro
 Eneko Astigarraga,            D,  - ,      b. 8 Jan 2004 @ San Sebastián
+Bryan Osorio,                 D,  - ,      b. 4 Jan 2004
 
+Gabri Jimeno,                 F,  1.78 m,  b. 29 Dec 2003 @ Elda
 Hugo Sotelo,                  M,  1.80 m,  b. 19 Dec 2003 @ Vigo
+Mario Maroto,                 M,  1.76 m,  b. 28 Nov 2003 @ Valladolid
 Enrique Fernández,            M,  1.78 m,  b. 16 Nov 2003 @ Trebujena
 Mikel Jauregizar,             M,  1.77 m,  b. 13 Nov 2003 @ Bilbao
+Alberto Vaquero,              M,  - ,      b. 12 Nov 2003
 Alberto Flores,               G,  1.87 m,  b. 9 Nov 2003 @ Fuentes de Andalucía
 Álex Almansa,                 F,  - ,      b. 8 Nov 2003
+Pau Casadesús,                D,  1.82 m,  b. 30 Oct 2003 @ Vallirana
+Marcos Sánchez,               D,  1.78 m,  b. 26 Oct 2003 @ Villarreal
+Mateo Joseph,                 F,  1.80 m,  b. 19 Oct 2003 @ Santander
 Alejandro Balde,              D,  1.75 m,  b. 18 Oct 2003 @ Barcelona
 Pau,                          F,  - ,      b. 17 Oct 2003 @ Benicarló
+Mario García,                 D,  1.76 m,  b. 2 Oct 2003 @ Palencia
 Selu Diallo,                  M,  1.87 m,  b. 1 Oct 2003 @ Huesca
 Alberto Moleiro,              M,  1.69 m,  b. 30 Sep 2003 @ Santa Cruz de Tenerife
 John Patrick Finn,            M,  1.93 m,  b. 24 Sep 2003 @ Madrid
+David García,                 M,  1.83 m,  b. 15 Sep 2003
 Marc Casadó,                  M,  1.73 m,  b. 14 Sep 2003 @ Sant Pere de Vilamajor
+Javi Garrido,                 G,  1.86 m,  b. 7 Sep 2003 @ Madrid
 Pablo Muñoz,                  M,  1.75 m,  b. 4 Sep 2003 @ San Sebastián de los Reyes
 Alejandro Iturbe,             G,  1.86 m,  b. 2 Sep 2003 @ Madrid
 Álex Padilla,                 G,  1.90 m,  b. 1 Sep 2003 @ Zarautz
 Diego Méndez,                 D,  1.82 m,  b. 29 Aug 2003 @ Móstoles
+Álex Cardero,                 M,  - ,      b. 25 Aug 2003 @ Oviedo
+Estanis Pedrola,              F,  1.85 m,  b. 24 Aug 2003 @ Cambrils
 Juanlu Sánchez,               M,  1.86 m,  b. 15 Aug 2003 @ Seville
 Julio Cabrera,                D,  1.75 m,  b. 14 Aug 2003 @ Olvera
 Manu Morillo,                 F,  - ,      b. 14 Aug 2003 @ Sanlúcar la Mayor
 Rafa Romero,                  G,  1.92 m,  b. 7 Aug 2003 @ Jerez de la Frontera
-Marcos Fernández,             D,  - ,      b. 17 Jul 2003 @ Andratx
+Carlos Álvarez,               M,  1.65 m,  b. 6 Aug 2003 @ Sanlúcar la Mayor
+Álvaro Aceves,                G,  - ,      b. 26 Jul 2003 @ Valladolid
+Diego Sánchez,                D,  1.79 m,  b. 18 Jul 2003 @ Avilés
+Piri,                         F,  - ,      b. 10 Jul 2003 @ Alcorcón
 Oso,                          F,  1.83 m,  b. 9 Jul 2003 @ Torrevieja
 Pablo Marín,                  M,  1.78 m,  b. 3 Jul 2003 @ Logroño
 Hugo Álvarez,                 M,  1.85 m,  b. 2 Jul 2003 @ Ourense
 Javi Rodríguez,               D,  - ,      b. 26 Jun 2003 @ Pontevedra
+Iker Aldai,                   D,  - ,      b. 24 Jun 2003 @ Getxo
+José Antonio Arjona,          M,  1.74 m,  b. 21 Jun 2003 @ Huelva
 Marc Pubill,                  D,  1.90 m,  b. 20 Jun 2003 @ Terrassa
 Pablo Barrios,                M,  1.81 m,  b. 15 Jun 2003 @ Madrid
+Diego Aznar,                  F,  - ,      b. 9 Jun 2003 @ Zaragoza
+Oscar Ureña,                  F,  - ,      b. 31 May 2003 @ Figueres
+Antonio Pina,                 G,  - ,      b. 29 May 2003
 Eneko Ortiz,                  D,  1.80 m,  b. 26 May 2003 @ Miranda de Ebro
 Unai Gómez,                   M,  1.83 m,  b. 25 May 2003 @ Bermeo
 Adrían Salguero,              D,  1.83 m,  b. 20 May 2003 @ El Vendrell
 Antonio Gomis,                G,  1.86 m,  b. 20 May 2003 @ Elche
+Yeray Cabanzón,               M,  1.70 m,  b. 14 May 2003 @ Isla
 Javi Guerra,                  M,  1.87 m,  b. 13 May 2003 @ Valencia
+Alvin,                        G,  - ,      b. 12 May 2003 @ Madrid
+Dylan Perera,                 M,  1.75 m,  b. 11 May 2003 @ Santa Cruz de Tenerife
 Fermín López,                 M,  1.76 m,  b. 11 May 2003 @ El Campillo
+Israel Salazar,               F,  1.77 m,  b. 10 May 2003 @ Badajoz
 Isra Domínguez,               F,  1.75 m,  b. 7 May 2003 @ Antequera
+Alan Godoy,                   F,  1.78 m,  b. 4 May 2003 @ Las Palmas
+Diego Rosales,                D,  - ,      b. 29 Apr 2003 @ Miranda de Ebro
 Miguel Rodríguez,             F,  1.79 m,  b. 29 Apr 2003 @ Redondela
+Arnau Rafús,                  G,  1.90 m,  b. 27 Apr 2003 @ Vic
 Adrián Miranda,               D,  1.83 m,  b. 26 Apr 2003 @ Olesa de Montserrat
 Arnau Martínez,               D,  1.82 m,  b. 25 Apr 2003 @ Premià de Dalt
+Íker Venteo,                  G,  1.93 m,  b. 24 Apr 2003 @ Vilanova del Camí
+Jaime Garrido,                F,  - ,      b. 19 Apr 2003 @ Madrid
+Carlos Calavia,               G,  - ,      b. 17 Apr 2003
 Diego Hormigo,                D,  1.82 m,  b. 16 Apr 2003 @ Seville
+César Álvarez,                D,  - ,      b. 15 Apr 2003 @ Santa Cruz de Tenerife
 Yago Santiago,                M,  - ,      b. 15 Apr 2003 @ Vigo
 Jorge Pascual,                F,  1.87 m,  b. 9 Apr 2003 @ Almería
+Ibon Ispizua,                 G,  1.85 m,  b. 8 Apr 2003 @ Sukarrieta
+David Sellés,                 D,  1.85 m,  b. 5 Apr 2003 @ Valencia
+Marcos Luna,                  D,  1.80 m,  b. 5 Apr 2003 @ Zaragoza
+Arnau Solà,                   D,  1.79 m,  b. 4 Apr 2003 @ Amposta
 Pablo Torre,                  M,  1.73 m,  b. 3 Apr 2003 @ Soto de la Marina
 Lander Emery,                 G,  - ,      b. 29 Mar 2003
-Álvaro Fernández,             D,  - ,      b. 23 Mar 2003 @ El Ferrol
 Damián Rodríguez,             M,  1.80 m,  b. 17 Mar 2003 @ Ponteareas
+Javi Pamies,                  D,  - ,      b. 17 Mar 2003
+Luis Roldán,                  M,  - ,      b. 17 Mar 2003
 Rubén Iranzo,                 D,  1.82 m,  b. 14 Mar 2003 @ Picanya
 Aitor Fraga,                  G,  1.94 m,  b. 9 Mar 2003 @ Hernani
-Raúl Asencio,                 D,  1.84 m,  b. 13 Feb 2003 @ Las Palmas
+David Torres,                 D,  1.87 m,  b. 5 Mar 2003 @ Valladolid
+Nico Serrano,                 F,  1.78 m,  b. 5 Mar 2003 @ Pamplona
+Víctor Rodríguez,             D,  - ,      b. 5 Mar 2003
+Jordi Ortega,                 M,  1.82 m,  b. 23 Feb 2003 @ Castellón
+Andrés García,                F,  - ,      b. 7 Feb 2003
 Hugo González,                M,  1.84 m,  b. 7 Feb 2003 @ Valencia
+Hugo Solozábal,               M,  - ,      b. 7 Feb 2003 @ Madrid
 Ricard Artero,                M,  - ,      b. 5 Feb 2003 @ La Bisbal d'Empordà
+Álex Gil,                     M,  - ,      b. 5 Feb 2003 @ Madrid
 David López,                  D,  1.95 m,  b. 3 Feb 2003 @ Palma de Mallorca
+Diego de Pedro,               M,  - ,      b. 3 Feb 2003 @ Almoradí
+Txus Alba,                    M,  1.73 m,  b. 31 Jan 2003 @ Barcelona
 Hugo Rincón,                  D,  1.83 m,  b. 27 Jan 2003 @ Valtierra
 Ale Palanca,                  D,  1.75 m,  b. 26 Jan 2003 @ Las Palmas
 Hugo Novoa,                   F,  1.82 m,  b. 24 Jan 2003 @ Bertamiráns
+Álex Oyón,                    F,  1.71 m,  b. 23 Jan 2003 @ Gijón
+Gabri Martínez,               F,  1.85 m,  b. 22 Jan 2003 @ Sant Fost de Campsentelles
+Darío Serra,                  F,  1.80 m,  b. 20 Jan 2003 @ Vera
+Ángel Gómez,                  D,  1.93 m,  b. 20 Jan 2003 @ Granada
+Lucas Ricoy,                  F,  - ,      b. 18 Jan 2003
 Javi Serrano,                 M,  1.79 m,  b. 16 Jan 2003 @ Madrid
 Xavi Pleguezuelo,             D,  1.78 m,  b. 14 Jan 2003 @ Barcelona
 Darío Benavides,              D,  1.78 m,  b. 12 Jan 2003 @ El Ejido
+Manu Rico,                    F,  - ,      b. 11 Jan 2003
 Iñaki Rupérez,                D,  - ,      b. 7 Jan 2003 @ Ansoáin
+Aitor Mañas,                  F,  1.81 m,  b. 5 Jan 2003 @ Madrid
 Rodri Alonso,                 M,  1.72 m,  b. 4 Jan 2003 @ Castelló de la Plana
 Jesús Vázquez,                D,  1.82 m,  b. 2 Jan 2003 @ Mérida
+Dawda Dambelleh,              F,  - ,      b. 1 Jan 2003 @ Sabadell
 
+Iván Azón,                    F,  1.81 m,  b. 24 Dec 2002 @ Zaragoza
+Hugo Pérez,                   D,  1.89 m,  b. 16 Dec 2002 @ Barcelona
+Raúl Moro,                    F,  1.69 m,  b. 5 Dec 2002 @ Abrera
+Neco Rubayo,                  M,  1.70 m,  b. 2 Dec 2002 @ Santander
+Carlos Benítez,               M,  - ,      b. 25 Nov 2002 @ Catarroja
 Pedri,                        M,  1.77 m,  b. 25 Nov 2002 @ Tegueste
+Joan Puig,                    D,  - ,      b. 16 Nov 2002 @ Girona
+Marcos Cuenca,                F,  - ,      b. 7 Nov 2002 @ Zaragoza
 Iker Muñoz,                   M,  1.78 m,  b. 5 Nov 2002 @ Villafranca
 Ansu Fati,                    F,  1.78 m,  b. 31 Oct 2002 @ Bissau
 Yéremi Pino,                  F,  1.72 m,  b. 20 Oct 2002 @ Las Palmas
+Kai Corbett,                  F,  1.82 m,  b. 8 Oct 2002 @ Barcelona
 Lulo Dasilva,                 M,  1.87 m,  b. 4 Oct 2002 @ Seville
+Peque,                        F,  1.72 m,  b. 4 Oct 2002 @ L'Hospitalet de Llobregat
+Ángel Troncho,                M,  - ,      b. 2 Oct 2002
 Jon Karrikaburu,              F,  1.83 m,  b. 19 Sep 2002 @ Elizondo
 Guille Bueno,                 D,  1.76 m,  b. 18 Sep 2002 @ Vigo
 Hugo Bueno,                   D,  1.80 m,  b. 18 Sep 2002 @ Vigo
+Alassan,                      M,  1.77 m,  b. 12 Sep 2002 @ Santa Cruz de Tenerife
 Matías Árbol,                 G,  - ,      b. 12 Sep 2002 @ Palomares del Río
 Javi Llabrés,                 F,  1.74 m,  b. 11 Sep 2002 @ Inca
 Fran Pérez,                   F,  1.76 m,  b. 9 Sep 2002 @ Valencia
+Antoniu Roca,                 F,  - ,      b. 5 Sep 2002
+Mario Sesè,                   F,  1.78 m,  b. 30 Aug 2002 @ Quart de Poblet
+Óscar Carrasco,               M,  - ,      b. 28 Aug 2002
+Gerard Yepes,                 M,  1.70 m,  b. 25 Aug 2002 @ Barcelona
+José Menor,                   F,  - ,      b. 20 Aug 2002 @ Burgos
+Iker Benito,                  F,  1.76 m,  b. 10 Aug 2002 @ Miranda de Ebro
 Ale Gorrín,                   G,  - ,      b. 8 Aug 2002
+Alejandro Francés,            D,  1.80 m,  b. 1 Aug 2002 @ Zaragoza
+Cacho,                        F,  - ,      b. 31 Jul 2002 @ Santa Cruz de Tenerife
+Víctor Rofino,                D,  1.85 m,  b. 28 Jul 2002 @ Madrid
 Alberto Dadie,                M,  1.70 m,  b. 20 Jul 2002 @ San Sebastián
 Nico Williams,                F,  1.81 m,  b. 12 Jul 2002 @ Pamplona
+David Guerrero,               D,  1.88 m,  b. 5 Jul 2002 @ Caravaca
+Mario Jorrín,                 D,  1.80 m,  b. 28 Jun 2002 @ Santander
 Aitor Gelardo,                M,  1.77 m,  b. 26 Jun 2002 @ Catral
+Lalo Aguilar,                 D,  1.88 m,  b. 11 Jun 2002 @ Madrid
+Naim García,                  M,  1.80 m,  b. 11 Jun 2002 @ Madrid
+Ethyan González,              F,  1.85 m,  b. 6 Jun 2002 @ Santa Cruz de Tenerife
 Mario de Luis,                G,  1.84 m,  b. 5 Jun 2002 @ Madrid
 Gabri Veiga,                  M,  1.84 m,  b. 27 May 2002 @ Porriño
+Daniel Queipo,                F,  1.68 m,  b. 22 May 2002 @ Oviedo
 Rafa Marín,                   D,  1.91 m,  b. 19 May 2002 @ Guadajoz
 Diego López,                  F,  1.72 m,  b. 13 May 2002 @ Turón
+Asier,                        M,  - ,      b. 10 May 2002 @ Miranda de Ebro
 Lucas Cañizares,              G,  1.86 m,  b. 10 May 2002 @ Valencia
+Cristian Acerete,             F,  1.74 m,  b. 5 May 2002 @ Gijón
+Ekhiotz Orobio,               M,  1.82 m,  b. 5 May 2002 @ Vitoria-Gasteiz
+Pablo Moreno,                 F,  1.78 m,  b. 3 May 2002 @ Granada
+Óscar Aranda,                 M,  1.81 m,  b. 29 Apr 2002 @ Granada
+Pablo Campos,                 G,  1.88 m,  b. 28 Apr 2002 @ Valencia
 Kike Salas,                   D,  1.86 m,  b. 23 Apr 2002 @ Morón de la Frontera
+Carlos Martín,                F,  1.80 m,  b. 22 Apr 2002 @ Madrid
+Mario Soriano,                M,  1.63 m,  b. 22 Apr 2002 @ Alcalá de Henares
 Robert Navarro,               M,  1.78 m,  b. 12 Apr 2002 @ Barcelona
 Álvaro Carrillo,              D,  1.80 m,  b. 6 Apr 2002 @ Murcia
 Víctor Parada,                D,  1.87 m,  b. 4 Apr 2002 @ Madrid
 Rubén Quintanilla,            M,  1.80 m,  b. 3 Apr 2002 @ Barcelona
 Joel López,                   D,  1.79 m,  b. 31 Mar 2002 @ Barcelona
-Javi López,                   D,  1.83 m,  b. 25 Mar 2002 @ Santa Cruz de Tenerife
 Pere Joan,                    G,  1.88 m,  b. 22 Mar 2002 @ Can Picafort
+Pedro Alemañ,                 M,  1.80 m,  b. 21 Mar 2002 @ Elche
+Nacho Martín,                 M,  1.75 m,  b. 19 Mar 2002 @ Oviedo
 Unai Eguíluz,                 D,  1.86 m,  b. 19 Mar 2002 @ Durango
 Pol Tristán,                  G,  1.88 m,  b. 18 Mar 2002 @ Barcelona
+Diego Bartolomé,              M,  - ,      b. 16 Mar 2002 @ Logroño
+Germán Valera,                F,  1.70 m,  b. 16 Mar 2002 @ Murcia
 Yadam Santana,                M,  1.72 m,  b. 14 Mar 2002 @ Las Palmas
+Mada,                         M,  - ,      b. 11 Mar 2002 @ Berango
+José Marsà,                   D,  1.83 m,  b. 4 Mar 2002 @ Esplugues de Llobregat
 César Tárrega,                D,  1.93 m,  b. 26 Feb 2002 @ Valencia
 Gerard Martín,                D,  1.86 m,  b. 26 Feb 2002 @ Esplugues de Llobregat
+Sergio Fernández,             D,  - ,      b. 14 Feb 2002
+Pablo Díez,                   G,  1.87 m,  b. 13 Feb 2002 @ Oviedo
+Aimar Collante,               D,  - ,      b. 10 Feb 2002 @ Elorz
+Juan Sebastián,               D,  1.85 m,  b. 7 Feb 2002 @ Zaragoza
 Jon Gorrotxategi,             M,  - ,      b. 2 Feb 2002 @ Eibar
 Joan González,                M,  1.88 m,  b. 1 Feb 2002 @ Barcelona
 Beñat Turrientes,             M,  1.79 m,  b. 31 Jan 2002 @ Beasain
+Mario Climent,                D,  1.76 m,  b. 30 Jan 2002 @ Elche
 José Ángel Carmona,           D,  1.83 m,  b. 29 Jan 2002 @ El Viso del Alcor
+Rubén Gómez,                  G,  - ,      b. 24 Jan 2002 @ Alzira
 Gabriel Palmero,              D,  - ,      b. 15 Jan 2002 @ La Palma
+Álex Blesa,                   M,  1.80 m,  b. 15 Jan 2002 @ Valencia
+Èric Callís,                  D,  1.70 m,  b. 14 Jan 2002 @ La Vall de Bianya
 Coke Carrillo,                G,  1.88 m,  b. 7 Jan 2002 @ Poio
+Loïc Williams,                D,  1.88 m,  b. 7 Jan 2002 @ Valencia
+Antonio Pacheco,              M,  1.82 m,  b. 3 Jan 2002 @ Callosa de Segura
+Nico González,                M,  1.88 m,  b. 3 Jan 2002 @ La Coruña
 
 Ander Barrenetxea,            F,  1.78 m,  b. 27 Dec 2001 @ San Sebastián
 Miguel Brau,                  D,  1.83 m,  b. 27 Dec 2001 @ Cartagena
 Eric Monjonell,               D,  1.87 m,  b. 16 Dec 2001 @ Barcelona
+Brais Martínez,               D,  1.75 m,  b. 13 Dec 2001 @ Vigo
+Manuel Pozo,                  F,  1.68 m,  b. 12 Dec 2001 @ Casariche
+Aritz Muguruza,               D,  - ,      b. 8 Dec 2001
 Aimar Oroz,                   M,  1.77 m,  b. 27 Nov 2001 @ Pamplona
 Pau Victor,                   M,  1.84 m,  b. 26 Nov 2001 @ Sant Cugat del Vallès
+Iago Domínguez,               G,  - ,      b. 22 Nov 2001 @ Vigo
 Unai Ropero,                  F,  1.87 m,  b. 20 Nov 2001 @ Vitoria-Gasteiz
+Diego Campo,                  M,  1.77 m,  b. 16 Nov 2001 @ Torrelavega
 Marco Camus,                  M,  1.83 m,  b. 16 Nov 2001 @ Santander
 Facundo Esnaider,             M,  1.84 m,  b. 9 Nov 2001 @ Porto
 Max Svensson,                 F,  1.82 m,  b. 8 Nov 2001 @ Barcelona
+Álvaro Santamaría,            F,  1.83 m,  b. 7 Nov 2001 @ Oviedo
+Arnau Ortiz,                  F,  1.75 m,  b. 29 Oct 2001 @ Figueres
 Carlos Romero,                D,  1.80 m,  b. 29 Oct 2001 @ Valencia
+Andrés Borge,                 D,  1.81 m,  b. 23 Oct 2001 @ Zaragoza
+Francho Serrano,              M,  1.77 m,  b. 17 Oct 2001 @ Zaragoza
 Malcom Adu Ares,              F,  1.83 m,  b. 12 Oct 2001 @ Bilbao
 Unai Marrero,                 G,  1.89 m,  b. 9 Oct 2001 @ San Sebastián
+Alberto Quintana,             M,  1.86 m,  b. 5 Oct 2001 @ Villanueva del Trabuco
+Ángel Fortuño,                G,  1.83 m,  b. 5 Oct 2001 @ Barcelona
 Sergio Arribas,               M,  1.72 m,  b. 30 Sep 2001 @ Madrid
+Jony Álamo,                   M,  1.75 m,  b. 25 Sep 2001 @ La Unión
+Teto,                         M,  1.75 m,  b. 13 Sep 2001 @ Santa Cruz de Tenerife
 Bryan Zaragoza,               F,  1.64 m,  b. 9 Sep 2001 @ Málaga
 Santi García,                 M,  1.84 m,  b. 29 Aug 2001 @ Madrid
 Sergi Altimira,               M,  1.88 m,  b. 25 Aug 2001 @ Cardedeu
 Xavi Sintes,                  M,  1.89 m,  b. 5 Aug 2001 @ Mahón
+Pablo Rodríguez,              F,  1.78 m,  b. 4 Aug 2001 @ Las Palmas
+Fernando Guerrero,            M,  1.82 m,  b. 1 Aug 2001 @ Madrid
+Iker Losada,                  M,  1.75 m,  b. 1 Aug 2001 @ Catoira
+Enol Rodríguez,               F,  1.86 m,  b. 28 Jul 2001 @ Candás
 Miguel Gutiérrez,             D,  1.80 m,  b. 27 Jul 2001 @ Madrid
 Jorge Moreno,                 D,  1.84 m,  b. 25 Jul 2001 @ Madrid
 Álex Baena,                   M,  1.74 m,  b. 20 Jul 2001 @ Roquetas de Mar
 Jon Magunazelaia,             M,  1.72 m,  b. 13 Jul 2001 @ Eibar
 Alberto Marí,                 F,  1.83 m,  b. 11 Jul 2001 @ Alicante
+Fran Delgado,                 D,  1.77 m,  b. 11 Jul 2001 @ Écija
 Abraham del Moral,            D,  1.84 m,  b. 5 Jul 2001 @ Martos
 Mika Màrmol,                  D,  1.81 m,  b. 1 Jul 2001 @ Terrassa
+Pablo Ramón,                  D,  1.86 m,  b. 30 Jun 2001 @ Calvià
+Lanchi,                       D,  1.83 m,  b. 23 Jun 2001 @ Puerto Real
+Diego Moreno,                 D,  1.77 m,  b. 21 Jun 2001 @ Cintruénigo
+Óscar Castro,                 M,  1.77 m,  b. 20 Jun 2001 @ Santa Cruz de Tenerife
+Iker Recio,                   D,  1.85 m,  b. 17 Jun 2001 @ Talavera de la Reina
+Jofre Carreras,               F,  1.73 m,  b. 17 Jun 2001 @ Girona
 Miki Bosch,                   D,  1.90 m,  b. 9 Jun 2001 @ Alginet
+Fer Romero,                   D,  1.84 m,  b. 8 Jun 2001 @ Daimiel
 Arnau Tenas,                  G,  1.85 m,  b. 30 May 2001 @ Vic
+Adrián Bernabé,               M,  1.70 m,  b. 26 May 2001 @ Barcelona
+Barbu,                        D,  1.89 m,  b. 26 May 2001 @ Leganés
 Sergio Gimeno,                D,  - ,      b. 25 May 2001
+Luismi Cruz,                  M,  1.66 m,  b. 23 May 2001 @ El Puerto de Santa María
 Pablo Sáenz,                  F,  - ,      b. 22 May 2001 @ San Adrián
+Álex Ruiz,                    G,  1.84 m,  b. 19 May 2001 @ Badalona
+José Saldaña,                 G,  - ,      b. 9 May 2001 @ Almería
+Luis López,                   G,  1.90 m,  b. 8 May 2001 @ Murcia
+Fromsa Mateo,                 D,  1.86 m,  b. 7 May 2001
+Javi López,                   F,  1.83 m,  b. 5 May 2001 @ Barcelona
+Joan García,                  G,  1.80 m,  b. 4 May 2001 @ Sallent de Llobregat
+Miguel Puche,                 F,  1.79 m,  b. 30 Apr 2001 @ Tarazona
 Pablo Gozálbez,               M,  1.70 m,  b. 30 Apr 2001 @ Valencia
 Ricardo Visus,                D,  1.92 m,  b. 24 Apr 2001 @ Madrid
+Iván Ayllon,                  M,  - ,      b. 23 Apr 2001 @ La Seca
+Carlos Sánchez,               D,  - ,      b. 19 Apr 2001 @ Palma de Mallorca
 Toni Fuidias,                 G,  1.94 m,  b. 15 Apr 2001 @ Berga
 Alex Forés,                   F,  1.79 m,  b. 12 Apr 2001 @ Valencia
+Nico Melamed,                 M,  1.73 m,  b. 11 Apr 2001 @ Castelldefels
+Iván Romero,                  F,  1.75 m,  b. 10 Apr 2001 @ La Solana
+Marcos Otero,                 D,  1.85 m,  b. 7 Apr 2001 @ Las Cabezas de San Juan
 Gaizka Ayesa,                 G,  1.90 m,  b. 2 Apr 2001 @ Ansoáin
 Javi Domínguez,               D,  1.95 m,  b. 26 Mar 2001 @ Madrid
+Enol Coto,                    D,  1.74 m,  b. 23 Mar 2001 @ Gijón
 Juanmi Latasa,                F,  1.89 m,  b. 23 Mar 2001 @ Madrid
+Miguel Operé,                 D,  - ,      b. 20 Mar 2001 @ Alicante
 Urko González de Zárate,      D,  1.86 m,  b. 20 Mar 2001 @ Vitoria-Gasteiz
 Pablo Valencia,               G,  1.88 m,  b. 16 Mar 2001 @ Bariáin
 Carlos Dotor,                 M,  1.80 m,  b. 15 Mar 2001 @ Madrid
 Miguel Peña,                  D,  1.79 m,  b. 8 Mar 2001 @ Paterna
+Javi Vargas,                  F,  - ,      b. 6 Mar 2001 @ Villanueva del Ariscal
 Miguel Capi,                  F,  1.75 m,  b. 6 Mar 2001 @ Mairena del Alcor
+Dani Selma,                   F,  - ,      b. 1 Mar 2001 @ L'Eliana
 Raúl Torrente,                M,  1.93 m,  b. 1 Mar 2001 @ Murcia
 Adrià Altimira,               D,  1.70 m,  b. 28 Feb 2001 @ Cardedeu
+Guillermo Acín,               G,  1.83 m,  b. 28 Feb 2001 @ Zaragoza
 Jorge Herrando,               D,  1.90 m,  b. 28 Feb 2001 @ Pamplona
+Farru,                        D,  - ,      b. 25 Feb 2001 @ Lorca
 Marco Moreno,                 D,  1.90 m,  b. 20 Feb 2001 @ Las Palmas
+Fadia Fofana,                 D,  1.86 m,  b. 19 Feb 2001
+Kenneth Soler,                F,  1.75 m,  b. 16 Feb 2001 @ Calafell
+Sergio Navarro,               F,  - ,      b. 16 Feb 2001 @ Madrid
+Álvaro Sanz,                  M,  1.71 m,  b. 14 Feb 2001 @ Caspe
+Carlo Adriano,                M,  1.85 m,  b. 12 Feb 2001 @ Villarreal
 Bryan Gil,                    M,  1.75 m,  b. 11 Feb 2001 @ Barbate
 Carlos Domínguez,             D,  1.87 m,  b. 11 Feb 2001 @ Vigo
 Sergio Camello,               F,  1.77 m,  b. 10 Feb 2001 @ Madrid
 Beñat Prados,                 M,  1.78 m,  b. 8 Feb 2001 @ Pamplona
+Juan María,                   D,  1.78 m,  b. 5 Feb 2001 @ Rota
+Rubén Sánchez,                D,  1.85 m,  b. 4 Feb 2001 @ Barcelona
+Borja Sainz,                  F,  1.78 m,  b. 1 Feb 2001 @ Leioa
+Sergi Rosanas,                D,  1.72 m,  b. 29 Jan 2001 @ Cabrera de Mar
 Joseda,                       D,  1.83 m,  b. 22 Jan 2001 @ Esplugues de Llobregat
+Víctor Mollejo,               F,  1.76 m,  b. 21 Jan 2001 @ Alcázar de San Juan
+Isaac Hernández,              D,  1.76 m,  b. 15 Jan 2001 @ Las Palmas
+Iván Morante,                 M,  1.80 m,  b. 15 Jan 2001 @ León
+Álvaro Martín,                M,  1.74 m,  b. 15 Jan 2001 @ Madrid
+Marcos Bustillo,              M,  1.84 m,  b. 12 Jan 2001 @ Bilbao
 Miguelito,                    D,  - ,      b. 12 Jan 2001 @ Palma de Mallorca
 Arnau Puigmal,                M,  1.73 m,  b. 10 Jan 2001 @ Barcelona
 Diego Collado,                F,  1.80 m,  b. 9 Jan 2001 @ Granada
 Eric García,                  D,  1.82 m,  b. 9 Jan 2001 @ Barcelona
 Jon Pacheco,                  D,  1.84 m,  b. 8 Jan 2001 @ Elizondo
+Roberto González,             M,  1.73 m,  b. 8 Jan 2001 @ Mérida
+Alejandro Pérez,              D,  - ,      b. 7 Jan 2001 @ El Masnou
 Jordi Martín,                 D,  1.76 m,  b. 5 Jan 2001 @ Madrid
 
+Sergio Barcia,                D,  1.94 m,  b. 31 Dec 2000 @ Vigo
 Julen Agirrezabala,           G,  1.87 m,  b. 26 Dec 2000 @ San Sebastián
+Pablo Hernández,              M,  1.73 m,  b. 18 Dec 2000 @ Santa Cruz de Tenerife
+Cristian Gutiérrez,           F,  1.77 m,  b. 30 Nov 2000 @ Marbella
+Ander Martín,                 M,  1.77 m,  b. 16 Nov 2000 @ San Sebastián
+Unai Vencedor,                M,  1.76 m,  b. 15 Nov 2000 @ Bilbao
 Raúl García,                  F,  1.92 m,  b. 3 Nov 2000 @ Olesa de Montserrat
 César Gelabert,               M,  1.82 m,  b. 31 Oct 2000 @ Palencia
+Fernando Niño,                F,  1.90 m,  b. 24 Oct 2000 @ Rota
 Ramon Terrats,                M,  1.81 m,  b. 18 Oct 2000 @ Barcelona
+Sergio Carreira,              D,  1.70 m,  b. 13 Oct 2000 @ Vigo
+José Salinas,                 D,  1.79 m,  b. 30 Sep 2000 @ Callosa de Segura
+Iván Jaime,                   M,  1.77 m,  b. 26 Sep 2000 @ Málaga
+John Chetauya,                D,  1.85 m,  b. 25 Sep 2000 @ Murcia
+Julen Lobete,                 F,  1.78 m,  b. 18 Sep 2000 @ Lezo
+Javier Castro,                D,  1.83 m,  b. 13 Sep 2000 @ Madrid
 Miguel Ángel Morro,           G,  1.95 m,  b. 11 Sep 2000 @ Alcalá de Henares
+Jesús Clemente,               M,  1.85 m,  b. 8 Sep 2000 @ Badajoz
 Sergio Gómez,                 M,  1.71 m,  b. 4 Sep 2000 @ Badalona
+Rubén Pulido,                 D,  1.84 m,  b. 2 Sep 2000 @ Madrid
 Mario Gila,                   D,  1.83 m,  b. 29 Aug 2000 @ Barcelona
 Manu Sánchez,                 D,  1.79 m,  b. 24 Aug 2000 @ Madrid
+Rafa Tresaco,                 F,  1.78 m,  b. 24 Aug 2000 @ Sabiñánigo
+Abel Bretones,                D,  1.86 m,  b. 21 Aug 2000 @ Langreo
+Joel Jorquera,                F,  1.71 m,  b. 19 Aug 2000 @ Castelldefels
+Pedro Ortiz,                  M,  1.84 m,  b. 19 Aug 2000 @ Palma de Mallorca
 Jon Ander Olasagasti,         M,  1.76 m,  b. 16 Aug 2000 @ San Sebastián
+Jandro Orellana,              M,  1.78 m,  b. 7 Aug 2000 @ Gavà
+Jon Mikel Magunagoitia,       G,  1.83 m,  b. 6 Aug 2000 @ Amorebieta-Etxano
 Antonio Blanco,               M,  1.76 m,  b. 23 Jul 2000 @ Montalbán
+Alberto Del Moral,            M,  1.85 m,  b. 20 Jul 2000 @ Villacañas
+Martín Cascajo,               G,  1.91 m,  b. 11 Jul 2000 @ Salamanca
+Josep Gayá,                   D,  1.85 m,  b. 7 Jul 2000 @ Palma de Mallorca
+Álvaro Núñez,                 D,  1.74 m,  b. 7 Jul 2000 @ Bilbao
+Dani Tasende,                 D,  1.72 m,  b. 6 Jul 2000 @ Coristanco
+Leo Román,                    G,  1.90 m,  b. 6 Jul 2000 @ Ibiza
 Marvin Park,                  D,  1.78 m,  b. 3 Jul 2000 @ Palma de Mallorca
 Álex Calatrava,               F,  1.75 m,  b. 22 Jun 2000 @ Barcelona
+Iker Kortajarena,             M,  1.79 m,  b. 21 Jun 2000 @ Oiartzun
+Alejandro Cantero,            F,  1.82 m,  b. 8 Jun 2000 @ Madrid
 Imanol García,                D,  1.84 m,  b. 8 Jun 2000 @ Gallarta
+Pablo García,                 D,  1.78 m,  b. 5 Jun 2000 @ Gijón
 Isaac Romero,                 F,  1.83 m,  b. 18 May 2000 @ Lebrija
+Guille Rosas,                 D,  1.75 m,  b. 17 May 2000 @ Gijón
 Rodri,                        M,  1.68 m,  b. 16 May 2000 @ Talayuela
+Diego Mirapeix,               D,  1.87 m,  b. 15 May 2000 @ Santiago de Compostela
+José Gragera,                 M,  1.86 m,  b. 14 May 2000 @ Gijón
+Álvaro Mantilla,              D,  1.84 m,  b. 9 May 2000 @ Santander
 Aitor Paredes,                D,  1.86 m,  b. 29 Apr 2000 @ Bilbao
+Juan Cruz,                    M,  1.77 m,  b. 25 Apr 2000 @ Quilmes
 Oihan Sancet,                 M,  1.88 m,  b. 25 Apr 2000 @ Iruñea
+Roberto López,                M,  1.79 m,  b. 24 Apr 2000 @ Zaragoza
+Diego García,                 F,  1.86 m,  b. 19 Apr 2000 @ Madrid
 Antoñín,                      F,  1.82 m,  b. 16 Apr 2000 @ Málaga
+Moha Ramos,                   G,  1.88 m,  b. 13 Apr 2000 @ Santa Cruz de Tenerife
+Juan Artola,                  F,  1.76 m,  b. 7 Apr 2000 @ Bilbao
+Rubén de Gea,                 G,  1.93 m,  b. 4 Apr 2000 @ Cehegín
+Pascu,                        M,  1.84 m,  b. 2 Apr 2000 @ Santa Pola
 Rodrigo Riquelme,             F,  1.74 m,  b. 2 Apr 2000 @ Madrid
+Víctor Gómez,                 D,  1.66 m,  b. 1 Apr 2000 @ Olesa de Montserrat
+Gaspar Campos,                M,  1.75 m,  b. 27 Mar 2000 @ Gijón
+Miguel Baeza,                 M,  1.75 m,  b. 27 Mar 2000 @ Córdoba
+Pedro Benito,                 F,  1.82 m,  b. 27 Mar 2000 @ Cádiz
+Óscar Rivas,                  D,  1.90 m,  b. 27 Mar 2000 @ Albacete
+Fernando Medrano,             D,  1.72 m,  b. 26 Mar 2000 @ Madrid
+Diego Pampín,                 D,  1.73 m,  b. 15 Mar 2000 @ Oleiros
+Mujaid Sadick,                D,  1.82 m,  b. 14 Mar 2000 @ Logroño
 Víctor Chust,                 D,  1.82 m,  b. 5 Mar 2000 @ Valencia
 Mateu Morey,                  D,  1.72 m,  b. 2 Mar 2000 @ Palma de Mallorca
 Ferrán Torres,                F,  1.84 m,  b. 29 Feb 2000 @ Foios
+Diego Altube,                 G,  1.88 m,  b. 22 Feb 2000 @ Madrid
+Marc Aguado,                  M,  1.78 m,  b. 22 Feb 2000 @ Zaragoza
 Ricard Sánchez,               D,  1.75 m,  b. 22 Feb 2000 @ Sant Jaume dels Domenys
+Hugo Vallejo,                 F,  1.81 m,  b. 15 Feb 2000 @ Granada
+José Fontán,                  D,  1.83 m,  b. 11 Feb 2000 @ Vilagarcía de Arousa
+Juan Carlos Arana,            F,  1.78 m,  b. 8 Feb 2000 @ Las Palmas
+Jonathan Dubasin,             F,  1.80 m,  b. 2 Feb 2000 @ La Seu d'Urgell
 Hugo Guillamón,               D,  1.76 m,  b. 31 Jan 2000 @ L'Eliana
+Abel Ruiz,                    F,  1.82 m,  b. 28 Jan 2000 @ Almussafes
+Juan Gutiérrez,               D,  1.85 m,  b. 28 Jan 2000 @ Comillas
+Pablo Tomeo,                  M,  1.86 m,  b. 23 Jan 2000 @ Alloza
 Juan Miranda,                 D,  1.85 m,  b. 19 Jan 2000 @ Olivares
+Iván Gil,                     M,  1.68 m,  b. 18 Jan 2000 @ Viladecans
 
 Javi Martínez,                M,  1.80 m,  b. 22 Dec 1999 @ Ólvega
+Dani Rebollo,                 G,  1.85 m,  b. 10 Dec 1999 @ Lepe
+Ramón Juan,                   G,  1.81 m,  b. 10 Dec 1999 @ Barcelona
+Unai Marino,                  G,  1.85 m,  b. 10 Dec 1999 @ Ondarroa
+Raúl Parra,                   D,  1.87 m,  b. 26 Nov 1999 @ Zaragoza
 Valery Fernández,             D,  1.82 m,  b. 23 Nov 1999 @ L'Escala
 Jorge Cuenca,                 D,  1.87 m,  b. 17 Nov 1999 @ Madrid
 Hugo Duro,                    F,  1.77 m,  b. 10 Nov 1999 @ Getafe
+Álex Millán,                  F,  1.82 m,  b. 7 Nov 1999 @ Zaragoza
 Copete,                       D,  1.90 m,  b. 10 Oct 1999 @ Écija
+Pol Lozano,                   M,  1.76 m,  b. 6 Oct 1999 @ Sant Quirze del Vallès
+Álex Pastor,                  D,  1.86 m,  b. 1 Oct 1999 @ Barcelona
+Emilio Bernad,                G,  1.83 m,  b. 22 Sep 1999 @ La Vall d'Uixó
+Monchu,                       M,  1.73 m,  b. 13 Sep 1999 @ Palma de Mallorca
 Pedro Porro,                  D,  1.76 m,  b. 13 Sep 1999 @ Don Benito
+Sergio Cubero,                D,  1.87 m,  b. 5 Sep 1999 @ Mungía
 Miguel De La Fuente,          F,  1.82 m,  b. 3 Sep 1999 @ Tudela de Duero
 Álex Centelles,               D,  1.86 m,  b. 30 Aug 1999 @ Valencia
+Ignasi Vilarrasa,             D,  1.83 m,  b. 23 Aug 1999 @ Granollers
+Álvaro Djaló,                 F,  1.75 m,  b. 16 Aug 1999 @ Madrid
 Fran García,                  D,  1.67 m,  b. 14 Aug 1999 @ Bolaños de Calatrava
+Borja Garcés,                 F,  1.75 m,  b. 6 Aug 1999 @ Melilla
 Martín Pascual,               D,  1.90 m,  b. 4 Aug 1999 @ Madrid
+Andrés Martín,                F,  1.74 m,  b. 11 Jul 1999 @ Aguadulce
 Sergi Cardona,                D,  1.85 m,  b. 8 Jul 1999 @ Lloret de Mar
 Daniel Vivian,                D,  1.83 m,  b. 5 Jul 1999 @ Vitoria-Gasteiz
 Jesús Areso,                  D,  1.82 m,  b. 2 Jul 1999 @ Cascante
+Ángel Algobia,                M,  1.80 m,  b. 23 Jun 1999 @ Velilla de San Antonio
 Víctor Meseguer,              M,  1.84 m,  b. 9 Jun 1999 @ Murcia
 Álex Sola,                    D,  1.78 m,  b. 9 Jun 1999 @ San Sebastián
+Aritz Aldasoro,               M,  1.76 m,  b. 5 Jun 1999 @ Beasain
+Miguel Ángel Atienza,         M,  1.86 m,  b. 27 May 1999 @ Madrid
+Martí Vila,                   D,  1.66 m,  b. 24 May 1999 @ Berga
+Ivan Chapela,                 M,  1.80 m,  b. 21 May 1999 @ Chiclana de la Frontera
 Óscar Mingueza,               D,  1.84 m,  b. 13 May 1999 @ Santa Perpètua de Mogoda
 Fran Vieites,                 G,  1.96 m,  b. 7 May 1999 @ Pontecesures
 Javier Martón,                F,  1.83 m,  b. 6 May 1999 @ Tudela
 Carlos Vicente,               F,  1.79 m,  b. 23 Apr 1999 @ Zaragoza
+David Vicente,                D,  1.77 m,  b. 23 Apr 1999 @ Zaragoza
+Iago López,                   D,  1.77 m,  b. 6 Apr 1999 @ Lugo
+Adrián Butzke,                F,  1.93 m,  b. 30 Mar 1999 @ Monachil
+Óscar Clemente,               M,  1.75 m,  b. 26 Mar 1999 @ Santa Cruz de Tenerife
+Sergio Lozano,                M,  1.75 m,  b. 24 Mar 1999 @ Benimuslem
 Jordi Mboula,                 F,  1.83 m,  b. 16 Mar 1999 @ Granollers
+Joaquín Muñoz,                F,  1.73 m,  b. 10 Mar 1999 @ Málaga
 Alberto Soro,                 M,  1.73 m,  b. 9 Mar 1999 @ Ejea de los Caballeros
+Enrique Clemente,             D,  1.85 m,  b. 4 Mar 1999 @ Zaragoza
 Chumi,                        D,  1.84 m,  b. 2 Mar 1999 @ Laracha
 Iñaki Peña,                   G,  1.84 m,  b. 2 Mar 1999 @ Alicante
+Sergio Ortuño,                M,  1.78 m,  b. 2 Mar 1999 @ Elda
+Adrián de la Fuente,          D,  1.78 m,  b. 26 Feb 1999 @ El Escorial
 Álex Pozo,                    D,  1.74 m,  b. 22 Feb 1999 @ Huévar del Aljarafe
 Iván Martín,                  M,  1.78 m,  b. 14 Feb 1999 @ Bilbao
+Juan Berrocal,                D,  1.84 m,  b. 5 Feb 1999 @ Jerez de la Frontera
+Javi Mier,                    M,  1.76 m,  b. 4 Feb 1999 @ Oviedo
+Jorge Mier,                   D,  1.75 m,  b. 4 Feb 1999 @ Oviedo
 Fran Beltrán,                 M,  1.70 m,  b. 3 Feb 1999 @ Madrid
 Martín Zubimendi,             M,  1.80 m,  b. 2 Feb 1999 @ San Sebastián
+Ferran Jutglà,                F,  1.75 m,  b. 1 Feb 1999 @ Sant Julià de Vilatorta
+Mario Hernández,              D,  1.78 m,  b. 25 Jan 1999 @ Madrid
+Oriol Busquets,               M,  1.85 m,  b. 20 Jan 1999 @ Sant Feliu de Guíxols
+Francisco Montero,            D,  1.80 m,  b. 14 Jan 1999 @ Seville
 Mini,                         M,  1.74 m,  b. 13 Jan 1999 @ Alameda
 Manu Morlanes,                M,  1.78 m,  b. 12 Jan 1999 @ Zaragoza
 Adrián López,                 G,  1.85 m,  b. 9 Jan 1999 @ Barcelona
 Oier Zarraga,                 M,  1.75 m,  b. 4 Jan 1999 @ Getxo
 
+Álex Blanco,                  M,  1.78 m,  b. 16 Dec 1998 @ Benidorm
+Julio Alonso,                 D,  1.71 m,  b. 14 Dec 1998 @ Terrassa
+Álex Bermejo,                 F,  1.83 m,  b. 11 Dec 1998 @ Barcelona
+Rafa Mújica,                  F,  1.83 m,  b. 29 Oct 1998 @ Las Palmas
 Peru Nolaskoain,              D,  1.85 m,  b. 25 Oct 1998 @ Zumaia
+Diego Conde,                  G,  1.88 m,  b. 20 Oct 1998 @ Madrid
 Pablo Ibáñez,                 M,  1.79 m,  b. 20 Sep 1998 @ Pamplona
 Jon Morcillo,                 M,  1.83 m,  b. 15 Sep 1998 @ Amorebieta-Etxano
+Joni Montiel,                 M,  1.73 m,  b. 3 Sep 1998 @ Madrid
 Pepelu,                       M,  1.85 m,  b. 11 Aug 1998 @ Denia
+Iker Unzueta,                 F,  1.84 m,  b. 4 Aug 1998 @ Abadiño
+Javi Alonso,                  M,  1.83 m,  b. 1 Aug 1998 @ Santa Cruz de Tenerife
+Dani Gómez,                   F,  1.77 m,  b. 30 Jul 1998 @ Alcorcón
 Álex Domínguez,               G,  1.87 m,  b. 30 Jul 1998 @ Granollers
 Marc Cucurella,               D,  1.75 m,  b. 22 Jul 1998 @ Alella
+Manu Hernando,                D,  1.83 m,  b. 19 Jul 1998 @ Palencia
+Dani Martín,                  G,  1.86 m,  b. 8 Jul 1998 @ Gijón
 Juan Iglesias,                D,  1.85 m,  b. 3 Jul 1998 @ Valladolid
 Óscar,                        M,  1.74 m,  b. 28 Jun 1998 @ Talavera de la Reina
+Íñigo Sainz-Maza,             D,  1.83 m,  b. 16 Jun 1998 @ Ampuero
+Pedro Díaz,                   M,  1.80 m,  b. 5 Jun 1998 @ Siero
 Josep Martínez,               G,  1.91 m,  b. 27 May 1998 @ Alzira
+Javi Puado,                   F,  1.77 m,  b. 25 May 1998 @ Barcelona
+Raúl Asencio,                 F,  1.87 m,  b. 20 May 1998 @ Villarreal
 Adrià Pedrosa,                D,  1.76 m,  b. 13 May 1998 @ Barcelona
 Jon Moncayola,                M,  1.82 m,  b. 13 May 1998 @ Garinoain
+Fran Villalba,                M,  1.68 m,  b. 11 May 1998 @ Valencia
 Dani Olmo,                    M,  1.79 m,  b. 7 May 1998 @ Terrassa
-Javi Hernández,               D,  1.82 m,  b. 2 May 1998 @ Jerez de la Frontera
+Carlos Isaac,                 D,  1.84 m,  b. 30 Apr 1998 @ Navalmoral de la Mata
+Óscar Gil,                    D,  1.73 m,  b. 26 Apr 1998 @ Elche
+Álvaro Fernández,             G,  1.85 m,  b. 13 Apr 1998 @ Arnedo
 Pep Chavarria,                D,  1.74 m,  b. 10 Apr 1998 @ Figueres
+José Amo,                     D,  1.81 m,  b. 9 Apr 1998 @ Las Pajanosas
+Nacho Méndez,                 M,  1.79 m,  b. 30 Mar 1998 @ Luanco
+Manuel Nieto,                 F,  1.82 m,  b. 29 Mar 1998 @ Villa del Río
+Dani Escriche,                F,  1.78 m,  b. 24 Mar 1998 @ Burriana
 Gonzalo Villar,               M,  1.80 m,  b. 23 Mar 1998 @ Murcia
 Cristian Rivero,              G,  1.88 m,  b. 21 Mar 1998 @ Gandia
+Toni Moya,                    M,  1.80 m,  b. 20 Mar 1998 @ Mérida
 Miguel Rubio,                 D,  1.91 m,  b. 11 Mar 1998 @ Leganés
+Oriol Rey,                    M,  1.77 m,  b. 25 Feb 1998 @ Barcelona
+Pablo Martínez,               M,  1.82 m,  b. 22 Feb 1998 @ Madrid
 Carles Pérez,                 F,  1.73 m,  b. 16 Feb 1998 @ Granollers
+Aitor Buñuel,                 D,  1.80 m,  b. 10 Feb 1998 @ Tafalla
+Juanma Bravo,                 M,  1.88 m,  b. 10 Feb 1998 @ Murcia
+Fran Navarro,                 F,  1.80 m,  b. 3 Feb 1998 @ Pinedo
+Aritz Arambarri,              D,  1.86 m,  b. 31 Jan 1998 @ Azkoitia
+Pipa,                         D,  1.75 m,  b. 26 Jan 1998 @ Esparraguera
+Álex Martín,                  D,  1.82 m,  b. 25 Jan 1998 @ Las Palmas
+Salva Ferrer,                 D,  1.84 m,  b. 21 Jan 1998 @ Martorell
+Íñigo Vicente,                M,  1.77 m,  b. 6 Jan 1998 @ Derio
 Carles Aleñà,                 M,  1.80 m,  b. 5 Jan 1998 @ Mataró
 
+Bambo Diaby,                  D,  1.86 m,  b. 17 Dec 1997 @ Mataró
+Gaizka Larrazabal,            D,  1.80 m,  b. 17 Dec 1997 @ Bilbao
 Sergio Akieme,                D,  1.75 m,  b. 16 Dec 1997 @ Madrid
 Toni Lato,                    D,  1.71 m,  b. 21 Nov 1997 @ La Pobla de Vallbona
 Robert Sánchez,               G,  1.97 m,  b. 18 Nov 1997 @ Cartagena
+Oier Luengo,                  D,  1.83 m,  b. 11 Nov 1997 @ Amorebieta
+Cristo González,              F,  1.80 m,  b. 24 Oct 1997 @ Santa Cruz de Tenerife
+Manu Fuster,                  F,  1.69 m,  b. 22 Oct 1997 @ Valencia
 Asier Villalibre,             F,  1.83 m,  b. 30 Sep 1997 @ Guernica
+Riki,                         M,  1.75 m,  b. 25 Sep 1997 @ Oviedo
+Viti,                         M,  1.70 m,  b. 16 Sep 1997 @ Pola de Laviana
+Víctor García,                M,  1.75 m,  b. 16 Sep 1997 @ Valencia
+Álex Carbonell,               M,  1.75 m,  b. 15 Sep 1997 @ Cerdanyola del Vallès
+Tachi,                        D,  1.85 m,  b. 10 Sep 1997 @ Fuenlabrada
+Alberto Reina,                M,  1.68 m,  b. 9 Sep 1997 @ Chiclana de la Frontera
+Javi Ontiveros,               M,  1.70 m,  b. 9 Sep 1997 @ Marbella
+Luis Perea,                   M,  1.92 m,  b. 25 Aug 1997 @ Alcalá de Henares
+Diego Alende,                 D,  1.80 m,  b. 24 Aug 1997 @ Santiago de Compostela
+Juan Soriano,                 G,  1.82 m,  b. 23 Aug 1997 @ Benacazón
 Óscar Melendo,                M,  1.67 m,  b. 23 Aug 1997 @ Barcelona
+Javier Avilés,                M,  1.81 m,  b. 17 Aug 1997 @ Madrid
+Sergio Bermejo,               M,  1.70 m,  b. 17 Aug 1997 @ Madrid
 Aihen Muñoz,                  D,  1.75 m,  b. 16 Aug 1997 @ Etxauri
 Pol Lirola,                   D,  1.83 m,  b. 13 Aug 1997 @ Mollet del Vallès
+Cris Montes,                  F,  1.63 m,  b. 10 Aug 1997 @ Santa Cruz de Tenerife
+Miguel San Román,             G,  1.89 m,  b. 14 Jul 1997 @ Benidorm
 Pablo Maffeo,                 D,  1.73 m,  b. 12 Jul 1997 @ Sant Joan Despí
+Cristian Rivera,              M,  1.90 m,  b. 9 Jul 1997 @ Gijón
 Iván Villar,                  G,  1.83 m,  b. 9 Jul 1997 @ Aldán
 Ander Guevara,                M,  1.78 m,  b. 7 Jul 1997 @ Vitoria-Gasteiz
+Miguel Marí,                  M,  1.85 m,  b. 30 Jun 1997 @ Alicante
+Toni Martínez,                F,  1.80 m,  b. 30 Jun 1997 @ Barrio del Progreso
 Aleix García,                 M,  1.73 m,  b. 28 Jun 1997 @ Ulldecona
+Paulino,                      M,  1.81 m,  b. 27 Jun 1997 @ Santander
 Xeber Alkain,                 M,  1.74 m,  b. 26 Jun 1997 @ Hondarribia
 Rafa Mir,                     F,  1.86 m,  b. 18 Jun 1997 @ Murcia
 Unai Simón,                   G,  1.90 m,  b. 11 Jun 1997 @ Vitoria-Gasteiz
+Chuca,                        M,  1.81 m,  b. 10 Jun 1997 @ Jacarilla
+Víctor Campuzano,             F,  1.74 m,  b. 31 May 1997 @ Barcelona
 Álvaro Valles,                G,  1.90 m,  b. 25 May 1997 @ La Rinconada
 Pedro Chirivella,             M,  1.78 m,  b. 23 May 1997 @ Valencia
+Mario Soberón,                F,  1.78 m,  b. 18 May 1997 @ Unquera
+Iván Martos,                  D,  1.82 m,  b. 15 May 1997 @ Manresa
+Sergio González,              D,  1.84 m,  b. 14 May 1997 @ Cartagena
+Jaume Grau,                   M,  1.82 m,  b. 5 May 1997 @ Tavernes de la Valldigna
+Dani Fernández,               D,  1.76 m,  b. 30 Apr 1997 @ Madrid
 Aarón,                        D,  1.80 m,  b. 22 Apr 1997 @ Montmeló
 Antonio Sánchez,              M,  1.79 m,  b. 22 Apr 1997 @ Palma de Mallorca
 Mikel Oyarzabal,              M,  1.81 m,  b. 21 Apr 1997 @ Eibar
@@ -369,100 +762,222 @@ Edgar,                        D,  1.93 m,  b. 1 Apr 1997 @ Sant Joan Despí
 Kike Barja,                   M,  1.78 m,  b. 1 Apr 1997 @ Pamplona
 Igor Zubeldia,                D,  1.80 m,  b. 30 Mar 1997 @ Azkoitia
 Dani Cárdenas,                G,  1.86 m,  b. 28 Mar 1997 @ Terrassa
+Jacobo González,              F,  1.76 m,  b. 25 Mar 1997 @ Madrid
+Sebas Moyano,                 M,  1.73 m,  b. 23 Mar 1997 @ Villanueva del Duque
 Fede San Emeterio,            M,  1.74 m,  b. 16 Mar 1997 @ Torrelavega
+Javi Sánchez,                 D,  1.86 m,  b. 14 Mar 1997 @ Getafe
+Darío Poveda,                 F,  1.85 m,  b. 13 Mar 1997 @ San Vicente del Raspeig
+Íñigo Córdoba,                F,  1.80 m,  b. 13 Mar 1997 @ Bilbao
+Lluís López,                  D,  1.82 m,  b. 5 Mar 1997 @ Manresa
+Enric Franquesa,              D,  1.74 m,  b. 26 Feb 1997 @ Sant Cugat del Vallés
+Luis Muñoz,                   M,  1.80 m,  b. 23 Feb 1997 @ Málaga
+Pol Valentín,                 D,  1.80 m,  b. 21 Feb 1997 @ Avinyonet de Puigventós
 Jorge De Frutos,              F,  1.73 m,  b. 20 Feb 1997 @ Navares de Enmedio
 Kike Pérez,                   M,  1.84 m,  b. 14 Feb 1997 @ Gálvez
 Manu Vallejo,                 F,  1.67 m,  b. 14 Feb 1997 @ Chiclana de la Frontera
 Fabio González,               M,  1.76 m,  b. 12 Feb 1997 @ Ingenio
+Adrià Vilanova,               D,  1.87 m,  b. 11 Feb 1997 @ Barcelona
+Álex Petxarroman,             D,  1.79 m,  b. 6 Feb 1997 @ San Sebastián
 Sergi Canós,                  F,  1.73 m,  b. 2 Feb 1997 @ Nules
+Migue Leal,                   D,  1.76 m,  b. 1 Feb 1997 @ Villarreal
 Unai Núñez,                   D,  1.86 m,  b. 30 Jan 1997 @ Portugalete
+Julio Pleguezuelo,            D,  1.75 m,  b. 26 Jan 1997 @ Palma de Mallorca
+Jaime Seoane,                 M,  1.73 m,  b. 22 Jan 1997 @ Madrid
+Jesús Ruiz,                   G,  1.80 m,  b. 20 Jan 1997 @ Esplugues de Llobregat
+Álex Sancris,                 F,  1.77 m,  b. 18 Jan 1997 @ Madrid
 Chris Ramos,                  F,  1.93 m,  b. 16 Jan 1997 @ Cádiz
 Pau Torres,                   D,  1.91 m,  b. 16 Jan 1997 @ Villarreal
+Adrián Marín,                 D,  1.81 m,  b. 9 Jan 1997 @ Torre-Pacheco
 Brais Méndez,                 F,  1.87 m,  b. 7 Jan 1997 @ Mos
 Jesús Vallejo,                D,  1.84 m,  b. 5 Jan 1997 @ Zaragoza
 Angeliño,                     D,  1.76 m,  b. 4 Jan 1997 @ Coristanco
 Carlos Soler,                 M,  1.80 m,  b. 2 Jan 1997 @ Valencia
 
+Jimmy,                        M,  1.70 m,  b. 31 Dec 1996 @ Oviedo
+Guti,                         M,  1.80 m,  b. 30 Dec 1996 @ Zaragoza
+Jesús Bernal,                 M,  1.83 m,  b. 25 Dec 1996 @ Zaragoza
 Sergio Reguilón,              D,  1.78 m,  b. 16 Dec 1996 @ Madrid
+Andoni Zubiaurre,             G,  1.88 m,  b. 4 Dec 1996 @ Ordizia
+Tete Morente,                 M,  1.80 m,  b. 4 Dec 1996 @ La Línea de la Concepción
 Marc Roca,                    M,  1.84 m,  b. 26 Nov 1996 @ La Granada
+Rayco Rodríguez,              M,  1.78 m,  b. 24 Nov 1996 @ Las Palmas
+Hugo Rama,                    M,  1.77 m,  b. 22 Nov 1996 @ Santiago de Compostela
+Miguel Loureiro,              D,  1.80 m,  b. 21 Nov 1996 @ Cerceda
+Jorge Sáenz,                  D,  1.92 m,  b. 17 Nov 1996 @ Santa Cruz de Tenerife
+Brugui,                       M,  1.73 m,  b. 4 Nov 1996 @ Bàscara
+Toni Abad,                    D,  1.74 m,  b. 3 Nov 1996 @ Valencia
+Chiki,                        F,  1.71 m,  b. 5 Oct 1996 @ Madrid
 Santi Comesaña,               M,  1.84 m,  b. 5 Oct 1996 @ Vigo
+Fran Manzanara,               M,  1.83 m,  b. 12 Sep 1996 @ La Solana
 Gorka Guruzeta,               F,  1.88 m,  b. 12 Sep 1996 @ San Sebastián
 Pep Biel,                     M,  1.67 m,  b. 5 Sep 1996 @ Sant Joan
+Xavi Quintillà,               D,  1.79 m,  b. 23 Aug 1996 @ Lleida
+Júnior Firpo,                 D,  1.84 m,  b. 22 Aug 1996 @ Santo Domingo
+Joan Femenías,                G,  1.89 m,  b. 19 Aug 1996 @ Manacor
+Jokin Ezkieta,                G,  1.94 m,  b. 17 Aug 1996 @ Pamplona
 Antonio Sivera,               G,  1.85 m,  b. 11 Aug 1996 @ Jávea
 Dani Ceballos,                M,  1.79 m,  b. 7 Aug 1996 @ Utrera
 Andoni Gorosabel,             D,  1.74 m,  b. 4 Aug 1996 @ Arrasate
+Edu Expósito,                 M,  1.79 m,  b. 1 Aug 1996 @ Barcelona
 Pejiño,                       M,  1.77 m,  b. 29 Jul 1996 @ Barbate
+Álvaro Tejero,                D,  1.72 m,  b. 20 Jul 1996 @ Madrid
+Juan Pérez,                   G,  1.92 m,  b. 15 Jul 1996 @ Almudevar
+Eneko Jauregi,                F,  1.84 m,  b. 13 Jul 1996 @ Muxika
+Rodrigo Tarín,                D,  1.82 m,  b. 5 Jul 1996 @ Chiva
 Mikel Merino,                 M,  1.88 m,  b. 22 Jun 1996 @ Pamplona
+Pinchi,                       F,  1.73 m,  b. 17 Jun 1996 @ La Coruña
 Carlos Neva,                  D,  1.74 m,  b. 12 Jun 1996 @ El Puerto de Santa María
+Josema,                       D,  1.82 m,  b. 6 Jun 1996 @ Lorquí
 Carlos Fernández,             F,  1.86 m,  b. 22 May 1996 @ Seville
+Miquel Parera,                G,  1.80 m,  b. 18 May 1996 @ Manacor
+Álvaro Romero,                M,  1.67 m,  b. 12 May 1996 @ Seville
+Martín Aguirregabiria,        D,  1.78 m,  b. 10 May 1996 @ Vitoria-Gasteiz
+Carlos Nieto,                 D,  1.79 m,  b. 5 May 1996 @ Zaragoza
+Álvaro Aguado,                M,  1.74 m,  b. 1 May 1996 @ Jaén
 Alfonso Pedraza,              M,  1.82 m,  b. 9 Apr 1996 @ San Sebastián de los Ballesteros
 Fabián Ruiz,                  M,  1.89 m,  b. 3 Apr 1996 @ Los Palacios y Villafranca
 Aitor Ruibal,                 F,  1.76 m,  b. 22 Mar 1996 @ Manresa
+Iker Bilbao,                  M,  1.81 m,  b. 20 Mar 1996 @ Bilbao
+Àlex Corredera,               M,  1.81 m,  b. 19 Mar 1996 @ Sant Joan de les Abadesses
 José Ángel Pozo,              M,  1.70 m,  b. 15 Mar 1996 @ Málaga
+Juan Antonio Ros,             M,  1.88 m,  b. 15 Mar 1996 @ Los Nietos
 Kirian Rodríguez,             M,  1.78 m,  b. 5 Mar 1996 @ Candelaria
+Borja Sánchez,                M,  1.86 m,  b. 26 Feb 1996 @ Oviedo
+Mario González,               F,  1.83 m,  b. 25 Feb 1996 @ Burgos
 Pablo Fornals,                M,  1.78 m,  b. 22 Feb 1996 @ Castellón de la Plana
+Sergio Molina,                M,  1.77 m,  b. 18 Feb 1996 @ Madrid
+José Carlos Lazo,             M,  1.77 m,  b. 16 Feb 1996 @ Sanlúcar de Barrameda
+Manu Justo,                   F,  1.74 m,  b. 9 Feb 1996 @ Vigo
+Aleix Febas,                  M,  1.71 m,  b. 2 Feb 1996 @ Lleida
 Adama Traoré,                 F,  1.78 m,  b. 25 Jan 1996 @ L'Hospitalet de Llobregat
 Marco Asensio,                F,  1.82 m,  b. 21 Jan 1996 @ Palma de Mallorca
+Miguelón,                     D,  1.70 m,  b. 18 Jan 1996 @ Benidorm
+Curro Sánchez,                F,  1.78 m,  b. 3 Jan 1996 @ La Palma del Condado
 
 Álvaro Odriozola,             D,  1.76 m,  b. 14 Dec 1995 @ San Sebastián
 Unai López,                   M,  1.69 m,  b. 30 Oct 1995 @ Errenteria
+Daniel Raba,                  M,  1.84 m,  b. 29 Oct 1995 @ Santander
+Antonio Cristian,             D,  1.84 m,  b. 18 Oct 1995 @ Algeciras
 Rubén Duarte,                 D,  1.72 m,  b. 18 Oct 1995 @ Almería
+David Castro,                 D,  1.92 m,  b. 9 Oct 1995 @ Cuntis
 Aarón Escandell,              G,  1.88 m,  b. 27 Sep 1995 @ Carcaixent
 Alex Grimaldo,                D,  1.70 m,  b. 20 Sep 1995 @ Valencia
 David Raya,                   G,  1.83 m,  b. 15 Sep 1995 @ Barcelona
+Héctor Hernández,             F,  1.80 m,  b. 14 Sep 1995 @ Las Palmas
+Waldo Rubio,                  M,  1.81 m,  b. 17 Aug 1995 @ Badajoz
+Javi Pérez,                   M,  1.84 m,  b. 14 Aug 1995 @ Cabanillas del Campo
 Rubén Blanco,                 G,  1.88 m,  b. 25 Jul 1995 @ Vigo
 Benito Ramírez,               M,  1.75 m,  b. 11 Jul 1995 @ Las Palmas
 Sandro Ramírez,               F,  1.72 m,  b. 9 Jul 1995 @ Las Palmas
 Marc Cardona,                 F,  1.83 m,  b. 8 Jul 1995 @ Lleida
 Alex Berenguer,               M,  1.75 m,  b. 4 Jul 1995 @ Pamplona
+Jon Bautista,                 F,  1.80 m,  b. 3 Jul 1995 @ Mahón
+Fernando Calero,              D,  1.83 m,  b. 27 Jun 1995 @ Boecillo
+Álvaro Bustos,                M,  1.73 m,  b. 26 Jun 1995 @ Gijón
 Mario Hermoso,                D,  1.84 m,  b. 18 Jun 1995 @ Madrid
 José Luis Gayà,               D,  1.72 m,  b. 25 May 1995 @ Pedreguer
+Aitor Córdoba,                D,  1.80 m,  b. 21 May 1995 @ Bilbao
+Álvaro Jiménez,               M,  1.76 m,  b. 19 May 1995 @ Córdoba
+Iker Undabarrena,             M,  1.80 m,  b. 18 May 1995 @ Gorliz
+José Matos,                   D,  1.69 m,  b. 6 May 1995 @ Utrera
+Alberto Quiles,               F,  1.88 m,  b. 27 Apr 1995 @ Huelva
+Guille Vallejo,               G,  1.82 m,  b. 22 Apr 1995 @ Burgos
+Iván Calero,                  D,  1.74 m,  b. 21 Apr 1995 @ Parla
+Julián Delmás,                D,  1.73 m,  b. 20 Apr 1995 @ Zaragoza
 José Arnáiz,                  F,  1.74 m,  b. 15 Apr 1995 @ Talavera de la Reina
+Mumo,                         M,  1.80 m,  b. 13 Apr 1995 @ Girona
+David Costas,                 D,  1.82 m,  b. 26 Mar 1995 @ Vigo
 Alejandro Remiro,             G,  1.91 m,  b. 24 Mar 1995 @ Cascante
 Héctor Bellerín,              D,  1.78 m,  b. 19 Mar 1995 @ Barcelona
 Javi Muñoz,                   M,  1.77 m,  b. 28 Feb 1995 @ Parla
 Jon Guridi,                   M,  1.79 m,  b. 28 Feb 1995 @ Azpeitia
+Róber Pier,                   D,  1.82 m,  b. 16 Feb 1995 @ Oleiros
 Iván Alejo,                   M,  1.86 m,  b. 10 Feb 1995 @ Valladolid
+Luis Pérez,                   D,  1.72 m,  b. 4 Feb 1995 @ Utrera
+José León,                    D,  1.81 m,  b. 3 Feb 1995 @ Madrid
+Lucas Ahijado,                D,  1.78 m,  b. 30 Jan 1995 @ Oviedo
 Marcos Llorente,              M,  1.84 m,  b. 30 Jan 1995 @ Madrid
+Diego González,               D,  1.85 m,  b. 28 Jan 1995 @ Chiclana de la Frontera
 Nacho Vidal,                  D,  1.80 m,  b. 24 Jan 1995 @ El Campello
 Yeray,                        D,  1.83 m,  b. 24 Jan 1995 @ Barakaldo
+Sergi Samper,                 M,  1.82 m,  b. 20 Jan 1995 @ Barcelona
 Samu Castillejo,              M,  1.82 m,  b. 18 Jan 1995 @ Barcelona
+Ander Cantero,                G,  1.89 m,  b. 9 Jan 1995 @ Pamplona
 Toni Villa,                   M,  1.71 m,  b. 7 Jan 1995 @ Murcia
 
 Isi Palazón,                  M,  1.69 m,  b. 27 Dec 1994 @ Cieza
+Edu Espiau,                   F,  1.85 m,  b. 19 Dec 1994 @ Las Palmas
 Gerard Gumbau,                M,  1.87 m,  b. 18 Dec 1994 @ Campllong
 Sergio Ruiz,                  M,  1.71 m,  b. 16 Dec 1994 @ El Astillero
 Pau López,                    G,  1.89 m,  b. 13 Dec 1994 @ Girona
+Dani Ojeda,                   M,  1.77 m,  b. 3 Dec 1994 @ Las Palmas
 Saúl Ñiguez,                  M,  1.84 m,  b. 21 Nov 1994 @ Elche
+Cris Salvador,                M,  1.84 m,  b. 20 Nov 1994 @ Zamora
 Javi Galán,                   D,  1.72 m,  b. 19 Nov 1994 @ Badajoz
 Óliver Torres,                M,  1.78 m,  b. 10 Nov 1994 @ Navalmoral de la Mata
+Saúl,                         D,  1.83 m,  b. 9 Nov 1994 @ Vioño
+Iñigo Piña,                   D,  1.88 m,  b. 30 Oct 1994 @ Murchante
 Alejandro Catena,             D,  1.94 m,  b. 28 Oct 1994 @ Madrid
 Raúl de Tomás,                F,  1.78 m,  b. 17 Oct 1994 @ Madrid
 Luis Milla,                   M,  1.75 m,  b. 7 Oct 1994 @ Madrid
+Juanjo Nieto,                 D,  1.75 m,  b. 3 Oct 1994 @ Castellón de la Plana
 Kepa Arrizabalaga,            G,  1.89 m,  b. 3 Oct 1994 @ Ondarroa
+David Goldar,                 D,  1.80 m,  b. 15 Sep 1994 @ Vigo
+Álvaro Vadillo,               M,  1.80 m,  b. 12 Sep 1994 @ Puerto Real
+Agustín Medina,               M,  1.76 m,  b. 8 Sep 1994 @ Barberà del Vallès
+Rubén González,               D,  1.83 m,  b. 7 Sep 1994 @ Bilbao
+Jorge Pombo,                  M,  1.73 m,  b. 29 Aug 1994 @ Zaragoza
 Óscar Valentín,               M,  1.77 m,  b. 20 Aug 1994 @ Ajofrín
+Álex Muñoz,                   D,  1.85 m,  b. 30 Jul 1994 @ Alicante
+Álvaro Rodríguez,             D,  1.81 m,  b. 22 Jul 1994 @ Leganés
 Lucas Torró,                  M,  1.88 m,  b. 19 Jul 1994 @ Concentaina
+Jason,                        M,  1.78 m,  b. 6 Jul 1994 @ La Coruña
+Fede Vico,                    M,  1.80 m,  b. 4 Jul 1994 @ Córdoba
 Moi Gómez,                    M,  1.74 m,  b. 23 Jun 1994 @ Rojales
+Iván Márquez,                 D,  1.91 m,  b. 9 Jun 1994 @ Marbella
+Víctor Camarasa,              M,  1.83 m,  b. 28 May 1994 @ Meliana
 Aymeric Laporte,              D,  1.91 m,  b. 27 May 1994 @ Agen
 Javi Manquillo,               D,  1.80 m,  b. 5 May 1994 @ Madrid
+José Antonio Caro,            G,  1.84 m,  b. 3 May 1994 @ La Palma del Condado
+Ekain Zenitagoia,             F,  1.79 m,  b. 29 Apr 1994 @ Durango
+Nacho Monsalve,               D,  1.89 m,  b. 27 Apr 1994 @ Madrid
+Moi Delgado,                  D,  1.73 m,  b. 18 Apr 1994 @ Utrera
+Brian Oliván,                 D,  1.77 m,  b. 1 Apr 1994 @ Barcelona
+Dani Calvo,                   D,  1.78 m,  b. 1 Apr 1994 @ Huesca
 Aritz Elustondo,              D,  1.80 m,  b. 28 Mar 1994 @ Beasain
 Gerard Deulofeu,              F,  1.77 m,  b. 13 Mar 1994 @ Riudarenes
 Jonny,                        D,  1.75 m,  b. 3 Mar 1994 @ Vigo
-David García,                 D,  1.85 m,  b. 14 Feb 1994 @ Pamplona
+Josué Dorrio,                 M,  1.70 m,  b. 3 Mar 1994 @ Bilbao
+Manel Royo,                   D,  1.83 m,  b. 28 Feb 1994 @ Alcanar
+Daniel Lasure,                D,  1.76 m,  b. 27 Feb 1994 @ Zaragoza
+Raúl Navarro,                 D,  1.74 m,  b. 7 Feb 1994 @ Seville
+Borja López,                  D,  1.92 m,  b. 2 Feb 1994 @ Gijón
+Pablo Íñiguez,                D,  1.83 m,  b. 20 Jan 1994 @ Burgos
 Eric Curbelo,                 D,  1.73 m,  b. 14 Jan 1994 @ Telde
 David Gil,                    G,  1.83 m,  b. 11 Jan 1994 @ Getafe
+José Ángel Carrillo,          F,  1.90 m,  b. 7 Jan 1994 @ Murcia
 Denis Suárez,                 M,  1.76 m,  b. 6 Jan 1994 @ Salceda de Caselas
 Gonzalo Melero,               M,  1.83 m,  b. 2 Jan 1994 @ Madrid
 
+Ager Aketxe,                  M,  1.75 m,  b. 30 Dec 1993 @ Bilbao
 Sergi Darder,                 M,  1.80 m,  b. 22 Dec 1993 @ Artà
 Suso,                         M,  1.76 m,  b. 19 Nov 1993 @ Cádiz
+Stoichkov,                    M,  1.78 m,  b. 5 Nov 1993 @ San Roque
+Jairo,                        D,  1.65 m,  b. 22 Oct 1993 @ Santa Cruz de Tenerife
+Higinio Marín,                F,  1.84 m,  b. 19 Oct 1993 @ Calasparra
 Luis Rioja,                   M,  1.73 m,  b. 16 Oct 1993 @ Seville
+Rubén Yáñez,                  G,  1.90 m,  b. 12 Oct 1993 @ Blanes
+Koldo Obieta,                 F,  1.87 m,  b. 8 Oct 1993 @ Guernica
+Pablo Insua,                  D,  1.86 m,  b. 9 Sep 1993 @ Arzua
 Sergio Rico,                  G,  1.94 m,  b. 1 Sep 1993 @ Seville
 Pablo Marí,                   D,  1.91 m,  b. 31 Aug 1993 @ Valencia
 Diego Llorente,               D,  1.86 m,  b. 16 Aug 1993 @ Madrid
 Fali,                         D,  1.86 m,  b. 12 Aug 1993 @ Valencia
+Rai Marchán,                  M,  1.81 m,  b. 11 Aug 1993 @ Vilafranca del Penedés
 Iñigo Ruiz de Galarreta,      M,  1.74 m,  b. 6 Aug 1993 @ San Sebastián
 Álex Moreno,                  D,  1.79 m,  b. 6 Aug 1993 @ Sant Sadurní d'Anoia
+Alex Gorrin,                  M,  1.85 m,  b. 1 Aug 1993 @ Santa Cruz de Tenerife
+Gerard Valentin,              D,  1.77 m,  b. 28 Jul 1993 @ Avinyonet de Puigventós
 Ayoze Pérez,                  F,  1.79 m,  b. 23 Jul 1993 @ Santa Cruz de Tenerife
 Rubén García,                 M,  1.71 m,  b. 14 Jul 1993 @ Valencia
 Joan Jordán,                  M,  1.84 m,  b. 6 Jul 1993 @ Palamós
@@ -470,99 +985,194 @@ Sergio Herrera,               G,  1.92 m,  b. 5 Jun 1993 @ Miranda de Ebro
 José Campaña,                 M,  1.76 m,  b. 30 May 1993 @ Seville
 Juanmi,                       F,  1.72 m,  b. 20 May 1993 @ Coín
 Íñigo Lekue,                  D,  1.80 m,  b. 4 May 1993 @ Bilbao
+Unai Elgezábal,               D,  1.85 m,  b. 25 Apr 1993 @ Barakaldo
 Isaac Carcelén,               D,  1.78 m,  b. 23 Apr 1993 @ El Puerto de Santa María
 Patric,                       D,  1.84 m,  b. 17 Apr 1993 @ Mula
+Lander Olaetxea,              M,  1.79 m,  b. 12 Apr 1993 @ Abadiño
 Mikel Vesga,                  M,  1.91 m,  b. 8 Apr 1993 @ Vitoria-Gasteiz
 David Soria,                  G,  1.92 m,  b. 4 Apr 1993 @ Madrid
 Álvaro Lemos,                 D,  1.75 m,  b. 30 Mar 1993 @ La Coruña
 Kevin Vázquez,                D,  1.73 m,  b. 23 Mar 1993 @ Nigrán
+Róber Ibañez,                 M,  1.77 m,  b. 22 Mar 1993 @ Valencia
 Alex Suárez,                  D,  1.79 m,  b. 18 Mar 1993 @ Las Palmas
+Grego,                        D,  1.84 m,  b. 5 Mar 1993 @ Murcia
 Juan Bernat,                  D,  1.72 m,  b. 1 Mar 1993 @ Valencia
 Diego Rico,                   D,  1.83 m,  b. 23 Feb 1993 @ Burgos
+Juanma,                       F,  1.67 m,  b. 20 Feb 1993 @ San José de la Rinconada
+Bernabé,                      G,  1.89 m,  b. 18 Feb 1993 @ Los Palacios
+Nacho,                        M,  1.77 m,  b. 11 Feb 1993 @ Logroño
 Omar Mascarell,               M,  1.81 m,  b. 2 Feb 1993 @ Santa Cruz de Tenerife
 Borja Iglesias,               F,  1.87 m,  b. 17 Jan 1993 @ Santiago de Compostela
 
 Iker Muniain,                 F,  1.69 m,  b. 19 Dec 1992 @ Pamplona
+Carlos Pomares,               D,  1.82 m,  b. 5 Dec 1992 @ Valencia
 Álvaro García,                M,  1.68 m,  b. 27 Oct 1992 @ Utrera
 Álvaro Morata,                F,  1.89 m,  b. 23 Oct 1992 @ Madrid
 Álex Fernández,               M,  1.80 m,  b. 15 Oct 1992 @ Madrid
 Ignasi Miquel,                D,  1.88 m,  b. 28 Sep 1992 @ Corbera de Llobregat
 Luis Alberto,                 M,  1.83 m,  b. 28 Sep 1992 @ San José del Valle
+Iván Sánchez,                 M,  1.71 m,  b. 23 Sep 1992 @ Campillo de Arenas
+Pere Milla,                   M,  1.79 m,  b. 23 Sep 1992 @ Lleida
+Rober,                        D,  1.80 m,  b. 20 Sep 1992 @ Badajoz
 Unai García,                  D,  1.76 m,  b. 3 Sep 1992 @ Esquíroz
-Juan Cruz,                    D,  1.80 m,  b. 28 Jul 1992 @ Madrid
+Borja González,               F,  1.86 m,  b. 25 Aug 1992 @ Madrid
+Sergi Gómez,                  D,  1.81 m,  b. 28 Jul 1992 @ Arenys de Mar
 Alberto Moreno,               D,  1.71 m,  b. 5 Jul 1992 @ Seville
 Joseba Zaldúa,                D,  1.76 m,  b. 24 Jun 1992 @ San Sebastián
+Rubén Bover,                  M,  1.70 m,  b. 24 Jun 1992 @ Palma de Mallorca
 Rubén Sobrino,                F,  1.85 m,  b. 1 Jun 1992 @ Daimiel
 Portu,                        F,  1.78 m,  b. 21 May 1992 @ Murcia
+Fernando Pacheco,             G,  1.87 m,  b. 18 May 1992 @ Badajoz
 Pablo Sarabia,                M,  1.78 m,  b. 11 May 1992 @ Madrid
 Adri Embarba,                 F,  1.73 m,  b. 7 May 1992 @ Madrid
+Luismi,                       M,  1.80 m,  b. 5 May 1992 @ Jerez de la Frontera
 Isco,                         M,  1.76 m,  b. 21 Apr 1992 @ Benalmádena
 Gerard Moreno,                F,  1.80 m,  b. 7 Apr 1992 @ Santa Coloma de Gramenet
+César de la Hoz,              M,  1.79 m,  b. 30 Mar 1992 @ Orejo
 Íñigo Eguaras,                M,  1.81 m,  b. 7 Mar 1992 @ Antsoain
+Chema Rodríguez,              D,  1.89 m,  b. 3 Mar 1992 @ Caudete
 Antonio Puertas,              M,  1.75 m,  b. 21 Feb 1992 @ Benahadux
+Carlos Clerc,                 D,  1.80 m,  b. 21 Feb 1992 @ Barcelona
 Abdón Prats,                  F,  1.81 m,  b. 17 Feb 1992 @ Artà
+Edgar Badía,                  G,  1.81 m,  b. 12 Feb 1992 @ Barcelona
+Juanto Ortuño,                F,  1.77 m,  b. 11 Feb 1992 @ Yecla
+Ander Capa,                   D,  1.73 m,  b. 8 Feb 1992 @ Portugalete
+Marco Sangalli,               M,  1.79 m,  b. 7 Feb 1992 @ San Sebastián
 Sergi Roberto,                D,  1.78 m,  b. 7 Feb 1992 @ Reus
+Unai Bustinza,                D,  1.75 m,  b. 2 Feb 1992 @ Bilbao
+Sergio Álvarez,               M,  1.80 m,  b. 23 Jan 1992 @ Avilés
 Daniel Carvajal,              D,  1.73 m,  b. 11 Jan 1992 @ Leganés
-Koke,                         M,  1.77 m,  b. 8 Jan 1992 @ Madrid
+Sabin Merino,                 F,  1.87 m,  b. 4 Jan 1992 @ Urduliz
 
+Josep Señé,                   M,  1.85 m,  b. 10 Dec 1991 @ Barcelona
+Carlos Gutiérrez,             D,  1.92 m,  b. 4 Nov 1991 @ Las Palmas
+Álvaro Peña,                  M,  1.78 m,  b. 24 Oct 1991 @ Bilbao
 Manu Trigueros,               M,  1.78 m,  b. 17 Oct 1991 @ Talavera de la Reina
 Antonio Raíllo,               D,  1.86 m,  b. 8 Oct 1991 @ Córdoba
 Oriol Romeu,                  M,  1.83 m,  b. 24 Sep 1991 @ Ulldecona
+Óscar Sielva,                 M,  1.77 m,  b. 6 Aug 1991 @ Barcelona
+Fran Gámez,                   D,  1.74 m,  b. 27 Jul 1991 @ Puerto de Sagunto
 Rubén Peña,                   D,  1.70 m,  b. 18 Jul 1991 @ Ávila
+Jony,                         F,  1.79 m,  b. 9 Jul 1991 @ Cangas del Narcea
+José Corpas,                  M,  1.74 m,  b. 7 Jul 1991 @ Baños de la Encina
 Lucas Vázquez,                M,  1.73 m,  b. 1 Jul 1991 @ Curtis
+Jon García,                   D,  1.80 m,  b. 4 Jun 1991 @ Bilbao
+Maikel Mesa,                  M,  1.83 m,  b. 4 Jun 1991 @ Santa Cruz de Tenerife
 Sergi Guardiola,              F,  1.80 m,  b. 29 May 1991 @ Manacor
+Erik Morán,                   M,  1.87 m,  b. 25 May 1991 @ Portugalete
+Álvaro,                       F,  1.82 m,  b. 19 May 1991 @ Elche
 Íñigo Martínez,               D,  1.82 m,  b. 17 May 1991 @ Ondarroa
 Aitor Fernández,              G,  1.82 m,  b. 3 May 1991 @ Mondragón
 Rubén Alcaraz,                M,  1.80 m,  b. 1 May 1991 @ Barcelona
 Juanpe,                       D,  1.90 m,  b. 30 Apr 1991 @ Las Palmas
 Thiago Alcántara,             M,  1.65 m,  b. 11 Apr 1991 @ Bari
+Jorge Pulido,                 D,  1.81 m,  b. 8 Apr 1991 @ Talavera de la Reina
 Salvi,                        M,  1.75 m,  b. 30 Mar 1991 @ Sanlúcar de Barrameda
+Juan Carlos,                  M,  1.75 m,  b. 15 Mar 1991 @ La Coruña
 Cristian Herrera,             F,  1.89 m,  b. 13 Mar 1991 @ Las Palmas
+Álex Bernal,                  M,  1.75 m,  b. 3 Mar 1991 @ Seville
+Óscar Plano,                  M,  1.80 m,  b. 11 Feb 1991 @ Móstoles
 Kiko Femenía,                 D,  1.74 m,  b. 2 Feb 1991 @ Sanet y Negrals
+Raúl,                         G,  1.86 m,  b. 27 Jan 1991 @ Las Palmas
+Alfredo Ortuño,               F,  1.83 m,  b. 21 Jan 1991 @ Tecla
 Marc Bartra,                  D,  1.84 m,  b. 15 Jan 1991 @ San Jaime dels Domenys
 Roger,                        F,  1.79 m,  b. 3 Jan 1991 @ Torrent
 
 Marcos Alonso,                D,  1.88 m,  b. 28 Dec 1990 @ Madrid
+Pedro Capó,                   D,  1.88 m,  b. 11 Dec 1990 @ Mahón
+Mario Gaspar,                 D,  1.82 m,  b. 24 Nov 1990 @ Novelda
+Sergi Maestre,                M,  1.87 m,  b. 18 Nov 1990 @ Barcelona
+Daniel Ayala,                 D,  1.90 m,  b. 7 Nov 1990 @ El Saucejo
 Jaume Domènech,               G,  1.85 m,  b. 5 Nov 1990 @ Almenara
 Borja,                        M,  1.75 m,  b. 2 Nov 1990 @ Torremocha de Jarama
+Carlos Hernández,             D,  1.85 m,  b. 15 Sep 1990 @ Jaén
+Álex Martínez,                D,  1.76 m,  b. 12 Aug 1990 @ Seville
+Elady Zorrilla,               M,  1.78 m,  b. 13 Jul 1990 @ La Puerta de Segura
+Marc Mateu,                   M,  1.80 m,  b. 16 Jun 1990 @ Valencia
+Francisco Portillo,           M,  1.69 m,  b. 13 Jun 1990 @ Málaga
 Fernando,                     G,  1.85 m,  b. 10 Jun 1990 @ Murcia
 Dani García,                  M,  1.80 m,  b. 24 May 1990 @ Zumarraga
 Alberto Perea,                M,  1.80 m,  b. 16 May 1990 @ Albacete
+Quique,                       F,  1.75 m,  b. 16 May 1990 @ Valladolid
+Pedro Bigas,                  D,  1.81 m,  b. 15 May 1990 @ Palma de Mallorca
+José Antonio Ríos,            D,  1.82 m,  b. 10 May 1990 @ Seville
 Diego Mariño,                 G,  1.85 m,  b. 9 May 1990 @ Vigo
 Marc Martínez,                G,  1.85 m,  b. 4 Apr 1990 @ Barcelona
+Javier Eraso,                 M,  1.80 m,  b. 22 Mar 1990 @ Pamplona
+Dani Jiménez,                 G,  1.79 m,  b. 5 Mar 1990 @ Lebrija
+Sergi Enrich,                 F,  1.81 m,  b. 26 Feb 1990 @ Ciutadella de Menorca
 Yuri Berchiche,               D,  1.80 m,  b. 10 Feb 1990 @ Zarautz
+Andy,                         M,  1.85 m,  b. 30 Jan 1990 @ Almuñécar
 Nacho Fernández,              D,  1.80 m,  b. 18 Jan 1990 @ Madrid
+Heber Pena,                   F,  1.76 m,  b. 16 Jan 1990 @ Ferrol
 
+Josan,                        M,  1.75 m,  b. 3 Dec 1989 @ Crevillente
 Kike,                         F,  1.86 m,  b. 25 Nov 1989 @ Motilla del Palancar
+Fidel,                        M,  1.77 m,  b. 27 Oct 1989 @ Minas de Riotinto
 Jonathan Viera,               M,  1.71 m,  b. 21 Oct 1989 @ Las Palmas
+David Tímor,                  M,  1.85 m,  b. 17 Oct 1989 @ Carcaixent
+Fernando Pumar,               D,  1.82 m,  b. 30 Sep 1989 @ Ourense
+Oier Olazábal,                G,  1.89 m,  b. 14 Sep 1989 @ Irún
+José Ángel,                   D,  1.82 m,  b. 5 Sep 1989 @ Gijón
+Sergio Escudero,              D,  1.76 m,  b. 2 Sep 1989 @ Valladolid
 César Azpilicueta,            D,  1.78 m,  b. 28 Aug 1989 @ Pamplona
 Ander Herrera,                M,  1.82 m,  b. 14 Aug 1989 @ Bilbao
+Iker Seguin,                  M,  1.83 m,  b. 12 Jul 1989 @ Eibar
+Sergio Asenjo,                G,  1.89 m,  b. 28 Jun 1989 @ Palencia
+Roque Mesa,                   M,  1.71 m,  b. 7 Jun 1989 @ Telde
+Jorge Miramón,                M,  1.76 m,  b. 2 Jun 1989 @ Zaragoza
 Daniel Parejo,                M,  1.82 m,  b. 16 Apr 1989 @ Madrid
 Luis Hernández,               D,  1.83 m,  b. 14 Apr 1989 @ Madrid
 Óscar de Marcos,              D,  1.82 m,  b. 14 Apr 1989 @ Laguardia
 Aridane,                      D,  1.86 m,  b. 23 Mar 1989 @ Fuerteventura
+Pedro Alcalá,                 D,  1.96 m,  b. 19 Mar 1989 @ Mazarrón
+Nacho Martínez,               D,  1.75 m,  b. 7 Mar 1989 @ Madrid
+Tomeu Nadal,                  G,  1.90 m,  b. 8 Feb 1989 @ Manacor
+Tomás Mejías,                 G,  1.94 m,  b. 30 Jan 1989 @ Madrid
+Víctor Ruíz,                  D,  1.85 m,  b. 25 Jan 1989 @ Esplugues de Llobregat
+Sergio León,                  F,  1.78 m,  b. 6 Jan 1989 @ Palma del Río
+Jordi Masip,                  G,  1.80 m,  b. 3 Jan 1989 @ Sabadell
 
+Sergio Postigo,               D,  1.84 m,  b. 4 Nov 1988 @ Madrid
 Jaime Mata,                   F,  1.85 m,  b. 24 Oct 1988 @ Madrid
+Gonzalo Verdú,                D,  1.85 m,  b. 21 Oct 1988 @ Cartagena
+Yoel,                         G,  1.86 m,  b. 28 Aug 1988 @ Vigo
+Kiko,                         D,  1.89 m,  b. 21 Aug 1988 @ Málaga
 Víctor Díaz,                  D,  1.83 m,  b. 12 Jun 1988 @ Huelva
 Dani Rodríguez,               M,  1.77 m,  b. 6 Jun 1988 @ Betanzos
+Pedro Mosquera,               M,  1.84 m,  b. 21 Apr 1988 @ La Coruña
+David Ferreiro,               F,  1.70 m,  b. 1 Apr 1988 @ Ourense
 Jaume Costa,                  D,  1.71 m,  b. 18 Mar 1988 @ Valencia
-Raúl,                         G,  1.96 m,  b. 13 Mar 1988 @ Bilbao
-Juan Carlos,                  G,  1.85 m,  b. 20 Jan 1988 @ Guadalajara
+Álex López,                   M,  1.75 m,  b. 11 Jan 1988 @ Ferrol
 
 José Mari,                    M,  1.81 m,  b. 6 Dec 1987 @ Rota
+Xabier Etxeita,               D,  1.86 m,  b. 31 Oct 1987 @ Amorebieta-Etxano
 Iago Aspas,                   F,  1.76 m,  b. 11 Aug 1987 @ Moaña
 Pedro,                        F,  1.69 m,  b. 28 Jul 1987 @ Santa Cruz de Tenerife
 José Luis Morales,            M,  1.80 m,  b. 23 Jul 1987 @ Madrid
+Iván Marcano,                 D,  1.89 m,  b. 23 Jun 1987 @ Santander
+Anaitz Arbilla,               D,  1.78 m,  b. 15 May 1987 @ Pamplona
+Antonio Adán,                 G,  1.91 m,  b. 13 May 1987 @ Madrid
+Ángel,                        F,  1.72 m,  b. 26 Apr 1987 @ Santa Cruz de Tenerife
 José Callejón,                F,  1.79 m,  b. 11 Feb 1987 @ Motril
 Vicente Guaita,               G,  1.90 m,  b. 10 Jan 1987 @ Torrent
 Adrián,                       G,  1.90 m,  b. 3 Jan 1987 @ Seville
 
+Andrés Fernández,             G,  1.85 m,  b. 17 Dec 1986 @ Murcia
+Germán Sánchez,               D,  1.88 m,  b. 31 Oct 1986 @ San Fernando
+David Morillas,               D,  1.86 m,  b. 28 Sep 1986 @ Águilas
+Enric Gallego,                F,  1.90 m,  b. 12 Sep 1986 @ Martorell
+Ian Mackay,                   G,  1.81 m,  b. 14 Jul 1986 @ La Coruña
 Sergio Ramos,                 D,  1.84 m,  b. 30 Mar 1986 @ Camas
 
+Javi Lara,                    M,  1.79 m,  b. 4 Dec 1985 @ Montoro
 Jesús Navas,                  D,  1.72 m,  b. 21 Nov 1985 @ Los Palacios
 Raúl Albiol,                  D,  1.90 m,  b. 4 Sep 1985 @ Vilamarxant
 Álvaro Negredo,               F,  1.85 m,  b. 20 Aug 1985 @ Madrid
 
+Santi Cazorla,                M,  1.68 m,  b. 13 Dec 1984 @ Lugo de Llanera
+Mikel Rico,                   M,  1.78 m,  b. 4 Nov 1984 @ Basauri
+Aitor Sanz,                   M,  1.81 m,  b. 13 Sep 1984 @ Madrid
 Iván Cuéllar,                 G,  1.87 m,  b. 27 May 1984 @ Mérida
 
 Pepe Reina,                   G,  1.88 m,  b. 31 Aug 1982 @ Madrid

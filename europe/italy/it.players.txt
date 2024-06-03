@@ -3,101 +3,213 @@
 
 Francesco Camarda,            F,  1.84 m,  b. 10 Mar 2008 @ Milan
 
+Lorenzo Bonifacio,            G,  1.76 m,  b. 6 Aug 2007
 Briajan Gjyla,                F,  1.77 m,  b. 26 Jul 2007 @ Iseo
+Filippo Novelli,              G,  - ,      b. 24 Jul 2007 @ Terni
+Guido Della Rovere,           M,  - ,      b. 4 Jun 2007
 Joel Malusà,                  G,  1.85 m,  b. 28 Mar 2007
 Tommaso Vannucchi,            G,  1.97 m,  b. 5 Mar 2007 @ Viareggio
+Jonas Arlanch,                G,  1.83 m,  b. 8 Jan 2007
 
+Giovanni Leoni,               D,  1.93 m,  b. 21 Dec 2006 @ Rome
 Alessio Di Giorgio,           G,  1.90 m,  b. 11 Dec 2006 @ Rome
 Filippo Vertua,               G,  1.92 m,  b. 5 Nov 2006
+Augusto Bando,                M,  - ,      b. 24 Oct 2006
 Alphadjo Cissè,               F,  1.78 m,  b. 22 Oct 2006 @ Treviso
+Edoardo Scquizzato,           G,  - ,      b. 22 Oct 2006
+Giulio Biondini,              M,  1.87 m,  b. 17 Oct 2006 @ Assisi
+Fabio Rispoli,                M,  1.69 m,  b. 28 Sep 2006 @ Milan
+Diego Mascardi,               G,  - ,      b. 26 Sep 2006 @ Carrara
+Carlo Ghidini,                M,  1.78 m,  b. 9 Sep 2006
+Janzel Principi,              F,  - ,      b. 8 Sep 2006
+Gianmaria D'Angelo Pizzolo,   F,  - ,      b. 22 Aug 2006 @ Montecchio Emilia
+Nicola Mosti,                 G,  - ,      b. 3 Aug 2006 @ Massa
+Ephraim Yeboah,               F,  - ,      b. 21 Jul 2006
 Mattia Mannini,               M,  1.70 m,  b. 8 Jul 2006 @ Sarzana
+Francesco Cutrona,            G,  1.93 m,  b. 30 Jun 2006 @ Niscemi
 Leonardo Mendicino,           M,  1.82 m,  b. 25 Jun 2006 @ Carate Brianza
+Mirko Castelnuovo,            G,  - ,      b. 24 Jun 2006 @ Erba
+Fabiano D'Amore,              D,  - ,      b. 12 Jun 2006 @ Catania
 Davide Renzetti,              G,  1.94 m,  b. 9 Jun 2006 @ Rome
+Angelo Agostino,              G,  - ,      b. 16 May 2006
+Jakob Tschöll,                G,  - ,      b. 25 Apr 2006
+Giuseppe Mazzaglia,           M,  1.80 m,  b. 20 Apr 2006 @ Monza
+Francesco Plaia,              G,  1.92 m,  b. 29 Mar 2006 @ Brussels
+Amedeo Mellini,               M,  - ,      b. 25 Mar 2006 @ Tarquinia
+Patrik Hofer,                 D,  - ,      b. 19 Mar 2006
 Simone Pafundi,               M,  1.66 m,  b. 14 Mar 2006 @ Monfalcone
 Diego Sia,                    F,  1.68 m,  b. 10 Mar 2006 @ Milan
 Tito Gasperini,               G,  1.88 m,  b. 9 Mar 2006 @ Bologna
 Niccolò Guccione,             D,  1.85 m,  b. 4 Mar 2006
 Marco Romano,                 F,  - ,      b. 1 Mar 2006 @ Innsbruck
+Luigi Sciammarella,           G,  1.85 m,  b. 22 Feb 2006
 Luca Boncori,                 F,  - ,      b. 21 Feb 2006
 Tommaso Ravaglioli,           F,  - ,      b. 20 Feb 2006 @ Cesena
 Niccolò Fortini,              M,  1.85 m,  b. 13 Feb 2006 @ Camaiore
 Maat Daniel Caprini,          F,  1.80 m,  b. 11 Feb 2006 @ Milan
+Lorenzo Costantino,           D,  - ,      b. 28 Jan 2006 @ Genoa
+Akim Djibril,                 M,  - ,      b. 22 Jan 2006
 Fabio Desole,                 D,  - ,      b. 20 Jan 2006 @ Chieri
 Ciro Borrelli,                M,  1.89 m,  b. 9 Jan 2006 @ Naples
 Tommaso Martinelli,           G,  1.95 m,  b. 6 Jan 2006 @ Bagno a Ripoli
+Filippo Cecchini,             G,  - ,      b. 1 Jan 2006 @ Milan
 
+Patrick Nuamah,               M,  1.79 m,  b. 31 Dec 2005 @ Brescia
 Davide Bartesaghi,            D,  1.88 m,  b. 29 Dec 2005 @ Erba
 Riccardo Arboscello,          M,  - ,      b. 10 Dec 2005 @ Savona
 Luigi D'Avino,                D,  1.86 m,  b. 8 Dec 2005 @ Naples
+Federico Chinetti,            F,  1.80 m,  b. 5 Dec 2005
 Samuel John Nwachukwu,        D,  1.83 m,  b. 4 Nov 2005
+Edoardo Olivieri,             D,  - ,      b. 27 Oct 2005 @ Verona
 Tommaso Ghirardello,          F,  - ,      b. 19 Oct 2005 @ Rovigo
+Danilo Amato,                 G,  1.85 m,  b. 9 Sep 2005
+Ilario Porzi,                 M,  1.72 m,  b. 23 Aug 2005 @ Foligno
 Alessandro Vinciguerra,       F,  1.67 m,  b. 18 Aug 2005 @ Naples
+Simone Cortese,               G,  1.91 m,  b. 17 Aug 2005 @ Brescia
+Riccardo Di Trolio,           D,  - ,      b. 14 Aug 2005
 Wisdom Amey,                  D,  1.87 m,  b. 11 Aug 2005 @ Bassano del Grappa
 Federico Mosca,               G,  1.92 m,  b. 8 Aug 2005 @ San Daniele del Friuli
+Benedikt Rottensteiner,       D,  1.86 m,  b. 29 Jul 2005 @ Bolzano
+Simone Leonardi,              F,  1.82 m,  b. 18 Jul 2005 @ Catania
+Hemsley Akpa-Chukwu,          F,  1.90 m,  b. 14 Jul 2005 @ Douala
+Marco Oliva,                  M,  1.79 m,  b. 12 Jul 2005 @ Rome
+Francesco Pio Esposito,       F,  1.89 m,  b. 28 Jun 2005 @ Castellammare di Stabia
+Luigi Pellegrini,             G,  1.82 m,  b. 23 Jun 2005 @ Ruvo di Puglia
+Damiano Ciucci,               D,  - ,      b. 13 Jun 2005
 Matteo Brezzo,                G,  1.93 m,  b. 13 Jun 2005
+Lorenzo Giorgi,               D,  1.84 m,  b. 12 Jun 2005 @ Brescia
 Pietro Comi,                  D,  - ,      b. 11 Jun 2005 @ Treviglio
+Gabriel Rafele,               F,  1.86 m,  b. 8 Jun 2005 @ Catanzaro
 Fabio Chiarodia,              D,  1.86 m,  b. 5 Jun 2005 @ Oldenburg
 Leonardo Colombo,             M,  1.75 m,  b. 4 Jun 2005
+Giulio Mengucci,              G,  1.95 m,  b. 3 Jun 2005 @ Rome
+Yehiya Maiga Silvestri,       M,  1.78 m,  b. 22 May 2005 @ San Benedetto del Tronto
+Edoardo Della Salandra,       F,  1.90 m,  b. 19 May 2005 @ Rome
 Gerardo Fusco,                F,  - ,      b. 18 May 2005 @ Salerno
 Luca Lipani,                  M,  1.85 m,  b. 18 May 2005 @ Genoa
 Simone Calvani,               G,  1.93 m,  b. 16 May 2005 @ Grottaferrata
 Pasquale Allocca,             G,  1.95 m,  b. 9 May 2005 @ Salerno
+Francesco Lops,               M,  1.63 m,  b. 4 May 2005 @ Corato
+Tommaso Leonardi,             G,  1.79 m,  b. 2 May 2005 @ Rubiera
 Tommaso Ferrari,              D,  1.85 m,  b. 30 Apr 2005 @ Rome
+Raphael Kofler,               M,  1.93 m,  b. 26 Apr 2005 @ Merano
+Mattia Manni,                 M,  1.79 m,  b. 20 Apr 2005 @ Catania
 Lorenzo Russo,                M,  1.77 m,  b. 19 Apr 2005 @ Naples
+Bryan Blanco,                 M,  1.65 m,  b. 17 Apr 2005 @ Reggio Emilia
 Giacomo Stabile,              D,  1.87 m,  b. 12 Apr 2005 @ Milan
+Francesco Coppola,            D,  - ,      b. 11 Apr 2005 @ Turin
+Stefan Dregan,                G,  1.76 m,  b. 10 Apr 2005 @ Cles
 Temple Ojinnaka,              M,  - ,      b. 30 Mar 2005 @ Venice
+Domenico Dachille,            D,  1.81 m,  b. 28 Mar 2005 @ Bari
 Kevin Leone,                  M,  1.82 m,  b. 28 Mar 2005 @ Catania
+Thomas Brahja,                G,  1.87 m,  b. 26 Mar 2005
+Mattia Sala,                  M,  - ,      b. 25 Mar 2005
+Filippo Veneran,              G,  1.84 m,  b. 18 Mar 2005 @ Treviso
+Alessandro Morlupo,           G,  1.87 m,  b. 13 Mar 2005 @ Terni
+Alex Righetti,                G,  - ,      b. 11 Mar 2005
 Alessandro Calligaris,        G,  1.85 m,  b. 7 Mar 2005 @ Udine
+Marco Bonugli,                D,  - ,      b. 3 Mar 2005 @ Macerata
 Marco Palestra,               D,  1.86 m,  b. 3 Mar 2005 @ Buccinasco
 Alessandro Scacchetti,        G,  - ,      b. 22 Feb 2005
 Christian Corradi,            D,  1.90 m,  b. 21 Feb 2005
 Pietro Comuzzo,               D,  1.85 m,  b. 20 Feb 2005 @ San Daniele del Friuli
 Jacopo Seghetti,              G,  1.80 m,  b. 17 Feb 2005 @ San Miniato
+Manfredi Nespola,             G,  1.89 m,  b. 16 Feb 2005 @ Palermo
+Jacopo Tarantino,             F,  1.71 m,  b. 15 Feb 2005 @ Rome
 Matteo Motta,                 D,  - ,      b. 10 Feb 2005
+Matteo Langella,              D,  1.77 m,  b. 7 Feb 2005 @ Torre Annunziata
+Emanuele Zanaboni,            F,  1.87 m,  b. 5 Feb 2005 @ Milan
+Marco Delle Monache,          F,  1.70 m,  b. 3 Feb 2005 @ Cappelle sul Tavo
+Giovanni Faganio,             G,  - ,      b. 2 Feb 2005
 Lorenzo Torriani,             G,  1.97 m,  b. 31 Jan 2005 @ Vimodrone
+Daniele Occhiuto,             D,  1.72 m,  b. 30 Jan 2005 @ Cosenza
 Aaron Ciammaglichella,        M,  1.80 m,  b. 26 Jan 2005 @ Turin
+Mario Guadalupi,              G,  - ,      b. 25 Jan 2005
+Buddhiman Pandini,            D,  1.87 m,  b. 21 Jan 2005
+Pietro Candelari,             M,  1.78 m,  b. 21 Jan 2005 @ Ancona
+Raffaele Natuzzi,             D,  - ,      b. 15 Jan 2005
 Tommaso Pittino,              D,  - ,      b. 14 Jan 2005
+Christian Cugnata,            D,  1.86 m,  b. 13 Jan 2005 @ Lentini
+Edoardo Motta,                G,  - ,      b. 13 Jan 2005
 Kevin Zeroli,                 M,  1.87 m,  b. 11 Jan 2005 @ Busto Arsizio
 Federico Magro,               G,  1.89 m,  b. 10 Jan 2005 @ Rome
+Federico Tavernaro,           M,  - ,      b. 5 Jan 2005
 
 Filippo Alessio,              F,  1.82 m,  b. 24 Dec 2004 @ Montebelluna
 Emanuele Elia,                D,  1.90 m,  b. 19 Dec 2004 @ Crotone
 Fabio Ruggeri,                D,  1.84 m,  b. 13 Dec 2004 @ Rome
 Giovanni Daffara,             G,  1.84 m,  b. 5 Dec 2004 @ Biella
 Riccardo Pagano,              M,  1.75 m,  b. 28 Nov 2004 @ Tivoli
+Luca Bolletta,                G,  1.90 m,  b. 26 Nov 2004 @ Jesi
+Corrado Riviera,              D,  1.84 m,  b. 18 Nov 2004 @ Brescia
+Giacomo Cavallini,            M,  1.80 m,  b. 16 Nov 2004 @ Bologna
 Nicolò Calabrese,             D,  - ,      b. 16 Nov 2004
+Cristiano Belpanno,           F,  1.78 m,  b. 5 Nov 2004 @ Catanzaro
+Francesco Conti,              M,  1.86 m,  b. 23 Oct 2004 @ Genoa
+Diego Ronco,                  D,  - ,      b. 21 Oct 2004
+Simone Pozzato,               M,  - ,      b. 18 Oct 2004 @ Vicenza
+Mattia Vitale,                M,  - ,      b. 17 Oct 2004 @ Castellammare di Stabia
+Ahmed Sanogo,                 F,  1.75 m,  b. 9 Oct 2004 @ Milan
 Niccolò Pisilli,              M,  1.80 m,  b. 23 Sep 2004 @ Rome
+Simone D'Uffizi,              F,  1.75 m,  b. 15 Sep 2004 @ Rome
+Luca D'Andrea,                M,  1.73 m,  b. 6 Sep 2004 @ Naples
 Flavio Russo,                 F,  1.78 m,  b. 31 Aug 2004 @ Catania
+Nicolo Tresoldi,              F,  1.83 m,  b. 20 Aug 2004 @ Cagliari
 Andrea Sodero,                M,  - ,      b. 7 Aug 2004 @ Arezzo
+Valerio Crespi,               F,  1.87 m,  b. 4 Aug 2004 @ Rome
 Giacomo Faticanti,            M,  1.75 m,  b. 31 Jul 2004 @ Rome
 Cher Ndour,                   M,  1.90 m,  b. 27 Jul 2004 @ Brescia
+Nicolò Uberti,                M,  1.74 m,  b. 25 Jul 2004 @ Brescia
+Edoardo Borrelli,             G,  1.79 m,  b. 23 Jul 2004 @ Rome
 Luca Marianucci,              D,  - ,      b. 23 Jul 2004 @ Livorno
 Tommaso Mancini,              F,  1.90 m,  b. 23 Jul 2004 @ Vicenza
+Emiliano Rossi,               D,  1.86 m,  b. 20 Jul 2004
 Justin Kumi,                  M,  1.82 m,  b. 16 Jul 2004 @ Castelfranco Veneto
 Simone Scaglia,               G,  1.96 m,  b. 12 Jul 2004 @ Turin
 Michael Kayode,               D,  1.79 m,  b. 10 Jul 2004 @ Borgomanero
+Francesco Cozzoli,            D,  1.80 m,  b. 9 Jul 2004
+Elia Tantalocchi,             G,  1.90 m,  b. 30 Jun 2004 @ Civitanova Marche
 Tommaso Corazza,              D,  1.74 m,  b. 29 Jun 2004 @ Bologna
+Lorenzo Cosimi,               D,  1.77 m,  b. 21 Jun 2004
+Amney Moutassime,             F,  1.78 m,  b. 1 Jun 2004
 Lorenzo Palmisani,            G,  1.85 m,  b. 1 Jun 2004 @ Alatri
+Riccardo Fogliata,            M,  1.83 m,  b. 20 May 2004 @ Brescia
 Alessandro Dellavalle,        D,  1.91 m,  b. 11 May 2004 @ Turin
+Riccardo Ori,                 M,  - ,      b. 29 Apr 2004
+Costantino Favasuli,          M,  1.82 m,  b. 26 Apr 2004 @ Africo Nuovo
 Lorenzo Ignacchiti,           M,  - ,      b. 25 Apr 2004 @ Pisa
 Riccardo Stivanello,          D,  1.88 m,  b. 24 Apr 2004 @ Dolo
+Federico Agazzi,              G,  1.88 m,  b. 18 Apr 2004
+Christian Gatti,              M,  1.84 m,  b. 16 Apr 2004 @ Legnano
 Gabriele Guarino,             D,  1.93 m,  b. 14 Apr 2004 @ Molfetta
+Luca Piras,                   D,  1.77 m,  b. 9 Apr 2004 @ Mappano
+Alessandro Viotti,            F,  1.83 m,  b. 30 Mar 2004 @ Catanzaro
 Nicola Patanè,                M,  1.94 m,  b. 25 Mar 2004 @ Verona
 Alessandro Selvini,           F,  - ,      b. 24 Mar 2004 @ Frosinone
 Filippo Missori,              D,  1.82 m,  b. 24 Mar 2004 @ Rome
 Andrea Mazza,                 G,  1.90 m,  b. 19 Mar 2004 @ Milan
+Antonio Raimondo,             F,  1.84 m,  b. 18 Mar 2004 @ Ravenna
 Denis Cazzadori,              F,  1.75 m,  b. 16 Mar 2004
 Andrea Bartoccioni,           G,  1.96 m,  b. 14 Mar 2004 @ Milan
 Nicola Bagnolini,             G,  1.94 m,  b. 14 Mar 2004 @ Cesena
+Stefano Marino,               F,  1.86 m,  b. 12 Mar 2004 @ Pforzheim
 Christian Biagetti,           D,  1.94 m,  b. 10 Mar 2004 @ Grosseto
+Federico Motti,               D,  1.75 m,  b. 6 Mar 2004 @ Reggio Emilia
 Andrea Mazia,                 F,  1.74 m,  b. 29 Feb 2004 @ Bologna
+Matteo Ferro,                 F,  1.78 m,  b. 27 Feb 2004 @ Cremona
 Francesco Gioielli,           M,  1.76 m,  b. 26 Feb 2004 @ Quarto
 Daniel Theiner,               G,  1.88 m,  b. 25 Feb 2004 @ Merano
 Giacomo Corona,               F,  1.95 m,  b. 24 Feb 2004 @ Palermo
 Samuele Vignato,              F,  1.68 m,  b. 24 Feb 2004 @ Fumane
+Carmelo Ferrara,              F,  - ,      b. 23 Feb 2004 @ Messina
 Francesco D'Alessio,          M,  1.82 m,  b. 21 Feb 2004 @ Rome
+Baldovino Cimino,             D,  1.84 m,  b. 20 Feb 2004 @ Sessa Aurunca
 Gabriele Indragoli,           D,  1.88 m,  b. 20 Feb 2004 @ Camaiore
+Antonio Memeo,                M,  1.84 m,  b. 19 Feb 2004
+Lorenzo Busato,               D,  1.80 m,  b. 9 Feb 2004
 Lorenzo Amatucci,             M,  1.77 m,  b. 5 Feb 2004 @ Subbiano
+Gabriele Alesi,               F,  1.75 m,  b. 28 Jan 2004 @ Alcamo
+Luca Benti,                   F,  1.78 m,  b. 24 Jan 2004
 Lapo Nava,                    G,  1.89 m,  b. 22 Jan 2004 @ Milan
 Luigi Cherubini,              F,  1.75 m,  b. 15 Jan 2004 @ Tivoli
 Jacopo Antolini,              D,  1.73 m,  b. 10 Jan 2004 @ Caldiero
@@ -109,269 +221,676 @@ Diego Coppola,                D,  1.93 m,  b. 28 Dec 2003 @ Bussolengo
 Matteo Prati,                 M,  1.85 m,  b. 28 Dec 2003 @ Ravenna
 Giorgio Scalvini,             D,  1.94 m,  b. 11 Dec 2003 @ Chiari
 Ayoub Afi,                    F,  1.75 m,  b. 17 Nov 2003
+Wilfried Gnonto,              F,  1.70 m,  b. 5 Nov 2003 @ Verbania
+Antonio Satriano,             F,  1.85 m,  b. 30 Oct 2003 @ Locri
+Lorenzo Malagrida,            M,  1.74 m,  b. 24 Oct 2003 @ Pietra Ligure
+Elia Maccherini Tonini,       D,  1.90 m,  b. 19 Oct 2003 @ Brescia
+Mattia Musatti,               M,  1.81 m,  b. 30 Sep 2003 @ Brescia
 Edoardo Piana,                G,  1.97 m,  b. 29 Sep 2003 @ Soave
+Niccolò Pietra,               M,  1.89 m,  b. 28 Sep 2003 @ Massa
+Marco Nasti,                  F,  1.79 m,  b. 17 Sep 2003 @ Pavia
+Giuseppe Ambrosino,           F,  1.87 m,  b. 10 Sep 2003 @ Procida
+Mauro Verzeletti,             D,  1.85 m,  b. 9 Sep 2003 @ Brescia
+Andrea Franzolini,            M,  1.88 m,  b. 6 Sep 2003 @ Latina
+Filippo Distefano,            F,  1.78 m,  b. 28 Aug 2003 @ Camaiore
 Fabio Miretti,                M,  1.79 m,  b. 3 Aug 2003 @ Pinerolo
+Brayan Boci,                  D,  1.83 m,  b. 24 Jul 2003 @ San Giovanni Valdarno
+Claudio Cassano,              F,  1.65 m,  b. 22 Jul 2003 @ Trani
 Antonino Viola,               G,  1.90 m,  b. 14 Jul 2003 @ Palermo
+Yuri Rocchetti,               D,  1.72 m,  b. 15 Jun 2003 @ Rieti
+Alessandro Arioli,            F,  1.84 m,  b. 24 May 2003 @ Anzio
 Antonio Pio Iervolino,        M,  1.83 m,  b. 23 May 2003 @ San Gennaro Vesuviano
+Lorenzo Lucchesi,             D,  1.90 m,  b. 9 May 2003 @ Florence
+Duccio Degli Innocenti,       M,  1.80 m,  b. 28 Apr 2003 @ Montevarchi
 Matteo Bruno,                 M,  - ,      b. 27 Apr 2003 @ Rome
+Luca Bonadeo,                 G,  1.91 m,  b. 21 Apr 2003 @ Lecco
+Lisandru Tramoni,             F,  1.80 m,  b. 18 Apr 2003 @ Ajaccio
+Federico Zuccon,              M,  1.88 m,  b. 1 Apr 2003 @ Genoa
 Paolo Vismara,                G,  1.87 m,  b. 28 Mar 2003
+Samuel Giovane,               M,  1.81 m,  b. 28 Mar 2003 @ Lugo
+Nicolò Bertola,               D,  1.92 m,  b. 23 Mar 2003 @ Carrara
 Tommaso Baldanzi,             F,  1.70 m,  b. 23 Mar 2003 @ Poggibonsi
+Daniele Montevago,            F,  1.84 m,  b. 18 Mar 2003 @ Palermo
 Jacopo Fazzini,               M,  1.78 m,  b. 16 Mar 2003 @ Massa
+Sebastiano Desplanches,       G,  1.88 m,  b. 11 Mar 2003 @ Novara
 Kevin Miranda,                D,  1.88 m,  b. 10 Mar 2003 @ Piedimonte Matese
+Alessio Rizza,                D,  1.73 m,  b. 7 Mar 2003 @ Livorno
 Leonardo Cerri,               F,  1.98 m,  b. 4 Mar 2003 @ Rome
 Pietro Passador,              G,  1.93 m,  b. 26 Feb 2003 @ Pordenone
 Andrea Ferraris,              F,  1.73 m,  b. 22 Feb 2003 @ Turin
+Mirco Ferrante,               M,  1.84 m,  b. 22 Feb 2003 @ Rome
+Andrea Cecchetto,             D,  1.80 m,  b. 13 Feb 2003 @ Vicenza
 Filippo Terracciano,          D,  1.81 m,  b. 8 Feb 2003 @ Verona
+Alessandro Fontanarosa,       D,  1.84 m,  b. 7 Feb 2003 @ San Gennaro Vesuviano
+Filippo Faggi,                M,  1.83 m,  b. 5 Feb 2003
+Fabio Abiuso,                 F,  1.89 m,  b. 2 Feb 2003 @ Sassuolo
+Davide Veroli,                M,  1.85 m,  b. 29 Jan 2003 @ Ancona
 Giovanni Bonfanti,            D,  1.87 m,  b. 17 Jan 2003 @ Milan
+Antonio Vergara,              M,  1.82 m,  b. 16 Jan 2003 @ Frattaminore
+Flavio Paoletti,              M,  1.82 m,  b. 16 Jan 2003 @ San Benedetto del Tronto
+Andrea Oliveri,               M,  1.81 m,  b. 14 Jan 2003 @ Palermo
 Giovanni Fabbian,             M,  1.86 m,  b. 14 Jan 2003 @ Camposampiero
 Cesare Casadei,               M,  1.86 m,  b. 10 Jan 2003 @ Ravenna
+Daniele Ghilardi,             D,  1.89 m,  b. 6 Jan 2003 @ Lucca
+Alessandro Pietrelli,         M,  1.92 m,  b. 5 Jan 2003 @ Bologna
+Edoardo Pieragnolo,           D,  1.85 m,  b. 3 Jan 2003 @ Padua
 
+Matteo Angeli,                D,  1.85 m,  b. 30 Dec 2002 @ Cuneo
 Jacopo De Matteis,            G,  1.85 m,  b. 28 Dec 2002 @ Rome
+Ottavio Garau,                F,  1.71 m,  b. 9 Dec 2002 @ Caserta
+Nicholas Saggionetto,         M,  1.86 m,  b. 5 Dec 2002 @ Camposampiero
+Filippo Rinaldi,              G,  1.88 m,  b. 4 Dec 2002 @ Montecchio Emilia
 Destiny Udogie,               D,  1.86 m,  b. 28 Nov 2002 @ Verona
 Simone Stampete,              F,  1.80 m,  b. 28 Nov 2002
+Giovanni Corradini,           M,  1.82 m,  b. 12 Nov 2002 @ Orvieto
 Denis Franchi,                G,  1.89 m,  b. 22 Oct 2002 @ San Vito al Tagliamento
 Giovanni Garofani,            G,  1.88 m,  b. 20 Oct 2002 @ Rome
+Alessandro Bianco,            M,  1.73 m,  b. 1 Oct 2002 @ Turin
 Jacopo Desogus,               F,  1.74 m,  b. 1 Oct 2002 @ Cagliari
 Gaetano Oristanio,            F,  1.78 m,  b. 28 Sep 2002 @ Vallo della Lucania
+Raffaele Cartano,             D,  1.88 m,  b. 24 Sep 2002 @ Massa
+Lorenzo Di Stefano,           F,  1.82 m,  b. 19 Sep 2002 @ Catania
+Alessio Buttaro,              D,  1.68 m,  b. 10 Sep 2002 @ Rome
+Tommaso Barbieri,             D,  1.81 m,  b. 26 Aug 2002 @ Magenta
+Edoardo Sottini,              D,  1.80 m,  b. 18 Aug 2002 @ Brescia
 Marco Bertini,                M,  1.85 m,  b. 7 Aug 2002 @ Rome
+Tommaso Milanese,             M,  1.72 m,  b. 31 Jul 2002 @ Galatina
+Rachid Kouda,                 M,  1.88 m,  b. 25 Jul 2002 @ Cantù
+Massimo Zilli,                F,  1.95 m,  b. 17 Jul 2002 @ Udine
 Matteo Ruggeri,               D,  1.79 m,  b. 11 Jul 2002 @ San Giovanni Bianco
+Christian Acella,             M,  1.60 m,  b. 7 Jul 2002 @ Milan
+Andrea Papetti,               D,  1.89 m,  b. 3 Jul 2002 @ Cernusco sul Naviglio
+Sebastiano Esposito,          F,  1.86 m,  b. 2 Jul 2002 @ Castellammare di Stabia
+Mattia Tordini,               F,  1.71 m,  b. 22 Jun 2002 @ Novara
+Gabriele Onesti,              F,  1.86 m,  b. 7 Jun 2002 @ Rieti
+Simone Panada,                M,  1.75 m,  b. 2 Jun 2002 @ Brescia
 Riccardo Calafiori,           D,  1.83 m,  b. 19 May 2002 @ Rome
 Edoardo Bove,                 M,  1.74 m,  b. 16 May 2002 @ Rome
 Pietro Boer,                  G,  1.93 m,  b. 12 May 2002 @ Mestre
+Cosimo Marco Da Graca,        F,  1.85 m,  b. 1 May 2002 @ Palermo
+Michele Besaggio,             M,  1.81 m,  b. 28 Apr 2002 @ Padua
+Andrea Giorgini,              D,  1.90 m,  b. 22 Apr 2002 @ Fano
+Aljoša Vasić,                 M,  1.88 m,  b. 21 Apr 2002 @ Camposampiero
 Giorgio Cittadini,            D,  1.84 m,  b. 18 Apr 2002 @ Gardone Val Trompia
+Andrea Astrologo,             M,  1.79 m,  b. 6 Apr 2002 @ Rome
 Alessandro Sorrentino,        G,  1.87 m,  b. 3 Apr 2002 @ Guardiagrele
+Aldo Florenzi,                M,  1.83 m,  b. 2 Apr 2002 @ Nuoro
+Riccardo Ciervo,              M,  1.90 m,  b. 1 Apr 2002 @ Latina
+Nicholas Bonfanti,            F,  1.78 m,  b. 28 Mar 2002 @ Seriate
+Ivan Saio,                    G,  1.92 m,  b. 16 Mar 2002 @ Voghera
 Lorenzo Colombo,              F,  1.83 m,  b. 8 Mar 2002 @ Vimercate
+Salvatore Dario La Vardera,   D,  1.84 m,  b. 7 Mar 2002 @ Palermo
+Alessandro Marcandalli,       D,  1.90 m,  b. 25 Feb 2002 @ Bergamo
+Vittorio Agostinelli,         M,  1.83 m,  b. 21 Feb 2002 @ Monopoli
 Lorenzo Pirola,               D,  1.85 m,  b. 20 Feb 2002 @ Carate Brianza
 Nikola Sekulov,               M,  1.81 m,  b. 18 Feb 2002 @ Piacenza
+Alessandro Sersanti,          M,  1.82 m,  b. 16 Feb 2002 @ Grosseto
 Matteo Cancellieri,           F,  1.80 m,  b. 12 Feb 2002 @ Rome
 Alessio Furlanetto,           G,  1.91 m,  b. 7 Feb 2002 @ Motta di Livenza
+Alessandro Pio Riccio,        D,  1.87 m,  b. 6 Feb 2002 @ Naples
 Christian Dalle Mura,         D,  1.85 m,  b. 2 Feb 2002 @ Pietrasanta
+Luigi Aquino,                 D,  1.84 m,  b. 1 Feb 2002 @ Pompei
 Mattia Viti,                  D,  1.90 m,  b. 24 Jan 2002 @ Borgo San Lorenzo
 
+Simone Giordano,              D,  1.84 m,  b. 21 Dec 2001 @ Genoa
 Ilario Monterisi,             D,  1.80 m,  b. 19 Dec 2001 @ Trani
 Nicolò Rovella,               M,  1.79 m,  b. 4 Dec 2001 @ Segrate
+Emanuele Zuelli,              M,  1.79 m,  b. 22 Nov 2001 @ Merano
+Riccardo Zoia,                D,  1.88 m,  b. 12 Nov 2001 @ Carate Brianza
+Mattia Compagnon,             F,  1.71 m,  b. 6 Nov 2001 @ Remanzacco
 Daniel Maldini,               F,  1.81 m,  b. 11 Oct 2001 @ Milan
+Eddie Salcedo,                F,  1.78 m,  b. 1 Oct 2001 @ Genoa
+Romeo Giovannini,             F,  1.74 m,  b. 28 Sep 2001 @ Savona
 Niccolò Pierozzi,             D,  1.84 m,  b. 12 Sep 2001 @ Florence
 Stefano Turati,               G,  1.88 m,  b. 5 Sep 2001 @ Milan
+Semuel Pizzignacco,           G,  1.88 m,  b. 1 Sep 2001 @ Monfalcone
 Elia Caprile,                 G,  1.91 m,  b. 25 Aug 2001 @ Verona
 Samuele Ricci,                M,  1.80 m,  b. 21 Aug 2001 @ Pontedera
+Thomas Battistella,           M,  1.83 m,  b. 29 Jul 2001 @ Pordenone
+Giuseppe Di Serio,            F,  1.82 m,  b. 20 Jul 2001 @ Trento
+Marco Frigerio,               M,  1.71 m,  b. 16 Jul 2001 @ Carate Brianza
+Emanuele Pecorino,            F,  1.92 m,  b. 15 Jul 2001 @ Catania
 Federico Brancolini,          G,  1.92 m,  b. 14 Jul 2001 @ Modena
 Gian Marco Crespi,            G,  1.89 m,  b. 28 Jun 2001 @ Udine
+Alessio Brambilla,            M,  1.84 m,  b. 16 Jun 2001 @ Vimercate
+Francesco Amatucci,           M,  1.82 m,  b. 15 Jun 2001 @ Montevarchi
+Alex Sposito,                 G,  1.93 m,  b. 6 Jun 2001 @ Naples
 Filippo Ranocchia,            M,  1.78 m,  b. 14 May 2001 @ Perugia
+Mattia Felici,                F,  1.80 m,  b. 17 Apr 2001 @ Rome
+Giacomo Olzer,                M,  1.88 m,  b. 14 Apr 2001 @ Rovereto
+Gabriele Piccinini,           F,  1.84 m,  b. 6 Apr 2001 @ Scandiano
 Marco Ballarini,              M,  1.86 m,  b. 28 Mar 2001 @ Gorizia
+Mattia Tonetto,               D,  1.68 m,  b. 26 Mar 2001 @ Lecce
+Edoardo Corvi,                G,  1.83 m,  b. 23 Mar 2001 @ Parma
 Pietro Pellegri,              F,  1.88 m,  b. 17 Mar 2001 @ Genoa
 Luca Belardinelli,            M,  1.85 m,  b. 14 Mar 2001 @ Senigallia
+Giacomo Drago,                G,  1.94 m,  b. 9 Mar 2001 @ Genoa
 Hamza Haoudi,                 F,  1.76 m,  b. 9 Mar 2001 @ Lucca
+Pietro Rovaglia,              F,  1.85 m,  b. 26 Feb 2001 @ Verona
+Fabio Ponsi,                  D,  1.86 m,  b. 12 Feb 2001 @ Pietrasanta
 Nicolò Fagioli,               M,  1.78 m,  b. 12 Feb 2001 @ Piacenza
+Laurens Serpe,                D,  1.93 m,  b. 7 Feb 2001 @ Fivizzano
 Andrea Carboni,               D,  1.85 m,  b. 4 Feb 2001 @ Sorgono
+Patrizio Masini,              M,  1.80 m,  b. 27 Jan 2001 @ La Spezia
 Roberto Piccoli,              F,  1.90 m,  b. 27 Jan 2001 @ Bergamo
 Alessandro Cortinovis,        F,  1.80 m,  b. 25 Jan 2001 @ Bergamo
+Luca Moro,                    F,  1.80 m,  b. 25 Jan 2001 @ Monselice
+Ndir Mame Ass,                D,  1.91 m,  b. 24 Jan 2001 @ Rufisque
+Francesco Donati,             D,  1.82 m,  b. 20 Jan 2001 @ Livorno
+Federico Bergonzi,            D,  1.74 m,  b. 12 Jan 2001 @ Treviglio
+Stefano Girelli,              M,  1.85 m,  b. 9 Jan 2001 @ Brescia
 
 Nicolò Cambiaghi,             F,  1.73 m,  b. 28 Dec 2000 @ Monza
+Nicolas Galazzi,              F,  1.82 m,  b. 18 Dec 2000 @ Pavia
+Gabriele Capanni,             F,  1.76 m,  b. 2 Dec 2000 @ Città di Castello
 Fabiano Parisi,               D,  1.78 m,  b. 9 Nov 2000 @ Solofra
+Jacopo Da Riva,               M,  1.84 m,  b. 27 Oct 2000 @ Montebelluna
+Alessandro Lai,               G,  1.86 m,  b. 23 Oct 2000 @ Cagliari
+Salvatore Esposito,           M,  1.78 m,  b. 7 Oct 2000 @ Castellammare di Stabia
 Samuele Mulattieri,           F,  1.83 m,  b. 7 Oct 2000 @ La Spezia
 Alessandro Zanoli,            D,  1.88 m,  b. 3 Oct 2000 @ Carpi
+Matteo Stoppa,                F,  1.75 m,  b. 27 Sep 2000 @ Biella
+Giacomo Manzari,              F,  1.78 m,  b. 21 Sep 2000 @ Bari
+Simone Canestrelli,           D,  1.92 m,  b. 11 Sep 2000 @ Montepulciano
 Lorenzo Lucca,                F,  2.01 m,  b. 10 Sep 2000 @ Moncalieri
+Mattia Viviani,               M,  1.77 m,  b. 4 Sep 2000 @ Brescia
+Filippo Vandelli,             G,  1.90 m,  b. 22 Aug 2000 @ Modena
+Matteo Campani,               G,  1.89 m,  b. 19 Aug 2000 @ Florence
+Vincenzo Millico,             F,  1.73 m,  b. 12 Aug 2000 @ Turin
+Alessandro Arena,             M,  1.71 m,  b. 3 Aug 2000 @ Marina di Ragusa
+Mattia Zennaro,               M,  1.84 m,  b. 3 Aug 2000 @ Venice
 Nunzio Lella,                 D,  1.88 m,  b. 28 Jul 2000 @ Santeramo in Colle
 Mattia Chiesa,                G,  1.90 m,  b. 16 Jul 2000 @ Rovereto
 Luca Gemello,                 G,  1.90 m,  b. 3 Jul 2000 @ Savigliano
 Marco Carnesecchi,            G,  1.91 m,  b. 1 Jul 2000 @ Rimini
+Gianluca Saro,                G,  1.87 m,  b. 25 Jun 2000 @ San Daniele del Friuli
 Hans Nicolussi Caviglia,      M,  1.81 m,  b. 18 Jun 2000 @ Aosta
 Karim Zedadka,                D,  1.82 m,  b. 9 Jun 2000 @ Pertuis
+Leonardo Benedetti,           M,  1.80 m,  b. 6 Jun 2000 @ La Spezia
+Manolo Portanova,             M,  1.83 m,  b. 2 Jun 2000 @ Naples
+Joshua Tenkorang,             M,  1.84 m,  b. 26 May 2000 @ Novara
+Marco Pompetti,               M,  1.82 m,  b. 22 May 2000 @ Pescara
 Raoul Bellanova,              D,  1.88 m,  b. 16 May 2000 @ Rho
 Sandro Tonali,                M,  1.81 m,  b. 8 May 2000 @ Lodi
 Gianluca Gaetano,             F,  1.81 m,  b. 5 May 2000 @ Cimitile
 Michele Avella,               G,  1.86 m,  b. 1 May 2000 @ Naples
+Antonio Candela,              D,  1.82 m,  b. 27 Apr 2000 @ La Spezia
+Nicola Rauti,                 F,  1.77 m,  b. 17 Apr 2000 @ Legnano
+Fabrizio Caligara,            M,  1.80 m,  b. 12 Apr 2000 @ Borgomanero
+Gabriele Ferrarini,           D,  1.79 m,  b. 9 Apr 2000 @ La Spezia
 Davide Bettella,              D,  1.85 m,  b. 7 Apr 2000 @ Padua
+Davide Barosi,                G,  1.85 m,  b. 30 Mar 2000 @ Asola
+Alessando Pilati,             D,  1.93 m,  b. 26 Mar 2000 @ Mantova
+Giuseppe Aurelio,             D,  1.85 m,  b. 22 Mar 2000 @ Bracciano
+Niccolò Corrado,              D,  1.79 m,  b. 19 Mar 2000 @ Florence
 Gennaro Borrelli,             F,  1.94 m,  b. 10 Mar 2000 @ Campobasso
 Moise Kean,                   F,  1.83 m,  b. 28 Feb 2000 @ Vercelli
+Gregorio Morachioli,          F,  1.72 m,  b. 27 Feb 2000 @ La Spezia
+Andrea Ghion,                 M,  1.74 m,  b. 23 Feb 2000 @ Mantova
 Andrea Cambiaso,              D,  1.81 m,  b. 20 Feb 2000 @ Genoa
+Tommaso Fumagalli,            F,  1.85 m,  b. 20 Feb 2000 @ Bellinzago
+Giacomo Quagliata,            D,  1.75 m,  b. 19 Feb 2000 @ Palermo
 Giacomo Raspadori,            F,  1.72 m,  b. 18 Feb 2000 @ Bentivoglio
 Matteo Lovato,                D,  1.88 m,  b. 14 Feb 2000 @ Monselice
+Nicolò Buso,                  F,  1.77 m,  b. 1 Feb 2000 @ Treviso
+Flavio Bianchi,               F,  1.78 m,  b. 24 Jan 2000 @ Asti
 Marco Brescianini,            M,  1.88 m,  b. 20 Jan 2000 @ Calcinate
+Tommaso Cassandro,            D,  1.85 m,  b. 9 Jan 2000 @ Dolo
 Christian Travaglini,         D,  1.84 m,  b. 7 Jan 2000 @ Milan
 Antonino Gallo,               D,  1.83 m,  b. 5 Jan 2000 @ Palermo
 
 Gabriele Zappa,               D,  1.83 m,  b. 22 Dec 1999 @ Monza
 Federico Ravaglia,            G,  1.96 m,  b. 11 Nov 1999 @ Bologna
+Enrico Delprato,              D,  1.83 m,  b. 10 Nov 1999 @ Grassobbio
+Michele Collocolo,            M,  1.88 m,  b. 8 Nov 1999 @ Taranto
 Matteo Gabbia,                D,  1.85 m,  b. 21 Oct 1999 @ Busto Arsizio
+Andrea Tessiore,              M,  1.77 m,  b. 1 Oct 1999 @ Pietra Ligure
 Davide Frattesi,              M,  1.78 m,  b. 22 Sep 1999 @ Rome
+Simone Santoro,               M,  1.81 m,  b. 20 Sep 1999 @ Messina
+Simone Davi,                  D,  1.78 m,  b. 16 Sep 1999 @ Bolzano
+Tommaso Vitali,               G,  1.86 m,  b. 26 Aug 1999 @ Terni
+Vincenzo Garofalo,            M,  1.84 m,  b. 8 Aug 1999 @ Avellino
+Frank Tsadjout,               F,  1.90 m,  b. 28 Jul 1999 @ Perugia
 Samuele Birindelli,           D,  1.75 m,  b. 19 Jul 1999 @ Pisa
 Alessandro Di Pardo,          M,  1.82 m,  b. 18 Jul 1999 @ Rimini
 Tommaso Pobega,               M,  1.88 m,  b. 15 Jul 1999 @ Trieste
+Enrico Brignola,              F,  1.68 m,  b. 8 Jul 1999 @ Caserta
 Nicolò Zaniolo,               M,  1.90 m,  b. 2 Jul 1999 @ Massa
+Marco Olivieri,               F,  1.78 m,  b. 30 Jun 1999 @ Fermo
+Salvatore Elia,               F,  1.83 m,  b. 30 Jun 1999 @ Prato
+Gianluca Frabotta,            D,  1.87 m,  b. 24 Jun 1999 @ Rome
+Valerio Mastrantonio,         M,  1.80 m,  b. 22 Jun 1999 @ Rome
 Nadir Zortea,                 D,  1.75 m,  b. 19 Jun 1999 @ Feltre
 Alessandro Buongiorno,        D,  1.94 m,  b. 6 Jun 1999 @ Turin
 Riccardo Sottil,              F,  1.80 m,  b. 3 Jun 1999 @ Turin
+Giacomo Satalino,             G,  1.88 m,  b. 20 May 1999 @ Putignaro
 Andrea Pinamonti,             F,  1.88 m,  b. 19 May 1999 @ Cles
 Andrea Colpani,               M,  1.84 m,  b. 11 May 1999 @ Brescia
 Mateo Retegui,                F,  1.86 m,  b. 29 Apr 1999 @ San Fernando
 Luca Ranieri,                 D,  1.79 m,  b. 23 Apr 1999 @ La Spezia
 Alessandro Bastoni,           D,  1.90 m,  b. 13 Apr 1999 @ Casalmaggiore
+Leonardo Loria,               G,  1.95 m,  b. 28 Mar 1999 @ Erice
+Alessandro Mallamo,           M,  1.74 m,  b. 22 Mar 1999 @ Vizzolo Pedrabissi
+Mirko Antonucci,              M,  1.78 m,  b. 11 Mar 1999 @ Rome
 Luca Pellegrini,              D,  1.78 m,  b. 7 Mar 1999 @ Rome
+Raffaele Celia,               D,  1.80 m,  b. 4 Mar 1999 @ Catanzaro
 Alessio Zerbin,               M,  1.82 m,  b. 3 Mar 1999 @ Novara
+Pierre Bolchini,              G,  2.00 m,  b. 27 Feb 1999 @ Novara
+Massimo Bertagnoli,           M,  1.85 m,  b. 26 Feb 1999 @ Verona
+Andrea Danzi,                 M,  1.75 m,  b. 25 Feb 1999 @ San Martino Buon Albergo
 Gianluigi Donnarumma,         G,  1.96 m,  b. 25 Feb 1999 @ Castellammare di Stabia
+Matteo Rover,                 F,  1.85 m,  b. 20 Feb 1999 @ Treviso
 Filippo Melegoni,             M,  1.86 m,  b. 18 Feb 1999 @ Bergamo
+Lorenzo Lonardi,              M,  1.87 m,  b. 10 Feb 1999 @ Verona
 Simon Straudi,                D,  1.76 m,  b. 27 Jan 1999 @ Bruneck
+Michael Venturi,              D,  1.93 m,  b. 23 Jan 1999 @ Rimini
+Alessandro Bianconi,          D,  1.93 m,  b. 20 Jan 1999 @ Bentivoglio
+Marco Curto,                  D,  1.93 m,  b. 5 Jan 1999 @ Naples
 Michele Cerofolini,           G,  1.88 m,  b. 4 Jan 1999 @ Arezzo
 Andrea Errico,                M,  1.78 m,  b. 1 Jan 1999 @ Rome
 Gianluca Scamacca,            F,  1.95 m,  b. 1 Jan 1999 @ Rome
 
 Daniel Boloca,                M,  1.88 m,  b. 22 Dec 1998 @ Chieri
+Pietro Beruatto,              D,  1.85 m,  b. 21 Dec 1998 @ Trieste
 Giuseppe Caso,                F,  1.72 m,  b. 9 Dec 1998 @ Torre Annunziata
 Emanuele Valeri,              D,  1.80 m,  b. 7 Dec 1998 @ Rome
 Alberto Dossena,              D,  1.90 m,  b. 13 Oct 1998 @ Brescia
+Andrea Cisco,                 M,  1.83 m,  b. 8 Oct 1998 @ Padua
+Emmanuele Matino,             D,  1.86 m,  b. 7 Oct 1998 @ Naples
 Alessandro Vogliacco,         D,  1.86 m,  b. 14 Sep 1998 @ Acquaviva delle Fonti
 Youssef Maleh,                M,  1.77 m,  b. 22 Aug 1998 @ Castel San Pietro Terme
+Simone Mazzocchi,             F,  1.80 m,  b. 17 Aug 1998 @ Milan
+Federico Giraudo,             D,  1.77 m,  b. 11 Aug 1998 @ Cuneo
 Giorgio Altare,               D,  1.90 m,  b. 9 Aug 1998 @ Bergamo
+Nicholas Pierini,             F,  1.76 m,  b. 6 Aug 1998 @ Parma
+Matteo Rossetti,              M,  1.91 m,  b. 23 Jul 1998 @ Saluzzo
+Luca Zanimacchia,             F,  1.78 m,  b. 19 Jul 1998 @ Desio
+Manuel De Luca,               F,  1.90 m,  b. 17 Jul 1998 @ Bolzano
 Federico Gatti,               D,  1.85 m,  b. 24 Jun 1998 @ Rivoli
+Andrea Cagnano,               D,  1.82 m,  b. 17 Jun 1998 @ Cantù
+Claud Adjapong,               D,  1.80 m,  b. 6 May 1998 @ Modena
 Riccardo Marchizza,           D,  1.87 m,  b. 26 Mar 1998 @ Rome
+Luca Pandolfi,                F,  1.86 m,  b. 14 Mar 1998 @ Naples
 Giulio Maggiore,              M,  1.84 m,  b. 12 Mar 1998 @ Genoa
+Filippo Nardi,                M,  1.75 m,  b. 8 Mar 1998 @ Treviso
+Mario Ierardi,                D,  1.95 m,  b. 19 Feb 1998 @ Magenta
 Nicolò Casale,                D,  1.91 m,  b. 14 Feb 1998 @ Negrar
+Alessandro Mattioli,          D,  1.81 m,  b. 13 Feb 1998 @ Reggio Emilia
 Michael Folorunsho,           M,  1.80 m,  b. 7 Feb 1998 @ Rome
+Giuseppe Cuomo,               D,  1.90 m,  b. 2 Feb 1998 @ Vico Equense
+Samuele Damiani,              M,  1.78 m,  b. 30 Jan 1998 @ Poggibonsi
+Massimiliano Mangraviti,      D,  1.88 m,  b. 24 Jan 1998 @ Brescia
 Manuel Locatelli,             M,  1.80 m,  b. 8 Jan 1998 @ Lecco
+Marco Pissardo,               G,  1.84 m,  b. 8 Jan 1998 @ Verbania
+Leonardo Marson,              G,  1.85 m,  b. 5 Jan 1998 @ Udine
+Patrick Cutrone,              F,  1.83 m,  b. 3 Jan 1998 @ Como
 
+Filippo Sgarbi,               D,  1.91 m,  b. 29 Dec 1997 @ Casciago
 Giuseppe Pezzella,            D,  1.87 m,  b. 29 Nov 1997 @ Naples
 Federico Dimarco,             D,  1.82 m,  b. 10 Nov 1997 @ Milan
 Federico Chiesa,              F,  1.75 m,  b. 25 Oct 1997 @ Genoa
+Edoardo Soleri,               F,  1.92 m,  b. 19 Oct 1997 @ Rome
+Gianfilippo Felicioli,        D,  1.80 m,  b. 30 Sep 1997 @ San Severino Marche
+Alessandro Farroni,           G,  1.86 m,  b. 20 Sep 1997 @ Spoleto
+Lorenzo Libutti,              D,  1.80 m,  b. 17 Sep 1997 @ Melfi
 Michele Volpe,                F,  1.90 m,  b. 16 Sep 1997 @ Benevento
+Giuseppe Carriero,            M,  1.77 m,  b. 4 Sep 1997 @ Desio
 Samuele Perisan,              G,  1.93 m,  b. 21 Aug 1997 @ San Vito al Tagliamento
+Luca Magnino,                 M,  1.85 m,  b. 13 Aug 1997 @ Pordenone
 Giovanni Crociata,            M,  1.74 m,  b. 11 Aug 1997 @ Palermo
+Pietro Martino,               D,  1.78 m,  b. 4 Aug 1997 @ Modena
+Leonardo Sernicola,           D,  1.88 m,  b. 30 Jul 1997 @ Civita Castellana
 Michele Di Gregorio,          G,  1.87 m,  b. 27 Jul 1997 @ Milan
+Christian D'Urso,             M,  1.78 m,  b. 26 Jul 1997 @ Rieti
+Riccardo Gagno,               G,  1.85 m,  b. 26 Jul 1997 @ Montebelluna
 Daniele Sommariva,            G,  1.86 m,  b. 18 Jul 1997 @ Genoa
+Francesco Cassata,            M,  1.83 m,  b. 16 Jul 1997 @ Sarzana
 Rolando Mandragora,           M,  1.83 m,  b. 29 Jun 1997 @ Naples
+Edoardo Duca,                 M,  1.78 m,  b. 30 May 1997 @ Milan
+Filippo Romagna,              D,  1.86 m,  b. 26 May 1997 @ Fano
+Andrea Vallocchia,            M,  1.78 m,  b. 22 May 1997 @ Rieti
 Federico Bonazzoli,           F,  1.82 m,  b. 21 May 1997 @ Manerbio
+Andrea Favilli,               F,  1.90 m,  b. 17 May 1997 @ Pisa
+Fabio Depaoli,                D,  1.82 m,  b. 24 Apr 1997 @ Riva del Garda
+Matteo Cotali,                D,  1.77 m,  b. 22 Apr 1997 @ Brescia
 Matteo Pessina,               M,  1.83 m,  b. 21 Apr 1997 @ Monza
+Andrea Cistana,               D,  1.85 m,  b. 1 Apr 1997 @ Brescia
+Riccardo Gatti,               D,  1.87 m,  b. 30 Mar 1997 @ Lecco
+Danilo Quaranta,              D,  1.92 m,  b. 23 Mar 1997 @ Teramo
 Alex Meret,                   G,  1.90 m,  b. 22 Mar 1997 @ Udine
+Simone Pontisso,              M,  1.84 m,  b. 20 Mar 1997 @ San Daniele del Friuli
 Gaetano Castrovilli,          M,  1.79 m,  b. 17 Feb 1997 @ Canosa di Puglia
+Jacopo Segre,                 M,  1.80 m,  b. 17 Feb 1997 @ Turin
+Emanuele Polverino,           G,  1.82 m,  b. 13 Feb 1997 @ Naples
+Lorenzo Carissoni,            D,  1.77 m,  b. 7 Feb 1997 @ San Giovanni Bianco
 Nicolò Barella,               M,  1.72 m,  b. 7 Feb 1997 @ Cagliari
+Giacomo Calò,                 M,  1.79 m,  b. 5 Feb 1997 @ Trieste
+Luca Vido,                    F,  1.82 m,  b. 3 Feb 1997 @ Bassano del Grappa
+Paolo Ghiglione,              M,  1.91 m,  b. 2 Feb 1997 @ Voghera
 Riccardo Orsolini,            F,  1.83 m,  b. 24 Jan 1997 @ Ascoli Piceno
+Alessandro Livieri,           G,  1.85 m,  b. 21 Jan 1997 @ Milan
 Emil Audero,                  G,  1.92 m,  b. 18 Jan 1997 @ Mataram
+Luca Ravanelli,               D,  1.87 m,  b. 16 Jan 1997 @ Trento
+Andrea Meroni,                D,  1.88 m,  b. 9 Jan 1997 @ Monza
 
+Fabio Gerli,                  M,  1.73 m,  b. 23 Dec 1996 @ Rome
 Davide Calabria,              D,  1.76 m,  b. 6 Dec 1996 @ Brescia
+Enrico Baldini,               F,  1.80 m,  b. 13 Nov 1996 @ Massa
 Simone Bastoni,               D,  1.81 m,  b. 5 Nov 1996 @ La Spezia
 Francesco Gelli,              M,  1.83 m,  b. 15 Oct 1996 @ Livorno
+Filippo Pittarello,           F,  1.92 m,  b. 9 Oct 1996 @ Padua
 Guglielmo Vicario,            G,  1.88 m,  b. 7 Oct 1996 @ Udine
+Lorenzo Dickmann,             D,  1.77 m,  b. 24 Sep 1996 @ Milan
 Federico Baschirotto,         D,  1.84 m,  b. 20 Sep 1996 @ Isola della Scala
 Sebastiano Luperto,           D,  1.91 m,  b. 6 Sep 1996 @ Lecce
+Giacomo Ricci,                D,  1.84 m,  b. 2 Sep 1996 @ Livorno
+Gennaro Tutino,               F,  1.77 m,  b. 20 Aug 1996 @ Naples
+Cristian Cauz,                D,  1.88 m,  b. 15 Aug 1996 @ Pordenone
+Gabriel Lunetta,              F,  1.86 m,  b. 10 Aug 1996 @ Milan
+Giuseppe Sibilli,             F,  1.80 m,  b. 7 Aug 1996 @ Naples
+Antonio Palumbo,              M,  1.82 m,  b. 6 Aug 1996 @ Naples
+Luca Fiordilino,              M,  1.77 m,  b. 25 Jul 1996 @ Palermo
 Armando Anastasio,            D,  1.80 m,  b. 24 Jul 1996 @ Naples
+Davide Di Molfetta,           F,  1.76 m,  b. 23 Jun 1996 @ Sesto San Giovanni
+Daniele Verde,                F,  1.68 m,  b. 20 Jun 1996 @ Naples
 Lorenzo Pellegrini,           M,  1.86 m,  b. 19 Jun 1996 @ Rome
 Simone Scuffet,               G,  1.93 m,  b. 31 May 1996 @ Udine
 Nikita Contini,               G,  1.90 m,  b. 21 May 1996 @ Cherkasy
 Kevin Bonifazi,               D,  1.87 m,  b. 19 May 1996 @ Rieti
+Domenico Frare,               D,  1.87 m,  b. 10 May 1996 @ Conegliano
+Gabriele Moncini,             F,  1.83 m,  b. 26 Apr 1996 @ Pistoia
+Filippo Damian,               M,  1.80 m,  b. 21 Apr 1996 @ Castelfranco Veneto
+Francesco Di Mariano,         F,  1.77 m,  b. 20 Apr 1996 @ Palermo
+Valerio Mantovani,            D,  1.80 m,  b. 18 Apr 1996 @ Rome
 Gianluca Mancini,             D,  1.90 m,  b. 17 Apr 1996 @ Pontedera
 Alberto Cerri,                F,  1.93 m,  b. 16 Apr 1996 @ Parma
+Mario Gargiulo,               M,  1.87 m,  b. 26 Mar 1996 @ Naples
+Vittorio Parigini,            M,  1.80 m,  b. 25 Mar 1996 @ Moncalieri
+Arturo Calabresi,             D,  1.86 m,  b. 17 Mar 1996 @ Rome
 Elio Capradossi,              D,  1.81 m,  b. 11 Mar 1996 @ Kampala
 Stefano Gori,                 G,  1.87 m,  b. 9 Mar 1996 @ Brescia
+Antonino La Gumina,           F,  1.84 m,  b. 6 Mar 1996 @ Palermo
+Luca Valzania,                M,  1.82 m,  b. 5 Mar 1996 @ Cesena
 Lorenzo Montipò,              G,  1.91 m,  b. 20 Feb 1996 @ Novara
+Giorgio Galli,                M,  1.82 m,  b. 11 Feb 1996 @ Como
+Giacomo Volpe,                G,  1.89 m,  b. 16 Jan 1996 @ Biella
+Luca Vignali,                 D,  1.83 m,  b. 11 Jan 1996 @ La Spezia
 
+Pietro Ceccaroni,             D,  1.88 m,  b. 21 Dec 1995 @ Sarzana
 Luca Mazzitelli,              M,  1.87 m,  b. 15 Nov 1995 @ Rome
+Alessandro Caporale,          D,  1.90 m,  b. 28 Oct 1995 @ Lecce
+Davide Balestero,             M,  1.87 m,  b. 6 Oct 1995 @ Genoa
 Giangiacomo Magnani,          D,  1.91 m,  b. 4 Oct 1995 @ Correggio
+Ettore Gliozzi,               F,  1.86 m,  b. 23 Sep 1995 @ Siderno
 Cristiano Lombardi,           F,  1.80 m,  b. 19 Aug 1995 @ Viterbo
+Alessandro Bellemo,           M,  1.84 m,  b. 7 Aug 1995 @ Chioggia
 Stefano Sensi,                M,  1.68 m,  b. 5 Aug 1995 @ Urbino
 Alessandro Deiola,            M,  1.89 m,  b. 1 Aug 1995 @ San Gavino Monreale
 Pasquale Mazzocchi,           D,  1.83 m,  b. 27 Jul 1995 @ Naples
 Andrea Petagna,               F,  1.88 m,  b. 30 Jun 1995 @ Trieste
+Stefano Negro,                D,  1.92 m,  b. 28 Jun 1995 @ Biella
+Alexis Ferrante,              F,  1.75 m,  b. 27 Jun 1995 @ Buenos Aires
 Mattia Zaccagni,              M,  1.77 m,  b. 16 Jun 1995 @ Cesena
+Luca Maniero,                 G,  1.88 m,  b. 12 Jun 1995 @ Padua
 Mattia Aramu,                 F,  1.80 m,  b. 14 May 1995 @ Ciriè
+Davide Voltan,                M,  1.78 m,  b. 15 Apr 1995 @ Padua
 Lorenzo Venuti,               D,  1.76 m,  b. 12 Apr 1995 @ Montevarchi
 Wladimiro Falcone,            G,  1.95 m,  b. 12 Apr 1995 @ Rome
+Filippo Bandinelli,           M,  1.80 m,  b. 29 Mar 1995 @ Florence
+Luca Lezzerini,               G,  1.95 m,  b. 24 Mar 1995 @ Rome
+Max Reinthaler,               D,  1.83 m,  b. 22 Mar 1995 @ Bolzano
+Antonio Barreca,              D,  1.80 m,  b. 18 Mar 1995 @ Turin
 Pierluigi Gollini,            G,  1.94 m,  b. 18 Mar 1995 @ Bologna
 Alberto Grassi,               M,  1.83 m,  b. 7 Mar 1995 @ Brescia
 Bryan Cristante,              M,  1.86 m,  b. 3 Mar 1995 @ San Vito al Tagliamento
+Jacopo Petriccione,           M,  1.76 m,  b. 22 Feb 1995 @ Gorizia
 Patrick Ciurria,              F,  1.80 m,  b. 9 Feb 1995 @ Sassuolo
+Filippo Berra,                D,  1.85 m,  b. 6 Feb 1995 @ Udine
 Alessio Romagnoli,            D,  1.85 m,  b. 12 Jan 1995 @ Anzio
 Simone Perilli,               G,  1.95 m,  b. 7 Jan 1995 @ Rome
+Lorenzo Andrenacci,           G,  1.86 m,  b. 2 Jan 1995 @ Fermo
 
+Nicola Murru,                 D,  1.80 m,  b. 16 Dec 1994 @ Cagliari
+Tommaso Biasci,               F,  1.80 m,  b. 10 Nov 1994 @ San Giuliano Terme
+Andrea Fulignati,             G,  1.88 m,  b. 31 Oct 1994 @ Empoli
+Anthony Partipilo,            F,  1.81 m,  b. 27 Oct 1994 @ Bari
+Lorenzo Pinzauti,             F,  1.81 m,  b. 9 Sep 1994 @ Fiesole
 Tommaso Augello,              D,  1.80 m,  b. 30 Aug 1994 @ Milan
+Daniele Celiento,             D,  1.82 m,  b. 6 Aug 1994 @ Naples
 Danilo Cataldi,               M,  1.80 m,  b. 6 Aug 1994 @ Rome
 Emerson Palmieri,             D,  1.76 m,  b. 3 Aug 1994 @ Santos
+Francesco Vicari,             D,  1.88 m,  b. 3 Aug 1994 @ Rome
 Domenico Berardi,             F,  1.83 m,  b. 1 Aug 1994 @ Cariati Marina
 Daniele Rugani,               D,  1.90 m,  b. 29 Jul 1994 @ Lucca
+Alessandro Gabrielloni,       F,  1.78 m,  b. 10 Jul 1994 @ Jesi
 Davide Biraschi,              D,  1.82 m,  b. 2 Jul 1994 @ Rome
+Alex Ferrari,                 D,  1.91 m,  b. 1 Jul 1994 @ Modena
 Alessio Cragno,               G,  1.84 m,  b. 28 Jun 1994 @ Fiesole
+Riccardo Melgrati,            G,  1.88 m,  b. 17 Jun 1994 @ Monza
 Federico Di Francesco,        F,  1.72 m,  b. 14 Jun 1994 @ Pisa
+Matteo Di Gennaro,            D,  1.92 m,  b. 2 Jun 1994 @ Sant'Elpidio a Mare
+Matteo Ricci,                 M,  1.75 m,  b. 27 May 1994 @ Rome
 Luigi Canotto,                F,  1.78 m,  b. 19 May 1994 @ Rossano Calabro
+Giovanni Zaro,                D,  1.93 m,  b. 12 May 1994 @ Busto Arsizio
+Roberto Insigne,              F,  1.71 m,  b. 11 May 1994 @ Naples
 Mattia Caldara,               D,  1.90 m,  b. 5 May 1994 @ Scanzorosciate
+Stefano Scognamillo,          D,  1.83 m,  b. 4 May 1994 @ St Petersburg
+Jacopo Manconi,               F,  1.80 m,  b. 24 Apr 1994 @ Vizzolo Predabissi
+Nicolas Izzillo,              M,  1.80 m,  b. 19 Apr 1994 @ La Maddalena
+Umberto Saracco,              G,  1.90 m,  b. 10 Apr 1994 @ Moncalieri
 Roberto Gagliardini,          M,  1.88 m,  b. 7 Apr 1994 @ Bergamo
+Gennaro Acampora,             M,  1.74 m,  b. 29 Mar 1994 @ Naples
+Dimitri Bisoli,               M,  1.80 m,  b. 25 Mar 1994 @ Cagliari
+Davide Guglielmotti,          M,  1.84 m,  b. 24 Mar 1994 @ Novara
 Ivan Provedel,                G,  1.92 m,  b. 17 Mar 1994 @ Pordenone
+Stefano Minelli,              G,  1.86 m,  b. 5 Mar 1994 @ Brescia
+Andrea Conti,                 D,  1.84 m,  b. 2 Mar 1994 @ Lecco
+Tommaso Arrigoni,             M,  1.71 m,  b. 26 Feb 1994 @ Cesena
+Eric Lanini,                  F,  1.84 m,  b. 25 Feb 1994 @ Turin
+Matteo Battistini,            D,  1.87 m,  b. 18 Feb 1994 @ Como
+Marco Perrotta,               D,  1.86 m,  b. 14 Feb 1994 @ Campobasso
 Luca Garritano,               M,  1.72 m,  b. 11 Feb 1994 @ Cosenza
+Gregorio Luperini,            M,  1.87 m,  b. 10 Feb 1994 @ Pisa
+Alessandro Celli,             D,  1.82 m,  b. 28 Jan 1994 @ Rome
+Valerio Verre,                M,  1.80 m,  b. 11 Jan 1994 @ Rome
 
+Gianluca Di Chiara,           D,  1.85 m,  b. 26 Dec 1993 @ Palermo
 Andrea Belotti,               F,  1.81 m,  b. 20 Dec 1993 @ Calcinate
+Andrea Barberis,              M,  1.77 m,  b. 11 Dec 1993 @ Genoa
 Mattia Bani,                  D,  1.88 m,  b. 10 Dec 1993 @ Borgo San Lorenzo
 Manuel Lazzari,               M,  1.74 m,  b. 29 Nov 1993 @ Valdagno
 Edoardo Goldaniga,            D,  1.93 m,  b. 2 Nov 1993 @ Milan
+Nicola Falasco,               D,  1.84 m,  b. 5 Oct 1993 @ Piove di Sacco
 Raffaele Di Gennaro,          G,  1.88 m,  b. 3 Oct 1993 @ Saronno
+Francesco Zampano,            D,  1.78 m,  b. 30 Sep 1993 @ Genoa
+Andrea Sala,                  G,  1.87 m,  b. 16 Sep 1993 @ Saronno
 Mattia Valoti,                M,  1.87 m,  b. 6 Sep 1993 @ Vicenza
+Federico Barba,               D,  1.85 m,  b. 1 Sep 1993 @ Rome
 Giovanni Di Lorenzo,          D,  1.87 m,  b. 4 Aug 1993 @ Castelnuovo di Garfagnana
 Matteo Politano,              F,  1.71 m,  b. 3 Aug 1993 @ Rome
 Gianluca Caprari,             F,  1.76 m,  b. 30 Jul 1993 @ Rome
+Alessandro Micai,             G,  1.86 m,  b. 24 Jul 1993 @ Mantova
+Manuel Marras,                F,  1.68 m,  b. 9 Jul 1993 @ Genoa
+Mirko Pigliacelli,            G,  1.84 m,  b. 30 Jun 1993 @ Rome
+Stefano Moreo,                F,  1.91 m,  b. 30 Jun 1993 @ Milan
+Tommy Maistrello,             F,  1.93 m,  b. 24 Jun 1993 @ Correggio
+Luca Verna,                   M,  1.81 m,  b. 21 Jun 1993 @ Lanciano
+Nicola Pavan,                 M,  1.86 m,  b. 15 Jun 1993 @ Thiene
+Davide Agazzi,                M,  1.74 m,  b. 2 Jun 1993 @ Trescore Balneario
+Riccardo Fiamozzi,            D,  1.75 m,  b. 18 May 1993 @ Mezzocorona
+Francesco Forte,              F,  1.90 m,  b. 1 May 1993 @ Rome
 Vincenzo Grifo,               M,  1.80 m,  b. 7 Apr 1993 @ Pforzheim
 Leonardo Spinazzola,          D,  1.86 m,  b. 25 Mar 1993 @ Foligno
+Doudou Mangni,                F,  1.80 m,  b. 20 Mar 1993 @ Rome
+Matteo Bianchetti,            D,  1.89 m,  b. 17 Mar 1993 @ Como
+Alessio Vita,                 M,  1.78 m,  b. 16 Mar 1993 @ Rome
+Daniele Casiraghi,            M,  1.77 m,  b. 10 Mar 1993 @ Treviglio
+Matteo Solini,                D,  1.86 m,  b. 9 Mar 1993 @ Bussolengo
+Andrea Schiavone,             M,  1.76 m,  b. 23 Feb 1993 @ Turin
 Nicola Leali,                 G,  1.93 m,  b. 17 Feb 1993 @ Castiglione delle Stiviere
+Paolo Faragò,                 M,  1.87 m,  b. 12 Feb 1993 @ Catanzaro
+Fabian Tait,                  M,  1.86 m,  b. 10 Feb 1993 @ Bolzano
+Andrea Magrassi,              F,  1.93 m,  b. 6 Feb 1993 @ Dolo
+Loris Bacchetti,              D,  1.94 m,  b. 6 Feb 1993 @ Guardiagrele
 Stefano Sabelli,              D,  1.76 m,  b. 13 Jan 1993 @ Rome
+Mattia Maita,                 M,  1.82 m,  b. 2 Jan 1993 @ Messina
 
+Cristian Buonaiuto,           F,  1.79 m,  b. 29 Dec 1992 @ Napoli
 Mattia Perin,                 G,  1.88 m,  b. 10 Nov 1992 @ Latina
 Marco Verratti,               M,  1.65 m,  b. 5 Nov 1992 @ Pescara
 Mario Sampirisi,              D,  1.88 m,  b. 31 Oct 1992 @ Caltagirone
 Stephan El Shaarawy,          F,  1.78 m,  b. 27 Oct 1992 @ Savona
 Mattia De Sciglio,            D,  1.82 m,  b. 20 Oct 1992 @ Milan
+Matteo Grandi,                G,  1.90 m,  b. 12 Oct 1992 @ Faenza
+Cristiano Piccini,            D,  1.89 m,  b. 26 Sep 1992 @ Florence
 Cristiano Biraghi,            D,  1.83 m,  b. 1 Sep 1992 @ Cernusco sul Naviglio
+Bruno Martella,               D,  1.84 m,  b. 14 Aug 1992 @ Atri
 Kevin Lasagna,                F,  1.81 m,  b. 10 Aug 1992 @ Suzzara
+Davide Adorni,                D,  1.85 m,  b. 9 Aug 1992 @ Parma
+Paolo Rozzio,                 D,  1.89 m,  b. 22 Jul 1992 @ Turin
 Simone Verdi,                 F,  1.74 m,  b. 12 Jul 1992 @ Broni
+Federico Carraro,             M,  1.78 m,  b. 23 Jun 1992 @ Padua
 Davide Zappacosta,            D,  1.85 m,  b. 11 Jun 1992 @ Sora
+Leonardo Mancuso,             F,  1.82 m,  b. 26 May 1992 @ Milan
+Michele Camporese,            D,  1.86 m,  b. 19 May 1992 @ Pisa
 Gian Marco Ferrari,           D,  1.89 m,  b. 15 May 1992 @ Parma
 Federico Ceccherini,          D,  1.87 m,  b. 11 May 1992 @ Livorno
 Marco Sportiello,             G,  1.92 m,  b. 10 May 1992 @ Desio
+Luca Strizzolo,               F,  1.88 m,  b. 29 Apr 1992 @ Udine
+Simone Branca,                M,  1.79 m,  b. 25 Mar 1992 @ Busto Arsizio
+Andrea D'Errico,              M,  1.71 m,  b. 24 Mar 1992 @ Milan
+Federico Viviani,             M,  1.80 m,  b. 24 Mar 1992 @ Lecco
+Giacomo Beretta,              F,  1.85 m,  b. 14 Mar 1992 @ Varese
+Daniele Baselli,              M,  1.82 m,  b. 12 Mar 1992 @ Manerbio
+Luca Giudici,                 M,  1.79 m,  b. 10 Mar 1992 @ Erba
+Pietro Iemmello,              F,  1.80 m,  b. 6 Mar 1992 @ Catanzaro
 Armando Izzo,                 D,  1.83 m,  b. 2 Mar 1992 @ Naples
+Mattia Proietti,              M,  1.80 m,  b. 27 Feb 1992 @ Turin
+Alessandro De Vitis,          M,  1.84 m,  b. 15 Feb 1992 @ Piacenza
+Filippo Scaglia,              D,  1.89 m,  b. 31 Jan 1992 @ Turin
+Stefano Pettinari,            F,  1.85 m,  b. 27 Jan 1992 @ Rome
+Luca Ghiringhelli,            D,  1.80 m,  b. 23 Jan 1992 @ Pavia
+Francesco Bardi,              G,  1.88 m,  b. 18 Jan 1992 @ Livorno
+Salvatore Molina,             M,  1.77 m,  b. 1 Jan 1992 @ Garbagnate Milanese
 
 Jorginho,                     M,  1.80 m,  b. 21 Dec 1991 @ Imbituba
 Riccardo Saponara,            M,  1.84 m,  b. 21 Dec 1991 @ Forli
+Fabrizio Paghera,             M,  1.70 m,  b. 12 Dec 1991 @ Brescia
+Jacopo Sala,                  M,  1.81 m,  b. 5 Dec 1991 @ Alzano Lombardo
+Luca Tremolada,               M,  1.86 m,  b. 25 Nov 1991 @ Milan
+Roberto Inglese,              F,  1.86 m,  b. 12 Nov 1991 @ Lucera
+Tommaso Silvestri,            D,  1.85 m,  b. 26 Oct 1991 @ Dolo
 Marco Davide Faraoni,         D,  1.80 m,  b. 25 Oct 1991 @ Bracciano
+Marco Capuano,                D,  1.86 m,  b. 14 Oct 1991 @ Pescara
+Giuseppe Mastinu,             M,  1.75 m,  b. 9 Oct 1991 @ Sassari
+Nicola Valente,               F,  1.70 m,  b. 6 Oct 1991 @ Zevio
 Nicola Sansone,               F,  1.73 m,  b. 10 Sep 1991 @ Munich
+Raffaele Maiello,             M,  1.77 m,  b. 10 Jul 1991 @ Acerra
+Diego Falcinelli,             F,  1.85 m,  b. 26 Jun 1991 @ Marsciano
 Luigi Sepe,                   G,  1.91 m,  b. 8 May 1991 @ Torre del Greco
+Andrea La Mantia,             F,  1.90 m,  b. 6 May 1991 @ Marino
+Raffaele Pucino,              D,  1.82 m,  b. 3 May 1991 @ Caserta
 Francesco Rossi,              G,  1.93 m,  b. 27 Apr 1991 @ Merate
+Luca Scapuzzi,                F,  1.82 m,  b. 15 Apr 1991 @ Milan
+Marcello Falzerano,           M,  1.67 m,  b. 12 Apr 1991 @ Pagani
+Fabio Borini,                 F,  1.80 m,  b. 29 Mar 1991 @ Bentivoglio
 Mattia Destro,                F,  1.82 m,  b. 20 Mar 1991 @ Ascoli Piceno
 Alessandro Florenzi,          D,  1.73 m,  b. 11 Mar 1991 @ Rome
 Marco Silvestri,              G,  1.91 m,  b. 2 Mar 1991 @ Castelnovo ne' Monti
+Nicholas Siega,               M,  1.76 m,  b. 25 Feb 1991 @ Novara
+Nicola Bellomo,               M,  1.74 m,  b. 18 Feb 1991 @ Bari
+Marco D'Alessandro,           F,  1.73 m,  b. 17 Feb 1991 @ Rome
+Alessio Iovine,               D,  1.74 m,  b. 1 Feb 1991 @ Como
 Luca Caldirola,               D,  1.89 m,  b. 1 Feb 1991 @ Desio
+Raphael Odogwu,               F,  1.88 m,  b. 28 Jan 1991 @ Verona
 Alessandro Berardi,           G,  1.85 m,  b. 16 Jan 1991 @ Rome
+Andrea Bertolacci,            M,  1.79 m,  b. 11 Jan 1991 @ Rome
 
+Antony Iannarilli,            G,  1.86 m,  b. 18 Dec 1990 @ Alatri
+Alfredo Donnarumma,           F,  1.79 m,  b. 30 Nov 1990 @ Torre Annunziata
+Federico Furlan,              F,  1.81 m,  b. 25 Nov 1990 @ Montebelluna
+Mirko Carretta,               F,  1.78 m,  b. 23 Nov 1990 @ Gallipoli
 Rafael Tolói,                 D,  1.85 m,  b. 10 Oct 1990 @ Gloria d'Oeste
+Andrea Seculin,               G,  1.90 m,  b. 14 Jul 1990 @ Gorizia
+Antonio Caracciolo,           D,  1.81 m,  b. 30 Jun 1990 @ Tempio Pausania
+Gaetano Letizia,              D,  1.73 m,  b. 29 Jun 1990 @ Naples
+Alessandro Tuia,              D,  1.84 m,  b. 8 Jun 1990 @ Civita Castellana
+Andrea Arrighini,             F,  1.80 m,  b. 6 Jun 1990 @ Pisa
+Mauro Vigorito,               G,  1.87 m,  b. 22 May 1990 @ Ozieri
+Tommaso D'Orazio,             D,  1.86 m,  b. 3 May 1990 @ Guardiagrele
+Francesco Di Tacchio,         M,  1.85 m,  b. 20 Apr 1990 @ Trani
+Luca Marrone,                 D,  1.86 m,  b. 28 Mar 1990 @ Turin
 Carlo Pinsoglio,              G,  1.94 m,  b. 16 Mar 1990 @ Moncalieri
+Alessio Curcio,               F,  1.80 m,  b. 12 Mar 1990 @ Benevento
 Pietro Terracciano,           G,  1.93 m,  b. 8 Mar 1990 @ San Felice a Cancello
 Ciro Immobile,                F,  1.85 m,  b. 20 Feb 1990 @ Torre Annunziata
 Simone Romagnoli,             D,  1.93 m,  b. 9 Feb 1990 @ Cremona
 Giulio Donati,                D,  1.79 m,  b. 5 Feb 1990 @ Pietrasanta
+Alessio Luciani,              D,  1.76 m,  b. 16 Jan 1990 @ Rieti
 Vincenzo Fiorillo,            G,  1.90 m,  b. 13 Jan 1990 @ Genoa
 
+Michele Castagnetti,          M,  1.80 m,  b. 27 Dec 1989 @ Montecchio Emilia
 Matteo Darmian,               D,  1.82 m,  b. 2 Dec 1989 @ Legnano
+Ivan Marconi,                 D,  1.83 m,  b. 25 Oct 1989 @ Brescia
 Nicolas Viola,                M,  1.80 m,  b. 12 Oct 1989 @ Oppido Mamertina
+Francesco Bombagi,            M,  1.78 m,  b. 8 Sep 1989 @ Sassari
+Simone Guerra,                F,  1.78 m,  b. 30 Aug 1989 @ Piacenza
 Giacomo Bonaventura,          M,  1.80 m,  b. 22 Aug 1989 @ San Severino Marche
+Giuseppe Bellusci,            D,  1.85 m,  b. 21 Aug 1989 @ Trebisacce
+Luca Ceppitelli,              D,  1.86 m,  b. 11 Aug 1989 @ Castiglione del Lago
 Eugenio Lamanna,              G,  1.86 m,  b. 7 Aug 1989 @ Como
+Nicolò Brighenti,             D,  1.78 m,  b. 1 Aug 1989 @ Bussolengo
+Mirko Eramo,                  M,  1.84 m,  b. 12 Jul 1989 @ Acquaviva delle Fonti
+Pasquale Fazio,               D,  1.80 m,  b. 10 Jun 1989 @ Messina
+Luca Liverani,                G,  1.83 m,  b. 2 Jun 1989 @ Ravenna
+Marco Modolo,                 D,  1.86 m,  b. 23 Mar 1989 @ San Donà di Piave
+Umberto Eusepi,               F,  1.82 m,  b. 8 Jan 1989 @ Rome
 
+Nicola Ravaglia,              G,  1.84 m,  b. 12 Dec 1988 @ Forlì
 Leonardo Pavoletti,           F,  1.88 m,  b. 26 Nov 1988 @ Livorno
 Massimo Coda,                 F,  1.84 m,  b. 10 Nov 1988 @ Cava dei Tirreni
+Andrea Rispoli,               D,  1.88 m,  b. 29 Sep 1988 @ Cava de' Tirreni
 Danilo D'Ambrosio,            D,  1.82 m,  b. 9 Sep 1988 @ Naples
 Marco Mancosu,                M,  1.80 m,  b. 22 Aug 1988 @ Cagliari
+Alessandro Salvi,             D,  1.81 m,  b. 5 Jun 1988 @ Bergamo
 Angelo Ogbonna,               D,  1.91 m,  b. 23 May 1988 @ Cassino
 Lorenzo De Silvestri,         D,  1.86 m,  b. 23 May 1988 @ Rome
+Antonio Pergreffi,            D,  1.89 m,  b. 6 May 1988 @ Bergamo
+Adriano Montalto,             F,  1.86 m,  b. 6 Apr 1988 @ Erice
 Vito Mannone,                 G,  1.88 m,  b. 2 Mar 1988 @ Desio
+Giacomo Poluzzi,              G,  1.86 m,  b. 25 Feb 1988 @ Bologna
 Francesco Acerbi,             D,  1.92 m,  b. 10 Feb 1988 @ Vizzolo Predabissi
 
+Marco Sau,                    F,  1.69 m,  b. 3 Nov 1987 @ Sorgono
+Fabio Lucioni,                D,  1.85 m,  b. 25 Sep 1987 @ Terni
 Francesco Caputo,             F,  1.81 m,  b. 6 Aug 1987 @ Altamura
+Federico Dionisi,             F,  1.80 m,  b. 16 Jun 1987 @ Rieti
 Leonardo Bonucci,             D,  1.90 m,  b. 1 May 1987 @ Viterbo
 Antonio Candreva,             F,  1.80 m,  b. 28 Feb 1987 @ Rome
 Andrea Consigli,              G,  1.89 m,  b. 27 Jan 1987 @ Milan
 Salvatore Sirigu,             G,  1.92 m,  b. 12 Jan 1987 @ Nuoro
 
+Luca Cigarini,                M,  1.75 m,  b. 20 Jun 1986 @ Montecchio Emilia
 Simone Aresti,                G,  1.88 m,  b. 15 Mar 1986 @ Carbonia
+Andrea Masiello,              D,  1.84 m,  b. 5 Feb 1986 @ Viareggio
 
+Emiliano Viviano,             G,  1.95 m,  b. 1 Dec 1985 @ Fiesole
 Pierluigi Frattali,           G,  1.85 m,  b. 1 Dec 1985 @ Rome
 Daniele Padelli,              G,  1.91 m,  b. 25 Oct 1985 @ Lecco
+Franco Lepore,                D,  1.78 m,  b. 16 Aug 1985 @ Lecce
+Daniel Ciofani,               F,  1.90 m,  b. 31 Jul 1985 @ Avezzano
+
+Gaetano Masucci,              F,  1.72 m,  b. 26 Oct 1984 @ Avellino
 
 Antonio Mirante,              G,  1.93 m,  b. 8 Jul 1983 @ Castellammare di Stabia
+Valerio Di Cesare,            D,  1.87 m,  b. 23 May 1983 @ Rome
 
 Gianluca Pegolo,              G,  1.83 m,  b. 25 Mar 1981 @ Bassano del Grappa
 
 Alessandro Berretta,          M,  - ,      -
+Andrea Caucci,                D,  1.90 m,  -
+Antonio Barone,               D,  1.78 m,  -
+Matteo Piombino,              G,  - ,      -
+Paolo Rizzo,                  D,  - ,      -
+Vincenzo Colangiuli,          M,  - ,      -
+Vincenzo Grimaldi,            G,  1.80 m,  -

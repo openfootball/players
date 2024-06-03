@@ -3,405 +3,844 @@
 
 Matteo Palma,                 D,  1.94 m,  b. 13 Mar 2008 @ Berlin
 
+Rafael Pinto Pedrosa,         D,  1.80 m,  b. 30 Sep 2007
+Ben Nink,                     D,  1.85 m,  b. 4 Jul 2007
 Ken Izekor,                   F,  1.75 m,  b. 24 May 2007 @ Aachen
 Francis Onyeka,               F,  1.84 m,  b. 29 Apr 2007 @ Gummersbach
 Nils Ramming,                 G,  1.90 m,  b. 28 Mar 2007 @ London
+Luis Engelns,                 M,  1.88 m,  b. 11 Mar 2007
+Otto Stange,                  F,  1.85 m,  b. 9 Feb 2007
 
+Lio Rothenhagen,              G,  1.87 m,  b. 31 Aug 2006
 Oluwaseun Ogbemudia,          D,  1.85 m,  b. 18 Jul 2006 @ Berlin
+Finn Jeltsch,                 M,  1.85 m,  b. 17 Jul 2006 @ Neuendettelsau
+Assan Ouédraogo,              M,  1.91 m,  b. 9 May 2006 @ Mülheim an der Ruhr
+Eric da Silva Moreira,        D,  1.84 m,  b. 3 May 2006 @ Hamburg
+Bilal Yalçınkaya,             M,  1.82 m,  b. 30 Mar 2006 @ Hamburg
 Farid Alfa-Ruprecht,          F,  - ,      b. 28 Mar 2006 @ Hamburg
 Nuha Jatta,                   M,  1.93 m,  b. 15 Mar 2006 @ Osnabrück
+Mateo Kritzer,                M,  1.82 m,  b. 7 Mar 2006 @ Karlsruhe
 Timo Schlieck,                G,  1.93 m,  b. 2 Mar 2006 @ Lippstadt
 Kjell Wätjen,                 M,  1.83 m,  b. 16 Feb 2006 @ Gevelsberg
 Paris Brunner,                F,  1.86 m,  b. 15 Feb 2006
+Florian Pruhs,                G,  1.90 m,  b. 6 Feb 2006 @ Paderborn
 Maxim Dal,                    D,  1.89 m,  b. 26 Jan 2006 @ Nagold
+Bence Dárdai,                 M,  1.88 m,  b. 24 Jan 2006 @ Berlin
 Max Schmitt,                  G,  1.90 m,  b. 18 Jan 2006
 Max Moerstedt,                F,  1.94 m,  b. 15 Jan 2006 @ Mannheim
 
 Paul Wanner,                  M,  1.85 m,  b. 23 Dec 2005 @ Amtzell
 Arijon Ibrahimović,           M,  1.76 m,  b. 11 Dec 2005 @ Nuremberg
+Medin Kojić,                  M,  1.79 m,  b. 9 Dec 2005
 Dennis Seimen,                G,  1.92 m,  b. 1 Dec 2005 @ Heilbronn
+Ibrahim Maza,                 M,  1.80 m,  b. 24 Nov 2005 @ Berlin
+Ali-Eren Ersungur,            M,  1.84 m,  b. 22 Nov 2005 @ Albstadt
 Noël Aséko Nkili,             M,  1.78 m,  b. 22 Nov 2005 @ Berlin
+Tyler Doğan,                  G,  1.87 m,  b. 18 Nov 2005 @ Geesthacht
+Can Yılmaz Uzun,              F,  1.86 m,  b. 11 Nov 2005 @ Regensburg
+Ben Schlicke,                 D,  1.87 m,  b. 31 Oct 2005 @ Cologne
 Elias Baum,                   D,  1.80 m,  b. 26 Oct 2005 @ Frankfurt am Main
 Reno Münz,                    D,  1.88 m,  b. 2 Oct 2005 @ Jakarta
 Coby Ebere,                   F,  - ,      b. 17 Sep 2005
+Elione Fernandes Neto,        M,  1.84 m,  b. 23 Aug 2005 @ Siegburg
+Kevin Wiethaup,               M,  1.75 m,  b. 6 Aug 2005 @ Bocholt
 Mert Kömür,                   M,  1.83 m,  b. 17 Jul 2005 @ Dachau
 Samuele Di Benedetto,         M,  1.72 m,  b. 16 Jul 2005 @ Schwäbisch Gmünd
+Efe-Kaan Sihlaroglu,          M,  1.78 m,  b. 8 Jul 2005 @ Mannheim
 Tom Bischof,                  M,  1.75 m,  b. 28 Jun 2005 @ Aschaffenburg
 Tim Schleinitz,               M,  1.78 m,  b. 10 Jun 2005 @ Mittweida
 Luke Gauer,                   G,  1.87 m,  b. 28 May 2005 @ Wiesbaden
+Sima Suso,                    M,  1.90 m,  b. 28 May 2005 @ Bergisch Gladbach
+Leander Popp,                 F,  - ,      b. 26 May 2005
+Tim Hoffmann,                 D,  1.84 m,  b. 26 May 2005 @ Berlin
 Hugo Rölleke,                 G,  2.04 m,  b. 6 May 2005 @ Gelsenkirchen
 Kofi Amoako,                  M,  1.86 m,  b. 6 May 2005
 Tim Köhler,                   D,  1.90 m,  b. 2 May 2005 @ Leipzig
+Kevin Jendrzej,               G,  1.89 m,  b. 27 Apr 2005
 Sidney Raebiger,              M,  1.76 m,  b. 17 Apr 2005 @ Freiberg
 Leon Opitz,                   M,  1.83 m,  b. 11 Apr 2005
 Luca Raimund,                 M,  1.88 m,  b. 9 Apr 2005 @ Böblingen
+Hannes Hermann,               G,  - ,      b. 23 Mar 2005
+Denis Pfaffenrot,             M,  1.73 m,  b. 18 Mar 2005 @ Neustadt an der Aisch
 Nelson Weiper,                F,  1.92 m,  b. 17 Mar 2005 @ Mainz
+Leon-Oumar Wechsel,           G,  1.90 m,  b. 9 Mar 2005 @ Osnabrück
 Tim Drexler,                  D,  1.86 m,  b. 6 Mar 2005 @ Bruchsal
+Eliyas Strasner,              D,  1.76 m,  b. 2 Mar 2005 @ Berlin
 Tarek Buchmann,               D,  1.88 m,  b. 28 Feb 2005 @ Augsburg
+Pascal Klemens,               D,  1.86 m,  b. 23 Feb 2005 @ Berlin
 Dženan Pejčinović,            F,  1.88 m,  b. 15 Feb 2005 @ Munich
+Robert Kampa,                 G,  1.88 m,  b. 13 Feb 2005 @ Berlin
+Montell Ndikom,               M,  1.81 m,  b. 5 Feb 2005 @ Osnabrück
 Fabio Torsiello,              F,  1.78 m,  b. 2 Feb 2005 @ Darmstadt
 Laurin Ulrich,                M,  1.80 m,  b. 31 Jan 2005 @ Heidenheim
+Tim Goller,                   G,  1.93 m,  b. 26 Jan 2005 @ Berlin
+Nassim Elouarti,              M,  1.80 m,  b. 12 Jan 2005 @ Bad Soden am Taunus
 Noël Atom,                    D,  - ,      b. 5 Jan 2005
 Simon Walde,                  D,  1.85 m,  b. 4 Jan 2005 @ Düsseldorf
+Pascal Fuchs,                 M,  1.77 m,  b. 3 Jan 2005 @ Nuremberg
+Luis Dettling,                M,  1.83 m,  b. 2 Jan 2005
 
 Justin Diehl,                 F,  1.74 m,  b. 27 Nov 2004 @ Cologne
 Youssoufa Moukoko,            F,  1.79 m,  b. 20 Nov 2004 @ Yaoundé
+Ilyas Ansah,                  F,  1.94 m,  b. 8 Nov 2004 @ Lüdenscheid
+Semir Kaymakci,               G,  1.88 m,  b. 1 Nov 2004
 Aaron Zehnter,                D,  1.80 m,  b. 31 Oct 2004 @ Würzburg
+Tom Rothe,                    D,  1.93 m,  b. 29 Oct 2004 @ Rendsburg
 Mats Pannewig,                M,  1.95 m,  b. 28 Oct 2004 @ Hamm
 Ayman Aourir,                 M,  1.72 m,  b. 6 Oct 2004 @ Cologne
 Tim Müller,                   D,  1.84 m,  b. 23 Sep 2004 @ Wernigerode
 Yannic Stein,                 G,  1.87 m,  b. 17 Sep 2004 @ Berlin
 Leandro Morgalla,             D,  1.86 m,  b. 13 Sep 2004 @ Biedenkopf
 Hendry Blank,                 D,  1.90 m,  b. 21 Aug 2004
+Niklas Niehoff,               F,  1.86 m,  b. 20 Aug 2004 @ Wietmarschen
 Umut Tohumcu,                 M,  1.75 m,  b. 11 Aug 2004 @ Offenburg
 Aljoscha Kemlein,             M,  1.85 m,  b. 2 Aug 2004 @ Berlin
 Joshua Quarshie,              D,  1.96 m,  b. 26 Jul 2004 @ Duisburg
 Mohammed Tolba,               D,  1.85 m,  b. 19 Jul 2004 @ Essen
 Mika Baur,                    M,  1.72 m,  b. 9 Jul 2004 @ Salem
 Damion Downs,                 F,  1.92 m,  b. 6 Jul 2004 @ Werneck
+Robert Kwasigroch,            G,  1.89 m,  b. 26 Jun 2004 @ Berlin
+Max Weiß,                     G,  1.90 m,  b. 15 Jun 2004 @ Speyer
 Brajan Gruda,                 M,  1.78 m,  b. 31 May 2004 @ Speyer
 Jonas Nickisch,               G,  1.90 m,  b. 21 May 2004 @ Dresden
+Joshua Krüger,                M,  1.80 m,  b. 17 May 2004 @ Zirtow
+Bennet Winter,                F,  1.75 m,  b. 16 May 2004
+Mattes Hansen,                M,  1.83 m,  b. 15 May 2004 @ Parchim
 Mehdi Loune,                  M,  1.72 m,  b. 14 May 2004 @ Hanau
 Marcel Wenig,                 M,  1.88 m,  b. 4 May 2004 @ Nuremberg
 Aleksandar Pavlović,          M,  1.86 m,  b. 3 May 2004 @ Munich
+Mio Backhaus,                 G,  1.94 m,  b. 16 Apr 2004 @ Mönchengladbach
 Elias Bakatukanda,            D,  1.93 m,  b. 13 Apr 2004 @ Cologne
+Tom Sanne,                    M,  1.70 m,  b. 13 Apr 2004 @ Hamburg
 Tom Hülsmann,                 G,  2.00 m,  b. 11 Apr 2004 @ Trier
 Muhammed Damar,               M,  1.85 m,  b. 9 Apr 2004 @ Berlin
+Kaylen Reitmaier,             G,  1.97 m,  b. 5 Apr 2004
+Marius Wörl,                  M,  1.78 m,  b. 5 Apr 2004 @ Gosseltshausen
 Dennis Kaygin,                M,  1.86 m,  b. 2 Apr 2004
 Mathis Bruns,                 D,  1.92 m,  b. 31 Mar 2004 @ Bielefeld
 Max Finkgräfe,                D,  1.83 m,  b. 27 Mar 2004 @ Mönchengladbach
+Daniel Bunk,                  M,  1.70 m,  b. 25 Mar 2004 @ Wuppertal
+Keke Topp,                    F,  1.92 m,  b. 25 Mar 2004 @ Gnarrenburg
 Lukas Ullrich,                D,  1.80 m,  b. 16 Mar 2004 @ Berlin
 Felix Lange,                  D,  1.87 m,  b. 13 Mar 2004 @ Braunschweig
+Luca Böggemann,               G,  1.95 m,  b. 11 Mar 2004 @ Recke
 Faroukou Cissé,               D,  1.87 m,  b. 9 Mar 2004 @ Abidjan
+Julian Eitschberger,          D,  1.78 m,  b. 5 Mar 2004 @ Berlin
+Linus Gechter,                D,  1.88 m,  b. 27 Feb 2004 @ Berlin
 Samuel Bamba,                 M,  1.79 m,  b. 13 Feb 2004 @ Ahlen
+Veit Stange,                  M,  1.84 m,  b. 8 Feb 2004 @ Rostock
+Elias Höftmann,               G,  1.83 m,  b. 7 Feb 2004 @ Rostock
+Nicolas Oliveira,             D,  1.87 m,  b. 6 Feb 2004 @ Hamburg
+Aurel Wagbe,                  M,  1.91 m,  b. 4 Feb 2004 @ Reinbek
+Yusuf Kabadayı,               F,  1.86 m,  b. 2 Feb 2004 @ Munich
+Luis Seifert,                 D,  1.87 m,  b. 26 Jan 2004
 Raul Paula,                   M,  1.77 m,  b. 25 Jan 2004 @ Böblingen
 Luka Janeš,                   M,  1.83 m,  b. 19 Jan 2004 @ Schwäbisch Gmünd
+Philipp Müller,               M,  1.79 m,  b. 18 Jan 2004 @ Bamberg
 Melkamu Frauendorf,           M,  - ,      b. 12 Jan 2004 @ Kembata
 Lucas Copado,                 F,  1.79 m,  b. 10 Jan 2004 @ Munich
 Nnamdi Collins,               D,  1.87 m,  b. 10 Jan 2004 @ Düsseldorf
 Frank Feller,                 G,  1.83 m,  b. 7 Jan 2004 @ Leonberg
+Nicolas Ortegel,              G,  1.93 m,  b. 7 Jan 2004 @ Erlangen
 Sanoussy Ba,                  D,  1.84 m,  b. 5 Jan 2004 @ Hof
 
 Jonas Krumrey,                G,  1.93 m,  b. 25 Nov 2003 @ Prien am Chiemsee
+King Manu,                    D,  1.93 m,  b. 23 Nov 2003 @ Düsseldorf
 Silas Ostrzinski,             G,  1.98 m,  b. 19 Nov 2003 @ Hagen
+Tim Rossmann,                 M,  1.81 m,  b. 11 Nov 2003 @ Bietigheim-Bissingen
 Tim Oermann,                  D,  1.87 m,  b. 6 Oct 2003 @ Bochum
+Yannick Lührs,                D,  1.89 m,  b. 9 Sep 2003 @ Hannover
+Niklas Jessen,                F,  1.82 m,  b. 4 Sep 2003 @ Hamburg
+Elijah Krahn,                 M,  1.84 m,  b. 24 Aug 2003 @ Hamburg
+Jonas Urbig,                  G,  1.89 m,  b. 8 Aug 2003 @ Euskirchen
 Moritz Berg,                  M,  - ,      b. 7 Aug 2003
+Jens Castrop,                 M,  1.77 m,  b. 29 Jul 2003 @ Düsseldorf
+Amin Farouk,                  M,  1.80 m,  b. 22 Jul 2003 @ Mainz
 Clemens Riedel,               D,  1.86 m,  b. 19 Jul 2003 @ Wölfersheim
+Robert Wagner,                M,  1.81 m,  b. 14 Jul 2003 @ Lahr
 Bambasé Conté,                M,  1.78 m,  b. 7 Jul 2003 @ Saarbrücken
+Noah Kruth,                   G,  1.86 m,  b. 24 Jun 2003 @ Papenburg
+Nathaniel Brown,              D,  1.76 m,  b. 16 Jun 2003 @ Amberg
 Eniss Shabani,                M,  1.80 m,  b. 29 May 2003 @ Gießen
 Elidon Qenaj,                 F,  1.98 m,  b. 22 May 2003 @ Böblingen
+Oualid Mhamdi,                D,  1.86 m,  b. 20 May 2003 @ Eschweiler
+Sadik Fofana,                 D,  1.92 m,  b. 16 May 2003 @ Aachen
 Luca Netz,                    D,  1.80 m,  b. 15 May 2003 @ Buch
 Dario Gebuhr,                 D,  1.88 m,  b. 6 May 2003 @ Wiesbaden
 Florian Wirtz,                M,  1.75 m,  b. 3 May 2003 @ Pulheim
+Mesut Kesik,                  M,  1.83 m,  b. 2 May 2003 @ Berlin
 Angelo Brückner,              D,  1.78 m,  b. 29 Apr 2003 @ Munich
 Ben Bobzien,                  F,  1.75 m,  b. 29 Apr 2003 @ Gießen
+Sidi Sané,                    M,  1.87 m,  b. 21 Apr 2003 @ Essen
 Niklas Sauter,                G,  1.86 m,  b. 6 Apr 2003 @ Münsterlingen
+Igor Matanović,               F,  1.94 m,  b. 31 Mar 2003 @ Hamburg
+Bright Arrey-Mbi,             D,  1.87 m,  b. 26 Mar 2003 @ Kaarst
+Arne Schulz,                  G,  1.90 m,  b. 23 Mar 2003 @ Bünde
+Lasse Günther,                F,  1.83 m,  b. 21 Mar 2003 @ Munich
+Jascha Brandt,                M,  1.84 m,  b. 20 Mar 2003 @ Bremen
 Lasse Wilhelm,                D,  1.86 m,  b. 20 Mar 2003
 Nahuel Noll,                  G,  1.88 m,  b. 17 Mar 2003 @ Munich
+Tjark Ernst,                  G,  1.93 m,  b. 15 Mar 2003 @ Stuttgart
+Felix Ruschke,                D,  1.85 m,  b. 8 Mar 2003 @ Güstrow
+Devin Angleberger,            M,  1.79 m,  b. 5 Mar 2003 @ Kitzingen
 Luca Denk,                    D,  1.85 m,  b. 2 Mar 2003
 Jamal Musiala,                M,  1.81 m,  b. 26 Feb 2003 @ Stuttgart
+David Herold,                 D,  1.85 m,  b. 20 Feb 2003 @ Mindelheim
+Florian Bähr,                 D,  1.82 m,  b. 18 Feb 2003 @ Heidelberg
+Armindo Sieb,                 F,  1.75 m,  b. 17 Feb 2003 @ Halle (Saale)
 Daniel Hausmann,              M,  - ,      b. 12 Feb 2003 @ Leutkirch im Allgäu
+Aaron Basenach,               M,  1.84 m,  b. 11 Feb 2003 @ Neustadt an der Weinstraße
 Max Rosenfelder,              D,  1.86 m,  b. 10 Feb 2003 @ Freiburg im Breisgau
 Mehmet Ibrahimi,              M,  1.80 m,  b. 9 Feb 2003 @ Troisdorf
+Luca Wollschläger,            F,  1.94 m,  b. 8 Feb 2003 @ Bergen auf Rügen
+Justin Duda,                  G,  1.93 m,  b. 5 Feb 2003 @ Wolfsburg
 Philipp Schulze,              G,  1.89 m,  b. 29 Jan 2003 @ Neustadt am Rübenberge
+Kwadwo Baah,                  F,  1.83 m,  b. 27 Jan 2003 @ Horb am Neckar
+Louis Köster,                 M,  1.89 m,  b. 25 Jan 2003 @ Witten
+Colin Kleine-Bekel,           D,  1.91 m,  b. 24 Jan 2003 @ Bielefeld
+Tony Rölke,                   F,  1.88 m,  b. 22 Jan 2003 @ Berlin
 Harpreet Ghotra,              M,  1.80 m,  b. 17 Jan 2003 @ Frankfurt am Main
 Frans Krätzig,                M,  1.77 m,  b. 14 Jan 2003 @ Nuremberg
+Shawn Blum,                   F,  1.82 m,  b. 14 Jan 2003 @ Frankenthal
 Torben Rhein,                 M,  1.73 m,  b. 12 Jan 2003 @ Berlin
+Max Hagemoser,                G,  1.90 m,  b. 7 Jan 2003 @ Güstrow
+Eric Uhlmann,                 M,  1.81 m,  b. 5 Jan 2003 @ Leipzig
 
+Noah Oberbeck,                G,  1.91 m,  b. 9 Dec 2002
 Noel Futkeu,                  F,  1.83 m,  b. 6 Dec 2002 @ Essen
 Luis Hartwig,                 F,  1.80 m,  b. 23 Nov 2002 @ Witten
+Derry Scherhant,              F,  1.85 m,  b. 10 Nov 2002 @ Berlin
+Jamie Lawrence,               D,  2.00 m,  b. 10 Nov 2002 @ Munich
+Marten Winkler,               F,  1.83 m,  b. 31 Oct 2002 @ Frankfurt (Oder)
+Marcel Beifus,                D,  1.87 m,  b. 27 Oct 2002 @ Wolfenbüttel
 Maximilian Beier,             F,  1.83 m,  b. 17 Oct 2002 @ Brandenburg an der Havel
+Paul Nebel,                   M,  1.69 m,  b. 10 Oct 2002 @ Bad Nauheim
+Lasse Wehmeyer,               F,  1.77 m,  b. 18 Sep 2002 @ Münster
+Niklas Castelle,              F,  1.82 m,  b. 27 Aug 2002 @ Senden
+Kerim Çalhanoğlu,             D,  1.80 m,  b. 26 Aug 2002 @ Mannheim
 Maximilian Brüll,             G,  1.87 m,  b. 26 Aug 2002 @ Munich
 Lilian Egloff,                M,  1.83 m,  b. 20 Aug 2002 @ Heilbronn
 Marcus Müller,                F,  1.88 m,  b. 20 Aug 2002
 Fisnik Asllani,               F,  1.88 m,  b. 8 Aug 2002 @ Berlin
+Dawyn-Paul Donner,            D,  1.92 m,  b. 6 Aug 2002 @ Hildesheim
+Daniel Adamczyk,              G,  1.88 m,  b. 14 Jul 2002 @ Cologne
+Jannis Lang,                  D,  1.88 m,  b. 12 Jul 2002 @ Potsdam
+Abdenego Nankishi,            F,  1.78 m,  b. 6 Jul 2002 @ Bremerhaven
 Merlin Röhl,                  M,  1.91 m,  b. 5 Jul 2002 @ Potsdam
+Christopher Scott,            M,  1.74 m,  b. 7 Jun 2002 @ Cologne
 Kenneth Schmidt,              D,  1.86 m,  b. 3 Jun 2002 @ Freiburg im Breisgau
 Rocco Reitz,                  M,  1.75 m,  b. 29 May 2002 @ Duisburg
+Malik Tillman,                F,  1.86 m,  b. 28 May 2002 @ Nuremburg
 Jan Thielmann,                M,  1.78 m,  b. 26 May 2002 @ Föhren
+Moritz Flotho,                F,  1.92 m,  b. 26 May 2002 @ Kassel
 Noah Atubolu,                 G,  1.90 m,  b. 25 May 2002 @ Freiburg im Breisgau
+Seymour Fünger,               D,  1.91 m,  b. 18 May 2002
+Jonas Sterner,                M,  1.80 m,  b. 13 May 2002 @ Husum
 Eric Martel,                  M,  1.86 m,  b. 29 Apr 2002 @ Straubing
+Christalino Atemona,          D,  1.84 m,  b. 26 Apr 2002 @ Zwiesel
+Emir Kuhinja,                 F,  1.86 m,  b. 19 Apr 2002 @ Frankfurt am Main
+Emeka Oduah,                  F,  1.92 m,  b. 14 Apr 2002 @ Berlin
+Lars Kehl,                    F,  1.72 m,  b. 8 Apr 2002 @ Hofstetten
+Dennis Gorka,                 G,  1.90 m,  b. 3 Apr 2002 @ Cologne
+Emil Kischka,                 M,  1.83 m,  b. 2 Apr 2002 @ Wittingen
+Jamil Siebert,                D,  1.93 m,  b. 2 Apr 2002 @ Düsseldorf
 Marco John,                   M,  1.82 m,  b. 2 Apr 2002 @ Bad Friedrichshall
+Emilio Kehrer,                F,  1.77 m,  b. 20 Mar 2002
+Jannik Hofmann,               D,  1.77 m,  b. 28 Feb 2002 @ Bayreuth
+Monju Momuluh,                M,  1.80 m,  b. 18 Feb 2002 @ Hannover
 Nick Woltemade,               F,  1.98 m,  b. 14 Feb 2002 @ Bremen
+Mehmet Can Aydin,             M,  1.79 m,  b. 9 Feb 2002 @ Würselen
 Tim Breithaupt,               M,  1.86 m,  b. 7 Feb 2002 @ Offenburg
+Sebastian Saftig,             M,  1.93 m,  b. 5 Feb 2002 @ Andernach
+Tim Lemperle,                 M,  1.87 m,  b. 5 Feb 2002 @ Frankfurt am Main
+Jomaine Consbruch,            M,  1.74 m,  b. 26 Jan 2002 @ Bielefeld
+Lasse Rosenboom,              D,  1.90 m,  b. 19 Jan 2002 @ Aurich
 Karim Adeyemi,                F,  1.77 m,  b. 18 Jan 2002 @ Munich
+Tjark Scheller,               D,  1.92 m,  b. 12 Jan 2002 @ Rendsburg
 Ansgar Knauff,                F,  1.80 m,  b. 10 Jan 2002 @ Göttingen
+Neal Gibs,                    D,  1.80 m,  b. 1 Jan 2002 @ Landstuhl
 
+Martin Ens,                   M,  1.87 m,  b. 20 Dec 2001
 Eren Dinkçi,                  F,  1.87 m,  b. 13 Dec 2001 @ Bremen
 Laurenz Dehl,                 M,  1.79 m,  b. 12 Dec 2001 @ Berlin
+Armel Bella-Kotchap,          D,  1.90 m,  b. 11 Dec 2001 @ Paris
 Kevin Schade,                 F,  1.83 m,  b. 27 Nov 2001 @ Potsdam
 Jan Olschowsky,               G,  1.82 m,  b. 18 Nov 2001 @ Neuss
+Luca Günther,                 D,  1.75 m,  b. 14 Nov 2001 @ Hamburg
+Laurin Curda,                 D,  1.85 m,  b. 30 Oct 2001 @ Ludwigsburg
+Julian Kania,                 F,  1.92 m,  b. 10 Oct 2001 @ Dinkelscherben
+Ensar Aksakal,                F,  1.74 m,  b. 1 Oct 2001 @ Berlin
 Noah Weißhaupt,               M,  1.80 m,  b. 20 Sep 2001 @ Rostock
+Jona Niemiec,                 F,  1.88 m,  b. 19 Sep 2001 @ Lüdenscheid
+Robin Bird,                   F,  1.72 m,  b. 18 Sep 2001 @ Sankt Augustin
+Lucas Wolf,                   M,  1.73 m,  b. 28 Aug 2001 @ Eckernförde
+Jonah Fabisch,                M,  1.78 m,  b. 13 Aug 2001 @ Nairobi
+Lars Gindorf,                 M,  1.81 m,  b. 13 Aug 2001 @ Wadgassen
 Malick Thiaw,                 D,  1.94 m,  b. 8 Aug 2001 @ Düsseldorf
+Jesse Tugbenyo,               D,  1.87 m,  b. 7 Aug 2001 @ Warstein
 Jordan Amissah,               G,  1.97 m,  b. 2 Aug 2001 @ Herne
 Lasse Rieß,                   G,  1.91 m,  b. 27 Jul 2001 @ Münster
 Faride Alidou,                F,  1.86 m,  b. 18 Jul 2001 @ Hamburg
 Reda Khadra,                  M,  1.74 m,  b. 4 Jul 2001 @ Berlin
 Denis Huseinbašić,            M,  1.84 m,  b. 3 Jul 2001 @ Erbach im Odenwald
+Jan Reichert,                 G,  1.91 m,  b. 28 Jun 2001 @ Schweinfurt
+Brooklyn Ezeh,                D,  1.88 m,  b. 23 Jun 2001 @ Hamburg
 Tom Krauß,                    M,  1.82 m,  b. 22 Jun 2001 @ Leipzig
+Kimberly Ezekwem,             D,  1.87 m,  b. 19 Jun 2001 @ Munich
 Melvin Ramusović,             M,  1.84 m,  b. 19 Jun 2001 @ Sindelfingen
+Justus Henke,                 D,  1.89 m,  b. 5 Jun 2001 @ Büren
 Florian Schock,               G,  1.99 m,  b. 22 May 2001 @ Ruit
 Benedict Hollerbach,          F,  1.81 m,  b. 17 May 2001 @ Starnberg
+Tim Corsten,                  D,  1.87 m,  b. 2 May 2001 @ Wuppertal
 Moritz Römling,               D,  1.86 m,  b. 30 Apr 2001 @ Witten
+Julian Niehues,               M,  1.95 m,  b. 17 Apr 2001 @ Münster
 Noah Katterbach,              D,  1.80 m,  b. 13 Apr 2001 @ Simmerath
+Can Bozdoğan,                 M,  1.74 m,  b. 5 Apr 2001 @ Cologne
 Ole Pohlmann,                 M,  1.83 m,  b. 5 Apr 2001 @ Minden
 Angelo Stiller,               M,  1.83 m,  b. 4 Apr 2001 @ Munich
+Frederik Jäkel,               D,  1.93 m,  b. 7 Mar 2001 @ Torgau
 Kevin Bukusu,                 D,  1.88 m,  b. 27 Feb 2001 @ Aachen
 Jamie Leweling,               F,  1.84 m,  b. 26 Feb 2001 @ Nuremberg
 Tim Köther,                   M,  1.75 m,  b. 22 Feb 2001 @ Aachen
 Paul Glatzel,                 F,  - ,      b. 20 Feb 2001 @ Liverpool
+Sava-Arangel Čestić,          D,  1.92 m,  b. 19 Feb 2001 @ Offenbach
+Niklas Tauer,                 M,  1.77 m,  b. 17 Feb 2001 @ Mainz
+Yannik Engelhardt,            M,  1.84 m,  b. 7 Feb 2001 @ Göttingen
+Simon Asta,                   D,  1.78 m,  b. 25 Jan 2001 @ Augsburg
 Merveille Papela,             M,  1.74 m,  b. 18 Jan 2001 @ Mainz
 
+Niclas Nadj,                  M,  1.78 m,  b. 24 Dec 2000 @ Hamburg
+Marco Pledl,                  M,  1.73 m,  b. 13 Dec 2000 @ Bischofsmais
 Josha Vagnoman,               D,  1.86 m,  b. 11 Dec 2000 @ Hamburg
 David Mamutović,              F,  1.89 m,  b. 5 Dec 2000
+Philipp Treu,                 D,  1.73 m,  b. 3 Dec 2000 @ Heidelberg
 Yann Aurel Bisseck,           D,  1.94 m,  b. 29 Nov 2000 @ Cologne
 Luca Philipp,                 G,  1.92 m,  b. 28 Nov 2000 @ Stuttgart
+Justin Heekeren,              G,  1.93 m,  b. 27 Nov 2000 @ Veen
+Ogechika Heil,                M,  1.68 m,  b. 27 Nov 2000 @ Kassel
 Justin Njinmah,               F,  1.79 m,  b. 15 Nov 2000 @ Hamburg
+Lukas Petkov,                 M,  1.83 m,  b. 1 Nov 2000 @ Friedberg
+Shinta Appelkamp,             M,  1.75 m,  b. 1 Nov 2000 @ Tokyo
 Kilian Fischer,               D,  1.82 m,  b. 12 Oct 2000 @ Miltenberg
 Roberto Massimo,              M,  1.85 m,  b. 12 Oct 2000 @ Accra
+Luis Kerner,                  D,  1.88 m,  b. 25 Sep 2000
 Moritz Broschinski,           F,  1.90 m,  b. 23 Sep 2000 @ Finsterwalde
+Joey Müller,                  D,  1.80 m,  b. 30 Aug 2000 @ Gütersloh
 Maximilian Breunig,           F,  1.94 m,  b. 14 Aug 2000 @ Würzburg
+Florian Kleinhansl,           D,  1.80 m,  b. 11 Aug 2000 @ Nürtingen
+Jannes Wieckhoff,             D,  1.88 m,  b. 2 Aug 2000 @ Pinneberg
+Enzo Leopold,                 M,  1.74 m,  b. 23 Jul 2000 @ Zell am Harmersbach
 Andreas Müller,               M,  1.73 m,  b. 20 Jul 2000 @ Sinsheim
 Jessic Ngankam,               M,  1.84 m,  b. 20 Jul 2000 @ Berlin
 Jonathan Burkardt,            F,  1.80 m,  b. 11 Jul 2000 @ Darmstadt
+Michael Martin,               M,  1.80 m,  b. 10 Jul 2000 @ Crailsheim
 Kevin Sessa,                  M,  1.75 m,  b. 6 Jul 2000 @ Stuttgart
+Nicolai Remberg,              M,  1.88 m,  b. 19 Jun 2000 @ Rheine
 Finn Ole Becker,              M,  1.77 m,  b. 8 Jun 2000 @ Elmshorn
+Arthur Lyska,                 G,  1.88 m,  b. 19 May 2000 @ Wiesbaden
 Jordan Beyer,                 D,  1.87 m,  b. 19 May 2000 @ Kempen
+Florian Flick,                M,  1.87 m,  b. 1 May 2000 @ Mannheim
+Filip Bilbija,                M,  1.89 m,  b. 23 Apr 2000 @ Berlin
+Luis Görlich,                 D,  1.81 m,  b. 1 Apr 2000 @ Heidelberg
+Nick Bätzner,                 M,  1.70 m,  b. 15 Mar 2000 @ Ludwigsburg
+Henning Matriciani,           D,  1.85 m,  b. 14 Mar 2000 @ Lippstadt
 Tim Siersleben,               D,  1.87 m,  b. 9 Mar 2000 @ Magdeburg
+Jonas David,                  D,  1.90 m,  b. 8 Mar 2000 @ Hamburg
+Luc Ihorst,                   F,  1.90 m,  b. 7 Mar 2000 @ Damme
+Henry Rorig,                  D,  1.82 m,  b. 3 Mar 2000 @ Langenhagen
 Jean-Manuel Mbom,             M,  1.79 m,  b. 24 Feb 2000 @ Göttingen
+Tobias Raschl,                M,  1.77 m,  b. 21 Feb 2000 @ Düsseldorf
+Dennis Jastrzembski,          M,  1.76 m,  b. 20 Feb 2000 @ Rendsburg
 Yannik Keitel,                M,  1.84 m,  b. 15 Feb 2000 @ Breisach
 David Deger,                  M,  1.79 m,  b. 13 Feb 2000 @ Wertingen
 Maximilian Bauer,             D,  1.89 m,  b. 9 Feb 2000 @ Vilshofen
 Nico Mantl,                   G,  1.93 m,  b. 6 Feb 2000 @ Munich
 Patrick Osterhage,            M,  1.84 m,  b. 1 Feb 2000 @ Marklohe
 Christian Früchtl,            G,  1.93 m,  b. 28 Jan 2000 @ Bischofsmais
+Julian Krahl,                 G,  1.94 m,  b. 22 Jan 2000 @ Forst (Lausitz)
+Lukas Pinckert,               D,  1.85 m,  b. 22 Jan 2000 @ Stuttgart
+Maxwell Gyamfi,               D,  1.85 m,  b. 18 Jan 2000 @ Dortmund
+Vincent Gembalies,            D,  1.87 m,  b. 18 Jan 2000 @ Oberhausen
+Niklas Heeger,                G,  1.87 m,  b. 7 Jan 2000 @ Baden-Baden
+Jann-Fiete Arp,               F,  1.84 m,  b. 6 Jan 2000 @ Bad Segeberg
 Nicolas Kühn,                 M,  1.74 m,  b. 1 Jan 2000 @ Wunstorf
 
+Elias Saad,                   F,  1.85 m,  b. 27 Dec 1999 @ Hamburg
 Semir Telalović,              F,  1.87 m,  b. 23 Dec 1999 @ Ehingen
+Semih Şahin,                  M,  1.77 m,  b. 22 Dec 1999 @ Mannheim
+Lukas Schleimer,              F,  1.80 m,  b. 9 Dec 1999 @ Trier
+Lennart Moser,                G,  1.96 m,  b. 6 Dec 1999 @ Berlin
+Kai Klefisch,                 M,  1.88 m,  b. 3 Dec 1999 @ Leverkusen
 Nico Schlotterbeck,           D,  1.91 m,  b. 1 Dec 1999 @ Waiblingen
+Noel Niemann,                 F,  1.71 m,  b. 14 Nov 1999 @ Munich
+Fatih Kaya,                   F,  1.83 m,  b. 13 Nov 1999 @ Gießen
+Jason Ceka,                   F,  1.69 m,  b. 10 Nov 1999 @ Essen
+Kaan Çalışkaner,              F,  1.92 m,  b. 3 Nov 1999 @ Cologne
 Lennard Maloney,              M,  1.87 m,  b. 8 Oct 1999 @ Berlin
 Marvin Pieringer,             F,  1.91 m,  b. 4 Oct 1999 @ Bad Urach
 Felix Agu,                    D,  1.80 m,  b. 27 Sep 1999 @ Osnabrück
+Toni Stahl,                   G,  1.94 m,  b. 17 Sep 1999 @ Cottbus
+Jannes Wulff,                 M,  1.88 m,  b. 14 Sep 1999 @ Stade
 Antonios Papadopoulos,        D,  1.86 m,  b. 10 Sep 1999 @ Stuttgart
+Oliver Wähling,               M,  1.83 m,  b. 6 Sep 1999 @ Ludwigsburg
 Luca Kilian,                  D,  1.90 m,  b. 1 Sep 1999 @ Witten
+Christian Conteh,             M,  1.82 m,  b. 27 Aug 1999 @ Hamburg
+Christian Kinsombi,           M,  1.77 m,  b. 24 Aug 1999 @ Räckelwitz
+Calvin Brackelmann,           D,  1.96 m,  b. 22 Aug 1999 @ Lüneburg
 Patric Pfeiffer,              D,  1.96 m,  b. 20 Aug 1999 @ Hamburg
 Thomas Keller,                M,  1.86 m,  b. 5 Aug 1999 @ Munich
+Antonio Jonjić,               F,  1.83 m,  b. 2 Aug 1999 @ Ludwigshafen am Rhein
+Jannis Heuer,                 D,  1.89 m,  b. 29 Jul 1999 @ Burgwedel
 Fabian Nürnberger,            M,  1.81 m,  b. 28 Jul 1999 @ Hamburg
+Tim Stappmann,                D,  1.87 m,  b. 17 Jul 1999 @ Krefeld
+Marcel Hoffmeier,             D,  1.82 m,  b. 15 Jul 1999 @ Geseke
 Linton Maina,                 M,  1.71 m,  b. 23 Jun 1999 @ Berlin
 Jan Schöppner,                M,  1.90 m,  b. 12 Jun 1999 @ Homberg
 Kai Havertz,                  M,  1.87 m,  b. 11 Jun 1999 @ Aachen
+Julius Kade,                  M,  1.67 m,  b. 20 May 1999 @ Berlin
+Carlo Boukhalfa,              M,  1.85 m,  b. 3 May 1999 @ Freiburg im Breisgau
+Lennart Czyborra,             D,  1.81 m,  b. 3 May 1999 @ Berlin
 Moritz Jenz,                  D,  1.90 m,  b. 30 Apr 1999 @ Berlin
+Richmond Tachie,              F,  1.77 m,  b. 21 Apr 1999 @ Berlin
 Niclas Thiede,                G,  1.87 m,  b. 14 Apr 1999 @ Hagen
+Ron-Thorben Hoffmann,         G,  1.92 m,  b. 4 Apr 1999 @ Rostock
 Sinan Karweina,               M,  1.73 m,  b. 29 Mar 1999 @ Gummersbach
+Aaron Opoku,                  F,  1.85 m,  b. 28 Mar 1999 @ Hamburg
+Luca Schuler,                 F,  1.90 m,  b. 22 Mar 1999 @ Neustadt an der Weinstraße
+Adrian Fein,                  M,  1.86 m,  b. 18 Mar 1999 @ Munich
+Marvin Rittmüller,            D,  1.77 m,  b. 7 Mar 1999 @ Erfurt
+Niklas Wiemann,               D,  1.90 m,  b. 23 Feb 1999 @ Detmold
+Lex-Tyger Lobinger,           F,  1.92 m,  b. 22 Feb 1999 @ Bonn
+Florian Krüger,               F,  1.85 m,  b. 13 Feb 1999 @ Staßfurt
 Eduardo Dos Santos Haesler,   G,  1.96 m,  b. 10 Feb 1999 @ Duisburg
+Derrick Köhn,                 D,  1.80 m,  b. 4 Feb 1999 @ Hamburg
+Lino Tempelmann,              M,  1.74 m,  b. 2 Feb 1999 @ Munich
+Lennart Grill,                G,  1.91 m,  b. 25 Jan 1999 @ Idar-Oberstein
+Sven Sonnenberg,              D,  1.94 m,  b. 19 Jan 1999 @ Berlin
+Timon Weiner,                 G,  1.91 m,  b. 18 Jan 1999 @ Essen
 Arne Maier,                   M,  1.83 m,  b. 8 Jan 1999 @ Ludwigsfelde
+Gian-Luca Itter,              D,  1.85 m,  b. 5 Jan 1999 @ Gießen
 Jan-Niklas Beste,             M,  1.78 m,  b. 4 Jan 1999 @ Hamm
+Benjamin Goller,              M,  1.80 m,  b. 1 Jan 1999 @ Reutlingen
 
+Matheo Raab,                  G,  1.86 m,  b. 18 Dec 1998 @ Weilburg
+Stephan Ambrosius,            D,  1.82 m,  b. 18 Dec 1998 @ Hamburg
 Lukas Nmecha,                 F,  1.85 m,  b. 12 Dec 1998 @ Hamburg
+Henok Teklab,                 F,  1.74 m,  b. 16 Nov 1998 @ Frankfurt am Main
 Anton Stach,                  M,  1.92 m,  b. 15 Nov 1998 @ Buchholz in der Nordheide
+Florian Carstens,             D,  1.91 m,  b. 8 Nov 1998 @ Lüneburg
+Dennis Dressel,               M,  1.86 m,  b. 26 Oct 1998 @ Dachau
+Ron Schallenberg,             M,  1.84 m,  b. 6 Oct 1998 @ Paderborn
 Lukas Daschner,               M,  1.77 m,  b. 1 Oct 1998 @ Duisburg
 Steven Benda,                 G,  1.92 m,  b. 1 Oct 1998 @ Stuttgart
+Jannik Rochelt,               M,  1.83 m,  b. 27 Sep 1998 @ Lindenberg im Allgäu
+Boris Tomiak,                 D,  1.93 m,  b. 11 Sep 1998 @ Essen
 Robin Hack,                   M,  1.76 m,  b. 27 Aug 1998 @ Pforzheim
 Phillip Menzel,               G,  1.91 m,  b. 18 Aug 1998 @ Kiel
 Florian Dietz,                F,  1.90 m,  b. 3 Aug 1998 @ Bad Neustadt an der Saale
+Leon Schaffran,               G,  1.86 m,  b. 31 Jul 1998 @ Berlin
 Steffen Tigges,               F,  1.93 m,  b. 31 Jul 1998 @ Osnabrück
 Nico Gorzel,                  M,  1.74 m,  b. 29 Jul 1998 @ Munich
 Paul Jaeckel,                 D,  1.88 m,  b. 22 Jul 1998 @ Eisenhüttenstadt
 Florent Muslija,              M,  1.72 m,  b. 6 Jul 1998 @ Achern
+Sebastian Klaas,              M,  1.78 m,  b. 30 Jun 1998 @ Ibbenbüren
+Fabian Kunze,                 M,  1.83 m,  b. 14 Jun 1998 @ Bielefeld
+Lukas Kunze,                  M,  1.91 m,  b. 14 Jun 1998 @ Bielefeld
+Markus Schubert,              G,  1.84 m,  b. 12 Jun 1998 @ Freiberg
 Dennis Geiger,                M,  1.72 m,  b. 10 Jun 1998 @ Mosbach
 Iba May,                      M,  1.83 m,  b. 6 Jun 1998 @ Berlin
 Felix Passlack,               M,  1.70 m,  b. 29 May 1998 @ Bottrop
+Robin Heußer,                 M,  1.69 m,  b. 23 May 1998 @ Aschaffenburg
+Dženis Burnić,                M,  1.85 m,  b. 22 May 1998 @ Hamm
+Tim Handwerker,               D,  1.82 m,  b. 19 May 1998 @ Bergisch Gladbach
 Maxim Leitsch,                D,  1.88 m,  b. 18 May 1998 @ Essen
+Simon Rhein,                  M,  1.80 m,  b. 18 May 1998 @ Hilden
 Vitaly Janelt,                M,  1.84 m,  b. 10 May 1998 @ Hamburg
+Johannes Eggestein,           F,  1.83 m,  b. 8 May 1998 @ Hannover
+Lars Ritzka,                  D,  1.85 m,  b. 7 May 1998 @ Hannover
+Orestis Kiomourtzoglou,       M,  1.88 m,  b. 7 May 1998 @ Munich
+Mats Köhlert,                 M,  1.64 m,  b. 2 May 1998 @ Hamburg
+Idrissa Touré,                M,  1.88 m,  b. 29 Apr 1998 @ Berlin
 Moritz-Broni Kwarteng,        M,  1.78 m,  b. 28 Apr 1998 @ Stuttgart
 David Raum,                   D,  1.80 m,  b. 22 Apr 1998 @ Nuremberg
+Erik Engelhardt,              F,  1.79 m,  b. 18 Apr 1998 @ Kulmbach
 Ridle Baku,                   M,  1.76 m,  b. 8 Apr 1998 @ Mainz
 Julian Justvan,               M,  1.77 m,  b. 2 Apr 1998 @ Landshut
 Finn Dahmen,                  G,  1.86 m,  b. 27 Mar 1998 @ Wiesbaden
+Etienne Amenyido,             F,  1.80 m,  b. 1 Mar 1998 @ Herford
 Niklas Schmidt,               M,  1.84 m,  b. 1 Mar 1998 @ Kassel
+Lars Bünning,                 D,  1.87 m,  b. 27 Feb 1998 @ Hamburg
+Philipp Sander,               M,  1.85 m,  b. 21 Feb 1998 @ Rostock
+Yannik Bangsow,               G,  1.90 m,  b. 21 Feb 1998 @ Berlin
+Lion Lauberbach,              F,  1.94 m,  b. 15 Feb 1998 @ Erfurt
 Julian Chabot,                D,  1.95 m,  b. 12 Feb 1998 @ Hanau
 Omar Traoré,                  D,  1.87 m,  b. 4 Feb 1998 @ Osnabrück
+Robin Fellhauer,              D,  1.82 m,  b. 21 Jan 1998 @ Mannheim
 Amos Pieper,                  D,  1.92 m,  b. 17 Jan 1998 @ Lüdinghausen
 Niklas Dorsch,                M,  1.75 m,  b. 15 Jan 1998 @ Lichtenfels
+Christoph Daferner,           F,  1.87 m,  b. 12 Jan 1998 @ Pöttmes
 Salih Özcan,                  M,  1.80 m,  b. 11 Jan 1998 @ Cologne
 Chris Führich,                M,  1.78 m,  b. 9 Jan 1998 @ Castrop-Rauxel
 
+Kevin Schumacher,             M,  1.82 m,  b. 24 Dec 1997 @ Hamelin
 Till Schumacher,              D,  1.75 m,  b. 10 Dec 1997 @ Essen
+Fabian Reese,                 F,  1.84 m,  b. 29 Nov 1997 @ Kiel
 Marco Richter,                M,  1.76 m,  b. 24 Nov 1997 @ Friedberg
 Florian Müller,               G,  1.92 m,  b. 13 Nov 1997 @ Saarlouis
+Anton Donkor,                 M,  1.83 m,  b. 11 Nov 1997 @ Göttingen
 Elvis Rexhbecaj,              M,  1.82 m,  b. 1 Nov 1997 @ Gjonaj
 Moritz Nicolas,               G,  1.93 m,  b. 21 Oct 1997 @ Gladbeck
+Emmanuel Iyoha,               F,  1.85 m,  b. 11 Oct 1997 @ Düsseldorf
+Sebastian Vasiliadis,         M,  1.77 m,  b. 4 Oct 1997 @ Auenwald
+Frederic Ananou,              D,  1.82 m,  b. 20 Sep 1997 @ Munich
 Marvin Mehlem,                M,  1.74 m,  b. 11 Sep 1997 @ Karlsruhe
 Felix Uduokhai,               D,  1.92 m,  b. 9 Sep 1997 @ Annaberg-Buchholz
+Sören Ahlers,                 G,  1.94 m,  b. 9 Sep 1997 @ Oldenburg
+Arianit Ferati,               M,  1.68 m,  b. 7 Sep 1997 @ Stuttgart
+Gino Fechner,                 M,  1.86 m,  b. 5 Sep 1997 @ Bochum
+Jordan Torunarigha,           D,  1.89 m,  b. 7 Aug 1997 @ Chemnitz
+Taylan Duman,                 M,  1.77 m,  b. 30 Jul 1997 @ Moers
+Carlo Sickinger,              M,  1.83 m,  b. 29 Jul 1997 @ Karlsruhe
 Frank Ronstadt,               D,  1.79 m,  b. 21 Jul 1997 @ Hamburg
+Serhat-Semih Güler,           F,  1.81 m,  b. 12 Jul 1997 @ Cologne
+Maximilian Thalhammer,        M,  1.90 m,  b. 10 Jul 1997 @ Freising
 Philip Tietz,                 F,  1.90 m,  b. 9 Jul 1997 @ Braunschweig
+Phil Neumann,                 D,  1.91 m,  b. 8 Jul 1997 @ Herten
+Anderson Lucoqui,             D,  1.80 m,  b. 6 Jul 1997 @ Zweibrücken
+Erik Wekesser,                D,  1.80 m,  b. 3 Jul 1997 @ Schwetzingen
+Florian Kastenmeier,          G,  1.92 m,  b. 28 Jun 1997 @ Regensburg
+Dominik Reimann,              G,  1.85 m,  b. 18 Jun 1997 @ Münster
 Matthias Bader,               D,  1.76 m,  b. 17 Jun 1997 @ Pforzheim
 Adrian Beck,                  M,  1.86 m,  b. 9 Jun 1997 @ Crailsheim
+Alexander Nollenberger,       F,  1.80 m,  b. 4 Jun 1997 @ Memmingen
 Max Besuschkow,               M,  1.85 m,  b. 31 May 1997 @ Tübingen
 Matthias Köbbing,             G,  1.96 m,  b. 28 May 1997 @ Koblenz
+Leon Jensen,                  M,  1.75 m,  b. 19 May 1997 @ Mannheim
 Keven Schlotterbeck,          D,  1.89 m,  b. 28 Apr 1997 @ Weinstadt
+Thore Jacobsen,               M,  1.82 m,  b. 19 Apr 1997 @ Henstedt-Ulzburg
+Arne Sicker,                  D,  1.84 m,  b. 17 Apr 1997 @ Eckernförde
 Suat Serdar,                  M,  1.83 m,  b. 11 Apr 1997 @ Bingen
 Jonas Arweiler,               F,  1.88 m,  b. 10 Apr 1997 @ Püttlingen
+Daniel Elfadli,               M,  1.88 m,  b. 6 Apr 1997 @ Leonberg
 Morten Behrens,               G,  1.93 m,  b. 1 Apr 1997 @ Bad Segeberg
 Scott Kennedy,                D,  1.93 m,  b. 31 Mar 1997 @ Calgary
 Braydon Manu,                 M,  1.70 m,  b. 28 Mar 1997 @ Itzehoe
+Dominik Martinović,           F,  1.79 m,  b. 25 Mar 1997 @ Stuttgart
+Timo Becker,                  D,  1.90 m,  b. 25 Mar 1997 @ Herten
 Maximilian Mittelstädt,       D,  1.78 m,  b. 18 Mar 1997 @ Berlin
 Florian Neuhaus,              M,  1.79 m,  b. 16 Mar 1997 @ Landsberg
 Benjamin Henrichs,            D,  1.81 m,  b. 23 Feb 1997 @ Bocholt
+Finn Porath,                  M,  1.81 m,  b. 23 Feb 1997 @ Lübeck
 Benedikt Gimber,              M,  1.85 m,  b. 19 Feb 1997 @ Buchen
+Avdo Spahić,                  G,  1.90 m,  b. 12 Feb 1997 @ Berlin
+Jannes Horn,                  D,  1.86 m,  b. 6 Feb 1997 @ Braunschweig
+Ba-Muaka Simakala,            F,  1.80 m,  b. 28 Jan 1997 @ Eschweiler
+Lukas Mühl,                   D,  1.88 m,  b. 27 Jan 1997 @ Zwiesel
+Cedric Teuchert,              F,  1.80 m,  b. 14 Jan 1997 @ Coburg
 Fabian Rüdlin,                M,  1.76 m,  b. 13 Jan 1997 @ Müllheim
+Dennis-Yerai Eckert,          F,  1.81 m,  b. 9 Jan 1997 @ Bonn
+Paul Stock,                   F,  1.88 m,  b. 8 Jan 1997 @ Landau
+Leandro Putaro,               F,  1.87 m,  b. 7 Jan 1997 @ Göttingen
+Amara Condé,                  M,  1.73 m,  b. 6 Jan 1997 @ Freiberg
 
+Maurice Multhaup,             M,  1.73 m,  b. 15 Dec 1996 @ Bottrop
+Dave Gnaase,                  M,  1.79 m,  b. 14 Dec 1996 @ Schwäbisch Gmünd
 Nicolai Rapp,                 M,  1.85 m,  b. 13 Dec 1996 @ Heidelberg
 Maximilian Eggestein,         M,  1.81 m,  b. 8 Dec 1996 @ Hannover
 Paterson Chato,               M,  1.88 m,  b. 1 Dec 1996 @ Goma
+Patrick Pflücke,              F,  1.70 m,  b. 30 Nov 1996 @ Dresden
+Marco Komenda,                D,  1.84 m,  b. 26 Nov 1996 @ Darmstadt
+Nader El-Jindaoui,            F,  1.72 m,  b. 16 Nov 1996 @ Berlin
+Nils-Jonathan Körber,         G,  1.86 m,  b. 13 Nov 1996 @ Berlin
 Nadiem Amiri,                 M,  1.78 m,  b. 27 Oct 1996 @ Ludwigshafen am Rhein
 Atakan Karazor,               D,  1.90 m,  b. 13 Oct 1996 @ Essen
+Daniel Hanslik,               F,  1.86 m,  b. 6 Oct 1996 @ Bad Hersfeld
 Alexander Nübel,              G,  1.93 m,  b. 30 Sep 1996 @ Paderborn
+Max Christiansen,             M,  1.87 m,  b. 25 Sep 1996 @ Flensburg
 Thilo Kehrer,                 D,  1.84 m,  b. 21 Sep 1996 @ Tübingen
 Tim Skarke,                   M,  1.80 m,  b. 7 Sep 1996 @ Nattheim
+Leon Bell Bell,               D,  1.80 m,  b. 6 Sep 1996 @ Hanau
 Noah-Joel Sarenren-Bazee,     M,  1.82 m,  b. 21 Aug 1996 @ Celle
 Luca Pfeiffer,                F,  1.95 m,  b. 20 Aug 1996 @ Bad Mergentheim
+Tim Oberdorf,                 D,  1.86 m,  b. 16 Aug 1996 @ Hagen
+Joseph Boyamba,               M,  1.72 m,  b. 29 Jul 1996 @ Troisdorf
 Timo Hübers,                  D,  1.90 m,  b. 20 Jul 1996 @ Hildesheim
 Waldemar Anton,               D,  1.82 m,  b. 20 Jul 1996 @ Olmaliq
 Deniz Undav,                  F,  1.79 m,  b. 19 Jul 1996 @ Achim
 Robin Koch,                   D,  1.90 m,  b. 17 Jul 1996 @ Kaiserslautern
+Lukas Scherff,                M,  1.75 m,  b. 14 Jul 1996 @ Schwerin
+Leo Weinkauf,                 G,  1.96 m,  b. 7 Jul 1996 @ Oldenburg
+Tarek Chahed,                 M,  1.84 m,  b. 23 Jun 1996 @ Berlin
+Alexander Rossipal,           D,  1.84 m,  b. 6 Jun 1996 @ Stuttgart
 Lukas Klostermann,            D,  1.85 m,  b. 3 Jun 1996 @ Gevelsberg
 Luca Waldschmift,             F,  1.77 m,  b. 19 May 1996 @ Siegen
+Janik Bachmann,               M,  1.96 m,  b. 6 May 1996 @ Groß-Umstadt
+Jannik Dehm,                  D,  1.81 m,  b. 2 May 1996 @ Bruchsal
 Julian Brandt,                M,  1.83 m,  b. 2 May 1996 @ Bremen
+Maurice Neubauer,             D,  1.78 m,  b. 29 Apr 1996 @ Recklinghausen
 Christian Kühlwetter,         F,  1.80 m,  b. 21 Apr 1996 @ Bonn
+Joshua Mees,                  M,  1.80 m,  b. 15 Apr 1996 @ Lebach
+Patryk Dragon,                M,  1.86 m,  b. 11 Apr 1996 @ Olesno
+Niko Kijewski,                D,  1.75 m,  b. 28 Mar 1996 @ Büren
+Philipp Hercher,              D,  1.82 m,  b. 21 Mar 1996 @ Rheinfelden
 Pascal Stenzel,               D,  1.84 m,  b. 20 Mar 1996 @ Bünde
+Levin Öztunali,               M,  1.76 m,  b. 15 Mar 1996 @ Hamburg
 Timo Werner,                  F,  1.80 m,  b. 6 Mar 1996 @ Stuttgart
+Timo Baumgartl,               D,  1.89 m,  b. 4 Mar 1996 @ Böblingen
+Felix Platte,                 F,  1.87 m,  b. 11 Feb 1996 @ Höxter
 Jonathan Tah,                 D,  1.92 m,  b. 11 Feb 1996 @ Hamburg
 Aaron Seydel,                 F,  1.99 m,  b. 7 Feb 1996 @ Mainz
 Jonas Föhrenbach,             D,  1.85 m,  b. 26 Jan 1996 @ Freiburg
+Marcel Hartel,                M,  1.76 m,  b. 19 Jan 1996 @ Cologne
 Leroy Sané,                   F,  1.83 m,  b. 11 Jan 1996 @ Essen
 Mahmoud Dahoud,               M,  1.76 m,  b. 1 Jan 1996 @ Amuda
 
 Marvin Friedrich,             D,  1.90 m,  b. 13 Dec 1995 @ Kassel
+David Kinsombi,               M,  1.83 m,  b. 12 Dec 1995 @ Rüdesheim am Rhein
+Timon Wellenreuther,          G,  1.86 m,  b. 3 Dec 1995 @ Karlsruhe
+Marco Meyerhöfer,             D,  1.79 m,  b. 18 Nov 1995 @ Bad Homburg
 Niklas Klinger,               G,  1.86 m,  b. 13 Oct 1995 @ Wolfsburg
+Marco Schuster,               M,  1.79 m,  b. 10 Oct 1995 @ Rögling
+Robin Bormuth,                D,  1.84 m,  b. 19 Sep 1995 @ Groß-Rohrheim
 Florian Pick,                 M,  1.76 m,  b. 8 Sep 1995 @ Wittlich
 Julian Weigl,                 M,  1.86 m,  b. 8 Sep 1995 @ Bad Aibling
 Raphael Framberger,           D,  1.79 m,  b. 6 Sep 1995 @ Augsburg
 Niklas Süle,                  D,  1.94 m,  b. 3 Sep 1995 @ Frankfurt am Main
 Tim Kleindienst,              F,  1.94 m,  b. 31 Aug 1995 @ Jüterbog
+Jeremy Dudziak,               M,  1.74 m,  b. 28 Aug 1995 @ Duisburg
+Tobias Mohr,                  M,  1.83 m,  b. 24 Aug 1995 @ Aachen
+Nico Rieble,                  D,  1.83 m,  b. 22 Aug 1995 @ Rastatt
 Maximilian Wittek,            D,  1.70 m,  b. 21 Aug 1995 @ Freising
 Mike-Steven Bähre,            M,  1.77 m,  b. 10 Aug 1995 @ Garbsen
 Serge Gnabry,                 M,  1.73 m,  b. 14 Jul 1995 @ Stuttgart
 Michael Zetterer,             G,  1.87 m,  b. 12 Jul 1995 @ Munich
 Alexander Brunst-Zöllner,     G,  1.95 m,  b. 7 Jul 1995 @ Neumünster
+Maximilian Rohr,              D,  1.93 m,  b. 27 Jun 1995 @ Bad Friedrichshall
+Kai Eisele,                   G,  1.91 m,  b. 25 Jun 1995 @ Friesenheim
+Marius Gersbeck,              G,  1.87 m,  b. 20 Jun 1995 @ Berlin
+Jan Gyamerah,                 D,  1.84 m,  b. 18 Jun 1995 @ Berlin
 Marius Wolf,                  F,  1.87 m,  b. 27 May 1995 @ Coburg
+Jan-Hendrik Marx,             D,  1.73 m,  b. 26 Apr 1995 @ Bad Soden
 Marvin Schwäbe,               G,  1.90 m,  b. 25 Apr 1995 @ Dieburg
 Kevin Akpoguma,               D,  1.90 m,  b. 19 Apr 1995 @ Neustadt an der Weinstraße
 Niklas Stark,                 D,  1.88 m,  b. 14 Apr 1995 @ Neustadt an der Aisch
+Moritz Heyer,                 D,  1.82 m,  b. 4 Apr 1995 @ Ostercappeln
+Paul Seguin,                  M,  1.86 m,  b. 29 Mar 1995 @ Magdeburg
 Gerrit Holtmann,              F,  1.83 m,  b. 25 Mar 1995 @ Bremen
+Sebastian Ernst,              M,  1.77 m,  b. 4 Mar 1995 @ Neustadt am Rübenberge
 Fabian Bredlow,               G,  1.91 m,  b. 2 Mar 1995 @ Berlin
+Marcel Mehlem,                M,  1.73 m,  b. 1 Mar 1995 @ Germersheim
+Emanuel Taffertshofer,        M,  1.74 m,  b. 24 Feb 1995 @ Landsberg
 Joshua Kimmich,               M,  1.76 m,  b. 8 Feb 1995 @ Rottweil
 Leon Goretzka,                M,  1.89 m,  b. 6 Feb 1995 @ Bochum
 Philipp Förster,              M,  1.90 m,  b. 4 Feb 1995 @ Bretten
+Marc-Oliver Kempf,            D,  1.86 m,  b. 28 Jan 1995 @ Lich
+Felix Lohkemper,              F,  1.80 m,  b. 26 Jan 1995 @ Wetzlar
+Patrick Erras,                D,  1.95 m,  b. 21 Jan 1995 @ Amberg
 Davie Selke,                  F,  1.92 m,  b. 20 Jan 1995 @ Schorndorf
+Marvin Schulz,                M,  1.86 m,  b. 15 Jan 1995 @ Mülheim an der Ruhr
 Grischa Prömel,               M,  1.82 m,  b. 9 Jan 1995 @ Stuttgart
 
 Marnon Busch,                 D,  1.82 m,  b. 8 Dec 1994 @ Stade
 Benno Schmitz,                D,  1.82 m,  b. 17 Nov 1994 @ Munich
+Malcolm Cacutalua,            D,  1.86 m,  b. 15 Nov 1994 @ Troisdorf
 Patrick Mainka,               D,  1.92 m,  b. 6 Nov 1994 @ Gütersloh
 Robin Zentner,                G,  1.93 m,  b. 28 Oct 1994 @ Rüdesheim
+Marlon Ritter,                M,  1.70 m,  b. 15 Oct 1994 @ Essen
+Manuel Feil,                  M,  1.70 m,  b. 8 Oct 1994 @ Augsburg
+Nico Neidhart,                D,  1.77 m,  b. 27 Sep 1994 @ Flensburg
 Christopher Lenz,             D,  1.80 m,  b. 22 Sep 1994 @ Berlin
 Robert Andrich,               M,  1.85 m,  b. 22 Sep 1994 @ Potsdam
+Connor Krempicki,             M,  1.78 m,  b. 14 Sep 1994 @ Gelsenkirchen
+Gideon Jung,                  D,  1.89 m,  b. 12 Sep 1994 @ Düsseldorf
+Jonas Meffert,                M,  1.86 m,  b. 4 Sep 1994 @ Cologne
+Kenny Prince Redondo,         M,  1.81 m,  b. 29 Aug 1994 @ Munich
+Julian Pollersbeck,           G,  1.95 m,  b. 16 Aug 1994 @ Altötting
 Koray Günter,                 D,  1.84 m,  b. 16 Aug 1994 @ Höxter
 Jeremy Toljan,                D,  1.82 m,  b. 8 Aug 1994 @ Stuttgart
+Sebastian Schonlau,           D,  1.85 m,  b. 5 Aug 1994 @ Warburg
 Lucas Höler,                  F,  1.84 m,  b. 10 Jul 1994 @ Achim
+Tobias Müller,                D,  1.88 m,  b. 8 Jul 1994 @ Tiefenbronn
 Robin Gosens,                 D,  1.83 m,  b. 5 Jul 1994 @ Emmerich
+Daniel Heber,                 D,  1.82 m,  b. 4 Jul 1994 @ Neuss
 Maximilian Arnold,            M,  1.83 m,  b. 27 May 1994 @ Riesa
+Luca Schnellbacher,           M,  1.80 m,  b. 6 May 1994 @ Groß-Umstadt
+Dennis Srbeny,                F,  1.90 m,  b. 5 May 1994 @ Berlin
 Stefan Schimmer,              F,  1.85 m,  b. 28 Apr 1994 @ Wertingen
+Marcel Sobottka,              M,  1.83 m,  b. 25 Apr 1994 @ Gelsenkirchen
 Mitchell Weiser,              D,  1.76 m,  b. 21 Apr 1994 @ Troisdorf
+Hauke Wahl,                   D,  1.85 m,  b. 15 Apr 1994 @ Hamburg
+Jannik Huth,                  G,  1.85 m,  b. 15 Apr 1994 @ Bingen
 Leopold Zingerle,             G,  1.85 m,  b. 10 Apr 1994 @ Munich
 Janik Haberer,                M,  1.87 m,  b. 2 Apr 1994 @ Wangen im Allgäu
+Robin Krauße,                 M,  1.77 m,  b. 2 Apr 1994 @ Rudolstadt
+Ahmet Arslan,                 M,  1.79 m,  b. 30 Mar 1994 @ Memmingen
+Danilo Wiebe,                 M,  1.87 m,  b. 22 Mar 1994 @ Siegburg
 Yannick Gerhardt,             M,  1.84 m,  b. 13 Mar 1994 @ Würselen
 Marvin Ducksch,               F,  1.86 m,  b. 7 Mar 1994 @ Dortmund
 Maximilian Philipp,           F,  1.79 m,  b. 1 Mar 1994 @ Berlin
 Christopher Antwi-Adjej,      M,  1.73 m,  b. 7 Feb 1994 @ Hagen
 Dominik Kohr,                 M,  1.83 m,  b. 31 Jan 1994 @ Trier
+Florian Stritzel,             G,  1.96 m,  b. 31 Jan 1994 @ Neubrandenburg
 Rani Khedira,                 M,  1.85 m,  b. 27 Jan 1994 @ Stuttgart
 Hendrik Bonmann,              G,  1.91 m,  b. 22 Jan 1994 @ Essen
 Cimo Röcker,                  D,  1.86 m,  b. 21 Jan 1994 @ Schneverdingen
 Matthias Ginter,              D,  1.87 m,  b. 19 Jan 1994 @ March
 Jannik Müller,                D,  1.86 m,  b. 18 Jan 1994 @ Adenau
+Carl Klaus,                   G,  1.85 m,  b. 16 Jan 1994 @ Stuttgart
 Emre Can,                     M,  1.84 m,  b. 12 Jan 1994 @ Frankfurt am Main
 Fabian Schnellhardt,          M,  1.79 m,  b. 12 Jan 1994 @ Leinefelde
+Robert Glatzel,               F,  1.93 m,  b. 8 Jan 1994 @ Munich
+Thomas Dähne,                 G,  1.93 m,  b. 4 Jan 1994 @ Oberaudorf
 
 Leonardo Bittencourt,         M,  1.71 m,  b. 19 Dec 1993 @ Leipzig
+Jean Zimmer,                  M,  1.71 m,  b. 6 Dec 1993 @ Bad Dürkheim
+Mario Engels,                 F,  1.83 m,  b. 22 Oct 1993 @ Cologne
 Philipp Max,                  D,  1.78 m,  b. 30 Sep 1993 @ Viersen
 Julian Draxler,               M,  1.83 m,  b. 20 Sep 1993 @ Gladbeck
+Luca Dürholtz,                M,  1.78 m,  b. 18 Aug 1993 @ Remscheid
+Johannes Geis,                M,  1.81 m,  b. 17 Aug 1993 @ Schweinfurt
 Dominique Heintz,             D,  1.90 m,  b. 15 Aug 1993 @ Neustadt an der Weinstraße
 Benjamin Uphoff,              G,  1.90 m,  b. 8 Aug 1993 @ Burghausen
+Jannis Nikolaou,              M,  1.87 m,  b. 31 Jul 1993 @ Bonn
 Niklas Lomb,                  G,  1.88 m,  b. 28 Jul 1993 @ Cologne
 Danny da Costa,               D,  1.75 m,  b. 13 Jul 1993 @ Neuss
+Marius Müller,                G,  1.92 m,  b. 12 Jul 1993 @ Heppenheim
+Kevin Möhwald,                M,  1.83 m,  b. 3 Jul 1993 @ Erfurt
+Tim Boss,                     G,  1.86 m,  b. 28 Jun 1993 @ Cologne
+Philip Sprint,                G,  1.96 m,  b. 27 Jun 1993 @ Berlin
 Loris Karius,                 G,  1.89 m,  b. 22 Jun 1993 @ Biberach
+Edisson Jordanov,             D,  1.72 m,  b. 8 Jun 1993 @ Rostock
 Timo Horn,                    G,  1.90 m,  b. 12 May 1993 @ Cologne
+Marvin Wanitzek,              M,  1.79 m,  b. 7 May 1993 @ Bruchsal
+Marcel Engelhardt,            G,  1.91 m,  b. 5 Apr 1993 @ Greven
+Marcel Franke,                D,  1.93 m,  b. 5 Apr 1993 @ Dresden
 Philipp Hofmann,              F,  1.94 m,  b. 30 Mar 1993 @ Arnsberg
 Marius Bülter,                F,  1.88 m,  b. 29 Mar 1993 @ Ibbenbüren
 Philipp Ziereis,              D,  1.89 m,  b. 14 Mar 1993 @ Schwarzhofen
+Tom Trybull,                  M,  1.81 m,  b. 9 Mar 1993 @ Berlin
 Antonio Rüdiger,              D,  1.90 m,  b. 3 Mar 1993 @ Berlin
+Andre Hoffmann,               D,  1.88 m,  b. 28 Feb 1993 @ Essen
 Christian Günter,             D,  1.84 m,  b. 28 Feb 1993 @ Villingen
+Damian Roßbach,               D,  1.88 m,  b. 27 Feb 1993 @ Frankfurt am Main
+Oliver Hüsing,                D,  1.93 m,  b. 17 Feb 1993 @ Bühren
 Niclas Füllkrug,              F,  1.88 m,  b. 9 Feb 1993 @ Hannover
+Patrick Drewes,               G,  1.94 m,  b. 4 Feb 1993 @ Delmenhorst
+Robert Leipertz,              M,  1.82 m,  b. 1 Feb 1993 @ Jülich
 Marcel Schuhen,               G,  1.89 m,  b. 13 Jan 1993 @ Kirchen (Sieg)
 Christoph Zimmermann,         D,  1.94 m,  b. 12 Jan 1993 @ Düsseldorf
 
+Bashkim Ajdini,               D,  1.76 m,  b. 10 Dec 1992 @ Halmstad
+Steven Skrzybski,             M,  1.73 m,  b. 18 Nov 1992 @ Berlin
 Stefan Ortega,                G,  1.83 m,  b. 6 Nov 1992 @ Hofgeismar
+Patrick Bauer,                D,  1.92 m,  b. 28 Oct 1992 @ Backnang
+Felix Klaus,                  M,  1.79 m,  b. 13 Sep 1992 @ Osnabrück
+Philipp Klement,              M,  1.74 m,  b. 9 Sep 1992 @ Ludwigshafen am Rhein
+Fabio Kaufmann,               M,  1.80 m,  b. 8 Sep 1992 @ Aalen
+Philipp Kühn,                 G,  1.89 m,  b. 2 Sep 1992 @ Beckum
 Lukas Kübler,                 D,  1.83 m,  b. 30 Aug 1992 @ Bonn
 Denis Thomalla,               F,  1.86 m,  b. 16 Aug 1992 @ Pforzheim
+Kevin Kraus,                  D,  1.90 m,  b. 12 Aug 1992 @ Wiesbaden
 Kevin Volland,                F,  1.79 m,  b. 30 Jul 1992 @ Marktoberdorf
 Jonas Hofmann,                M,  1.76 m,  b. 14 Jul 1992 @ Heidelberg
+Matthias Zimmermann,          D,  1.74 m,  b. 16 Jun 1992 @ Pforzheim
 Mario Götze,                  M,  1.76 m,  b. 3 Jun 1992 @ Memmingen
 Alexander Schwolow,           G,  1.89 m,  b. 2 Jun 1992 @ Wiesbaden
 Robin Knoche,                 D,  1.72 m,  b. 22 May 1992 @ Braunschweig
+Marco Thiede,                 D,  1.75 m,  b. 20 May 1992 @ Augsburg
+Kai Pröger,                   M,  1.77 m,  b. 15 May 1992 @ Wilhelmshaven
+Erik Durm,                    D,  1.83 m,  b. 12 May 1992 @ Pirmasens
+Ben Zolinski,                 F,  1.81 m,  b. 3 May 1992 @ Berlin
 Marc-André ter Stegen,        G,  1.87 m,  b. 30 Apr 1992 @ Mönchengladbach
+Gerrit Nauber,                D,  1.85 m,  b. 13 Apr 1992 @ Georgsmarienhütte
+Christian Mathenia,           G,  1.89 m,  b. 31 Mar 1992 @ Mainz
 Rico Benatelli,               M,  1.81 m,  b. 17 Mar 1992 @ Bochum
 Bernd Leno,                   G,  1.89 m,  b. 4 Mar 1992 @ Bietigheim-Bissingen
+Lennart Thy,                  F,  1.82 m,  b. 25 Feb 1992 @ Frechen
+Pascal Breier,                F,  1.85 m,  b. 2 Feb 1992 @ Nürtingen
+Andreas Voglsammer,           F,  1.78 m,  b. 9 Jan 1992 @ Rosenheim
 
 Diego Demme,                  M,  1.70 m,  b. 21 Nov 1991 @ Herford
 Anthony Jung,                 D,  1.85 m,  b. 3 Nov 1991 @ Villajoyosa
+Brian Behrendt,               D,  1.87 m,  b. 24 Oct 1991 @ Bremervörde
+Fabian Schleusener,           F,  1.86 m,  b. 24 Oct 1991 @ Freiburg
+Marcel Halstenberg,           D,  1.86 m,  b. 27 Sep 1991 @ Laatzen
+Niko Gießelmann,              D,  1.81 m,  b. 26 Sep 1991 @ Hannover
 Kevin Vogt,                   D,  1.94 m,  b. 23 Sep 1991 @ Bochum
+Sascha Mockenhaupt,           D,  1.85 m,  b. 10 Sep 1991 @ Kirchen
 Mark Uth,                     F,  1.85 m,  b. 24 Aug 1991 @ Cologne
 Stefan Bell,                  D,  1.92 m,  b. 24 Aug 1991 @ Andernach
 Simon Zoller,                 F,  1.79 m,  b. 26 Jun 1991 @ Friedrichshafen
+Philip Heise,                 D,  1.84 m,  b. 20 Jun 1991 @ Düsseldorf
 Pascal Groß,                  M,  1.71 m,  b. 15 Jun 1991 @ Bad Salzungen
 Janis Blaswich,               G,  1.93 m,  b. 2 May 1991 @ Mehrhoog
 Alexander Meyer,              G,  1.95 m,  b. 13 Apr 1991 @ Bad Oldesloe
+Daniel Ginczek,               F,  1.90 m,  b. 13 Apr 1991 @ Arnsberg
+Adriano Grimaldi,             F,  1.88 m,  b. 5 Apr 1991 @ Göttingen
 Sebastian Polter,             F,  1.92 m,  b. 1 Apr 1991 @ Wilhelmshaven
+Thomas Meißner,               D,  1.91 m,  b. 26 Mar 1991 @ Schweinfurt
 Kevin Müller,                 G,  1.89 m,  b. 15 Mar 1991 @ Rostock
+Florian Hübner,               D,  1.90 m,  b. 1 Mar 1991 @ Wiesbaden
 Christoph Kramer,             M,  1.90 m,  b. 19 Feb 1991 @ Solingen
 Manuel Gulde,                 D,  1.83 m,  b. 12 Feb 1991 @ Mannheim
 Patrick Herrmann,             F,  1.79 m,  b. 12 Feb 1991 @ Saarbrücken
 Kevin Behrens,                F,  1.84 m,  b. 3 Feb 1991 @ Bremen
+Julian Börner,                D,  1.80 m,  b. 21 Jan 1991 @ Weimar
 Daniel Batz,                  G,  1.90 m,  b. 12 Jan 1991 @ Erlangen
 
+Timo Beermann,                D,  1.88 m,  b. 10 Dec 1990 @ Ostercappeln
 Vitus Eicher,                 G,  1.90 m,  b. 5 Nov 1990 @ Erding
+Florian Niederlechner,        F,  1.87 m,  b. 24 Oct 1990 @ Ebersberg
 İlkay Gündoğan,               M,  1.80 m,  b. 24 Oct 1990 @ Gelsenkirchen
 Sebastian Rode,               M,  1.79 m,  b. 11 Oct 1990 @ Frankfurt am Main
 Ferdinand Oswald,             G,  1.83 m,  b. 5 Oct 1990 @ Weilheim
+Sebastian Griesbeck,          D,  1.89 m,  b. 3 Oct 1990 @ Ulm
+Lewis Holtby,                 M,  1.74 m,  b. 18 Sep 1990 @ Erkelenz
+Toni Leistner,                D,  1.90 m,  b. 19 Aug 1990 @ Dresden
+Markus Kolke,                 G,  1.87 m,  b. 18 Aug 1990 @ Erlenbach
+Kevin Conrad,                 D,  1.81 m,  b. 10 Aug 1990 @ Künzelsau
+Hendrick Zuck,                M,  1.76 m,  b. 21 Jul 1990 @ Püttlingen
+Lars Unnerstall,              G,  1.98 m,  b. 20 Jul 1990 @ Ibbenbüren
 Sven Michel,                  F,  1.78 m,  b. 15 Jul 1990 @ Freudenberg
 Fabian Holland,               D,  1.72 m,  b. 11 Jul 1990 @ Berlin
 Kevin Trapp,                  G,  1.89 m,  b. 8 Jul 1990 @ Merzig
+Sebastian Jung,               D,  1.79 m,  b. 22 Jun 1990 @ Königstein
 Oliver Baumann,               G,  1.87 m,  b. 2 Jun 1990 @ Breisach
+Dominick Drexler,             M,  1.83 m,  b. 26 May 1990 @ Bonn
+Christopher Schindler,        D,  1.88 m,  b. 29 Apr 1990 @ Munich
 Tony Jantschke,               D,  1.77 m,  b. 7 Apr 1990 @ Hoyerswerda
 Nicolas Höfler,               M,  1.81 m,  b. 9 Mar 1990 @ Überlingen
 Toni Kroos,                   M,  1.83 m,  b. 4 Jan 1990 @ Greifswald
 
+Edgar Prib,                   M,  1.81 m,  b. 15 Dec 1989 @ Neryungri
 Klaus Gjasula,                M,  1.92 m,  b. 14 Dec 1989 @ Tirana
+Danny Latza,                  M,  1.79 m,  b. 7 Dec 1989 @ Gelsenkirchen
+Sascha Burchert,              G,  1.85 m,  b. 30 Oct 1989 @ Berlin
 Thomas Müller,                F,  1.86 m,  b. 13 Sep 1989 @ Weilheim in Oberbayern
 Tobias Kempe,                 M,  1.84 m,  b. 27 Jun 1989 @ Wesel
 Marco Reus,                   F,  1.80 m,  b. 31 May 1989 @ Dortmund
+Frank Lehmann,                G,  1.92 m,  b. 29 Apr 1989 @ Balingen
+Tom Mickel,                   G,  1.86 m,  b. 19 Apr 1989 @ Hoyerswerda
+Enrico Valentini,             D,  1.82 m,  b. 20 Feb 1989 @ Nuremberg
+Ron-Robert Zieler,            G,  1.87 m,  b. 12 Feb 1989 @ Cologne
 Christian Groß,               D,  1.82 m,  b. 8 Feb 1989 @ Bremen
+Robin Himmelmann,             G,  1.86 m,  b. 5 Feb 1989 @ Moers
 
 Mats Hummels,                 D,  1.92 m,  b. 16 Dec 1988 @ Bensberg
+Ralf Fährmann,                G,  1.94 m,  b. 27 Sep 1988 @ Karl-Marx-Stadt
 Jens Grahl,                   G,  1.96 m,  b. 22 Sep 1988 @ Stuttgart
 Manuel Riemann,               G,  1.85 m,  b. 9 Sep 1988 @ Mühldorf am Inn
 Jérôme Boateng,               D,  1.92 m,  b. 3 Sep 1988 @ Berlin
+Lars Stindl,                  M,  1.80 m,  b. 26 Aug 1988 @ Waghäusel
 Sven Ulreich,                 G,  1.92 m,  b. 3 Aug 1988 @ Schorndorf
+Daniel Brosinski,             D,  1.78 m,  b. 17 Jul 1988 @ Karlsruhe
+Jérôme Gondorf,               M,  1.75 m,  b. 26 Jun 1988 @ Karlsruhe
 Tobias Sippel,                G,  1.80 m,  b. 22 Mar 1988 @ Bad Dürkheim
+Max Kruse,                    F,  1.80 m,  b. 19 Mar 1988 @ Reinbek
+Simon Terodde,                F,  1.92 m,  b. 2 Mar 1988 @ Bocholt
 
 Michael Esser,                G,  1.98 m,  b. 22 Nov 1987 @ Castrop-Rauxel
+Robert Tesche,                M,  1.80 m,  b. 27 May 1987 @ Wismar
 Andreas Luthe,                G,  1.94 m,  b. 10 Mar 1987 @ Velbert
 Norman Theuerkauf,            D,  1.83 m,  b. 24 Jan 1987 @ Nordhausen
 
