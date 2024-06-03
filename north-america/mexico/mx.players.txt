@@ -16,9 +16,13 @@ Edson Álvarez,                D,  1.85 m,  b. 24 Oct 1997 @ Tlalnepantla de Baz
 César Montes,                 D,  1.96 m,  b. 24 Feb 1997 @ Hermosillo
 
 Juan Antonio Portales,        D,  1.79 m,  b. 16 May 1996 @ Tampico
+Orbelín Pineda,               M,  1.68 m,  b. 24 Mar 1996 @ Coyuca de Catalán
+Luis Chávez,                  M,  1.78 m,  b. 15 Jan 1996 @ Ciudad Guzmán
 
 Hirving Lozano,               M,  1.77 m,  b. 30 Jul 1995 @ Mexico City
 Diego Pineda,                 F,  1.76 m,  b. 8 Apr 1995 @ San Luís Potosí
+
+Rodolfo Pizarro,              M,  1.77 m,  b. 15 Feb 1994 @ Tampico
 
 Jesús Manuel Corona,          F,  1.73 m,  b. 6 Jan 1993 @ Hermosillo
 

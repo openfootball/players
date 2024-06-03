@@ -16,19 +16,25 @@ Facundo Pellistri,            M,  1.74 m,  b. 20 Dec 2001 @ Montevideo
 Agustín Álvarez,              F,  1.80 m,  b. 19 May 2001 @ San Bautista
 Gastón Vallés,                F,  - ,      b. 10 May 2001
 Manuel Ugarte,                M,  1.77 m,  b. 11 Apr 2001 @ Montevideo
+Nicolás Marichal,             D,  1.85 m,  b. 17 Mar 2001 @ Sarandí del Yí
 Martín Satriano,              F,  1.84 m,  b. 20 Feb 2001 @ Montevideo
 Matías Rocha,                 D,  1.83 m,  b. 13 Feb 2001 @ Paysandú
 Lautaro De León,              F,  1.85 m,  b. 9 Feb 2001 @ Montevideo
+Mathías Tomás,                F,  1.74 m,  b. 30 Jan 2001
 
+Gerónimo Bortagaray,          D,  1.84 m,  b. 5 Aug 2000 @ Salto
 Franco Israel,                G,  1.90 m,  b. 22 Apr 2000 @ Nueva Helvecia
 Gastón Álvarez,               D,  1.84 m,  b. 24 Mar 2000 @ Melo
 
+Juan Boselli,                 M,  1.74 m,  b. 9 Nov 1999 @ Montevideo
 Bruno Méndez,                 D,  1.84 m,  b. 10 Sep 1999 @ Montevideo
+Emiliano Martínez,            M,  1.84 m,  b. 17 Aug 1999 @ Punta del Este
 Rodrigo Zalazar,              M,  1.78 m,  b. 12 Aug 1999 @ Albacete
 Brian Ocampo,                 F,  1.72 m,  b. 25 Jun 1999 @ Florida
 Darwin Núñez,                 F,  1.87 m,  b. 24 Jun 1999 @ Artigas
 Alfonso Trezza,               F,  1.66 m,  b. 22 Jun 1999 @ Florida
 Ronald Araújo,                D,  1.91 m,  b. 7 Mar 1999 @ Rivera
+Joaquín Ardaiz,               F,  1.83 m,  b. 11 Jan 1999 @ Salto
 
 Santiago Bueno,               D,  1.89 m,  b. 9 Nov 1998 @ Montevideo
 Federico Valverde,            M,  1.81 m,  b. 22 Jul 1998 @ Montevideo
@@ -41,6 +47,7 @@ Rodrigo Bentancur,            M,  1.87 m,  b. 25 Jun 1997 @ Nueva Helvecia
 Ignacio De Arruabarrena,      G,  1.81 m,  b. 16 Jan 1997 @ Montevideo
 
 Maximiliano Gómez,            F,  1.86 m,  b. 14 Aug 1996 @ Paysandú
+Lucas Torreira,               M,  1.68 m,  b. 11 Feb 1996 @ Fray Bentos
 
 Nahitan Nández,               M,  1.72 m,  b. 28 Dec 1995 @ Punta del Este
 Mauro Arambarri,              M,  1.75 m,  b. 30 Sep 1995 @ Salto
@@ -51,11 +58,17 @@ José Giménez,                 D,  1.85 m,  b. 20 Jan 1995 @ Toledo
 
 Federico Ricca,               D,  1.78 m,  b. 1 Dec 1994 @ Tarariras
 Giovanni González,            D,  1.75 m,  b. 20 Sep 1994 @ Montevideo
+Lucas Olaza,                  D,  1.77 m,  b. 21 Jul 1994 @ Montevideo
+Maximiliano Moreira,          D,  1.73 m,  b. 11 Jun 1994 @ Maldonado
 Rodrigo Abascal,              D,  1.86 m,  b. 14 Jan 1994 @ Montevideo
 
+Adrián Colombino,             M,  1.76 m,  b. 12 Oct 1993 @ Montevideo
 Felipe Avenatti,              F,  1.96 m,  b. 26 Apr 1993 @ Montevideo
+Federico Gino,                M,  1.73 m,  b. 26 Feb 1993 @ Melo
+Diego Laxalt,                 D,  1.78 m,  b. 7 Feb 1993 @ Montevideo
 
 César Falletti,               F,  1.74 m,  b. 2 Dec 1992 @ Artigas
+Mathías Acuña,                F,  1.74 m,  b. 28 Nov 1992 @ Montevideo
 Alfonso Espino,               D,  1.70 m,  b. 5 Jan 1992 @ San Jacinto
 
 Giovanni Zarfino,             M,  1.84 m,  b. 8 Oct 1991 @ Montevideo
@@ -63,8 +76,11 @@ Matías Vecino,                M,  1.87 m,  b. 24 Aug 1991 @ Canelones
 Leandro Cabrera,              D,  1.87 m,  b. 17 Jun 1991 @ Montevideo
 
 Sebastián Coates,             D,  1.96 m,  b. 7 Oct 1990 @ Montevideo
+Jean Barrientos,              M,  1.73 m,  b. 16 Sep 1990 @ Montevideo
 
 Jonathan Iglesias,            M,  1.80 m,  b. 17 Dec 1988 @ Montevideo
 Damián Suárez,                D,  1.72 m,  b. 27 Apr 1988 @ Montevideo
+Jonathan Sabbatini,           M,  1.75 m,  b. 31 Mar 1988 @ Paysandú
 
 Cristhian Stuani,             F,  1.86 m,  b. 12 Oct 1986 @ Tala
+Fernando Muslera,             G,  1.90 m,  b. 16 Jun 1986 @ Montevideo

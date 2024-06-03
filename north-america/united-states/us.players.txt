@@ -11,10 +11,13 @@ Tyler Bindon,                 D,  - ,      b. 27 Jan 2005
 
 Joel Imasuen,                 F,  1.93 m,  b. 27 Oct 2004 @ Atlanta
 Luca Koleosho,                M,  1.75 m,  b. 15 Sep 2004 @ Norwalk
+Rokas Pukštas,                M,  1.81 m,  b. 25 Aug 2004 @ Stillwater
 Gabriel Slonina,              G,  1.93 m,  b. 15 May 2004 @ Addison
+Justin Reynolds,              D,  1.75 m,  b. 8 Apr 2004 @ Chicago
 Zach Booth,                   M,  - ,      b. 17 Feb 2004 @ Eden
 
 Vicente Reyes,                G,  1.94 m,  b. 19 Nov 2003 @ Charleston
+Justin Che,                   D,  1.85 m,  b. 18 Nov 2003 @ Richardson
 Alex Borto,                   G,  1.88 m,  b. 6 Nov 2003 @ South Plainfield
 Jonathan Gómez,               D,  1.76 m,  b. 1 Sep 2003 @ North Richland Hills
 Paxten Aaronson,              M,  1.75 m,  b. 26 Aug 2003 @ Medford
@@ -22,11 +25,13 @@ Alejandro Alvarado,           M,  1.73 m,  b. 29 Jul 2003 @ Los Angeles
 Caden Clark,                  M,  1.80 m,  b. 27 May 2003 @ Medina
 Kevin Paredes,                M,  1.68 m,  b. 7 May 2003 @ South Riding
 Ethan Mitchell,               D,  - ,      b. 13 Feb 2003 @ Liverpool
+Johann Angstmann,             M,  1.87 m,  b. 16 Jan 2003 @ Hollywood, FL
 Ricardo Pepi,                 F,  1.85 m,  b. 9 Jan 2003 @ El Paso
 
 Joe Scally,                   D,  1.78 m,  b. 31 Dec 2002 @ Lake Grove
 Yunus Musah,                  M,  1.78 m,  b. 29 Nov 2002 @ New York
 Giovanni Reyna,               M,  1.83 m,  b. 13 Nov 2002 @ Sunderland
+Jayden Nelson,                F,  1.70 m,  b. 26 Sep 2002 @ Brampton
 Griffin Yow,                  M,  1.70 m,  b. 25 Sep 2002 @ Clifton
 Kahveh Zahiroleslam,          F,  1.93 m,  b. 13 Jun 2002 @ Saratoga
 Gianluca Busio,               M,  1.72 m,  b. 28 May 2002 @ Greensboro
@@ -35,6 +40,7 @@ Nico Carrera,                 D,  1.93 m,  b. 6 May 2002 @ Pachuca
 Agustin Anello,               F,  1.82 m,  b. 22 Apr 2002 @ Miami
 Jonathan Tomkinson,           D,  1.90 m,  b. 11 Apr 2002 @ Plano
 Maximilian Dietz,             D,  1.89 m,  b. 9 Feb 2002 @ New York
+Adam Saldaña,                 M,  1.73 m,  b. 7 Feb 2002 @ Panorama City
 Ethan Wady,                   G,  - ,      b. 25 Jan 2002 @ San Jose
 George Bello,                 D,  1.70 m,  b. 22 Jan 2002 @ Abuja
 
@@ -55,13 +61,20 @@ Nicholas Gioacchini,          F,  1.83 m,  b. 25 Jul 2000 @ Kansas City
 Kik Pierie,                   D,  1.83 m,  b. 20 Jul 2000 @ Boston
 Dante Polvara,                M,  1.93 m,  b. 21 Jun 2000 @ Pleasantville
 Daryl Dike,                   F,  1.88 m,  b. 3 Jun 2000 @ Edmond
+Ben Lederman,                 M,  1.82 m,  b. 8 May 2000 @ Calabasas
+Aboubacar Keita,              D,  1.88 m,  b. 6 Apr 2000 @ New York
 Chris Richards,               D,  1.88 m,  b. 28 Mar 2000 @ Birmingham, AL
 Timothy Weah,                 F,  1.85 m,  b. 22 Feb 2000 @ New York
 Josh Sargent,                 F,  1.85 m,  b. 20 Feb 2000 @ O'Fallon
 
 Anthony Fontana,              M,  1.73 m,  b. 14 Oct 1999 @ Newark
+Christian Cappis,             M,  1.85 m,  b. 13 Aug 1999 @ Katy
+Milan Iloski,                 F,  1.78 m,  b. 29 Jul 1999 @ Escondido
 Sam Vines,                    D,  1.78 m,  b. 31 May 1999 @ Colorado Springs
+Sam Rogers,                   D,  1.93 m,  b. 17 May 1999 @ Seattle
+Jonathan Amon,                M,  1.75 m,  b. 30 Apr 1999 @ Summerville
 Mark McKenzie,                D,  1.83 m,  b. 25 Feb 1999 @ The Bronx
+Vincent Borden,               M,  1.91 m,  b. 21 Feb 1999 @ New York
 Tyler Adams,                  M,  1.75 m,  b. 14 Feb 1999 @ Wappingers Falls
 Brandon Austin,               G,  1.88 m,  b. 8 Jan 1999 @ Hemel Hempstead
 
@@ -70,27 +83,36 @@ Christian Pulisic,            F,  1.73 m,  b. 18 Sep 1998 @ Easton
 Marlon Fossey,                D,  1.79 m,  b. 9 Sep 1998 @ Los Angeles
 Weston McKennie,              M,  1.78 m,  b. 28 Aug 1998 @ Little Elm
 Auston Trusty,                D,  1.91 m,  b. 12 Aug 1998 @ Media
+Patrick Hickey,               D,  1.83 m,  b. 2 Jul 1998 @ Chicago
 Reggie Cannon,                D,  1.80 m,  b. 11 Jun 1998 @ Chicago
 Luca De La Torre,             M,  1.75 m,  b. 23 May 1998 @ San Diego
+Danny Trejo,                  M,  1.75 m,  b. 29 Apr 1998 @ Morelia
 Haji Wright,                  F,  1.88 m,  b. 27 Mar 1998 @ Los Angeles
+Steven Juncaj,                M,  1.88 m,  b. 8 Mar 1998 @ Sterling Heights
 Donovan Pines,                D,  1.96 m,  b. 7 Mar 1998 @ Columbia, MD
+Lucas Pos,                    D,  1.87 m,  b. 16 Feb 1998 @ Irvine, CA
 
 Cameron Carter-Vickers,       D,  1.83 m,  b. 31 Dec 1997 @ Southend-on-Sea
 Emmanuel Sabbi,               M,  1.75 m,  b. 24 Dec 1997 @ Vicenza
 Benji Michel,                 F,  1.78 m,  b. 23 Oct 1997 @ Orlando
 Antonee Robinson,             D,  1.83 m,  b. 8 Aug 1997 @ Milton Keynes
+Erik Palmer-Brown,            D,  1.85 m,  b. 24 Apr 1997 @ Napoleon
 
 Andrija Novakovich,           F,  1.93 m,  b. 21 Sep 1996 @ Muskego
 Joseph Efford,                F,  1.76 m,  b. 29 Aug 1996 @ Dacula
+Luke Dennison,                G,  1.91 m,  b. 21 Aug 1996 @ San Francisco
 
 Lynden Gooch,                 D,  1.73 m,  b. 24 Dec 1995 @ Santa Cruz
+Henry Wingo,                  D,  1.83 m,  b. 4 Oct 1995 @ Seattle
 Ethan Horvath,                G,  1.91 m,  b. 9 Jun 1995 @ Highland Ranch
 Julian Green,                 M,  1.72 m,  b. 6 Jun 1995 @ Tampa
 Zack Steffen,                 G,  1.90 m,  b. 2 Apr 1995 @ Coatesville
 
 Duane Holmes,                 M,  1.72 m,  b. 6 Nov 1994 @ Wakefield
 Matt Turner,                  G,  1.91 m,  b. 24 Jun 1994 @ Park Ridge
+Michael Lansing,              G,  1.93 m,  b. 13 Jun 1994 @ Randolph
 
+Caleb Stanko,                 M,  1.80 m,  b. 26 Jul 1993 @ Holly
 John Brooks,                  D,  1.93 m,  b. 28 Jan 1993 @ Berlin
 
 Terrence Boyd,                F,  1.85 m,  b. 16 Feb 1991 @ Bremen

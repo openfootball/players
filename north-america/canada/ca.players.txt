@@ -1,13 +1,17 @@
 =================================
 =  Canada
 
+Antoni Klukowski,             F,  1.85 m,  b. 2 Apr 2007 @ Lille
+
 Luc De Fougerolles,           D,  - ,      b. 12 Oct 2005
 
 Jamie Knight-Lebel,           D,  1.88 m,  b. 24 Dec 2004 @ La Pocatière
+Nathaniel Noel,               D,  - ,      b. 14 Jan 2004 @ Toronto
 
 Ismaël Koné,                  M,  1.88 m,  b. 6 Jun 2002 @ Abidjan
 Theo Corbeanu,                F,  1.87 m,  b. 17 May 2002 @ Burlington
 Simon Colyn,                  F,  1.75 m,  b. 23 Mar 2002 @ Langley
+Amir Batyrev,                 M,  1.73 m,  b. 11 Mar 2002 @ Toronto
 
 Victor Loturi,                M,  1.73 m,  b. 21 May 2001 @ Calgary
 
@@ -21,17 +25,29 @@ Theo Bair,                    F,  1.93 m,  b. 27 Aug 1999 @ Ottawa
 Tajon Buchanan,               F,  1.83 m,  b. 8 Feb 1999 @ Brampton
 
 Diyaeddine Abzi,              D,  1.83 m,  b. 23 Nov 1998 @ Fès
+Patrick Metcalfe,             M,  1.83 m,  b. 11 Nov 1998 @ Vancouver
 Alistair Johnston,            D,  1.80 m,  b. 8 Oct 1998 @ Vancouver
 Iké Ugbo,                     F,  1.86 m,  b. 21 Sep 1998 @ Lewisham
+Richlord Ennin,               F,  1.82 m,  b. 17 Sep 1998 @ Toronto
 Harry Paton,                  M,  1.75 m,  b. 23 May 1998 @ Kitchener
+Sebastian Breza,              G,  1.96 m,  b. 15 Mar 1998 @ Ottawa
+
+Derek Cornelius,              D,  1.88 m,  b. 25 Nov 1997 @ Ajax
+Marcus Godinho,               D,  1.78 m,  b. 28 Jun 1997 @ Toronto
 
 Stephen Eustáquio,            M,  1.78 m,  b. 21 Dec 1996 @ Leamington (CAN)
+Marco Bustos,                 M,  1.68 m,  b. 22 Apr 1996 @ Winnipeg
 Kianz Froese,                 M,  1.75 m,  b. 16 Apr 1996 @ Havana
 
 Cyle Larin,                   F,  1.88 m,  b. 17 Apr 1995 @ Brampton
 
+Dominick Zator,               D,  1.88 m,  b. 18 Sep 1994 @ Calgary
+
 Junior Hoilett,               M,  1.73 m,  b. 5 Jun 1990 @ Brampton
+Simon Thomas,                 G,  1.91 m,  b. 12 Apr 1990 @ Victoria
 
 Jayson Leutwiler,             G,  1.92 m,  b. 25 Apr 1989 @ Basel
 
 Steven Vitória,               D,  1.95 m,  b. 11 Jan 1987 @ Toronto
+
+Kenny Stamatopoulos,          G,  1.90 m,  b. 28 Aug 1979 @ Kalamata

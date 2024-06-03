@@ -1,85 +1,295 @@
 =================================
 =  Switzerland
 
+Marvin Akahomen,              D,  1.86 m,  b. 15 Jul 2007
+Ilija Maslarov,               M,  1.81 m,  b. 2 Jan 2007
+
+Corsin Konietzke,             M,  1.85 m,  b. 21 Jun 2006
+Jason Parente,                M,  1.80 m,  b. 10 Jun 2006
+Sascha Meyer,                 M,  1.85 m,  b. 21 Apr 2006
+Junior Zé,                    M,  1.78 m,  b. 22 Mar 2006
+Eliah Jordan,                 D,  1.74 m,  b. 7 Mar 2006
+Marwan Aubert,                G,  1.86 m,  b. 12 Feb 2006
+
+Yannis Ryter,                 M,  1.87 m,  b. 15 Nov 2005 @ Olten
+Vasco Tritten,                M,  1.80 m,  b. 29 Aug 2005
+Diego Mina,                   G,  1.84 m,  b. 12 Aug 2005
+Jashar Dema,                  M,  1.87 m,  b. 10 Aug 2005 @ Riaz
+Mats Seiler,                  D,  1.90 m,  b. 4 Aug 2005
+Dircssi Ngonzo,               D,  1.87 m,  b. 31 Jul 2005
+Labinot Bajrami,              F,  1.83 m,  b. 4 Jun 2005 @ Winterthur
+Tiemoko Ouattara,             F,  1.78 m,  b. 25 May 2005
+Leon Frokaj,                  M,  1.84 m,  b. 23 Apr 2005 @ Wolhusen
+Damian Nigg,                  M,  1.78 m,  b. 12 Apr 2005 @ Bellinzona
+Junior Ligue,                 F,  1.80 m,  b. 21 Mar 2005 @ Zürich
+Malike Deme,                  M,  1.82 m,  b. 16 Mar 2005 @ Zürich
+Samuel Marques,               M,  1.74 m,  b. 4 Feb 2005
+Roméo Beney,                  F,  1.87 m,  b. 19 Jan 2005 @ Yverdon-les-Bains
+
+Diego Heller,                 G,  1.80 m,  b. 20 Nov 2004
+Noah Noverraz,                G,  1.98 m,  b. 25 Sep 2004
+Laurin Vögele,                M,  1.80 m,  b. 21 Aug 2004 @ Winterthur
+Tim Meyer,                    D,  1.83 m,  b. 8 Jul 2004
+Ramon Guzzo,                  D,  1.76 m,  b. 5 Jul 2004 @ Baden
+Leny Meyer,                   D,  1.82 m,  b. 1 Jul 2004 @ Vevey
+Lendrit Shala,                G,  1.89 m,  b. 4 May 2004 @ Baden
+Noe Holenstein,               M,  1.79 m,  b. 25 Mar 2004
+Issa Kaloga,                  D,  1.82 m,  b. 27 Feb 2004
+Leon Avdullahu,               M,  1.85 m,  b. 23 Feb 2004 @ Solothurn
+Luuk Breedijk,                F,  1.85 m,  b. 20 Feb 2004 @ Locarno
+Dion Kacuri,                  M,  1.88 m,  b. 11 Feb 2004 @ Baden
+Mischa Beeli,                 D,  1.82 m,  b. 5 Feb 2004 @ Chur
 Joss Marques,                 M,  - ,      b. 14 Jan 2004 @ Lausanne
 Roggerio Nyakossi,            D,  1.94 m,  b. 13 Jan 2004 @ Geneva
+Jarell Njiké Simo,            M,  1.79 m,  b. 12 Jan 2004
 
 Kristian Šekularac,          M,  1.85 m,  b. 7 Dec 2003 @ Camden
+Filipe de Carvalho,           F,  1.76 m,  b. 1 Dec 2003 @ Zürich
+Liam Bollati,                 D,  1.74 m,  b. 9 Nov 2003 @ Locarno
+Miguel Reichmuth,             M,  1.71 m,  b. 26 Oct 2003 @ Zug
+Jessé Hautier,                F,  1.76 m,  b. 14 Oct 2003 @ Yverdon-les-Bains
+Romeo Morandi,                M,  1.81 m,  b. 8 Oct 2003
+Loïc Lüthi,                   D,  1.87 m,  b. 30 Sep 2003 @ Winterthur
+Levin Winkler,                M,  1.84 m,  b. 13 Aug 2003 @ Liestal
+Noah Rupp,                    M,  1.84 m,  b. 13 Aug 2003 @ Zug
+Théo Magnin,                  D,  1.71 m,  b. 9 Aug 2003 @ Geneva
+Aurèle Amenda,                D,  1.94 m,  b. 31 Jul 2003 @ Biel/Bienne
 Jakob Löpping,                M,  1.78 m,  b. 20 Jun 2003 @ Lucerne
+Luca Jaquez,                  D,  1.87 m,  b. 2 Jun 2003 @ Lucerne
+Pascal Loretz,                G,  1.88 m,  b. 1 Jun 2003 @ Lucerne
+Selmin Hodza,                 D,  1.78 m,  b. 24 May 2003 @ Uster
+Albian Hajdari,               D,  1.89 m,  b. 18 May 2003 @ Binningen
 Bryan Okoh,                   D,  1.87 m,  b. 16 May 2003 @ Houston
+Mayka Okuka,                  M,  1.85 m,  b. 13 May 2003 @ Lausanne
+Lars Villiger,                F,  1.90 m,  b. 29 Apr 2003 @ Muri
+Severin Ottiger,              D,  1.83 m,  b. 20 Apr 2003 @ Sursee
+Bradley Fink,                 F,  1.92 m,  b. 17 Apr 2003 @ Cham
+Albin Krasniqi,               F,  1.80 m,  b. 6 Apr 2003 @ Solothurn
+Carmine Chiappetta,           F,  1.75 m,  b. 9 Mar 2003 @ Wetzikon
+Mile Vukelić,                 D,  1.88 m,  b. 25 Feb 2003 @ Muri
+Andrin Hunziker,              F,  1.90 m,  b. 21 Feb 2003 @ Basel
+Mauricio Willimann,           D,  1.83 m,  b. 16 Jan 2003 @ Mexico City
 
+Noah De Queiroz,              D,  1.81 m,  b. 10 Dec 2002 @ Sorengo
+Fabio Lymann,                 M,  1.74 m,  b. 23 Nov 2002 @ Walenstadt
+Ardon Jashari,                M,  1.80 m,  b. 30 Jul 2002 @ Cham
+Leandro Zbinden,              G,  1.86 m,  b. 30 Jul 2002 @ Fribourg
+Marc Fred Tsoungui,           D,  1.80 m,  b. 30 Jul 2002 @ Yaoundé
+Alan Omerovic,                G,  1.85 m,  b. 16 Jul 2002 @ Kilchberg
+Alan Rodriguez,               M,  1.78 m,  b. 12 Jul 2002 @ Marseille
+Marvin Keller,                G,  1.89 m,  b. 3 Jul 2002 @ Westminster
+Iwan Hegglin,                 M,  1.84 m,  b. 26 Jun 2002 @ Cham
+Luca Jaquenoud,               D,  1.81 m,  b. 21 May 2002 @ Pompaples
+Florent Shehu,                F,  1.84 m,  b. 17 May 2002 @ Pontarlier
+Nicolas Glaus,                G,  1.86 m,  b. 10 May 2002 @ Binningen
 Franck Surdez,                F,  1.88 m,  b. 5 May 2002 @ Neuchâtel
+Mischa Eberhard,              M,  1.73 m,  b. 11 Apr 2002 @ Solothurn
+Tristan Zesiger,              G,  1.85 m,  b. 11 Apr 2002 @ Arlington
+Armin Abaz,                   G,  1.87 m,  b. 27 Mar 2002 @ Grabs
+Joel Bichsel,                 D,  1.94 m,  b. 4 Mar 2002 @ Olten
 Leonidas Stergiou,            D,  1.80 m,  b. 3 Mar 2002 @ Wattwil
+Nils Reichmuth,               M,  1.75 m,  b. 22 Feb 2002 @ Zug
+Noah Henchoz,                 D,  1.82 m,  b. 22 Feb 2002 @ Chêne-Bougeries
 Fabian Rieder,                M,  1.79 m,  b. 16 Feb 2002 @ Bern
 Bećir Omeragić,               D,  1.87 m,  b. 20 Jan 2002 @ Geneva
+Silvan Wallner,               D,  1.85 m,  b. 15 Jan 2002 @ Zürich
+Mihailo Stevanović,           M,  1.86 m,  b. 4 Jan 2002 @ Liestal
+Yannick Cotter,               F,  1.76 m,  b. 3 Jan 2002 @ Sion
 
+Alex Jankewitz,               M,  1.79 m,  b. 25 Dec 2001 @ Vevey
 Natan Girma,                  M,  1.90 m,  b. 11 Dec 2001 @ Lausanne
+Ricardo Alves,                M,  1.75 m,  b. 2 Dec 2001 @ Geneva
+Serif Berbić,                 G,  1.94 m,  b. 25 Nov 2001 @ Uznach
+Elmin Rastoder,               D,  1.91 m,  b. 7 Oct 2001 @ Wetzikon
+Johan Kury,                   F,  1.76 m,  b. 7 Oct 2001 @ La Chaux-de-Fonds
+Randy Schneider,              M,  1.70 m,  b. 27 Aug 2001 @ Schaffhausen
+Lewin Blum,                   D,  1.81 m,  b. 27 Jul 2001 @ Rothrist
+Adrian Durrer,                M,  1.88 m,  b. 13 Jul 2001 @ Basel
+Bledian Krasniqi,             M,  1.73 m,  b. 17 Jun 2001 @ Zürich
+Benjamin Kabeya,              D,  1.87 m,  b. 16 Jun 2001 @ Bern
+Lirik Vishi,                  M,  1.80 m,  b. 13 Jun 2001 @ Langenthal
+David Mistrafović,            M,  1.86 m,  b. 25 May 2001 @ Lucerne
+Aris Sörensen,                D,  1.91 m,  b. 16 May 2001 @ Giubiasco
+Nicolas Vouilloz,             D,  1.84 m,  b. 11 May 2001 @ Chêne-Bougeries
+Darian Males,                 F,  1.85 m,  b. 3 May 2001 @ Lucerne
+Nils de Mol,                  G,  1.83 m,  b. 3 May 2001 @ Muttenz
+Michael Heule,                D,  1.72 m,  b. 27 Apr 2001 @ Altstätten
+Adrian Gantenbein,            D,  1.83 m,  b. 18 Apr 2001 @ Winterthur
 Simon Sohm,                   M,  1.88 m,  b. 11 Apr 2001 @ Zürich
+Julian von Moos,              F,  1.79 m,  b. 1 Apr 2001 @ Salmsach
 Samuel Ballet,                F,  1.80 m,  b. 12 Mar 2001 @ Bern
+Anel Husić,                   D,  1.86 m,  b. 1 Mar 2001 @ Yverdon-les-Bains
+Felix Mambimbi,               M,  1.71 m,  b. 18 Jan 2001 @ Fribourg
+Christian Witzig,             M,  1.78 m,  b. 9 Jan 2001 @ Münsterlingen
 
 Zeki Amdouni,                 F,  1.85 m,  b. 4 Dec 2000 @ Geneva
+Justin Hammel,                G,  1.85 m,  b. 2 Dec 2000 @ Basel
 Dan Ndoye,                    F,  1.84 m,  b. 25 Oct 2000 @ Nyon
+Marco Burch,                  D,  1.83 m,  b. 19 Oct 2000 @ Sarnen
+Stephan Seiler,               M,  1.74 m,  b. 16 Sep 2000 @ Fortaleza
 Gabriel Barès,                M,  1.87 m,  b. 29 Aug 2000 @ Lausanne
+Matteo Di Giusto,             M,  1.68 m,  b. 18 Aug 2000 @ Wetzikon
+Alexis Antunes,               M,  1.81 m,  b. 31 Jul 2000 @ Geneva
+Christopher Lungoyi,          F,  1.82 m,  b. 4 Jul 2000 @ Kinshasa
+Kastriot Imeri,               M,  1.73 m,  b. 27 Jun 2000 @ Geneva
 Noah Okafor,                  F,  1.85 m,  b. 24 May 2000 @ Binningen
 Stijn Keller,                 G,  1.95 m,  b. 10 Apr 2000 @ Blaricum
+Nicky Beloko,                 M,  1.82 m,  b. 16 Feb 2000 @ Ebolowa
+Jozef Pukaj,                  G,  1.91 m,  b. 13 Feb 2000 @ Riehen
+Nishan Burkart,               F,  1.74 m,  b. 31 Jan 2000 @ Aarau
 Filip Stojiljković,           F,  1.85 m,  b. 4 Jan 2000 @ Zollikon
 
+Mirco Mazzeo,                 G,  1.91 m,  b. 15 Dec 1999 @ Morges
+Isaac Schmidt,                D,  1.72 m,  b. 7 Dec 1999 @ Lausanne
+Nathan García,                F,  1.76 m,  b. 22 Nov 1999 @ Porrentruy
+Lindrit Kamberi,              D,  1.83 m,  b. 7 Oct 1999 @ Zürich
 Josias Lukembila,             F,  1.81 m,  b. 9 Sep 1999 @ Lausanne
+Giovani Bamba,                M,  1.92 m,  b. 2 Jul 1999 @ Fribourg
+Bastien Toma,                 M,  1.72 m,  b. 24 Jun 1999 @ Sion
 Andi Zeqiri,                  F,  1.81 m,  b. 22 Jun 1999 @ Lausanne
+Noah Blasucci,                M,  1.74 m,  b. 19 Jun 1999 @ Aadorf
+Stefano Guidotti,             M,  1.85 m,  b. 16 Jun 1999 @ Locarno
+Betim Fazliji,                M,  1.86 m,  b. 25 Apr 1999 @ Vranje
+Giotto Morandi,               M,  1.80 m,  b. 4 Mar 1999 @ Locarno
 Nedim Bajrami,                M,  1.83 m,  b. 28 Feb 1999 @ Zürich
+Petar Pušić,                  M,  1.69 m,  b. 25 Jan 1999 @ Schaffhausen
+Patrick Sutter,               D,  1.72 m,  b. 18 Jan 1999 @ St. Gallen
+Liridon Mulaj,                M,  1.75 m,  b. 4 Jan 1999 @ Biel/Bienne
 
+Anthony Racioppi,             G,  1.86 m,  b. 31 Dec 1998 @ Geneva
+Loris Mettler,                M,  1.73 m,  b. 14 Dec 1998 @ Chêne-Bougeries
 Jasper van der Werff,         D,  1.88 m,  b. 9 Dec 1998 @ St. Gallen
+Allan Arigoni,                D,  1.83 m,  b. 4 Nov 1998 @ Zürich
 Jordan Lotomba,               D,  1.77 m,  b. 29 Sep 1998 @ Yverdon-les-Bains
 Toni Domgjoni,                M,  1.76 m,  b. 4 Sep 1998 @ Koprivnica
 Cameron Puertas,              M,  1.78 m,  b. 18 Aug 1998 @ Lausanne
+Fabian Rohner,                M,  1.78 m,  b. 17 Aug 1998 @ Zürich
 Kevin Rüegg,                  M,  1.73 m,  b. 5 Aug 1998 @ Uster
 Ruben Vargas,                 M,  1.74 m,  b. 5 Aug 1998 @ Adligenswil
+Silvan Sidler,                D,  1.85 m,  b. 7 Jul 1998 @ Affoltern am Albis
 Cédric Zesiger,               D,  1.91 m,  b. 24 Jun 1998 @ Ins
+Néhemie Lusuena,              M,  1.75 m,  b. 29 Apr 1998 @ Yverdon-les-Bains
 Philipp Köhn,                 G,  1.91 m,  b. 2 Apr 1998 @ Dinslaken
 Miro Muheim,                  D,  1.82 m,  b. 24 Mar 1998 @ Flüelen
+Dario Ulrich,                 M,  1.72 m,  b. 12 Mar 1998 @ Schwyz
+Dominik Schmid,               D,  1.82 m,  b. 10 Mar 1998 @ Rheinfelden
 Eray Cümart,                  D,  1.83 m,  b. 4 Feb 1998 @ Basel
 Berkan Kutlu,                 M,  1.83 m,  b. 25 Jan 1998 @ Monthey
+Jérémy Guillemenot,           F,  1.82 m,  b. 6 Jan 1998 @ Geneva
 
+Dereck Kutesa,                M,  1.76 m,  b. 6 Dec 1997 @ Geneva
 Gregor Kobel,                 G,  1.93 m,  b. 6 Dec 1997 @ Zürich
+Boris Babić,                  F,  1.80 m,  b. 10 Nov 1997 @ Walenstadt
+Raoul Giger,                  D,  1.80 m,  b. 29 Oct 1997 @ Aarau
 Silvan Hefti,                 D,  1.82 m,  b. 25 Oct 1997 @ Rorschach
+Roberto Alves,                M,  1.79 m,  b. 8 Jun 1997 @ Wetzikon
+Linus Obexer,                 D,  1.75 m,  b. 5 Jun 1997 @ Bern
+Tobias Schättin,              D,  1.84 m,  b. 5 Jun 1997 @ Zürich
+Neftali Manzambi,             F,  1.79 m,  b. 23 Apr 1997 @ Luanda
 Albian Ajeti,                 F,  1.82 m,  b. 26 Feb 1997 @ Basel
 Breel Embolo,                 F,  1.84 m,  b. 14 Feb 1997 @ Yaoundé
 Djibril Sow,                  M,  1.79 m,  b. 6 Feb 1997 @ Zürich
+Mirlind Kryeziu,              D,  1.93 m,  b. 26 Jan 1997 @ Zürich
 Noah Loosli,                  D,  1.86 m,  b. 23 Jan 1997 @ Brugg
+Remo Arnold,                  M,  1.82 m,  b. 17 Jan 1997 @ Schlierbach
+Kevin Spadanuda,              M,  1.77 m,  b. 16 Jan 1997 @ Bülach
 Michel Aebischer,             M,  1.82 m,  b. 6 Jan 1997 @ Fribourg
 
+Cedric Itten,                 F,  1.89 m,  b. 27 Dec 1996 @ Basel
+Miguel Rodrigues,             D,  1.84 m,  b. 7 Dec 1996 @ Geneva
+Anto Grgić,                   M,  1.88 m,  b. 28 Nov 1996 @ Schlieren
 Denis Zakaria,                M,  1.91 m,  b. 20 Nov 1996 @ Kinshasa
 Stefan Knežević,              D,  1.87 m,  b. 30 Oct 1996 @ Lucerne
+Sandro Lauper,                M,  1.85 m,  b. 25 Oct 1996 @ Oberdiessbach
 Jan Elvedi,                   D,  1.87 m,  b. 30 Sep 1996 @ Zürich
 Nico Elvedi,                  D,  1.88 m,  b. 30 Sep 1996 @ Zürich
+Dario Marzino,                G,  1.84 m,  b. 19 Sep 1996 @ Thun
+Dominik Schwizer,             M,  1.81 m,  b. 25 Jun 1996 @ Schmerikon
 Edimilson Fernandes,          M,  1.90 m,  b. 15 Apr 1996 @ Sion
+Noam Baumann,                 G,  1.92 m,  b. 10 Apr 1996 @ Baar
+Marvin Spielmann,             M,  1.80 m,  b. 23 Feb 1996 @ Olten
 Maxime Dominguez,             M,  1.72 m,  b. 1 Feb 1996 @ Geneva
+Kemal Ademi,                  F,  1.97 m,  b. 23 Jan 1996 @ Villingen-Schwenningen
 Nicolas Haas,                 M,  1.81 m,  b. 23 Jan 1996 @ Sursee
 Ulisses Garcia,               D,  1.82 m,  b. 11 Jan 1996 @ Almada
+João Oliveira,                M,  1.77 m,  b. 6 Jan 1996 @ Nyon
 
+Quentin Maceiras,             D,  1.81 m,  b. 10 Oct 1995 @ Sion
 Vincent Sierro,               M,  1.84 m,  b. 8 Oct 1995 @ Sierre
+Francisco Rodríguez,          M,  1.78 m,  b. 14 Sep 1995 @ Zürich
+Zoran Josipović,              F,  1.88 m,  b. 25 Aug 1995 @ Mendrisio
+Nicolas Bürgy,                D,  1.85 m,  b. 7 Aug 1995 @ Bern
 Manuel Akanji,                D,  1.87 m,  b. 19 Jul 1995 @ Winterthur
+Kevin Martin,                 G,  1.80 m,  b. 13 Jun 1995 @ Lausanne
+Mergim Qarri,                 M,  1.79 m,  b. 10 Jun 1995 @ Suva Reka
+Yannick Schmid,               D,  1.84 m,  b. 11 May 1995 @ Lucerne
 Kevin Mbabu,                  D,  1.84 m,  b. 19 Apr 1995 @ Chêne-Bougeries
+Michael Gonçalves,            D,  1.74 m,  b. 10 Mar 1995 @ Basel
+Florian Kamberi,              F,  1.89 m,  b. 8 Mar 1995 @ Zürich
+Roy Gelmi,                    D,  1.88 m,  b. 1 Mar 1995 @ Bassersdorf
+Olivier Custodio,             M,  1.79 m,  b. 10 Feb 1995 @ Montreux
+Grégory Karlen,               M,  1.87 m,  b. 30 Jan 1995 @ Sion
+Michael Kempter,              D,  1.80 m,  b. 12 Jan 1995 @ Schlieren
 
+David von Ballmoos,           G,  1.92 m,  b. 30 Dec 1994 @ Langnau
 Gregory Wüthrich,             D,  1.92 m,  b. 4 Dec 1994 @ Bern
+Chris Kablan,                 D,  1.76 m,  b. 30 Nov 1994 @ Luzern
+Nicolas Lüchinger,            D,  1.73 m,  b. 16 Oct 1994 @ Oberriet
 Michael Frey,                 F,  1.88 m,  b. 19 Jul 1994 @ Münsingen
 Haris Tabaković,              F,  1.94 m,  b. 20 Jun 1994 @ Grenchen
 Yvon Mvogo,                   G,  1.86 m,  b. 6 Jun 1994 @ Fribourg
+Basil Stillhart,              M,  1.78 m,  b. 24 Mar 1994 @ Wil
+Levent Gülen,                 D,  1.80 m,  b. 24 Feb 1994 @ Zürich
 Cédric Brunner,               D,  1.81 m,  b. 17 Feb 1994 @ Männedorf
+Mirko Salvi,                  G,  1.88 m,  b. 14 Feb 1994 @ Yverdon
 Martin Angha,                 D,  1.88 m,  b. 22 Jan 1994 @ Zürich
+Musa Araz,                    M,  1.68 m,  b. 17 Jan 1994 @ Fribourg
 Jonas Omlin,                  G,  1.89 m,  b. 10 Jan 1994 @ Sarnen
+Thibault Corbaz,              M,  1.77 m,  b. 7 Jan 1994 @ Morges
 
 Christian Fassnacht,          M,  1.85 m,  b. 11 Nov 1993 @ Zürich
+Thomas Castella,              G,  1.85 m,  b. 30 Jun 1993 @ Fribourg
+Yanick Brecher,               G,  1.94 m,  b. 25 May 1993 @ Zürich
 Francesco Ruberto,            G,  1.84 m,  b. 19 Mar 1993 @ Lecce
+Jérémy Frick,                 G,  1.92 m,  b. 8 Mar 1993 @ Geneva
 Silvan Widmer,                D,  1.83 m,  b. 5 Mar 1993 @ Aarau
+Dany Da Silva,                G,  1.88 m,  b. 2 Mar 1993 @ Lausanne
+Darko Jevtić,                 M,  1.77 m,  b. 8 Feb 1993 @ Basel
 
+Raphael Spiegel,              G,  1.97 m,  b. 19 Dec 1992 @ Rüttenen
 Granit Xhaka,                 M,  1.85 m,  b. 27 Sep 1992 @ Gnjilane
+Roman Buess,                  F,  1.82 m,  b. 21 Sep 1992 @ Muttenz
 Ricardo Rodríguez,            D,  1.82 m,  b. 25 Aug 1992 @ Zürich
+Josip Drmić,                  F,  1.82 m,  b. 8 Aug 1992 @ Lachen
 Pajtim Kasami,                M,  1.87 m,  b. 2 Jun 1992 @ Struga
 Remo Freuler,                 M,  1.81 m,  b. 15 Apr 1992 @ Ennenda
+Živko Kostadinović,           G,  1.96 m,  b. 10 Apr 1992 @ Modriča
 Saulo Decarli,                D,  1.86 m,  b. 4 Feb 1992 @ Brione sopra Minusio
 Benjamin Siegrist,            G,  1.94 m,  b. 31 Jan 1992 @ Basel
+Loris Benito,                 D,  1.84 m,  b. 7 Jan 1992 @ Aarau
 
 Fabian Schär,                 D,  1.88 m,  b. 20 Dec 1991 @ Wil
+Renato Steffen,               M,  1.70 m,  b. 3 Nov 1991 @ Aarau
+Steven Zuber,                 M,  1.77 m,  b. 17 Aug 1991 @ Winterthur
+Mattia Bottani,               M,  1.70 m,  b. 24 May 1991 @ Bern
+Joël Mall,                    G,  1.91 m,  b. 5 Apr 1991 @ Baden
+Fabio Daprelà,                D,  1.80 m,  b. 19 Feb 1991 @ Zürich
+Michael Lang,                 D,  1.85 m,  b. 8 Feb 1991 @ Egnach
+Anthony Sauthier,             D,  1.84 m,  b. 5 Feb 1991 @ Saxon
+Antonio Marchesano,           M,  1.67 m,  b. 18 Jan 1991 @ Bellinzona
+
+Steve Rouiller,               D,  1.83 m,  b. 10 Jul 1990 @ Monthey
+Luca Zuffi,                   M,  1.80 m,  b. 27 Mar 1990 @ Winterthur
+Steven Deana,                 G,  1.88 m,  b. 4 Mar 1990 @ Wetzikon
+Granit Lekaj,                 D,  1.86 m,  b. 23 Feb 1990 @ Pristina
+
+Pascal Schürpf,               M,  1.86 m,  b. 15 Jul 1989 @ Basel
+Fabian Frei,                  M,  1.81 m,  b. 8 Jan 1989 @ Frauenfeld
 
 Yann Sommer,                  G,  1.83 m,  b. 17 Dec 1988 @ Morges
+Simone Grippo,                D,  1.88 m,  b. 12 Dec 1988 @ Basel
+Fabian Lustenberger,          D,  1.80 m,  b. 2 May 1988 @ Nebikon
+
+Marwin Hitz,                  G,  1.92 m,  b. 18 Sep 1987 @ St. Gallen
+
+Gökhan Inler,                 M,  1.82 m,  b. 27 Jun 1984 @ Olten

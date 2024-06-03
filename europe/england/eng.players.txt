@@ -515,6 +515,7 @@ George Hall,                  M,  1.75 m,  b. 15 Jul 2004 @ Redditch
 Frankie Ealing,               D,  1.76 m,  b. 14 Jul 2004 @ Birmingham
 Charlie Weston,               M,  - ,      b. 13 Jul 2004 @ Oldham
 Lee Jonas,                    D,  - ,      b. 6 Jul 2004 @ Liverpool
+Matt Boylan,                  G,  - ,      b. 4 Jul 2004
 Adulai Sambu,                 M,  1.78 m,  b. 28 Jun 2004 @ Lisbon
 Silko Thomas,                 F,  - ,      b. 25 Jun 2004 @ Lambeth
 Luke Chambers,                D,  - ,      b. 24 Jun 2004 @ Preston
@@ -652,8 +653,10 @@ Patrick Gamble,               D,  1.90 m,  b. 5 Oct 2003 @ Liverpool
 Max Kilsby,                   D,  1.82 m,  b. 4 Oct 2003 @ North Shields
 Samuel Iling-Junior,          F,  1.82 m,  b. 4 Oct 2003 @ Islington
 Callum Doyle,                 D,  1.85 m,  b. 3 Oct 2003 @ Manchester
+Arran Pettifer,               M,  1.83 m,  b. 1 Oct 2003 @ Stockport
 Hayden Cann,                  D,  1.89 m,  b. 1 Oct 2003 @ Lincoln
 Harvey Beckett,               M,  - ,      b. 30 Sep 2003
+Jevon Mills,                  D,  - ,      b. 27 Sep 2003 @ Nottingham
 Rico Richards,                M,  1.75 m,  b. 27 Sep 2003 @ Birmingham
 Brandon Cover,                M,  - ,      b. 25 Sep 2003 @ Colchester
 Harvey Godsmark-Ford,         D,  - ,      b. 25 Sep 2003 @ Nuneaton
@@ -720,6 +723,7 @@ Sam Collins,                  D,  - ,      b. 23 May 2003 @ Durham
 Kie Plumley,                  G,  - ,      b. 21 May 2003
 Jayden Wareham,               F,  - ,      b. 13 May 2003 @ Ascot
 Aiden Marsh,                  F,  1.72 m,  b. 5 May 2003 @ Barnsley
+Dominic Corness,              M,  1.74 m,  b. 5 May 2003 @ Liverpool
 Jacob Borgnis,                M,  - ,      b. 5 May 2003
 Noah Watson,                  D,  - ,      b. 5 May 2003 @ Bromley
 Matthew Cox,                  G,  1.82 m,  b. 2 May 2003 @ Sutton
@@ -784,6 +788,7 @@ Luke Daley,                   D,  - ,      b. 30 Dec 2002
 Josh Wilson-Esbrand,          D,  1.76 m,  b. 26 Dec 2002 @ Hackney
 Jack Hannah,                  D,  - ,      b. 25 Dec 2002 @ Stockton-on-Tees
 Charlie O'Connell,            D,  1.85 m,  b. 19 Dec 2002 @ Chelsea
+Will Jarvis,                  F,  - ,      b. 17 Dec 2002 @ York
 Brad Holmes,                  F,  - ,      b. 16 Dec 2002 @ Blackpool
 Liam Gibbs,                   M,  1.78 m,  b. 16 Dec 2002 @ Bury St Edmunds
 Filip Marschall,              G,  1.95 m,  b. 15 Dec 2002 @ Bedford
@@ -893,6 +898,7 @@ Luke Cundle,                  M,  1.70 m,  b. 26 Apr 2002 @ Warrington
 Jasper Pattenden,             M,  - ,      b. 15 Apr 2002 @ Worthing
 Alex Mighten,                 M,  1.81 m,  b. 11 Apr 2002 @ Nottingham
 Declan Skura,                 D,  - ,      b. 9 Apr 2002 @ Kingston upon Thames
+Al-Amin Kazeem,               D,  1.75 m,  b. 6 Apr 2002
 Dennis Cirkin,                D,  1.82 m,  b. 6 Apr 2002 @ Dublin
 Rafferty Pedder,              M,  - ,      b. 6 Apr 2002 @ Maidstone
 Daniel Chesters,              M,  1.79 m,  b. 4 Apr 2002 @ Hitchin
@@ -905,6 +911,8 @@ Teddy Jenks,                  M,  1.95 m,  b. 12 Mar 2002 @ Brighton
 Malachi Fagan-Walcott,        D,  1.87 m,  b. 11 Mar 2002 @ Edmonton
 Noni Madueke,                 M,  1.82 m,  b. 10 Mar 2002 @ Barnet
 Tyrell Ashcroft,              D,  - ,      b. 7 Mar 2002
+Sam Durrant,                  M,  - ,      b. 16 Feb 2002 @ Chelsea
+Hayden Muller,                D,  1.93 m,  b. 7 Feb 2002 @ Croydon
 Lucas Ness,                   D,  1.90 m,  b. 7 Feb 2002 @ Kingston upon Thames
 Tyreece Simpson,              F,  1.86 m,  b. 7 Feb 2002 @ Ipswich
 Jensen Weir,                  M,  1.86 m,  b. 31 Jan 2002 @ Warrington
@@ -939,6 +947,7 @@ Josh Austerfield,             M,  1.79 m,  b. 2 Nov 2001 @ Leeds
 Remi Savage,                  D,  - ,      b. 26 Oct 2001 @ Liverpool
 Connor Taylor,                D,  1.83 m,  b. 25 Oct 2001 @ Stoke-on-Trent
 Jake Hull,                    D,  1.98 m,  b. 22 Oct 2001 @ Sheffield
+Rowan McDonald,               M,  1.80 m,  b. 20 Oct 2001 @ Oldham
 Leighton Clarkson,            M,  - ,      b. 19 Oct 2001 @ Blackburn
 Luke Brennan,                 M,  1.78 m,  b. 19 Oct 2001 @ Liverpool
 Tom Hewlett,                  F,  1.75 m,  b. 17 Oct 2001 @ Birmingham
@@ -997,6 +1006,7 @@ Zach Jeacock,                 G,  1.88 m,  b. 8 May 2001 @ Birmingham
 Jordan Thomas,                F,  - ,      b. 2 May 2001
 Nathanael Ogbeta,             D,  1.88 m,  b. 28 Apr 2001 @ Salford
 George Shelvey,               G,  1.88 m,  b. 22 Apr 2001 @ Nottingham
+Joe Wright,                   G,  1.85 m,  b. 10 Apr 2001 @ Bromley
 Billy Mitchell,               M,  1.76 m,  b. 7 Apr 2001 @ Orpington
 Lewis Simper,                 D,  1.81 m,  b. 7 Apr 2001 @ Cambridge
 Vontae Daley-Campbell,        D,  - ,      b. 4 Apr 2001 @ Lambeth
@@ -1017,6 +1027,7 @@ Tyreece John-Jules,           F,  1.83 m,  b. 14 Feb 2001 @ Westminster
 Kyle John,                    D,  1.76 m,  b. 13 Feb 2001 @ Chester
 Jay Matete,                   M,  1.73 m,  b. 11 Feb 2001 @ Lambeth
 Aaron Drewe,                  D,  - ,      b. 8 Feb 2001
+Fisayo Dele-Bashiru,          M,  1.76 m,  b. 6 Feb 2001 @ Hamburg
 Joe Anderson,                 D,  1.86 m,  b. 6 Feb 2001 @ Stalybridge
 Rhys Williams,                D,  1.96 m,  b. 3 Feb 2001 @ Preston
 Bobby Thomas,                 D,  1.86 m,  b. 30 Jan 2001 @ Chester
@@ -1028,6 +1039,7 @@ Sonny Carey,                  M,  1.84 m,  b. 20 Jan 2001 @ Norwich
 Aji Alese,                    D,  1.92 m,  b. 17 Jan 2001 @ Islington
 James Hillson,                G,  - ,      b. 14 Jan 2001 @ Bedford
 George Thomason,              M,  1.77 m,  b. 12 Jan 2001 @ Barrow-in-Furness
+Trae Coyle,                   F,  1.80 m,  b. 11 Jan 2001 @ Camden
 Harvey Macadam,               M,  1.93 m,  b. 9 Jan 2001 @ Burnley
 Tyler Burey,                  F,  1.87 m,  b. 9 Jan 2001 @ Hillingdon
 Danny Cashman,                F,  - ,      b. 8 Jan 2001 @ Crawley
@@ -1052,6 +1064,7 @@ Lewis Brunt,                  D,  - ,      b. 6 Nov 2000 @ Burton upon Trent
 Ryan Longman,                 M,  1.80 m,  b. 6 Nov 2000 @ Redhill
 Sol Brynn,                    G,  1.84 m,  b. 30 Oct 2000 @ Middlesbrough
 Zeno Ibsen Rossi,             D,  1.94 m,  b. 28 Oct 2000 @ Streatham
+Connor Parsons,               M,  1.76 m,  b. 27 Oct 2000 @ Norwich
 Jubril Okedina,               D,  1.83 m,  b. 26 Oct 2000 @ Woolwich
 Jack Wakely,                  D,  1.94 m,  b. 25 Oct 2000 @ High Wycombe
 Jonathan Panzo,               D,  1.85 m,  b. 25 Oct 2000 @ Southwark
@@ -1108,10 +1121,12 @@ Callum Wright,                M,  1.82 m,  b. 2 May 2000 @ Liverpool
 Jesse Debrah,                 D,  - ,      b. 1 May 2000 @ Croydon
 Chris Forino-Joseph,          D,  1.91 m,  b. 26 Apr 2000 @ Islington
 Alex Cochrane,                D,  1.75 m,  b. 21 Apr 2000 @ Brighton
+Reece Hutchinson,             D,  1.77 m,  b. 14 Apr 2000 @ Birmingham
 Josh Eccles,                  M,  1.81 m,  b. 6 Apr 2000 @ Coventry
 Rhian Brewster,               F,  1.76 m,  b. 1 Apr 2000 @ Redbridge
 Jadon Sancho,                 F,  1.78 m,  b. 25 Mar 2000 @ Lambeth
 Tom McGill,                   G,  1.85 m,  b. 25 Mar 2000 @ Haywards Heath
+Connor Malley,                M,  1.86 m,  b. 20 Mar 2000 @ Newcastle upon Tyne
 Jake Vokins,                  D,  1.80 m,  b. 17 Mar 2000 @ Oxford
 Tom Holmes,                   D,  1.84 m,  b. 12 Mar 2000 @ Ealing
 Kane Wilson,                  D,  1.78 m,  b. 11 Mar 2000 @ Birmingham
@@ -1168,8 +1183,10 @@ Jamie Shackleton,             M,  1.68 m,  b. 8 Oct 1999 @ Leeds
 Michael Cooper,               G,  1.86 m,  b. 8 Oct 1999 @ Exeter
 David Kasumu,                 M,  1.80 m,  b. 5 Oct 1999 @ Lambeth
 Liam Kitching,                D,  1.91 m,  b. 1 Oct 1999 @ Harrogate
+Romal Palmer,                 M,  1.81 m,  b. 30 Sep 1999 @ Wigan
 Daniel Butterworth,           F,  1.81 m,  b. 14 Sep 1999 @ Manchester
 Max Harris,                   G,  1.88 m,  b. 14 Sep 1999 @ Gloucester
+Cameron Cresswell,            F,  1.78 m,  b. 12 Sep 1999 @ Stockport
 Regan Slater,                 M,  1.73 m,  b. 11 Sep 1999 @ Sheffield
 Tyrese Fornah,                M,  1.81 m,  b. 11 Sep 1999 @ Camden
 Jamie Cumming,                G,  1.88 m,  b. 4 Sep 1999 @ Winchester
@@ -1189,6 +1206,8 @@ Nathan Tella,                 M,  1.73 m,  b. 5 Jul 1999 @ Lambeth
 Trevoh Chalobah,              M,  1.90 m,  b. 5 Jul 1999 @ Freetown
 Tom Sang,                     M,  1.88 m,  b. 29 Jun 1999 @ Liverpool
 Isaiah Jones,                 M,  1.81 m,  b. 26 Jun 1999 @ Lambeth
+Tom Grivosti,                 D,  1.85 m,  b. 15 Jun 1999 @ Liverpool
+Sadou Diallo,                 M,  1.80 m,  b. 10 Jun 1999
 Romoney Crichlow-Noble,       D,  1.84 m,  b. 3 Jun 1999 @ Luton
 Eddie Nketiah,                F,  1.75 m,  b. 30 May 1999 @ Lewisham
 Toby Sibbick,                 D,  1.83 m,  b. 23 May 1999 @ Isleworth
@@ -1252,9 +1271,12 @@ Josh Earl,                    D,  1.93 m,  b. 24 Oct 1998 @ Southport
 Josh Dasilva,                 M,  1.80 m,  b. 23 Oct 1998 @ Redbridge
 Sam Nombe,                    F,  1.74 m,  b. 22 Oct 1998 @ Croydon
 Luke Woolfenden,              D,  1.83 m,  b. 21 Oct 1998 @ Ipswich
+Will Patching,                M,  1.85 m,  b. 18 Oct 1998 @ Manchester
 Jerome Opoku,                 D,  1.94 m,  b. 14 Oct 1998 @ Lambeth
 Lewis O'Brien,                M,  1.73 m,  b. 14 Oct 1998 @ Colchester
+Demeaco Duhaney,              D,  1.80 m,  b. 13 Oct 1998 @ Manchester
 Josh Grant,                   D,  1.83 m,  b. 11 Oct 1998 @ Lambeth
+Archie Davies,                D,  1.83 m,  b. 7 Oct 1998 @ Hastings
 Trent Alexander-Arnold,       D,  1.75 m,  b. 7 Oct 1998 @ Liverpool
 Alfie Whiteman,               G,  1.90 m,  b. 2 Oct 1998 @ Tottenham
 Jordi Osei-Tutu,              D,  1.76 m,  b. 2 Oct 1998 @ Slough
@@ -1264,6 +1286,7 @@ David Ajiboye,                F,  1.70 m,  b. 28 Sep 1998 @ Bromley
 Antony Evans,                 M,  1.86 m,  b. 23 Sep 1998 @ Fazakerley
 Beni Baningime,               M,  1.78 m,  b. 9 Sep 1998 @ Kinshasa
 Callum Lang,                  F,  1.80 m,  b. 8 Sep 1998 @ Liverpool
+Cameron McJannet,             D,  1.73 m,  b. 6 Sep 1998 @ Milton Keynes
 Kiernan Dewsbury-Hall,        M,  1.77 m,  b. 6 Sep 1998 @ Nottingham
 Levi Lumeka,                  F,  1.70 m,  b. 5 Sep 1998 @ Newham
 Cameron Humphreys,            D,  1.87 m,  b. 22 Aug 1998 @ Manchester
@@ -1324,6 +1347,7 @@ Fikayo Tomori,                D,  1.85 m,  b. 19 Dec 1997 @ Calgary
 Karlan Grant,                 F,  1.83 m,  b. 19 Dec 1997 @ Greenwich
 Marcus Browne,                F,  1.79 m,  b. 18 Dec 1997 @ Tower Hamlets
 Harvey Barnes,                M,  1.74 m,  b. 9 Dec 1997 @ Burnley
+Marc Bola,                    D,  1.85 m,  b. 9 Dec 1997 @ Greenwich
 Luke Southwood,               G,  1.92 m,  b. 6 Dec 1997 @ Oxford
 Aaron Wan-Bissaka,            D,  1.83 m,  b. 26 Nov 1997 @ Croydon
 Ryan Yates,                   M,  1.90 m,  b. 21 Nov 1997 @ Nottingham
@@ -1346,6 +1370,7 @@ Tosin Adarabioyo,             D,  1.96 m,  b. 24 Sep 1997 @ Manchester
 Callum Connolly,              D,  1.83 m,  b. 23 Sep 1997 @ Liverpool
 Corey Blackett-Taylor,        M,  1.70 m,  b. 23 Sep 1997 @ Birmingham
 Jack Fitzwater,               D,  1.88 m,  b. 23 Sep 1997 @ Solihull
+Sam Sargeant,                 G,  1.83 m,  b. 23 Sep 1997 @ Greenwich
 Jake Clarke-Salter,           D,  1.88 m,  b. 22 Sep 1997 @ Carshalton
 Jon Mellish,                  D,  1.88 m,  b. 19 Sep 1997 @ South Shields
 Liam Walsh,                   M,  1.78 m,  b. 15 Sep 1997 @ Whiston
@@ -1379,7 +1404,9 @@ Elliott List,                 F,  1.78 m,  b. 12 May 1997 @ Camberwell
 Taylor Moore,                 D,  1.84 m,  b. 12 May 1997 @ Walthamstow
 Max Lowe,                     D,  1.75 m,  b. 11 May 1997 @ Birmingham
 Matty Virtue,                 M,  1.75 m,  b. 2 May 1997 @ Epsom
+Chima Okoroji,                D,  1.77 m,  b. 19 Apr 1997 @ Munich
 Sam Hughes,                   D,  1.87 m,  b. 15 Apr 1997 @ West Kirby
+Christie Pattisson,           M,  - ,      b. 14 Apr 1997 @ Hamburg
 Kyle Walker-Peters,           D,  1.73 m,  b. 13 Apr 1997 @ Edmonton
 Harry McKirdy,                F,  1.75 m,  b. 29 Mar 1997 @ Stoke-on-Trent
 Josh Sims,                    M,  1.74 m,  b. 28 Mar 1997 @ Yeovil
@@ -1423,6 +1450,7 @@ Callum Guy,                   M,  1.78 m,  b. 25 Nov 1996 @ Nottingham
 Jordan Thorniley,             D,  1.81 m,  b. 24 Nov 1996 @ Warrington
 James Maddison,               M,  1.79 m,  b. 23 Nov 1996 @ Coventry
 Jack Harrison,                M,  1.75 m,  b. 20 Nov 1996 @ Stoke-on-Trent
+Ryan Kent,                    F,  1.72 m,  b. 11 Nov 1996 @ Oldham
 Jerry Yates,                  F,  1.75 m,  b. 10 Nov 1996 @ Doncaster
 Brandon Haunstrup,            D,  1.72 m,  b. 26 Oct 1996 @ Waterlooville
 Miles Welch-Hayes,            D,  1.80 m,  b. 25 Oct 1996 @ Oxford
@@ -1453,6 +1481,7 @@ Dele Alli,                    M,  1.88 m,  b. 11 Apr 1996 @ Milton Keynes
 Jack Stacey,                  D,  1.80 m,  b. 6 Apr 1996 @ Bracknell
 Nathan Smith,                 D,  1.82 m,  b. 3 Apr 1996 @ Madeley
 Cohen Bramall,                D,  1.75 m,  b. 2 Apr 1996 @ Crewe
+James Akintunde,              F,  1.75 m,  b. 29 Mar 1996 @ Brent
 Connal Trueman,               G,  1.86 m,  b. 26 Mar 1996 @ Birmingham
 Ivan Toney,                   F,  1.79 m,  b. 16 Mar 1996 @ Northampton
 Kane Vincent-Young,           D,  1.80 m,  b. 15 Mar 1996 @ Camden Town
@@ -1465,9 +1494,11 @@ Tom Conlon,                   M,  1.73 m,  b. 3 Feb 1996 @ Stoke-on-Trent
 Harry Winks,                  M,  1.76 m,  b. 2 Feb 1996 @ Hemel Hempstead
 Ruben Loftus-Cheek,           M,  1.91 m,  b. 23 Jan 1996 @ Lewisham
 Jon Nouble,                   F,  1.93 m,  b. 19 Jan 1996 @ Deptford
+Viv Solomon-Otabor,           M,  1.75 m,  b. 2 Jan 1996 @ London
 
 Ollie Watkins,                F,  1.79 m,  b. 30 Dec 1995 @ Torbay
 Joe Wildsmith,                G,  1.89 m,  b. 28 Dec 1995 @ Sheffield
+Brandon Ormonde-Ottewill,     D,  1.76 m,  b. 21 Dec 1995 @ Sutton
 Josh Brownhill,               M,  1.79 m,  b. 19 Dec 1995 @ Warrington
 Carlton Morris,               F,  1.85 m,  b. 16 Dec 1995 @ Cambridge
 Josh Harrop,                  M,  1.75 m,  b. 15 Dec 1995 @ Stockport
@@ -1488,8 +1519,10 @@ Connor Randall,               D,  1.80 m,  b. 21 Oct 1995 @ Kirkby
 Lewis Coyle,                  D,  1.73 m,  b. 15 Oct 1995 @ Kingston upon Hull
 Chuba Akpom,                  F,  1.83 m,  b. 9 Oct 1995 @ Newham
 Lloyd Jones,                  D,  1.90 m,  b. 7 Oct 1995 @ Plymouth
+Jordan Flores,                M,  1.76 m,  b. 4 Oct 1995 @ Wigan
 Ben Thompson,                 M,  1.80 m,  b. 3 Oct 1995 @ Sidcup
 Ashley Fletcher,              F,  1.85 m,  b. 2 Oct 1995 @ Keighley
+Sean Goss,                    M,  1.77 m,  b. 1 Oct 1995 @ Wegberg
 Ryan Haynes,                  D,  1.70 m,  b. 27 Sep 1995 @ Northampton
 Joel Coleman,                 G,  1.98 m,  b. 26 Sep 1995 @ Bolton
 Sammie Szmodics,              M,  1.68 m,  b. 24 Sep 1995 @ Colchester
@@ -1524,7 +1557,6 @@ Isaac Hayden,                 M,  1.87 m,  b. 22 Mar 1995 @ Chelmsford
 Harry Cornick,                F,  1.80 m,  b. 6 Mar 1995 @ Poole
 Jordan Graham,                M,  1.82 m,  b. 5 Mar 1995 @ Coventry
 Uche Ikpeazu,                 F,  1.91 m,  b. 28 Feb 1995 @ Harrow
-Joe Wright,                   D,  1.93 m,  b. 26 Feb 1995 @ Monk Fryston
 Jacob Murphy,                 M,  1.76 m,  b. 24 Feb 1995 @ Wembley
 Josh Murphy,                  M,  1.73 m,  b. 24 Feb 1995 @ Wembley
 Joe Lumley,                   G,  1.90 m,  b. 15 Feb 1995 @ Harlow
@@ -1537,6 +1569,7 @@ Calum Chambers,               D,  1.82 m,  b. 20 Jan 1995 @ Petersfield
 Josh Gordon,                  F,  1.78 m,  b. 19 Jan 1995 @ Stoke-on-Trent
 Sam Long,                     D,  1.79 m,  b. 16 Jan 1995 @ Oxford
 Joe Rothwell,                 M,  1.85 m,  b. 11 Jan 1995 @ Manchester
+Kaiyne Woolery,               M,  1.79 m,  b. 11 Jan 1995 @ Hackney
 Adam Webster,                 D,  1.85 m,  b. 4 Jan 1995 @ West Wittering
 Ben Pearson,                  M,  1.66 m,  b. 4 Jan 1995 @ Oldham
 
@@ -1573,6 +1606,7 @@ James Brophy,                 M,  1.80 m,  b. 25 Jul 1994 @ Brent
 Jonson Clarke-Harris,         F,  1.83 m,  b. 21 Jul 1994 @ Leicester
 Brad Potts,                   M,  1.88 m,  b. 3 Jul 1994 @ Hexham
 John Stones,                  D,  1.88 m,  b. 28 May 1994 @ Barnsley
+Blair Turgott,                F,  1.83 m,  b. 22 May 1994 @ Bromley
 Adam Jackson,                 D,  1.87 m,  b. 18 May 1994 @ Darlington
 Drey Wright,                  M,  1.75 m,  b. 30 Apr 1994 @ Greenwich
 Dan Sweeney,                  D,  1.91 m,  b. 25 Apr 1994 @ Kingston upon Thames
@@ -1619,9 +1653,11 @@ Sam Byram,                    D,  1.80 m,  b. 16 Sep 1993 @ Thurrock
 Patrick Bamford,              F,  1.85 m,  b. 5 Sep 1993 @ Newark
 Curtis Thompson,              M,  1.70 m,  b. 2 Sep 1993 @ Nottingham
 George Moncur,                M,  1.75 m,  b. 18 Aug 1993 @ Swindon
+Alex Oxlade-Chamberlain,      M,  1.80 m,  b. 15 Aug 1993 @ Portsmouth
 Will Norris,                  G,  1.95 m,  b. 12 Aug 1993 @ Royston
 Matty Pearson,                D,  1.90 m,  b. 3 Aug 1993 @ Keighley
 Harry Kane,                   F,  1.88 m,  b. 28 Jul 1993 @ Walthamstow
+Moses Odubajo,                D,  1.77 m,  b. 28 Jul 1993 @ Greenwich
 Adedeji Oshilaja,             D,  1.81 m,  b. 16 Jul 1993 @ Bermondsey
 Daniel Bentley,               G,  1.88 m,  b. 13 Jul 1993 @ Basildon
 Tom Barkhuizen,               F,  1.75 m,  b. 4 Jul 1993 @ Blackpool
@@ -1773,6 +1809,7 @@ Jake Livermore,               M,  1.80 m,  b. 14 Nov 1989 @ Enfield
 Joel Ward,                    D,  1.88 m,  b. 29 Oct 1989 @ Emsworth
 Jack Colback,                 M,  1.76 m,  b. 24 Oct 1989 @ Killingworth
 Ben Mee,                      D,  1.80 m,  b. 23 Sep 1989 @ Sale
+Tom Hateley,                  M,  1.79 m,  b. 12 Sep 1989 @ Monte Carlo
 Sam Hutchinson,               D,  1.80 m,  b. 3 Aug 1989 @ Slough
 Jay Rodriguez,                F,  1.85 m,  b. 29 Jul 1989 @ Burnley
 Simon Eastwood,               G,  1.88 m,  b. 26 Jun 1989 @ Luton
@@ -1824,6 +1861,8 @@ Scott Carson,                 G,  1.83 m,  b. 3 Sep 1985 @ Whitehaven
 Ashley Young,                 D,  1.75 m,  b. 9 Jul 1985 @ Stevenage
 Darren Pratley,               M,  1.85 m,  b. 22 Apr 1985 @ Barking
 Curtis Davies,                D,  1.88 m,  b. 15 Mar 1985 @ Waltham Forest
+
+Richard Brush,                G,  1.86 m,  b. 26 Nov 1984 @ Birmingham
 
 Andy Lonergan,                G,  1.92 m,  b. 19 Oct 1983 @ Preston
 

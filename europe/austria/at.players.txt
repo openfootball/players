@@ -13,6 +13,7 @@ Evan Eghosa,                  F,  - ,      b. 5 Aug 2005
 Enes Koç,                     M,  - ,      b. 22 May 2005
 Sandro Waibl,                 M,  1.93 m,  b. 27 Apr 2005
 Matthias Dollinger,           D,  1.76 m,  b. 13 Apr 2005 @ Graz
+Carlo Jurak,                  G,  - ,      b. 5 Mar 2005 @ Salzburg
 Luca Pazourek,                D,  - ,      b. 4 Feb 2005
 Tobias Gruber,                D,  - ,      b. 10 Jan 2005
 Simon Nesler-Täubl,           G,  - ,      b. 4 Jan 2005
@@ -31,6 +32,7 @@ Dijon Kameri,                 M,  1.81 m,  b. 20 Apr 2004 @ Burgenland
 Paul Schermer,                G,  1.86 m,  b. 4 Apr 2004
 Samson Baidoo,                D,  1.86 m,  b. 31 Mar 2004 @ Graz
 Aaron Sky Schwarz,            F,  1.80 m,  b. 20 Mar 2004
+Enes Tepecik,                 M,  1.74 m,  b. 11 Mar 2004 @ Wiener Neustadt
 Ziad El Sheiwi,               D,  1.77 m,  b. 11 Mar 2004
 Luca Wimhofer,                D,  1.93 m,  b. 27 Feb 2004
 Nikolas Sattlberger,          M,  1.91 m,  b. 18 Jan 2004 @ Vienna
@@ -38,9 +40,11 @@ Nikolas Sattlberger,          M,  1.91 m,  b. 18 Jan 2004 @ Vienna
 Leopold Querfeld,             D,  1.90 m,  b. 20 Dec 2003 @ Vienna
 Justin Omoregie,              M,  1.91 m,  b. 21 Sep 2003
 Onurhan Babuscu,              F,  1.72 m,  b. 5 Sep 2003 @ Baden bei Wien
+Gabriel Eskinja,              D,  1.91 m,  b. 29 Aug 2003 @ Graz
 Fabian Wilfinger,             M,  - ,      b. 27 Aug 2003
 Lukas Ibertsberger,           D,  1.81 m,  b. 6 Aug 2003
 Florian Wustinger,            M,  1.76 m,  b. 21 Jul 2003 @ Vienna
+Yusuf Demir,                  F,  1.78 m,  b. 2 Jun 2003 @ Vienna
 Lukas Wallner,                D,  1.92 m,  b. 26 Apr 2003 @ St Johann im Pongau
 Jürgen Lemmerer,              F,  - ,      b. 6 Mar 2003
 Muharem Huskovic,             F,  1.76 m,  b. 5 Mar 2003
@@ -88,6 +92,7 @@ Tobias Berger,                D,  - ,      b. 2 Nov 2001
 Erwin Softić,                 D,  1.90 m,  b. 13 Oct 2001 @ Steyr
 David Skubl,                  G,  1.84 m,  b. 18 Sep 2001 @ Neuhaus
 Fabian Windhager,             D,  1.72 m,  b. 7 Sep 2001
+Can Keles,                    M,  1.80 m,  b. 2 Sep 2001 @ Vienna
 Marcel Köstenbauer,           G,  1.86 m,  b. 26 Aug 2001
 Fabio Markelić,               M,  1.80 m,  b. 9 Aug 2001 @ Villach
 Leo Greiml,                   D,  1.86 m,  b. 3 Jul 2001 @ Horn
@@ -127,6 +132,7 @@ Melih Ibrahimoglu,            M,  1.75 m,  b. 17 Jul 2000 @ Vienna
 Christoph Klarer,             D,  1.91 m,  b. 14 Jun 2000 @ Böheimkirchen
 Oliver Strunz,                F,  1.85 m,  b. 14 Jun 2000
 Tobias Lawal,                 G,  1.95 m,  b. 7 Jun 2000 @ Linz
+Vincent Trummer,              D,  1.89 m,  b. 18 May 2000
 Michael Steinwender,          D,  1.90 m,  b. 4 May 2000 @ Eisenstadt
 Lukas Sulzbacher,             D,  1.71 m,  b. 6 Apr 2000 @ Tulln an der Donau
 Tobias Anselm,                F,  1.86 m,  b. 24 Feb 2000
@@ -136,10 +142,12 @@ Romano Schmid,                M,  1.74 m,  b. 27 Jan 2000 @ Graz
 Johannes Naschberger,         M,  1.73 m,  b. 25 Jan 2000 @ Lienz
 
 Nicolas Kristof,              G,  1.85 m,  b. 20 Dec 1999 @ Heidelberg
+Dario Maresić,                D,  1.83 m,  b. 29 Sep 1999 @ Graz
 Julian Gölles,                D,  1.89 m,  b. 22 Sep 1999
 Manuel Pfeifer,               D,  1.85 m,  b. 10 Sep 1999 @ Hartberg
 Christoph Urdl,               F,  1.81 m,  b. 17 Aug 1999
 Christoph Baumgartner,        M,  1.78 m,  b. 1 Aug 1999 @ Horn
+Robert Ljubičić,              M,  1.78 m,  b. 14 Jul 1999 @ Vienna
 Alexander Eckmayr,            G,  - ,      b. 6 Jul 1999 @ Munich
 Dominik Fitz,                 F,  1.75 m,  b. 16 Jun 1999 @ Vienna
 Alexandar Borković,           D,  1.84 m,  b. 11 Jun 1999 @ Vienna
@@ -199,7 +207,9 @@ Paul Gartler,                 G,  1.85 m,  b. 10 Mar 1997 @ Gleisdorf
 Nicolas Schmid,               G,  1.95 m,  b. 22 Feb 1997 @ Linz
 David Gugganig,               D,  1.90 m,  b. 10 Feb 1997 @ Spittal an der Drau
 Fabian Gmeiner,               D,  1.77 m,  b. 27 Jan 1997 @ Dornbirn
+Patrick Pentz,                G,  1.82 m,  b. 2 Jan 1997 @ Salzburg
 
+Marko Kvasina,                F,  1.94 m,  b. 20 Dec 1996 @ Vienna
 Mathias Honsak,               M,  1.88 m,  b. 20 Dec 1996 @ Vienna
 Felix Gschossmann,            G,  1.83 m,  b. 3 Oct 1996 @ Amstetten
 Nosa Edokpolor,               D,  1.78 m,  b. 22 Sep 1996 @ Benin City
@@ -217,6 +227,7 @@ Lukas Tursch,                 M,  1.86 m,  b. 29 Mar 1996 @ Ternberg
 Valentino Lazaro,             M,  1.80 m,  b. 24 Mar 1996 @ Graz
 Husein Balić,                 F,  1.83 m,  b. 15 Feb 1996 @ Linz
 Alexander Schlager,           G,  1.84 m,  b. 1 Feb 1996 @ Salzburg
+Ercan Kara,                   F,  1.92 m,  b. 3 Jan 1996 @ Vienna
 
 Raphael Sallinger,            G,  1.97 m,  b. 8 Dec 1995 @ Klagenfurt
 Tino Casali,                  G,  1.91 m,  b. 14 Nov 1995 @ Villach
@@ -227,30 +238,39 @@ Lukas Grgić,                  M,  1.83 m,  b. 17 Aug 1995 @ Wels
 Florian Grillitsch,           M,  1.87 m,  b. 7 Aug 1995 @ Neunkirchen
 Manfred Fischer,              M,  1.79 m,  b. 6 Aug 1995
 Jonathan Scherzer,            D,  1.85 m,  b. 22 Jul 1995
+Albert Vallci,                D,  1.91 m,  b. 2 Jul 1995 @ Voitsberg
 Andreas Gruber,               F,  1.74 m,  b. 29 Jun 1995 @ Mürzzuschlag
 Peter Michorl,                M,  1.76 m,  b. 9 May 1995 @ Vienna
 Sven Sprangler,               M,  1.82 m,  b. 27 Mar 1995 @ Bruck an der Mur
+Andreas Kuen,                 M,  1.75 m,  b. 24 Mar 1995 @ Zams
+Ivan Lučić,                   G,  1.93 m,  b. 23 Mar 1995 @ Vienna
 Nicolas Wimmer,               D,  1.90 m,  b. 15 Mar 1995
 Lukas Gugganig,               D,  1.91 m,  b. 14 Feb 1995 @ Spittal an der Drau
 Michael Brandner,             M,  1.75 m,  b. 13 Feb 1995 @ Salzburg
 
 Louis Schaub,                 M,  1.77 m,  b. 29 Dec 1994 @ Fulda
 Stefan Haudum,                M,  1.89 m,  b. 27 Nov 1994 @ Eferding
+Thomas Murg,                  M,  1.73 m,  b. 14 Nov 1994 @ Voitsberg
+Fabian Schubert,              F,  1.94 m,  b. 29 Aug 1994 @ Eisenkappel-Vellach
 Fabio Strauss,                D,  1.95 m,  b. 6 Aug 1994 @ Salzburg
 Domenik Schierl,              G,  1.84 m,  b. 20 Jul 1994
 Daniel Bachmann,              G,  1.91 m,  b. 9 Jul 1994 @ Vienna
 Nikola Doveden,               F,  1.72 m,  b. 6 Jul 1994 @ Tulln an der Donau
 Philipp Wiesinger,            D,  1.82 m,  b. 23 May 1994 @ Salzburg
 Osarenren Okungbowa,          D,  1.87 m,  b. 13 May 1994 @ Vienna
+Marvin Egho,                  F,  1.85 m,  b. 9 May 1994 @ Vienna
 Michael Gregoritsch,          F,  1.90 m,  b. 18 Apr 1994 @ Graz
 Felix Luckeneder,             D,  1.90 m,  b. 21 Mar 1994 @ Linz
 Marcel Sabitzer,              M,  1.76 m,  b. 17 Mar 1994 @ Graz
+Markus Kuster,                G,  1.94 m,  b. 22 Feb 1994 @ Kittsee
 Lukas Jäger,                  M,  1.84 m,  b. 12 Feb 1994 @ Alberschwende
 Phillipp Mwene,               D,  1.70 m,  b. 29 Jan 1994 @ Vienna
 Roman Kerschbaum,             M,  1.81 m,  b. 19 Jan 1994 @ Neunkirchen
+Stefan Savić,                 M,  1.73 m,  b. 9 Jan 1994 @ Salzburg
 
 Tobias Knoflach,              G,  1.83 m,  b. 30 Dec 1993 @ Vienna
 Christian Gebauer,            M,  1.87 m,  b. 20 Dec 1993 @ Innsbruck
+Manuel Kuttin,                G,  1.95 m,  b. 17 Dec 1993 @ Spittal an der Drau
 Marvin Potzmann,              D,  1.80 m,  b. 7 Dec 1993 @ Vienna
 René Renner,                  D,  1.82 m,  b. 29 Nov 1993 @ Wels
 Dominik Frieser,              M,  1.76 m,  b. 9 Sep 1993 @ Graz
@@ -258,10 +278,12 @@ Kevin Stöger,                 M,  1.75 m,  b. 27 Aug 1993 @ Steyr
 Pius Grabher,                 M,  1.70 m,  b. 11 Aug 1993 @ Lustenau
 Maximilian Hofmann,           D,  1.81 m,  b. 7 Aug 1993 @ Vienna
 Peter Haring,                 M,  1.87 m,  b. 2 Jun 1993 @ Eisenstadt
+Martin Fraisl,                G,  1.87 m,  b. 10 May 1993 @ Wolfsbach
 Thomas Goiginger,             M,  1.81 m,  b. 15 Mar 1993 @ Linz
 Raphael Holzhauser,           M,  1.93 m,  b. 16 Feb 1993 @ Wiener Neustadt
 
 Samuel Şahin-Radlinger,       G,  1.96 m,  b. 7 Nov 1992 @ Ried im Innkreis
+Cican Stanković,              G,  1.85 m,  b. 4 Nov 1992 @ Bijeljina
 Tobias Kainz,                 M,  1.74 m,  b. 31 Oct 1992 @ Feldbach
 Florian Kainz,                M,  1.74 m,  b. 24 Oct 1992 @ Graz
 Kristijan Dobras,             M,  1.75 m,  b. 9 Oct 1992 @ Steyr
@@ -280,11 +302,15 @@ Nico Antonitsch,              D,  1.85 m,  b. 30 Sep 1991 @ Vienna
 Andreas Weimann,              F,  1.88 m,  b. 5 Aug 1991 @ Vienna
 Manuel Prietl,                M,  1.87 m,  b. 3 Aug 1991 @ Deutschlandsberg
 Thorsten Röcher,              F,  1.81 m,  b. 11 Jun 1991 @ Neunkirchen
+Emir Dilaver,                 D,  1.83 m,  b. 7 May 1991 @ Tomislavgrad
 Lukas Hinterseer,             F,  1.92 m,  b. 28 Mar 1991 @ Kitzbühel
 Stephan Hierländer,           M,  1.80 m,  b. 3 Feb 1991 @ Villach
+Emanuel Šakić,                D,  1.77 m,  b. 25 Jan 1991 @ Vienna
 
 Michael Novak,                D,  1.83 m,  b. 30 Dec 1990 @ Sankt Veit an der Glan
 Manfred Gollner,              D,  1.84 m,  b. 22 Dec 1990 @ Judenburg
+Benedikt Zech,                D,  1.86 m,  b. 3 Nov 1990 @ Feldkirch
+Stefan Schwab,                M,  1.85 m,  b. 27 Sep 1990 @ Saalfelden
 Heinz Lindner,                G,  1.87 m,  b. 17 Jul 1990 @ Linz
 Jan Zwischenbrugger,          M,  1.87 m,  b. 16 Jun 1990 @ Au
 Thorsten Schick,              M,  1.80 m,  b. 19 May 1990 @ Graz
@@ -300,6 +326,8 @@ Guido Burgstaller,            F,  1.87 m,  b. 29 Apr 1989 @ Villach
 Marko Arnautović,             F,  1.93 m,  b. 19 Apr 1989 @ Vienna
 Jakob Jantscher,              F,  1.78 m,  b. 8 Jan 1989 @ Graz
 
+Alexander Gorgon,             M,  1.85 m,  b. 28 Oct 1988 @ Vienna
+Marin Leovac,                 D,  1.79 m,  b. 7 Aug 1988 @ Jajce
 Mario Leitgeb,                M,  1.83 m,  b. 30 Jun 1988 @ Graz
 
 Pavao Pervan,                 G,  1.94 m,  b. 13 Nov 1987 @ Livno
