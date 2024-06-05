@@ -368,11 +368,12 @@ Arkadiusz Reca,               D,  1.87 m,  b. 17 Jun 1995 @ Chojnice
 Damian Szymański,             M,  1.81 m,  b. 16 Jun 1995 @ Kraśnik
 Daniel Szczepan,              F,  1.79 m,  b. 5 Jun 1995 @ Rydułtowy
 Filip Piszczek,               F,  1.88 m,  b. 26 May 1995 @ Nowy Targ
-Paweł Dawidowicz,             D,  1.89 m,  b. 20 May 1995 @ Olsztyn
+Paweł Dawidowicz,             M,  1.89 m,  b. 20 May 1995 @ Olsztyn
+Mariusz Stępiński,            F,  1.83 m,  b. 12 May 1995 @ Sieradz
 Patryk Stępiński,             D,  1.83 m,  b. 12 May 1995 @ Sieradz
 Fabian Piasecki,              F,  1.86 m,  b. 4 May 1995 @ Wrocław
 Patryk Kun,                   M,  1.65 m,  b. 20 Apr 1995 @ Giżycko
-Przemysław Frankowski,        D,  1.75 m,  b. 12 Apr 1995 @ Gdańsk
+Przemysław Frankowski,        M,  1.75 m,  b. 12 Apr 1995 @ Gdańsk
 Mariusz Malec,                D,  1.89 m,  b. 4 Apr 1995 @ Chorzów
 Marcin Listkowski,            F,  1.78 m,  b. 29 Mar 1995 @ Rypin
 Karol Linetty,                M,  1.76 m,  b. 2 Feb 1995 @ Żnin
@@ -391,7 +392,7 @@ Piotr Zieliński,              M,  1.80 m,  b. 20 May 1994 @ Ząbkowice Śląski
 Bartosz Kwiecień,             M,  1.86 m,  b. 7 May 1994 @ Starachowice
 Miłosz Trojak,                M,  1.91 m,  b. 5 May 1994 @ Wałbrzych
 Radosław Murawski,            M,  1.73 m,  b. 22 Apr 1994 @ Gliwice
-Arkadiusz Milik,              F,  1.86 m,  b. 28 Feb 1994 @ Tychy
+Arkadiusz Milik,              F,  1.83 m,  b. 28 Feb 1994 @ Tychy
 Jarosław Jach,                D,  1.90 m,  b. 17 Feb 1994 @ Bielawa
 Marcin Flis,                  D,  1.85 m,  b. 10 Feb 1994 @ Bychowa
 
@@ -417,9 +418,11 @@ Rafał Kurzawa,                M,  1.82 m,  b. 29 Jan 1993 @ Wieruszów
 Michał Nalepa,                D,  1.90 m,  b. 22 Jan 1993 @ Chrzanów
 Bartosz Szeliga,              M,  1.84 m,  b. 10 Jan 1993 @ Nowy Sącz
 
+Jakub Świerczok,              F,  1.79 m,  b. 28 Dec 1992 @ Tychy
 Bartłomiej Pawłowski,         M,  1.78 m,  b. 13 Nov 1992 @ Zgierz
-Rafał Wolski,                 M,  1.79 m,  b. 10 Nov 1992 @ Kozienice
+Rafał Wolski,                 M,  1.79 m,  b. 10 Nov 1992 @ Gmina Głowaczów
 Filip Bednarek,               G,  1.88 m,  b. 26 Sep 1992 @ Kleczew
+Jacek Góralski,               M,  1.72 m,  b. 21 Sep 1992 @ Bydgoszcz
 Kamil Zapolnik,               F,  1.82 m,  b. 9 Sep 1992 @ Białystok
 Damian Dąbrowski,             M,  1.69 m,  b. 27 Aug 1992 @ Kamienna Góra
 Piotr Mroziński,              M,  1.81 m,  b. 24 Aug 1992 @ Przemyśl
@@ -446,6 +449,7 @@ Piotr Głowacki,               D,  1.82 m,  b. 12 Oct 1991 @ Olsztyn
 Jakub Słowik,                 G,  1.90 m,  b. 31 Aug 1991 @ Nowy Sącz
 Jakub Czerwinski,             D,  1.83 m,  b. 6 Aug 1991 @ Krynica Zdrój
 Piotr Malarczyk,              D,  1.89 m,  b. 1 Aug 1991 @ Kielce
+Łukasz Teodorczyk,            F,  1.85 m,  b. 3 Jun 1991 @ Żuromin
 Filip Starzyński,             M,  1.84 m,  b. 27 May 1991 @ Szczecin
 Dawid Abramowicz,             D,  1.86 m,  b. 16 May 1991 @ Brzeg Dolny
 Konrad Jałocha,               G,  2.00 m,  b. 9 May 1991 @ Warsaw
@@ -458,17 +462,21 @@ Krzysztof Kamiński,           G,  1.91 m,  b. 26 Nov 1990 @ Nowy Dwór Mazowiec
 Paweł Baranowski,             D,  1.90 m,  b. 11 Oct 1990 @ Suwałki
 Maciej Domański,              M,  1.67 m,  b. 5 Sep 1990 @ Rzeszów
 Paweł Zieliński,              D,  1.78 m,  b. 17 Jul 1990 @ Ząbkowice Śląskie
+Mateusz Klich,                M,  1.80 m,  b. 13 Jun 1990 @ Tarnów
 Artur Sobiech,                F,  1.84 m,  b. 12 Jun 1990 @ Ruda Śląska
 Arkadiusz Woźniak,            M,  1.84 m,  b. 1 Jun 1990 @ Lubin
 Wojciech Szczęsny,            G,  1.95 m,  b. 18 Apr 1990 @ Warsaw
 Damian Jakubik,               D,  1.83 m,  b. 25 Mar 1990 @ Otwock
 Paweł Olkowski,               D,  1.84 m,  b. 13 Feb 1990 @ Ozimek
 Mateusz Cholewiak,            M,  1.84 m,  b. 5 Feb 1990 @ Krosno
+Grzegorz Krychowiak,          M,  1.86 m,  b. 29 Jan 1990 @ Gryfice
 Tomasz Kupisz,                M,  1.80 m,  b. 2 Jan 1990 @ Radom
 
-Maciej Rybus,                 D,  1.72 m,  b. 19 Aug 1989 @ Łowicz
+Grzegorz Sandomierski,        G,  1.96 m,  b. 5 Sep 1989 @ Białystok
+Maciej Rybus,                 M,  1.72 m,  b. 19 Aug 1989 @ Łowicz
 Maciej Sadlok,                D,  1.81 m,  b. 29 Jun 1989 @ Oświęcim
 Piotr Wlazło,                 M,  1.81 m,  b. 3 Jun 1989 @ Radom
+Adam Matuschyk,               M,  1.83 m,  b. 14 Feb 1989 @ Gliwice
 Michał Buchalik,              G,  1.90 m,  b. 3 Feb 1989 @ Rybnik
 
 Łukasz Sołowiej,              D,  1.89 m,  b. 11 Oct 1988 @ Sokółka
@@ -481,11 +489,34 @@ Kamil Wilczek,                F,  1.86 m,  b. 14 Jan 1988 @ Wodzisław Śląski
 
 Artur Jędrzejczyk,            D,  1.89 m,  b. 4 Nov 1987 @ Dębica
 Rafał Gikiewicz,              G,  1.90 m,  b. 26 Oct 1987 @ Olsztyn
+Michał Pazdan,                D,  1.80 m,  b. 21 Sep 1987 @ Kraków
 Bartosz Białkowski,           G,  1.94 m,  b. 6 Jul 1987 @ Braniewo
+Krzysztof Mączyński,          M,  1.75 m,  b. 23 May 1987 @ Kraków
+Sebastian Boenisch,           D,  1.91 m,  b. 1 Feb 1987 @ Gliwice
 Przemysław Tytoń,             G,  1.95 m,  b. 4 Jan 1987 @ Zamość
 
+Adrian Mierzejewski,          M,  1.76 m,  b. 6 Nov 1986 @ Olsztyn
+Thiago Rangel Cionek,         D,  1.84 m,  b. 21 Apr 1986 @ Curitiba
+Eugen Polanski,               M,  1.83 m,  b. 17 Mar 1986 @ Sosnowiec
 Tomasz Foszmańczyk,           M,  1.69 m,  b. 7 Feb 1986 @ Bytom
 
+Jakub Błaszczykowski,         M,  1.75 m,  b. 14 Dec 1985 @ Częstochowa
+Łukasz Piszczek,              D,  1.84 m,  b. 3 Jun 1985 @ Czechowice-Dziedzice
 Łukasz Fabiański,             G,  1.90 m,  b. 18 Apr 1985 @ Kostrzyn nad Odrą
+Tomasz Jodłowiec,             M,  1.90 m,  b. 22 Mar 1985 @ Żywiec
+Sławomir Peszko,              M,  1.74 m,  b. 19 Feb 1985 @ Jedlicze
+
+Ludovic Obraniak,             M,  1.74 m,  b. 10 Nov 1984 @ Longueville-lès-Metz
+Damien Perquis,               D,  1.84 m,  b. 10 Apr 1984 @ Troyes
+Grzegorz Wojtkowiak,          D,  1.84 m,  b. 26 Jan 1984 @ Kostrzyn nad Odrą
+
+Dariusz Dudka,                D,  1.82 m,  b. 9 Dec 1983 @ Kostrzyn nad Odrą
+Jakub Wawrzyniak,             D,  1.88 m,  b. 7 Jul 1983 @ Kutno
+Paweł Brożek,                 F,  1.80 m,  b. 21 Apr 1983 @ Kielce
+
+Rafał Murawski,               M,  1.75 m,  b. 9 Oct 1981 @ Malbork
+
+Marcin Wasilewski,            D,  1.86 m,  b. 9 Jun 1980 @ Kraków
+Artur Boruc,                  G,  1.93 m,  b. 20 Feb 1980 @ Siedlce
 
 Kamil Dudek,                  G,  - ,      -

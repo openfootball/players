@@ -267,6 +267,7 @@ Gilles Dewaele,               D,  1.82 m,  b. 13 Feb 1996 @ Knokke
 Zakaria Bakkali,              M,  1.68 m,  b. 26 Jan 1996 @ Liège
 
 Timothy Castagne,             D,  1.80 m,  b. 5 Dec 1995 @ Aarlen
+Timoty Castagne,              D,  1.80 m,  b. 5 Dec 1995 @ Aarlen
 Jonathan Okita,               F,  1.80 m,  b. 5 Oct 1995 @ Paris
 Dario van den Buijs,          D,  1.82 m,  b. 12 Sep 1995 @ Lier
 Youssef Challouk,             M,  1.73 m,  b. 28 Aug 1995 @ Boom
@@ -274,6 +275,7 @@ Kylian Hazard,                F,  1.73 m,  b. 5 Aug 1995 @ La Louvière
 Wolke Janssens,               D,  1.85 m,  b. 1 Aug 1995 @ Peer
 Nick Gillekens,               G,  1.85 m,  b. 5 Jul 1995 @ Leuven
 Boli Bolingoli-Mbombo,        D,  1.80 m,  b. 1 Jul 1995 @ Antwerp
+Jason Denayer,                D,  1.84 m,  b. 28 Jun 1995 @ Brussels
 Tuur Dierckx,                 F,  1.71 m,  b. 9 May 1995 @ Broechem
 Anas Tahiri,                  M,  1.79 m,  b. 5 May 1995 @ Brussels
 Divock Origi,                 F,  1.85 m,  b. 18 Apr 1995 @ Ostend
@@ -283,7 +285,7 @@ Lucas Pirard,                 G,  1.91 m,  b. 10 Mar 1995 @ Sprimont
 Deni Milošević,               M,  1.82 m,  b. 9 Mar 1995
 Ali Yaşar,                    D,  1.80 m,  b. 8 Mar 1995 @ Liège
 Pieter Gerkens,               M,  1.79 m,  b. 17 Feb 1995 @ Bilzen
-Adnan Januzaj,                M,  1.86 m,  b. 5 Feb 1995 @ Brussels
+Adnan Januzaj,                M,  1.80 m,  b. 5 Feb 1995 @ Brussels
 
 Julien de Sart,               M,  1.86 m,  b. 23 Dec 1994 @ Waremme
 Cyriel Dessers,               F,  1.85 m,  b. 8 Dec 1994 @ Leuven
@@ -292,6 +294,7 @@ Benito Raman,                 F,  1.72 m,  b. 7 Nov 1994 @ Gent
 Nikola Storm,                 F,  1.78 m,  b. 30 Sep 1994 @ Maldegem
 Thomas Foket,                 D,  1.77 m,  b. 25 Sep 1994 @ Brussels
 Björn Engels,                 D,  1.93 m,  b. 15 Sep 1994 @ Kaprijke
+Jordan Lukaku,                D,  1.88 m,  b. 25 Jul 1994 @ Antwerp
 Anthony Limbombe,             F,  1.75 m,  b. 15 Jul 1994 @ Mechelen
 Dennis Praet,                 M,  1.81 m,  b. 14 May 1994 @ Leuven
 Birger Verstraete,            M,  1.71 m,  b. 16 Apr 1994 @ Ostend
@@ -300,9 +303,9 @@ Davy Roef,                    G,  1.87 m,  b. 6 Feb 1994 @ Antwerp
 Guillaume Hubert,             G,  1.97 m,  b. 11 Jan 1994 @ Charleroi
 
 Mickaël Tirpan,               D,  1.77 m,  b. 23 Oct 1993 @ Anderlecht
-Michy Batshuayi,              F,  1.85 m,  b. 2 Oct 1993 @ Brussels
+Michy Batshuayi,              F,  1.80 m,  b. 2 Oct 1993 @ Brussels
 Massimo Bruno,                M,  1.77 m,  b. 17 Sep 1993 @ Boussu
-Yannick Ferreira Carrasco,    M,  1.81 m,  b. 4 Sep 1993 @ Elsene
+Yannick Ferreira Carrasco,    M,  1.80 m,  b. 4 Sep 1993 @ Elsene
 Mats Rits,                    M,  1.80 m,  b. 18 Jul 1993 @ Antwerp
 Romelu Lukaku,                F,  1.90 m,  b. 13 May 1993 @ Antwerp
 Hendrik van Crombrugge,       G,  1.88 m,  b. 30 Apr 1993 @ Leuven
@@ -331,11 +334,13 @@ Ziguy Badibanga,              M,  1.89 m,  b. 26 Nov 1991 @ Evere
 Geoffry Hairemans,            M,  1.87 m,  b. 21 Oct 1991 @ Wilrijk
 Thomas Meunier,               D,  1.91 m,  b. 12 Sep 1991 @ Sainte-Ode
 Funso Ojo,                    M,  1.77 m,  b. 28 Aug 1991 @ Antwerp
-Kevin De Bruyne,              M,  1.81 m,  b. 28 Jun 1991 @ Drongen
-Christian Kabasele,           D,  1.88 m,  b. 24 Feb 1991 @ Lubumbashi
+Kevin De Bruyne,              M,  1.80 m,  b. 28 Jun 1991 @ Drongen
+Christian Kabasele,           D,  1.86 m,  b. 24 Feb 1991 @ Lubumbashi
 Lukas Van Eeno,               M,  1.75 m,  b. 6 Feb 1991 @ Brugge
+Eden Hazard,                  M,  1.70 m,  b. 7 Jan 1991 @ La Louvière
 
 Jo Coppens,                   G,  1.90 m,  b. 21 Dec 1990 @ Heusden
+Christian Benteke,            F,  1.90 m,  b. 3 Dec 1990 @ Kinshasa
 Dedryck Boyata,               D,  1.88 m,  b. 8 Sep 1990 @ Uccle
 Jonathan Heris,               D,  1.84 m,  b. 3 Sep 1990 @ Brussels
 Yannick Thoelen,              G,  1.88 m,  b. 18 Jul 1990 @ Tessenderlo
@@ -345,7 +350,7 @@ Anthony Moris,                G,  1.84 m,  b. 29 Apr 1990 @ Liège
 Joren Dom,                    D,  1.73 m,  b. 29 Nov 1989 @ Antwerp
 Nacer Chadli,                 M,  1.87 m,  b. 2 Aug 1989 @ Liège
 Koen Van Langendonck,         G,  1.89 m,  b. 9 Jun 1989 @ Neerpelt
-Toby Alderweireld,            D,  1.87 m,  b. 2 Mar 1989 @ Wilrijk
+Toby Alderweireld,            D,  1.85 m,  b. 2 Mar 1989 @ Wilrijk
 Sébastien Bruzzese,           G,  1.84 m,  b. 1 Mar 1989 @ Liège
 Vadis Odjidja-Ofoe,           M,  1.85 m,  b. 21 Feb 1989 @ Gent
 Axel Witsel,                  M,  1.86 m,  b. 12 Jan 1989 @ Liège
@@ -353,9 +358,26 @@ Axel Witsel,                  M,  1.86 m,  b. 12 Jan 1989 @ Liège
 Laurent Depoitre,             F,  1.90 m,  b. 7 Dec 1988 @ Tournai
 Ritchie De Laet,              D,  1.86 m,  b. 28 Nov 1988 @ Antwerp
 Sinan Bolat,                  G,  1.87 m,  b. 3 Sep 1988 @ Kayseki
+Radja Nainggolan,             M,  1.75 m,  b. 4 May 1988 @ Antwerp
+Steven Defour,                M,  1.73 m,  b. 15 Apr 1988 @ Mechelen
 Simon Mignolet,               G,  1.93 m,  b. 6 Mar 1988 @ Sint-Truiden
 Sven Kums,                    M,  1.76 m,  b. 26 Feb 1988 @ Asse
 
 Davino Verhulst,              G,  1.91 m,  b. 25 Nov 1987 @ Beveren
+Marouane Fellaini,            M,  1.94 m,  b. 22 Nov 1987 @ Etterbeek
+Anthony Vanden Borre,         D,  1.85 m,  b. 24 Oct 1987 @ Likasi
+Kevin Mirallas,               F,  1.78 m,  b. 5 Oct 1987 @ Liège
+Mousa Dembélé,                M,  1.77 m,  b. 17 Jul 1987 @ Wilrijk
 Dries Mertens,                F,  1.69 m,  b. 6 May 1987 @ Leuven
 Jan Vertonghen,               D,  1.89 m,  b. 24 Apr 1987 @ Sint-Niklaas
+
+Vincent Kompany,              D,  1.91 m,  b. 10 Apr 1986 @ Ukkel
+
+Thomas Vermaelen,             D,  1.82 m,  b. 14 Nov 1985 @ Kapellen
+Sammy Bossut,                 G,  1.85 m,  b. 11 Aug 1985 @ Oostrozebeke
+Laurent Ciman,                D,  1.80 m,  b. 5 Aug 1985 @ Farciennes
+Nicolas Lombaerts,            D,  1.88 m,  b. 20 Mar 1985 @ Brugge
+
+Jean-François Gillet,         G,  1.81 m,  b. 31 May 1979 @ Liège
+
+Daniel van Buyten,            D,  1.96 m,  b. 7 Feb 1978 @ Chimay

@@ -17,7 +17,6 @@ Guilherme Zimovski,           M,  1.77 m,  b. 3 Dec 2004 @ Brasília
 Luís Pires,                   G,  1.88 m,  b. 17 Nov 2004
 Vitinho,                      M,  - ,      b. 11 Nov 2004
 Zé Henrique,                  G,  1.99 m,  b. 23 Oct 2004 @ Paraguaçu Paulista
-Kaka,                         D,  - ,      b. 16 Oct 2004
 Arielson,                     F,  1.80 m,  b. 5 Sep 2004 @ Porto Velho
 Eguinaldo,                    F,  1.75 m,  b. 9 Aug 2004 @ Monção
 Gabriel Souza,                G,  1.93 m,  b. 3 Aug 2004 @ Vila Velha
@@ -86,7 +85,6 @@ Caio Da Cruz,                 F,  - ,      b. 13 Mar 2002 @ Serra
 Lázaro,                       M,  1.81 m,  b. 12 Mar 2002 @ Belo Horizonte
 André Luiz,                   F,  1.85 m,  b. 23 Feb 2002 @ Rio de Janeiro
 Lipe,                         D,  1.88 m,  b. 19 Feb 2002 @ Florianópolis
-Ítalo,                        D,  1.91 m,  b. 18 Feb 2002 @ Salvador
 Hiago,                        M,  1.78 m,  b. 28 Jan 2002 @ Iporã
 Kaio Jorge,                   F,  1.76 m,  b. 24 Jan 2002 @ Olinda
 Reinier,                      M,  1.85 m,  b. 19 Jan 2002 @ Brasília
@@ -162,17 +160,13 @@ Jeffinho,                     M,  1.76 m,  b. 30 Dec 1999 @ Volta Redonda
 Samuel Lino,                  F,  1.70 m,  b. 23 Dec 1999 @ Santo André
 Guilherme Oliveira,           D,  1.93 m,  b. 2 Dec 1999
 Pablo Roberto,                M,  1.83 m,  b. 14 Nov 1999 @ São Francisco
-Marquinhos,                   F,  1.70 m,  b. 20 Oct 1999 @ Cajari
 Evanilson,                    F,  1.80 m,  b. 6 Oct 1999 @ Fortaleza
 André Anderson,               M,  1.80 m,  b. 23 Sep 1999 @ Maracaí
 Matheus Índio,                M,  1.82 m,  b. 27 Aug 1999 @ Rio de Janeiro
 Madson,                       M,  1.64 m,  b. 26 Aug 1999 @ Curitiba
-Alexsandro,                   D,  1.89 m,  b. 9 Aug 1999 @ Rio de Janeiro
-Éderson,                      M,  1.83 m,  b. 7 Jul 1999 @ Campo Grande
 Tuta,                         D,  1.84 m,  b. 4 Jul 1999 @ São Paulo
 Gabriel Sara,                 M,  1.78 m,  b. 26 Jun 1999 @ Joinville
 Vinicius Souza,               M,  1.87 m,  b. 17 Jun 1999 @ Rio de Janeiro
-Weverton,                     D,  1.81 m,  b. 15 Jun 1999 @ Maceió
 Ruan Tressoldi,               D,  1.87 m,  b. 7 Jun 1999 @ Tramandaí
 Matheus Cunha,                F,  1.84 m,  b. 27 May 1999 @ João Pessoa
 Júnior Brumado,               F,  1.90 m,  b. 15 May 1999 @ Brumado
@@ -244,6 +238,7 @@ Lucas Paquetá,                M,  1.80 m,  b. 27 Aug 1997 @ Rio de Janeiro
 Cadu,                         M,  1.77 m,  b. 8 Aug 1997 @ Salvador
 Caio Henrique,                D,  1.77 m,  b. 31 Jul 1997 @ Santos
 Daniel Fuzato,                G,  1.90 m,  b. 4 Jul 1997 @ Santa Bárbara d'Oeste
+Pedro,                        F,  1.85 m,  b. 20 Jun 1997 @ Rio de Janeiro
 Vinícius,                     G,  1.88 m,  b. 19 Jun 1997 @ Rio de Janeiro
 André Silva,                  F,  1.81 m,  b. 3 Jun 1997 @ Taboão da Serra
 Patrick,                      D,  1.86 m,  b. 3 Jun 1997 @ São Leopoldo
@@ -268,7 +263,6 @@ João Basso,                   D,  1.87 m,  b. 13 Jan 1997 @ Curitiba
 
 Matheus Aiás,                 F,  1.75 m,  b. 30 Dec 1996 @ Palmares Paulista
 Ewerton da Silva,             M,  1.75 m,  b. 28 Dec 1996 @ São Bernardo do Campo
-Julio Cesar,                  D,  1.92 m,  b. 6 Dec 1996 @ Mogi das Cruzes
 Wesley,                       F,  1.91 m,  b. 26 Nov 1996 @ Juiz de Fora
 Pedro Henrique,               F,  1.88 m,  b. 8 Nov 1996 @ Goiás
 Carlos Eduardo,               F,  1.73 m,  b. 10 Oct 1996 @ Nerópolis
@@ -323,7 +317,6 @@ João Carlos,                  F,  1.87 m,  b. 1 Mar 1995 @ Coaraci
 Matheus Reis,                 D,  1.83 m,  b. 18 Feb 1995 @ São João da Boa Vista
 Willyan,                      D,  1.93 m,  b. 27 Jan 1995 @ Rio de Janeiro
 Kewin,                        G,  1.89 m,  b. 25 Jan 1995 @ São Paulo
-Paulinho,                     D,  1.78 m,  b. 3 Jan 1995 @ São Paulo
 Juninho,                      D,  1.86 m,  b. 2 Jan 1995 @ Londrina
 
 Rangel,                       F,  1.84 m,  b. 29 Dec 1994 @ Alvorada
@@ -338,6 +331,7 @@ Cláudio Falcão,               M,  1.70 m,  b. 3 Jul 1994 @ Aquidauana
 Carlinhos,                    M,  1.79 m,  b. 22 Jun 1994 @ Camacan
 Marcão,                       F,  1.86 m,  b. 17 Jun 1994 @ Tietê
 Jean Filipe,                  D,  1.79 m,  b. 18 May 1994 @ Toledo
+Marquinhos,                   D,  1.81 m,  b. 14 May 1994 @ São Paulo
 Maracás,                      D,  1.84 m,  b. 27 Apr 1994 @ Itiruçu
 Henrique Silva,               D,  1.73 m,  b. 25 Apr 1994 @ Rio de Janeiro
 Cláudio Winck,                D,  1.83 m,  b. 15 Apr 1994 @ Portão
@@ -353,6 +347,7 @@ Willian Klaus,                D,  1.87 m,  b. 11 Jan 1994 @ Dois Irmãos
 Gustavo Scarpa,               M,  1.76 m,  b. 5 Jan 1994 @ Campinas
 
 Douglas Tanque,               F,  1.88 m,  b. 27 Oct 1993 @ Santa Cruz do Rio Pardo
+Fabinho,                      M,  1.87 m,  b. 23 Oct 1993 @ Campinas
 Max Walef,                    G,  1.81 m,  b. 23 Oct 1993 @ Teresina
 Luiz Phellype,                F,  1.88 m,  b. 27 Sep 1993 @ São Gonçalo do Sapucaí
 Derick Poloni,                D,  1.73 m,  b. 1 Sep 1993 @ São Paulo
@@ -364,11 +359,11 @@ Mansur,                       D,  1.81 m,  b. 17 Apr 1993 @ Laranjeiras
 Felipe Anderson,              F,  1.75 m,  b. 15 Apr 1993 @ Brasília
 Gustavo Henrique,             D,  1.93 m,  b. 24 Mar 1993 @ São Paulo
 Diego Carlos,                 D,  1.84 m,  b. 15 Mar 1993 @ Barra Bonita
-Fred,                         M,  1.69 m,  b. 5 Mar 1993 @ Belo Horizonte
 Ricardo Friedrich,            G,  1.88 m,  b. 18 Feb 1993 @ Candelária
 Bressan,                      D,  1.82 m,  b. 15 Jan 1993 @ Caxias do Sul
 Fernando Andrade,             F,  1.82 m,  b. 8 Jan 1993 @ São Caetano do Sul
 
+Alex Telles,                  D,  1.81 m,  b. 15 Dec 1992 @ Caxias do Sul
 Clinton Mata,                 D,  1.80 m,  b. 7 Nov 1992 @ Verviers
 Alisson Becker,               G,  1.91 m,  b. 2 Oct 1992 @ Novo Hamburgo
 Bernard,                      M,  1.67 m,  b. 8 Sep 1992 @ Belo Horizonte
@@ -389,7 +384,9 @@ Willian José,                 F,  1.89 m,  b. 23 Nov 1991 @ Porto Calvo
 Fabiano,                      D,  1.88 m,  b. 18 Nov 1991 @ São José do Oeste
 Danilo Soares,                D,  1.70 m,  b. 29 Oct 1991 @ Belo Horizonte
 Lucas Lima,                   D,  1.78 m,  b. 10 Oct 1991 @ Estação
+Roberto Firmino,              F,  1.81 m,  b. 2 Oct 1991 @ Maceió
 Matheus Leoni,                D,  1.75 m,  b. 20 Sep 1991 @ Porto Velho
+Oscar,                        M,  1.79 m,  b. 9 Sep 1991 @ Americana
 Neto,                         M,  1.81 m,  b. 2 Sep 1991 @ Junqueirópolis
 Danilo,                       D,  1.84 m,  b. 15 Jul 1991 @ Bicas
 Lucas Galvão,                 D,  1.81 m,  b. 22 Jun 1991 @ São José do Rio Preto
@@ -406,6 +403,7 @@ Alex Sandro,                  D,  1.81 m,  b. 26 Jan 1991 @ Catanduva
 Caio Secco,                   G,  1.92 m,  b. 22 Dec 1990 @ Cambé
 Gabriel Paulista,             D,  1.85 m,  b. 26 Nov 1990 @ São Paulo
 Helton Leite,                 G,  1.96 m,  b. 2 Nov 1990 @ Belo Horizonte
+Douglas Costa,                F,  1.72 m,  b. 14 Sep 1990 @ Sapucaia do Sul
 Nuno Sequeira,                D,  1.84 m,  b. 19 Aug 1990 @ Porto
 Raphael Rossi Branco,         D,  1.90 m,  b. 25 Jul 1990 @ Campinas
 Pedro Ribeiro,                M,  1.93 m,  b. 13 Jun 1990 @ Belo Horizonte
@@ -414,11 +412,12 @@ Marcelo Carné,                G,  1.87 m,  b. 6 Feb 1990 @ Rio de Janeiro
 Ismaily,                      D,  1.77 m,  b. 11 Jan 1990 @ Ivinhema
 
 Dyego Sousa,                  F,  1.90 m,  b. 14 Sep 1989 @ São José de Ribamar
-Marcelo,                      D,  1.82 m,  b. 27 Jul 1989 @ São Carlos
 Cassiano,                     M,  1.84 m,  b. 16 Jun 1989 @ Porto Alegre
+Fagner,                       D,  1.68 m,  b. 11 Jun 1989 @ São Paulo
 Felipe,                       D,  1.85 m,  b. 16 May 1989 @ Mogi das Cruzes
 Lucas Marcolini,              M,  1.76 m,  b. 6 May 1989 @ Cornélio Procópio
 Welinton,                     D,  1.87 m,  b. 10 Apr 1989 @ Rio de Janeiro
+Éverton Ribeiro,              M,  1.74 m,  b. 10 Apr 1989 @ Arujá
 Aderlan Santos,               D,  1.93 m,  b. 9 Apr 1989 @ Salgueiro
 Ronivaldo,                    F,  1.73 m,  b. 24 Mar 1989 @ Orós
 Rafael Martins,               F,  1.75 m,  b. 17 Mar 1989 @ Santos
@@ -427,18 +426,66 @@ Souza,                        M,  1.76 m,  b. 11 Feb 1989 @ Rio de Janeiro
 
 Maurício,                     M,  1.80 m,  b. 21 Oct 1988 @ São José dos Campos
 Naldo,                        D,  1.88 m,  b. 25 Aug 1988 @ Santo André
-Willian,                      M,  1.75 m,  b. 9 Aug 1988 @ Ribeirão Pires
+Willian,                      M,  1.74 m,  b. 9 Aug 1988 @ Ribeirão Pires
+Paulinho,                     M,  1.80 m,  b. 25 Jul 1988 @ São Paulo
+Marcelo,                      D,  1.74 m,  b. 12 May 1988 @ Rio de Janeiro
 Nícolas Andrade,              G,  1.90 m,  b. 12 Apr 1988 @ Colorado do Oeste
 Claudemir,                    M,  1.85 m,  b. 27 Mar 1988 @ Bahia
-Taison,                       F,  1.72 m,  b. 17 Jan 1988 @ Pelotas
+Renato Augusto,               M,  1.85 m,  b. 8 Feb 1988 @ Rio de Janeiro
+Taison,                       M,  1.72 m,  b. 17 Jan 1988 @ Pelotas
 
+Weverton,                     G,  1.89 m,  b. 13 Dec 1987 @ Rio Branco
 Eric Fernando Botteghin,      D,  1.93 m,  b. 31 Aug 1987 @ São Paulo
+Luiz Gustavo,                 M,  1.87 m,  b. 23 Jul 1987 @ Pindamonhangaba
+Cássio,                       G,  1.95 m,  b. 6 Jun 1987 @ Veranópolis
+David Luiz,                   D,  1.89 m,  b. 22 Apr 1987 @ São Paulo
+Ramires,                      M,  1.79 m,  b. 24 Mar 1987 @ Rio de Janeiro
+Jô,                           F,  1.88 m,  b. 20 Mar 1987 @ São Paulo
 
+Henrique,                     D,  1.85 m,  b. 14 Oct 1986 @ Marechal Cândido Róndon
+Hulk,                         F,  1.76 m,  b. 25 Jul 1986 @ Campina Grande
 Júnior Morais,                M,  1.76 m,  b. 22 Jul 1986 @ São Luís
 
+Pedro Geromel,                D,  1.90 m,  b. 21 Sep 1985 @ São Paulo
 Romarinho,                    M,  1.74 m,  b. 10 Aug 1985 @ Imperatriz
+Filipe Luis,                  D,  1.82 m,  b. 9 Aug 1985 @ Jaraguá do Sul
+Hernanes,                     M,  1.80 m,  b. 29 May 1985 @ Recife
+Fernandinho,                  M,  1.76 m,  b. 4 May 1985 @ Londrina
 
 Thiago Silva,                 D,  1.83 m,  b. 22 Sep 1984 @ Rio de Janeiro
+Miranda,                      D,  1.85 m,  b. 7 Sep 1984 @ Paranavaí
+Nilmar,                       F,  1.80 m,  b. 14 Jul 1984 @ Bandeirantes
+Robinho,                      F,  1.72 m,  b. 25 Jan 1984 @ São Vicente
 
 Leandro Messias,              D,  1.82 m,  b. 29 Dec 1983 @ Rio de Janeiro
 Dante,                        D,  1.87 m,  b. 18 Oct 1983 @ Salvador
+Fred,                         F,  1.85 m,  b. 3 Oct 1983 @ Téofilo Otoni
+Felipe Melo,                  M,  1.83 m,  b. 26 Aug 1983 @ Volta Redonda
+Michel Bastos,                M,  1.78 m,  b. 2 Aug 1983 @ Pelotas
+Dani Alves,                   D,  1.72 m,  b. 6 May 1983 @ Juazeiro
+Daniel Alves,                 D,  1.73 m,  b. 6 May 1983 @ Juazeiro
+Victor,                       G,  1.93 m,  b. 21 Jan 1983 @ Santo Anastácio
+Jefferson,                    G,  1.87 m,  b. 2 Jan 1983 @ São Vicente
+
+Kaká,                         M,  1.86 m,  b. 22 Apr 1982 @ Brasília
+
+Júlio Baptista,               M,  1.83 m,  b. 1 Oct 1981 @ São Paulo
+Maxwell,                      D,  1.75 m,  b. 27 Aug 1981 @ Vila Velha
+Maicon,                       D,  1.84 m,  b. 26 Jul 1981 @ Criciúma
+Elano,                        M,  1.74 m,  b. 14 Jun 1981 @ Iracemápolis
+Heurelho Gomes,               G,  1.91 m,  b. 15 Feb 1981 @ João Pinheiro
+Luisão,                       D,  1.93 m,  b. 13 Feb 1981 @ Amparo
+
+Luís Fabiano,                 F,  1.83 m,  b. 8 Nov 1980 @ Campinas
+
+Doni,                         G,  1.94 m,  b. 22 Oct 1979 @ Jundiaí
+Júlio César,                  G,  1.86 m,  b. 3 Sep 1979 @ Rio de Janeiro
+Josué,                        M,  1.69 m,  b. 19 Jul 1979 @ Vitoria de Santo Antão
+Kléberson,                    M,  1.75 m,  b. 19 Jun 1979 @ Urai
+Grafite,                      F,  1.89 m,  b. 2 Apr 1979 @ Jundiaí
+Juan,                         D,  1.82 m,  b. 1 Feb 1979 @ Rio de Janeiro
+
+Lúcio,                        D,  1.88 m,  b. 8 May 1978 @ Brasília
+
+Gilberto Silva,               M,  1.84 m,  b. 7 Oct 1976 @ Lagoa da Prata
+Gilberto,                     D,  1.80 m,  b. 25 Apr 1976 @ Rio de Janeiro

@@ -31,23 +31,39 @@ Iké Ugbo,                     F,  1.86 m,  b. 21 Sep 1998 @ Lewisham
 Richlord Ennin,               F,  1.82 m,  b. 17 Sep 1998 @ Toronto
 Harry Paton,                  M,  1.75 m,  b. 23 May 1998 @ Kitchener
 Sebastian Breza,              G,  1.96 m,  b. 15 Mar 1998 @ Ottawa
+Liam Fraser,                  M,  1.85 m,  b. 13 Feb 1998 @ Toronto
 
 Derek Cornelius,              D,  1.88 m,  b. 25 Nov 1997 @ Ajax
 Marcus Godinho,               D,  1.78 m,  b. 28 Jun 1997 @ Toronto
+Kamal Miller,                 D,  1.83 m,  b. 16 May 1997 @ Scarborough (CAN)
+Dayne St. Clair,              G,  1.91 m,  b. 9 May 1997 @ Pickering
+James Pantemis,               G,  1.90 m,  b. 21 Feb 1997 @ Montreal
 
 Stephen Eustáquio,            M,  1.78 m,  b. 21 Dec 1996 @ Leamington (CAN)
 Marco Bustos,                 M,  1.68 m,  b. 22 Apr 1996 @ Winnipeg
 Kianz Froese,                 M,  1.75 m,  b. 16 Apr 1996 @ Havana
+Joel Waterman,                D,  1.88 m,  b. 24 Jan 1996 @ Aldergrove
 
 Cyle Larin,                   F,  1.88 m,  b. 17 Apr 1995 @ Brampton
+Sam Adekugbe,                 D,  1.75 m,  b. 16 Jan 1995 @ London
+Richie Laryea,                M,  1.75 m,  b. 7 Jan 1995 @ Toronto
 
+Mark-Anthony Kaye,            M,  1.91 m,  b. 2 Dec 1994 @ Toronto
+Samuel Piette,                M,  1.73 m,  b. 12 Nov 1994 @ Repentigny
 Dominick Zator,               D,  1.88 m,  b. 18 Sep 1994 @ Calgary
+
+Lucas Cavallini,              F,  1.81 m,  b. 28 Dec 1992 @ Toronto
+Jonathan Osorio,              M,  1.75 m,  b. 12 Jun 1992 @ Toronto
 
 Junior Hoilett,               M,  1.73 m,  b. 5 Jun 1990 @ Brampton
 Simon Thomas,                 G,  1.91 m,  b. 12 Apr 1990 @ Victoria
+David Wotherspoon,            M,  1.81 m,  b. 16 Jan 1990 @ Perth
 
 Jayson Leutwiler,             G,  1.92 m,  b. 25 Apr 1989 @ Basel
 
+Milan Borjan,                 G,  1.93 m,  b. 23 Oct 1987 @ Knin
 Steven Vitória,               D,  1.95 m,  b. 11 Jan 1987 @ Toronto
+
+Atiba Hutchinson,             M,  1.87 m,  b. 8 Feb 1983 @ North York
 
 Kenny Stamatopoulos,          G,  1.90 m,  b. 28 Aug 1979 @ Kalamata

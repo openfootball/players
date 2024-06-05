@@ -834,7 +834,7 @@ Jean-Luc Dompé,               F,  1.79 m,  b. 12 Aug 1995 @ Arpajon
 Gaëtan Laura,                 F,  1.85 m,  b. 6 Aug 1995 @ Argentan
 Gautier Lloris,               D,  1.91 m,  b. 18 Jul 1995 @ Nice
 Sofiane Sidi Ali,             M,  1.75 m,  b. 14 Jul 1995 @ Gap
-Mike Maignan,                 G,  1.91 m,  b. 3 Jul 1995 @ Cayenne
+Mike Maignan,                 G,  1.87 m,  b. 3 Jul 1995 @ Cayenne
 Quentin Daubin,               M,  1.83 m,  b. 3 Jul 1995 @ Saint-Nazaire
 Mamadou Sylla,                D,  1.81 m,  b. 28 Jun 1995 @ Toulouse
 Jessy Benet,                  M,  1.86 m,  b. 24 Jun 1995 @ Le Creusot
@@ -910,7 +910,7 @@ Damon Bansais,                D,  1.77 m,  b. 8 Jan 1994 @ Laval
 
 Adrien Thomasson,             M,  1.82 m,  b. 10 Dec 1993 @ Bourg-Saint-Maurice
 Eddy Gnahoré,                 M,  1.88 m,  b. 14 Nov 1993 @ Villeneuve-la-Garenne
-Samuel Umtiti,                D,  1.82 m,  b. 14 Nov 1993 @ Yaoundé
+Samuel Umtiti,                D,  1.81 m,  b. 14 Nov 1993 @ Yaoundé
 Julien Laporte,               D,  1.85 m,  b. 4 Nov 1993 @ Bayonne
 Yanis Merdji,                 F,  1.77 m,  b. 29 Oct 1993 @ Roanne
 Romain Bayard,                M,  1.67 m,  b. 12 Oct 1993 @ Compiègne
@@ -919,7 +919,7 @@ Teddy Teuma,                  M,  1.76 m,  b. 30 Sep 1993 @ Toulon
 Valentin Henry,               D,  1.83 m,  b. 18 Sep 1993 @ Brest
 Ugo Bonnet,                   F,  1.80 m,  b. 17 Sep 1993 @ Montpellier
 Lucas Digne,                  D,  1.78 m,  b. 20 Jul 1993 @ Meaux
-Nabil Fekir,                  M,  1.73 m,  b. 18 Jul 1993 @ Lyon
+Nabil Fekir,                  F,  1.73 m,  b. 18 Jul 1993 @ Lyon
 Pierre Lemonnier,             D,  1.84 m,  b. 6 Jul 1993 @ Rennes
 Jordan Lefort,                D,  1.84 m,  b. 28 Jun 1993 @ Champigny-sur-Marne
 Fahd El Khoumisti,            F,  1.80 m,  b. 1 Jun 1993 @ Mamers
@@ -943,7 +943,7 @@ Alphonse Areola,              G,  1.90 m,  b. 27 Feb 1993 @ Paris
 Flavien Tait,                 M,  1.75 m,  b. 2 Feb 1993 @ Longjumeau
 Laurent Abergel,              M,  1.70 m,  b. 1 Feb 1993 @ Marseille
 Antoine Larose,               F,  1.80 m,  b. 28 Jan 1993 @ Lons-le-Saunier
-Florian Thauvin,              F,  1.79 m,  b. 26 Jan 1993 @ Orléans
+Florian Thauvin,              M,  1.79 m,  b. 26 Jan 1993 @ Orléans
 Yasser Baldé,                 D,  1.90 m,  b. 12 Jan 1993 @ Brignoles
 Jérôme Roussillon,            D,  1.75 m,  b. 6 Jan 1993 @ Sarcelles
 
@@ -1003,7 +1003,8 @@ Mehdi Jeannin,                G,  1.84 m,  b. 20 Apr 1991 @ Besançon
 Lionel Carole,                D,  1.82 m,  b. 12 Apr 1991 @ Montreuil
 Sébastien Da Silva,           F,  1.85 m,  b. 8 Apr 1991 @ Orange
 Joris Chougrani,              D,  1.85 m,  b. 30 Mar 1991 @ Cassagnes
-Antoine Griezmann,            F,  1.75 m,  b. 21 Mar 1991 @ Mâcon
+Ngolo Kanté,                  M,  1.70 m,  b. 29 Mar 1991 @ Paris
+Antoine Griezmann,            F,  1.74 m,  b. 21 Mar 1991 @ Mâcon
 Xavier Chavalerin,            M,  1.77 m,  b. 7 Mar 1991 @ Villeurbanne
 Adrien Trébel,                M,  1.70 m,  b. 3 Mar 1991 @ Dreux
 Mathias Autret,               M,  1.79 m,  b. 1 Mar 1991 @ Morlaix
@@ -1063,7 +1064,7 @@ Jonathan Gonçalves,           D,  1.85 m,  b. 25 Jan 1989 @ Annecy
 Paul Lasne,                   M,  1.83 m,  b. 16 Jan 1989 @ Saint-Cloud
 
 Gaëtan Charbonnier,           F,  1.88 m,  b. 27 Dec 1988 @ Saint-Mandé
-Steven Nzonzi,                M,  1.96 m,  b. 15 Dec 1988 @ Colombes
+Steven N'Zonzi,               M,  1.96 m,  b. 15 Dec 1988 @ Colombes
 Damien Marcq,                 M,  1.83 m,  b. 8 Dec 1988 @ Boulogne
 Malik Tchokounté,             F,  1.91 m,  b. 11 Sep 1988 @ Nice
 Jimmy Roye,                   M,  1.74 m,  b. 8 Sep 1988 @ Paris
@@ -1072,32 +1073,75 @@ Christophe Psyché,            D,  1.89 m,  b. 28 Jul 1988 @ Cannes
 Étienne Capoue,               M,  1.90 m,  b. 11 Jul 1988 @ Niort
 Kevin Vinetot,                D,  1.83 m,  b. 14 Jun 1988 @ Villiers-le-Bel
 Romain Thomas,                D,  1.93 m,  b. 12 Jun 1988 @ Landerneau
+Marvin Martin,                M,  1.71 m,  b. 10 Jun 1988 @ Paris
 Joffrey Cuffaut,              D,  1.80 m,  b. 15 Mar 1988 @ Beauvais
 Yohan Tavares,                D,  1.88 m,  b. 2 Mar 1988 @ Tours
 Dimitri Liénard,              M,  1.84 m,  b. 13 Feb 1988 @ Belfort
 Johan Gastien,                M,  1.80 m,  b. 25 Jan 1988 @ Niort
 
+Karim Benzema,                F,  1.82 m,  b. 19 Dec 1987 @ Lyon
 Nicolas Pallois,              D,  1.90 m,  b. 19 Sep 1987 @ Elbeuf
 Rémy Riou,                    G,  1.91 m,  b. 6 Aug 1987 @ Lyon
 Benoît Costil,                G,  1.87 m,  b. 3 Jul 1987 @ Caen
+Samir Nasri,                  M,  1.77 m,  b. 26 Jun 1987 @ Marseille
 Kévin Gameiro,                F,  1.72 m,  b. 9 May 1987 @ Senlis
 Jérémy Ménez,                 F,  1.81 m,  b. 7 May 1987 @ Longjumeau
 Thomas Mangani,               M,  1.82 m,  b. 29 Apr 1987 @ Carpentras
 Pierrick Capelle,             M,  1.80 m,  b. 15 Apr 1987 @ Lesquin
+Blaise Matuidi,               M,  1.75 m,  b. 9 Apr 1987 @ Toulouse
+Dimitri Payet,                M,  1.74 m,  b. 29 Mar 1987 @ St-Pierre de la Réunion
+Hatem Ben Arfa,               F,  1.78 m,  b. 7 Mar 1987 @ Clamart
 Julien Faussurier,            D,  1.73 m,  b. 14 Jan 1987 @ Lyon
+Loïc Rémy,                    F,  1.84 m,  b. 2 Jan 1987 @ Lyon
 
 Hugo Lloris,                  G,  1.88 m,  b. 26 Dec 1986 @ Nice
 Régis Gurtner,                G,  1.83 m,  b. 8 Dec 1986 @ Saverne
 Alexandre Bonnet,             M,  1.73 m,  b. 17 Oct 1986 @ La Roche sur Yon
 Jean-Sylvain Babin,           D,  1.85 m,  b. 14 Oct 1986 @ Corbeil
 Olivier Giroud,               F,  1.92 m,  b. 30 Sep 1986 @ Chambéry
+Stéphane Ruffier,             G,  1.87 m,  b. 27 Sep 1986 @ Bayonne
 Cédric Avinel,                D,  1.87 m,  b. 11 Sep 1986 @ Paris
+Yoann Gourcuff,               M,  1.85 m,  b. 11 Jul 1986 @ Lorient
+Abou Diaby,                   M,  1.88 m,  b. 11 May 1986 @ Paris
 Anthony Losilla,              M,  1.85 m,  b. 10 Mar 1986 @ Firminy
 Anthony Gonçalves,            D,  1.78 m,  b. 6 Mar 1986 @ Chartres
+Yohan Cabaye,                 M,  1.75 m,  b. 14 Jan 1986 @ Tourcoing
 
+Adil Rami,                    D,  1.90 m,  b. 27 Dec 1985 @ Bastia
 Jean-Louis Leca,              G,  1.77 m,  b. 21 Sep 1985 @ Bastia
+Laurent Koscielny,            D,  1.86 m,  b. 10 Sep 1985 @ Tulle
+Mathieu Debuchy,              D,  1.77 m,  b. 28 Jul 1985 @ Fretin
+Gaël Clichy,                  D,  1.81 m,  b. 26 Jul 1985 @ Toulouse
 Riad Nouri,                   M,  1.78 m,  b. 7 Jun 1985 @ Marseille
+André-Pierre Gignac,          F,  1.87 m,  b. 12 May 1985 @ Martigues
 Steve Mandanda,               G,  1.85 m,  b. 28 Mar 1985 @ Kinshasa
 
+Mathieu Valbuena,             M,  1.67 m,  b. 28 Sep 1984 @ Bordeaux
+Rio Antonio Mavuba,           M,  1.72 m,  b. 8 Mar 1984 @ Born At Sea
+
+Christophe Jallet,            D,  1.78 m,  b. 31 Oct 1983 @ Cognac
+Jérémy Toulalan,              M,  1.83 m,  b. 10 Sep 1983 @ Nantes
 Arnaud Balijon,               G,  1.83 m,  b. 17 Jun 1983 @ Reims
 Ludovic Butelle,              G,  1.88 m,  b. 3 Apr 1983 @ Reims
+Franck Ribéry,                M,  1.70 m,  b. 1 Apr 1983 @ Boulogne-sur-Mer
+Bacary Sagna,                 D,  1.76 m,  b. 14 Feb 1983 @ Sens
+
+Philippe Mexès,               D,  1.87 m,  b. 30 Mar 1982 @ Toulouse
+Marc Planus,                  D,  1.83 m,  b. 7 Mar 1982 @ Bordeaux
+
+Cédric Carrasso,              G,  1.87 m,  b. 30 Dec 1981 @ Avignon
+Djibril Cissé,                F,  1.82 m,  b. 12 Aug 1981 @ Arles
+Alou Diarra,                  M,  1.90 m,  b. 15 Jul 1981 @ Villepinte
+Patrice Evra,                 D,  1.75 m,  b. 15 May 1981 @ Dakar
+
+Sébastien Squillaci,          D,  1.84 m,  b. 11 Aug 1980 @ Toulon
+Florent Malouda,              M,  1.81 m,  b. 13 Jun 1980 @ Cayenne
+
+Anthony Réveillère,           D,  1.81 m,  b. 10 Nov 1979 @ Doué-La-Fontaine
+Sidney Govou,                 F,  1.75 m,  b. 27 Jul 1979 @ Le Puy-en-Valay
+Eric Abidal,                  D,  1.86 m,  b. 11 Jul 1979 @ Lyon
+Mickaël Landreau,             G,  1.84 m,  b. 14 May 1979 @ Machecoul
+Nicolas Anelka,               F,  1.85 m,  b. 14 Mar 1979 @ Versailles
+
+Thierry Henry,                F,  1.88 m,  b. 17 Aug 1977 @ Les Ulis
+William Gallas,               D,  1.83 m,  b. 17 Aug 1977 @ Asnieres

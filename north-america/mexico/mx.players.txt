@@ -8,26 +8,89 @@ Jordán Carrillo,              M,  1.68 m,  b. 30 Nov 2001 @ Culiacán
 Julián Araujo,                D,  1.78 m,  b. 13 Aug 2001 @ Lompoc
 Santiago Giménez,             F,  1.82 m,  b. 18 Apr 2001 @ Buenos Aires
 
+Kevin Álvarez,                D,  1.77 m,  b. 15 Jan 1999 @ Colima
+
 Johan Vásquez,                D,  1.84 m,  b. 22 Oct 1998 @ Navojoa
 Gerardo Arteaga,              D,  1.73 m,  b. 7 Sep 1998 @ Zapopan
+Roberto Alvarado,             M,  1.72 m,  b. 7 Sep 1998 @ Irapuato
 
 Jorge Sánchez,                D,  1.75 m,  b. 10 Dec 1997 @ Torreón
+Ernesto Vega,                 F,  1.72 m,  b. 25 Nov 1997 @ Cuauhtémoc
 Edson Álvarez,                D,  1.85 m,  b. 24 Oct 1997 @ Tlalnepantla de Baz
+Uriel Antuna,                 M,  1.74 m,  b. 21 Aug 1997 @ Gómez Palacio
 César Montes,                 D,  1.96 m,  b. 24 Feb 1997 @ Hermosillo
+Carlos Rodríguez,             M,  1.76 m,  b. 3 Jan 1997 @ San Nicolás de los Garza
 
 Juan Antonio Portales,        D,  1.79 m,  b. 16 May 1996 @ Tampico
 Orbelín Pineda,               M,  1.68 m,  b. 24 Mar 1996 @ Coyuca de Catalán
 Luis Chávez,                  M,  1.78 m,  b. 15 Jan 1996 @ Ciudad Guzmán
 
 Hirving Lozano,               M,  1.77 m,  b. 30 Jul 1995 @ Mexico City
+Érick Gutiérrez,              M,  1.77 m,  b. 15 Jun 1995 @ Ahome
+Luis Romo,                    D,  1.82 m,  b. 5 Jun 1995 @ Ahome
 Diego Pineda,                 F,  1.76 m,  b. 8 Apr 1995 @ San Luís Potosí
 
+Jesús Gallardo,               M,  1.77 m,  b. 15 Aug 1994 @ Mexico City
 Rodolfo Pizarro,              M,  1.77 m,  b. 15 Feb 1994 @ Tampico
 
+Carlos Salcedo,               D,  1.88 m,  b. 29 Sep 1993 @ Guadalajara
 Jesús Manuel Corona,          F,  1.73 m,  b. 6 Jan 1993 @ Hermosillo
 
+Henry Martín,                 F,  1.65 m,  b. 18 Nov 1992 @ Mérida
+Diego Reyes,                  D,  1.85 m,  b. 19 Sep 1992 @ Mexico City
+
+Néstor Araujo,                D,  1.88 m,  b. 29 Aug 1991 @ Guadalajara
 Raúl Jiménez,                 F,  1.90 m,  b. 5 May 1991 @ Tepeji
+Rogelio Funes Mori,           F,  1.85 m,  b. 3 May 1991 @ Mendoza
+Alán Pulido,                  F,  1.71 m,  b. 8 Mar 1991 @ Ciudad Victoria
+
+Isaác Brizuela,               F,  1.68 m,  b. 28 Aug 1990 @ Lagos de Moreno
+Jonathan dos Santos,          M,  1.80 m,  b. 26 Apr 1990 @ Monterrey
+Héctor Herrera,               M,  1.82 m,  b. 19 Apr 1990 @ Tijuana
+Carlos Alberto Peña,          M,  1.76 m,  b. 29 Mar 1990 @ Ciudad Victoria
+Javier Aquino,                M,  1.68 m,  b. 11 Feb 1990 @ Oaxaca
+
+Marco Fabián,                 F,  1.70 m,  b. 21 Jul 1989 @ Guadalajara
+Giovani dos Santos,           M,  1.73 m,  b. 11 May 1989 @ Monterrey
+Miguel Ángel Ponce,           D,  1.75 m,  b. 12 Apr 1989 @ Sacramento
+Carlos Vela,                  F,  1.76 m,  b. 1 Mar 1989 @ Cancún
+
+Jorge Torres,                 D,  1.76 m,  b. 16 Sep 1988 @ Tijuana
+Miguel Layún,                 D,  1.78 m,  b. 25 Jun 1988 @ Córdoba
+Javier Hernández,             F,  1.72 m,  b. 1 Jun 1988 @ Guadalajara
+José Vázquez,                 M,  1.66 m,  b. 14 Mar 1988 @ Celaya
+Efrain Juárez,                D,  1.72 m,  b. 22 Feb 1988 @ Mexico City
+Héctor Moreno,                D,  1.82 m,  b. 17 Jan 1988 @ Culiacán
+
+Rodolfo Cota,                 G,  1.82 m,  b. 3 Jul 1987 @ Mazatlán
+Pablo Barrera,                M,  1.75 m,  b. 21 Jun 1987 @ Tlalnepantla de Baz
+Hugo Ayala,                   D,  1.83 m,  b. 31 Mar 1987 @ Morelia
 
 Andrés Guardado,              M,  1.69 m,  b. 28 Sep 1986 @ Guadalajara
+Paul Aguilar,                 D,  1.77 m,  b. 6 Mar 1986 @ Concordia
 
 Guillermo Ochoa,              G,  1.83 m,  b. 13 Jul 1985 @ Guadalajara
+
+Oribe Peralta,                F,  1.78 m,  b. 12 Jan 1984 @ Torreón
+
+Alberto Medina,               M,  1.72 m,  b. 29 May 1983 @ Culiacán
+
+Alfredo Talavera,             G,  1.88 m,  b. 18 Sep 1982 @ La Barca
+
+Jonny Magallón,               D,  1.78 m,  b. 21 Nov 1981 @ Ocotlán
+Francisco Rodríguez,          D,  1.91 m,  b. 20 Oct 1981 @ Mazatlán
+Jesús Corona,                 G,  1.81 m,  b. 26 Jan 1981 @ Guadalajara
+
+Israel Castro,                M,  1.76 m,  b. 20 Dec 1980 @ Mexico City
+Carlos Salcido,               D,  1.74 m,  b. 2 Apr 1980 @ Ocotlán
+Ricardo Osorio,               D,  1.73 m,  b. 30 Mar 1980 @ Huajuapan De León
+
+Adolfo Bautista,              M,  1.85 m,  b. 15 Sep 1979 @ Dolores Hidalgo
+Luis Michel,                  G,  1.78 m,  b. 21 Jul 1979 @ Guadalajara
+Gerardo Torrado,              M,  1.73 m,  b. 30 Apr 1979 @ Mexico City
+Rafael Márquez,               D,  1.82 m,  b. 13 Feb 1979 @ Zamora
+
+Guillermo Franco,             F,  1.82 m,  b. 3 Nov 1976 @ Corrientes
+
+Óscar Pérez,                  G,  1.71 m,  b. 1 Feb 1973 @ Mexico City
+Cuauhtémoc Blanco,            F,  1.77 m,  b. 17 Jan 1973 @ Mexico City

@@ -53,6 +53,7 @@ Bryan Reynolds,               D,  1.88 m,  b. 28 Jun 2001 @ Fort Worth
 Taylor Booth,                 M,  1.74 m,  b. 31 May 2001 @ Eden
 Matthew Hoppe,                F,  1.90 m,  b. 13 Mar 2001 @ Yorba Linda
 
+Jesús Ferreira,               F,  1.73 m,  b. 24 Dec 2000 @ Santa Marta
 Sergiño Dest,                 D,  1.70 m,  b. 3 Nov 2000 @ Almere
 Brenden Aaronson,             M,  1.78 m,  b. 22 Oct 2000 @ Medford
 Alex Méndez,                  M,  1.78 m,  b. 6 Sep 2000 @ Los Angeles
@@ -98,27 +99,82 @@ Benji Michel,                 F,  1.78 m,  b. 23 Oct 1997 @ Orlando
 Antonee Robinson,             D,  1.83 m,  b. 8 Aug 1997 @ Milton Keynes
 Erik Palmer-Brown,            D,  1.85 m,  b. 24 Apr 1997 @ Napoleon
 
+Shaq Moore,                   D,  1.80 m,  b. 2 Nov 1996 @ Powder Springs
 Andrija Novakovich,           F,  1.93 m,  b. 21 Sep 1996 @ Muskego
 Joseph Efford,                F,  1.76 m,  b. 29 Aug 1996 @ Dacula
 Luke Dennison,                G,  1.91 m,  b. 21 Aug 1996 @ San Francisco
 
 Lynden Gooch,                 D,  1.73 m,  b. 24 Dec 1995 @ Santa Cruz
 Henry Wingo,                  D,  1.83 m,  b. 4 Oct 1995 @ Seattle
+Kellyn Acosta,                M,  1.77 m,  b. 24 Jul 1995 @ Plano
 Ethan Horvath,                G,  1.91 m,  b. 9 Jun 1995 @ Highland Ranch
 Julian Green,                 M,  1.72 m,  b. 6 Jun 1995 @ Tampa
+Cristian Roldan,              M,  1.73 m,  b. 3 Jun 1995 @ Artesia
 Zack Steffen,                 G,  1.90 m,  b. 2 Apr 1995 @ Coatesville
 
 Duane Holmes,                 M,  1.72 m,  b. 6 Nov 1994 @ Wakefield
+Jordan Morris,                F,  1.83 m,  b. 26 Oct 1994 @ Seattle
 Matt Turner,                  G,  1.91 m,  b. 24 Jun 1994 @ Park Ridge
 Michael Lansing,              G,  1.93 m,  b. 13 Jun 1994 @ Randolph
 
 Caleb Stanko,                 M,  1.80 m,  b. 26 Jul 1993 @ Holly
+DeAndre Yedlin,               D,  1.73 m,  b. 9 Jul 1993 @ Seattle
+Walker Zimmerman,             D,  1.91 m,  b. 19 May 1993 @ Lawrenceville
 John Brooks,                  D,  1.93 m,  b. 28 Jan 1993 @ Berlin
+
+Aaron Long,                   D,  1.85 m,  b. 12 Oct 1992 @ Oak Hills
 
 Terrence Boyd,                F,  1.85 m,  b. 16 Feb 1991 @ Bremen
 
-Timmy Chandler,               M,  1.86 m,  b. 29 Mar 1990 @ Frankfurt am Main
+Aron Jóhannsson,              F,  1.84 m,  b. 10 Nov 1990 @ Mobile
+Mikkel Diskerud,              M,  1.84 m,  b. 2 Oct 1990 @ Oslo
+Timmy Chandler,               D,  1.86 m,  b. 29 Mar 1990 @ Frankfurt am Main
 
+Jozy Altidore,                F,  1.82 m,  b. 6 Nov 1989 @ Boca Raton
+Sean Johnson,                 G,  1.93 m,  b. 31 May 1989 @ Lilburn
+
+Omar Gonzalez,                D,  1.96 m,  b. 11 Oct 1988 @ Dallas
+
+Fabian Johnson,               D,  1.83 m,  b. 11 Dec 1987 @ Munich
+José Torres,                  M,  1.65 m,  b. 29 Oct 1987 @ Longview
 Tim Ream,                     D,  1.85 m,  b. 5 Oct 1987 @ St Louis
+Michael Bradley,              M,  1.85 m,  b. 31 Jul 1987 @ Palatine
+Alejandro Bedoya,             M,  1.78 m,  b. 29 Apr 1987 @ Weston
+Matt Besler,                  D,  1.83 m,  b. 11 Feb 1987 @ Overland Park
+
+Graham Zusi,                  M,  1.78 m,  b. 8 Aug 1986 @ Longwood
+Maurice Edu,                  M,  1.83 m,  b. 18 Apr 1986 @ San Bernardino
+Jonathan Spector,             D,  1.82 m,  b. 1 Mar 1986 @ Arlington Heights
+
+Robbie Findley,               F,  1.75 m,  b. 4 Aug 1985 @ Phoenix
+Stuart Holden,                M,  1.78 m,  b. 1 Aug 1985 @ Aberdeen
+Geoff Cameron,                D,  1.91 m,  b. 11 Jul 1985 @ Attleboro
+Benny Feilhaber,              M,  1.75 m,  b. 19 Jan 1985 @ Rio de Janeiro
+
+Jonathan Bornstein,           D,  1.75 m,  b. 7 Nov 1984 @ Torrance
+Brad Guzan,                   G,  1.93 m,  b. 9 Sep 1984 @ Home Glen
+
+Chris Wondolowski,            F,  1.85 m,  b. 28 Jul 1983 @ Danville
+Clint Dempsey,                M,  1.86 m,  b. 9 Mar 1983 @ Nacogdoches
+Ricardo Clark,                M,  1.78 m,  b. 10 Feb 1983 @ Atlanta
+
+DaMarcus Beasley,             M,  1.73 m,  b. 24 May 1982 @ Fort Wayne
+Clarence Goodson,             D,  1.93 m,  b. 17 May 1982 @ Alexandria
+Oguchi Onyewu,                D,  1.92 m,  b. 13 May 1982 @ Washington
+Kyle Beckerman,               M,  1.78 m,  b. 23 Apr 1982 @ Crofton
+Hérculez Gómez,               F,  1.78 m,  b. 6 Apr 1982 @ Las Vegas
+Landon Donovan,               F,  1.73 m,  b. 4 Mar 1982 @ Ontario
+
+Brad Davis,                   M,  1.80 m,  b. 8 Nov 1981 @ St Charles
+Jermaine Jones,               M,  1.84 m,  b. 3 Nov 1981 @ Frankfurt am Main
+Edson Buddle,                 F,  1.85 m,  b. 21 May 1981 @ New Rochelle
+
+Jay DeMerit,                  D,  1.80 m,  b. 4 Dec 1979 @ Green Bay
+Nick Rimando,                 G,  1.78 m,  b. 17 Jun 1979 @ Montclair
+Carlos Bocanegra,             D,  1.83 m,  b. 25 May 1979 @ Alta Loma
+Tim Howard,                   G,  1.91 m,  b. 6 Mar 1979 @ North Brunswick
+Steve Cherundolo,             D,  1.68 m,  b. 19 Feb 1979 @ Rockford
+
+Marcus Hahnemann,             G,  1.91 m,  b. 15 Jun 1972 @ Seattle
 
 Max Cavana,                   M,  - ,      -
