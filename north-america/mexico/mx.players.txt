@@ -4,10 +4,21 @@
 Marcelo Flores,               M,  1.68 m,  b. 1 Oct 2003 @ Georgetown (CAN)
 Esteban Lozano,               F,  1.85 m,  b. 10 Mar 2003 @ Puebla de Zaragoza
 
+Santiago Muñoz,               F,  1.77 m,  b. 14 Aug 2002 @ El Paso
+Eugenio Pizzuto,              M,  1.79 m,  b. 13 May 2002 @ San Luis Potosí
+Teun Wilke Braams,            F,  1.91 m,  b. 14 Mar 2002 @ Santiago de Querétaro
+Alejandro Gómez,              D,  1.83 m,  b. 31 Jan 2002 @ Hermosillo
+
 Jordán Carrillo,              M,  1.68 m,  b. 30 Nov 2001 @ Culiacán
 Julián Araujo,                D,  1.78 m,  b. 13 Aug 2001 @ Lompoc
 Santiago Giménez,             F,  1.82 m,  b. 18 Apr 2001 @ Buenos Aires
+Santiago Naveda,              M,  1.76 m,  b. 16 Apr 2001 @ Mexico City
+Alonso Aceves,                D,  1.80 m,  b. 28 Mar 2001 @ Huixquilucan
 
+Diego Lainez,                 M,  1.67 m,  b. 9 Jun 2000 @ Villahermosa
+
+José Juan Macías,             F,  1.77 m,  b. 22 Sep 1999 @ Guadalajara
+Paolo Medina,                 D,  1.75 m,  b. 28 May 1999 @ Orizaba
 Kevin Álvarez,                D,  1.77 m,  b. 15 Jan 1999 @ Colima
 
 Johan Vásquez,                D,  1.84 m,  b. 22 Oct 1998 @ Navojoa
@@ -23,6 +34,7 @@ Carlos Rodríguez,             M,  1.76 m,  b. 3 Jan 1997 @ San Nicolás de los 
 
 Juan Antonio Portales,        D,  1.79 m,  b. 16 May 1996 @ Tampico
 Orbelín Pineda,               M,  1.68 m,  b. 24 Mar 1996 @ Coyuca de Catalán
+Omar Govea,                   M,  1.76 m,  b. 18 Jan 1996 @ San Luis Potosí
 Luis Chávez,                  M,  1.78 m,  b. 15 Jan 1996 @ Ciudad Guzmán
 
 Hirving Lozano,               M,  1.77 m,  b. 30 Jul 1995 @ Mexico City
@@ -30,7 +42,7 @@ Hirving Lozano,               M,  1.77 m,  b. 30 Jul 1995 @ Mexico City
 Luis Romo,                    D,  1.82 m,  b. 5 Jun 1995 @ Ahome
 Diego Pineda,                 F,  1.76 m,  b. 8 Apr 1995 @ San Luís Potosí
 
-Jesús Gallardo,               M,  1.77 m,  b. 15 Aug 1994 @ Mexico City
+Jesús Gallardo,               D|M,1.77 m,  b. 15 Aug 1994 @ Mexico City
 Rodolfo Pizarro,              M,  1.77 m,  b. 15 Feb 1994 @ Tampico
 
 Carlos Salcedo,               D,  1.88 m,  b. 29 Sep 1993 @ Guadalajara
@@ -50,10 +62,10 @@ Héctor Herrera,               M,  1.82 m,  b. 19 Apr 1990 @ Tijuana
 Carlos Alberto Peña,          M,  1.76 m,  b. 29 Mar 1990 @ Ciudad Victoria
 Javier Aquino,                M,  1.68 m,  b. 11 Feb 1990 @ Oaxaca
 
-Marco Fabián,                 F,  1.70 m,  b. 21 Jul 1989 @ Guadalajara
-Giovani dos Santos,           M,  1.73 m,  b. 11 May 1989 @ Monterrey
+Marco Fabián,                 M|F,1.70 m,  b. 21 Jul 1989 @ Guadalajara
+Giovani dos Santos,           M|F,1.73 m,  b. 11 May 1989 @ Monterrey
 Miguel Ángel Ponce,           D,  1.75 m,  b. 12 Apr 1989 @ Sacramento
-Carlos Vela,                  F,  1.76 m,  b. 1 Mar 1989 @ Cancún
+Carlos Vela,                  F,  1.77 m,  b. 1 Mar 1989 @ Cancún
 
 Jorge Torres,                 D,  1.76 m,  b. 16 Sep 1988 @ Tijuana
 Miguel Layún,                 D,  1.78 m,  b. 25 Jun 1988 @ Córdoba

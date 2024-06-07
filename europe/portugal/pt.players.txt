@@ -1,8 +1,11 @@
 =================================
 =  Portugal
 
+João Afonso,                  G,  1.87 m,  b. 30 Apr 2007
+
 Tomé Sousa,                   G,  - ,      b. 16 Dec 2006 @ Maia
 Leo Cardoso,                  M,  - ,      b. 18 Oct 2006 @ Aldama
+Samu,                         M,  - ,      b. 15 Sep 2006 @ Almada
 Gui,                          G,  - ,      b. 13 May 2006 @ Murça
 Cheyenne Loureiro,            F,  - ,      b. 12 Mar 2006 @ Leicester
 Saná Fernandes,               F,  1.64 m,  b. 10 Mar 2006 @ Bissau
@@ -32,12 +35,15 @@ Vivaldo,                      F,  1.92 m,  b. 28 Jan 2005 @ Luanda
 Mathias De Amorim,            M,  1.74 m,  b. 10 Dec 2004 @ Pessac
 Gustavo Sá,                   M,  1.86 m,  b. 11 Nov 2004 @ Póvoa de Varzim
 Leo Lopes,                    F,  - ,      b. 5 Nov 2004
+André Gomes,                  G,  1.82 m,  b. 20 Oct 2004 @ Ponte de Lima
 João Neves,                   M,  1.74 m,  b. 27 Sep 2004 @ Tavira
+Saja Manafa,                  M,  - ,      b. 5 Sep 2004
 Diego Moreira,                F,  1.79 m,  b. 6 Aug 2004 @ Liège
 Louis Mouquet,                G,  1.87 m,  b. 21 Jul 2004 @ Bayeux
 Mateus Fernandes,             M,  1.78 m,  b. 10 Jul 2004 @ Olhão
 Youssef Chermiti,             F,  1.92 m,  b. 24 May 2004 @ Santa Maria
 Peixinho,                     F,  1.85 m,  b. 23 May 2004 @ Gondomar
+Vasco Sousa,                  D,  1.82 m,  b. 6 Apr 2004 @ Penafiel
 Samuel Justo,                 M,  1.78 m,  b. 2 Apr 2004 @ Amadora
 Tiago Machado,                F,  1.85 m,  b. 2 Apr 2004 @ Gondomar
 Iuri Moreira,                 F,  1.85 m,  b. 24 Mar 2004 @ Amadora
@@ -48,17 +54,23 @@ Isaac Monteiro,               D,  1.93 m,  b. 4 Mar 2004 @ Lisbon
 Gonçalo Esteves,              D,  1.71 m,  b. 27 Feb 2004 @ Arcos de Valdevez
 Martim Marques,               D,  1.73 m,  b. 11 Feb 2004 @ Vila Nova de Gaia
 Herculano Nabian,             F,  1.82 m,  b. 25 Jan 2004 @ Bissau
+Pablo Felipe,                 F,  1.84 m,  b. 2 Jan 2004 @ Braga
 
 Gilberto Batista,             D,  1.87 m,  b. 29 Dec 2003 @ Bissau
 Gonçalo Nogueira,             M,  1.80 m,  b. 28 Dec 2003 @ Guimarães
 Mauro Bandeira,               M,  - ,      b. 18 Nov 2003 @ Loures
 Martim Tavares,               F,  1.83 m,  b. 10 Nov 2003 @ Porto
 Antonio Silva,                D,  1.87 m,  b. 30 Oct 2003 @ Viseu
+Guga,                         D,  1.78 m,  b. 23 Oct 2003 @ Lisbon
 Alberto Costa,                D,  1.86 m,  b. 29 Sep 2003 @ Santo Tirso
+Rafa,                         G,  1.93 m,  b. 28 Sep 2003 @ Guimarães
+Luís Mota,                    M,  1.83 m,  b. 25 Sep 2003 @ Lisbon
+Guilherme Pio,                F,  1.77 m,  b. 22 Sep 2003 @ Portimão
 Berna,                        M,  1.69 m,  b. 15 Sep 2003 @ Porto
 Guilherme Montóia,            D,  1.85 m,  b. 14 Sep 2003 @ Lisbon
 Miguel Rebelo,                M,  1.85 m,  b. 13 Sep 2003 @ Caldas da Rainha
 Tiago Morais,                 F,  1.71 m,  b. 3 Sep 2003 @ Espinho
+Miguel Mota,                  D,  1.83 m,  b. 26 Aug 2003 @ Lousada
 Andre Simões,                 M,  1.74 m,  b. 17 Aug 2003 @ Braga
 Luís Hemir,                   F,  1.92 m,  b. 11 Aug 2003 @ Lisbon
 Renato Veiga,                 M,  1.90 m,  b. 29 Jul 2003 @ Lisbon
@@ -71,37 +83,61 @@ Diogo Dias,                   G,  1.88 m,  b. 17 Jun 2003 @ Cascais
 Marcelo Caldas,               M,  1.82 m,  b. 15 Jun 2003 @ Viana do Castel
 Pedro Gomes,                  D,  1.85 m,  b. 4 Jun 2003 @ Seixal
 André Gonçalves,              F,  1.78 m,  b. 16 May 2003 @ Lisbon
+André Mendes,                 G,  - ,      b. 15 May 2003
 Gonçalo Almeida,              D,  1.81 m,  b. 6 May 2003 @ Porto
+Gonçalo Pinto,                M,  1.77 m,  b. 1 Apr 2003 @ Guimarães
+André Lopes Silva,            F,  1.83 m,  b. 18 Mar 2003 @ Macieira de Alcôba
+Valentino Lesieur,            G,  1.95 m,  b. 18 Mar 2003 @ Mont-Saint-Aignan
 Ni,                           D,  1.90 m,  b. 1 Mar 2003 @ Barcelos
 Joelson Fernandes,            F,  1.72 m,  b. 28 Feb 2003 @ Bissau
 Cláudio Araújo,               M,  1.77 m,  b. 22 Feb 2003 @ Braga
+Patrick Leal,                 D|M,1.80 m,  b. 21 Feb 2003 @ Newton
 Alvyn Sanches,                M,  1.78 m,  b. 12 Feb 2003 @ Créteil
 Joel Silva,                   M,  1.85 m,  b. 11 Feb 2003 @ Vila Nova de Gaia
 Christian Marques,            D,  1.87 m,  b. 15 Jan 2003 @ Uster
 Martim Neto,                  M,  1.85 m,  b. 14 Jan 2003 @ Viana do Castelo
+Ronaldo Camará,               M,  1.72 m,  b. 5 Jan 2003 @ Bissau
 
+Pedro Brazão,                 M,  1.73 m,  b. 30 Dec 2002 @ Lisbon
 Francisco Conceição,          F,  1.70 m,  b. 14 Dec 2002 @ Coimbra
 Miguel Maga,                  D,  1.75 m,  b. 16 Nov 2002 @ Porto
 Hélder Sá,                    D,  1.86 m,  b. 10 Nov 2002 @ Famalicão
 Diogo Nascimento,             M,  1.66 m,  b. 2 Nov 2002 @ Leiria
 Wanya Marçal-Madivádua,       M,  1.81 m,  b. 19 Oct 2002 @ Leicester
 Danilo Veiga,                 D,  1.83 m,  b. 25 Sep 2002 @ Gondomar
+João Oliveira,                G,  1.85 m,  b. 18 Sep 2002 @ Lisbon
 Fabio Carvalho,               M,  1.70 m,  b. 30 Aug 2002 @ Lisbon
+Rogério Fernandes,            D,  1.70 m,  b. 28 Aug 2002 @ Seixal
 Afonso Rodrigues,             F,  1.78 m,  b. 19 Aug 2002 @ Braga
+Andre Amaro,                  D,  1.86 m,  b. 13 Aug 2002 @ Viseu
+André Liberal,                F,  1.81 m,  b. 2 Aug 2002 @ Boticas
 Tiago Santos,                 D,  1.75 m,  b. 23 Jul 2002 @ Lisbon
+Jota,                         F,  1.77 m,  b. 22 Jul 2002 @ Guimarães
 Fábio Silva,                  F,  1.85 m,  b. 19 Jul 2002 @ Rio Tinto
+Issa Bah,                     F,  1.81 m,  b. 5 Jul 2002 @ Conakry
 Rafael Fernandes,             D,  1.91 m,  b. 28 Jun 2002 @ Setúbal
 Nuno Mendes,                  D,  1.84 m,  b. 19 Jun 2002 @ Lisbon
+Tiago Ventura,                F,  1.75 m,  b. 19 Jun 2002 @ Gondomar
 Tiago Tomás,                  F,  1.80 m,  b. 16 Jun 2002 @ Cascais
 Samuel Soares,                G,  1.90 m,  b. 15 Jun 2002 @ Amadora
 Leonardo Buta,                D,  1.82 m,  b. 5 Jun 2002 @ Águeda
 Edu Borges,                   D,  1.85 m,  b. 27 May 2002 @ Chaves
+Gonçalo Cunha,                D,  1.89 m,  b. 24 May 2002 @ Guimarães
 Ruca,                         D,  1.74 m,  b. 20 May 2002 @ Espinho
 Tomás Araújo,                 D,  1.87 m,  b. 16 May 2002 @ Vila Nova de Famalicão
+Hélio Varela,                 F,  1.76 m,  b. 3 May 2002 @ Almada
+Pedro Vieira,                 F,  1.90 m,  b. 3 May 2002 @ Beja
+Famana Quizera,               M,  1.72 m,  b. 25 Apr 2002 @ Bissau
+Gui,                          M,  1.83 m,  b. 17 Apr 2002 @ Santa Marta de Penaguião
 Diogo Fonseca,                D,  1.92 m,  b. 10 Apr 2002 @ Viseu
+Henrique Pires,               D,  1.91 m,  b. 8 Apr 2002
+Zé Oliveira,                  G,  1.86 m,  b. 6 Apr 2002 @ Penafiel
 Tomás Esteves,                D,  1.80 m,  b. 3 Apr 2002 @ Arcos de Valdevez
 Bernardo Folha,               M,  1.77 m,  b. 23 Mar 2002 @ Porto
+Tiago Ribeiro,                M,  1.85 m,  b. 14 Mar 2002 @ Vila Nova de Gaia
 Eduardo Quaresma,             D,  1.84 m,  b. 2 Mar 2002 @ Barreiro
+Francisco França,             M,  1.86 m,  b. 16 Feb 2002 @ Funchal
+Rui Correia,                  D,  1.82 m,  b. 16 Feb 2002 @ Guimarães
 João Marques,                 M,  - ,      b. 13 Feb 2002 @ Barreiro
 Hugo Oliveira,                D,  1.74 m,  b. 10 Feb 2002 @ Santa Maria da Feira
 Fran Pereira,                 M,  1.85 m,  b. 6 Feb 2002 @ Vila Nova de Gaia
@@ -109,37 +145,63 @@ Paulo Bernardo,               M,  1.84 m,  b. 24 Jan 2002 @ Almada
 Henrique Araújo,              F,  1.82 m,  b. 19 Jan 2002 @ Funchal
 Rafael Brito,                 M,  1.84 m,  b. 19 Jan 2002 @ Almada
 
+João Nobrega,                 M,  1.86 m,  b. 4 Dec 2001 @ Camacha
+Rodrigo Andrade,              M,  1.80 m,  b. 24 Nov 2001 @ Funchal
+Pedro Teixeira,               G,  1.90 m,  b. 20 Nov 2001 @ Funchal
+André Lopes,                  D,  - ,      b. 2 Nov 2001
 Zé Carlos,                    M,  1.72 m,  b. 30 Oct 2001 @ Matosinhos
+Samuel Lobato,                M,  1.84 m,  b. 19 Oct 2001 @ Maia
+António Montez,               M,  - ,      b. 29 Sep 2001
+Sidnei Tavares,               M,  - ,      b. 29 Sep 2001
+Luís Bastos,                  D,  1.75 m,  b. 10 Sep 2001 @ Paços de Ferreira
 Alexandre Penetra,            D,  1.86 m,  b. 9 Sep 2001 @ Tondela
+Henrique Jocú,                M,  1.71 m,  b. 9 Sep 2001 @ Bissau
 Hugo Cunha,                   G,  1.98 m,  b. 6 Sep 2001 @ Viana do Castelo
+Tiago Almeida,                D,  1.77 m,  b. 28 Aug 2001 @ Anadia
 Gonçalo Inácio,               D,  1.86 m,  b. 25 Aug 2001 @ Almada
+Quevin Castro,                F,  - ,      b. 16 Aug 2001
+Alexandre Moutinho,           M,  1.68 m,  b. 7 Aug 2001 @ Portimão
 João Barros,                  D,  1.86 m,  b. 24 Jun 2001 @ Funchal
+Filipe Sissé,                 M,  1.80 m,  b. 22 Jun 2001
 Telmo Arcanjo,                M,  1.80 m,  b. 21 Jun 2001 @ Lisbon
 Gonçalo Ramos,                F,  1.84 m,  b. 20 Jun 2001 @ Lisbon
 Tiago Gouveia,                F,  1.76 m,  b. 18 Jun 2001 @ Cascais
+Bruno Miguel,                 G,  1.90 m,  b. 16 Jun 2001 @ Vila Nova de Gaia
 Manu Silva,                   M,  1.89 m,  b. 12 Jun 2001 @ Santa Maria da Feira
 Ricardo Sousa,                M,  1.79 m,  b. 9 Jun 2001 @ Arouca
+Bernardo Silva,               M,  1.90 m,  b. 31 May 2001 @ Lisbon
 Rafa Pereira,                 M,  1.76 m,  b. 26 May 2001 @ Coimbra
 Nilton Varela,                D,  1.82 m,  b. 25 May 2001 @ Lisbon
 André Lacximicant,            F,  1.88 m,  b. 19 May 2001 @ Lisbon
 Francisco Meixedo,            G,  1.86 m,  b. 19 May 2001 @ Porto
+Jójó,                         D,  1.86 m,  b. 19 May 2001 @ Lisbon
 Hélder Morim,                 M,  1.75 m,  b. 14 May 2001 @ Póvoa de Varzim
 Sandro Cruz,                  D,  1.82 m,  b. 12 May 2001 @ Braga
+João Monteiro,                G,  1.86 m,  b. 7 May 2001 @ Vila Nova de Gaia
 Úmaro Embaló,                 F,  1.70 m,  b. 6 May 2001 @ Bissau
 Fábio Ronaldo,                F,  1.78 m,  b. 28 Apr 2001 @ Vila Nova de Gaia
+Mauro Rodrigues,              M,  1.78 m,  b. 15 Apr 2001
+Fabinho,                      D,  1.78 m,  b. 29 Mar 2001 @ Lisbon
 Gonçalo Borges,               F,  1.84 m,  b. 29 Mar 2001 @ Lisbon
 Guilherme Fernandes,          G,  1.91 m,  b. 28 Mar 2001 @ Lisbon
-Tiago Araújo,                 D,  1.78 m,  b. 27 Mar 2001 @ Vila do Conde
+Tiago Araújo,                 D|M,1.78 m,  b. 27 Mar 2001 @ Vila do Conde
 João Ferreira,                D,  1.84 m,  b. 22 Mar 2001 @ Póvoa de Varzim
+Braima Sambú,                 M,  - ,      b. 20 Mar 2001
 Nuno Lima,                    D,  1.84 m,  b. 16 Mar 2001 @ Porto
+Afonso Valente,               M,  1.73 m,  b. 10 Mar 2001 @ Estoril
 Tomás Tavares,                D,  1.87 m,  b. 7 Mar 2001 @ Lisbon
+Gonçalo Oliveira,             F,  1.76 m,  b. 28 Feb 2001 @ Évora
 Bruno Ventura,                M,  1.72 m,  b. 27 Feb 2001 @ Lisbon
+Hugo Caeiro,                  F,  - ,      b. 22 Feb 2001
+Rodrigo Valente,              M,  1.73 m,  b. 15 Feb 2001 @ Santa Maria da Feira
 Jair Tavares,                 M,  1.78 m,  b. 13 Feb 2001 @ Lisbon
+Guilherme,                    D,  1.86 m,  b. 8 Feb 2001 @ Braga
 Rafael Fonseca,               D,  1.80 m,  b. 31 Jan 2001 @ Almada
 Serginho,                     F,  1.83 m,  b. 29 Jan 2001 @ Lisbon
 Félix Correia,                F,  1.80 m,  b. 22 Jan 2001 @ Lisbon
 Tiago Matos,                  M,  1.78 m,  b. 22 Jan 2001 @ Porto
 Pedro Malheiro,               D,  1.79 m,  b. 21 Jan 2001 @ Vila Verde
+André Cardoso,                M,  1.79 m,  b. 16 Jan 2001 @ Madeira
 David Costa,                  M,  1.68 m,  b. 5 Jan 2001 @ Lisbon
 
 Bernardo Vital,               D,  1.87 m,  b. 29 Dec 2000 @ Cascais
@@ -147,190 +209,341 @@ Tiago Dantas,                 M,  1.70 m,  b. 24 Dec 2000 @ Lisbon
 Samú Costa,                   M,  1.83 m,  b. 27 Nov 2000 @ Aveiro
 Tomás Händel,                 M,  1.80 m,  b. 27 Nov 2000 @ Guimarães
 Gonçalo Franco,               M,  1.76 m,  b. 17 Nov 2000 @ Porto
+Gabriel Castro,               D,  1.82 m,  b. 15 Nov 2000 @ Lisbon
 Tamble Monteiro,              F,  1.91 m,  b. 15 Nov 2000 @ Coimbra
 João Gonçalves,               G,  1.88 m,  b. 5 Nov 2000 @ Porto
 André Seruca,                 M,  1.91 m,  b. 29 Oct 2000 @ Faro
+Gonçalo Cardoso,              D,  1.89 m,  b. 21 Oct 2000 @ Marco de Canaveses
 Pedro Santos,                 M,  1.83 m,  b. 12 Oct 2000 @ Porto
+Papu Mendes,                  M,  1.72 m,  b. 1 Oct 2000 @ Bissau
 Dinis Pinto,                  D,  1.78 m,  b. 24 Aug 2000 @ Porto
 André Ricardo,                M,  1.78 m,  b. 23 Aug 2000 @ Lisbon
+Celton Biai,                  G,  1.82 m,  b. 13 Aug 2000 @ Lisbon
+Cláudio Silva,                D,  1.88 m,  b. 29 Jun 2000 @ Porto
+Edgar Pacheco,                F,  1.71 m,  b. 23 Jun 2000
 Jota,                         D,  1.86 m,  b. 17 Jun 2000 @ Espinho
 Théo Fonseca,                 F,  1.78 m,  b. 11 Jun 2000 @ Ermonit
+Pedro Ganchas,                D,  1.90 m,  b. 31 May 2000 @ Lisbon
+André Almeida,                M,  1.72 m,  b. 30 May 2000 @ Guimarães
 Fábio Vieira,                 M,  1.70 m,  b. 30 May 2000 @ Santa Maria da Feira
 Né Lopes,                     D,  1.85 m,  b. 29 May 2000 @ Braga
+Rafael Camacho,               M,  1.75 m,  b. 22 May 2000 @ Lisbon
+César Sousa,                  M,  1.73 m,  b. 20 May 2000 @ Lisbon
 Masca,                        F,  1.75 m,  b. 15 May 2000 @ Cascais
 Ângelo Taveira,               D,  1.83 m,  b. 13 May 2000 @ Odiáxere
 Gabriel Pereira,              D,  1.88 m,  b. 7 May 2000 @ Volta Redonda
 Afonso Sousa,                 M,  1.74 m,  b. 3 May 2000 @ Aveiro
 Gonçalo Pinto,                G,  1.94 m,  b. 30 Apr 2000 @ Almada
 Brian Araújo,                 G,  1.89 m,  b. 29 Apr 2000 @ Paris
+Pedro Pelágio,                M,  1.81 m,  b. 21 Apr 2000 @ Funchal
 Miguel Nóbrega,               D,  1.89 m,  b. 17 Apr 2000 @ Funchal
 Dani Silva,                   M,  1.80 m,  b. 11 Apr 2000 @ Beja
 Tiago Djaló,                  D,  1.90 m,  b. 9 Apr 2000 @ Amadora
 Afonso Freitas,               D,  1.81 m,  b. 7 Apr 2000 @ Guimarães
 Pedro Pinho,                  M,  1.89 m,  b. 6 Apr 2000 @ Vale de Cambra
+Angelo Campos,                F,  1.78 m,  b. 30 Mar 2000 @ Chur
 Leonardo Lelo,                D,  1.75 m,  b. 30 Mar 2000 @ Olhão
 Benny,                        M,  1.78 m,  b. 27 Mar 2000 @ Treixedo
 Costinha,                     D,  1.81 m,  b. 26 Mar 2000 @ Póvoa de Varzim
-Pedro Neto,                   F,  1.72 m,  b. 9 Mar 2000 @ Viana do Castelo
+Ricardo Matos,                M,  1.79 m,  b. 25 Mar 2000 @ Vale de Figueira
+Joel Sousa,                   G,  1.88 m,  b. 17 Mar 2000 @ Tondela
+Vítor Oliveira,               F,  1.78 m,  b. 15 Mar 2000 @ Cabeceiras de Basto
+Pedro Neto,                   M|F,1.72 m,  b. 9 Mar 2000 @ Viana do Castelo
+Baba Fernandes,               D,  1.88 m,  b. 7 Mar 2000 @ Bissau
 João Valido,                  G,  1.85 m,  b. 3 Mar 2000 @ Setúbal
 Pedro Álvaro,                 D,  1.86 m,  b. 2 Mar 2000 @ Seia
+Rúben Fonseca,                F,  1.88 m,  b. 24 Feb 2000 @ Santa Maria da Feira
 Gonçalo Costa,                D,  1.79 m,  b. 18 Feb 2000 @ Setúbal
-Vitinha,                      M,  1.72 m,  b. 13 Feb 2000 @ Vila das Aves
+Simão Rocha,                  D,  1.86 m,  b. 13 Feb 2000 @ Paços de Ferreira
+Vitinha,                      M|F,1.72 m,  b. 13 Feb 2000 @ Vila das Aves
+Chiquinho,                    F,  1.79 m,  b. 5 Feb 2000 @ Cascais
 Nuno Tavares,                 D,  1.83 m,  b. 26 Jan 2000 @ Lisbon
 Romário Baró,                 M,  1.80 m,  b. 25 Jan 2000 @ Bissau
 Luís Santos,                  F,  1.76 m,  b. 20 Jan 2000 @ Entroncamento
 Leandro Sanca,                F,  1.84 m,  b. 4 Jan 2000 @ Lisbon
+João Mário,                   M,  1.78 m,  b. 3 Jan 2000 @ São João da Madeira
 Rodrigo Conceição,            D,  1.75 m,  b. 2 Jan 2000 @ Lisbon
+Breno,                        D,  1.79 m,  b. 1 Jan 2000 @ Paredes
 
 Trincão,                      F,  1.83 m,  b. 29 Dec 1999 @ Viana do Castelo
+Tiago Manso,                  D,  1.74 m,  b. 13 Dec 1999 @ Lisbon
 Domingos Quina,               M,  1.79 m,  b. 18 Nov 1999 @ Bissau
 João Félix,                   F,  1.80 m,  b. 10 Nov 1999 @ Viseu
-Tomás Silva,                  D,  1.72 m,  b. 15 Oct 1999 @ Viana do Castelo
+Rui Mendes,                   F,  1.80 m,  b. 10 Nov 1999 @ Gondar
+Tomás Silva,                  D|M,1.72 m,  b. 15 Oct 1999 @ Viana do Castelo
+Pedro Martelo,                F,  1.90 m,  b. 12 Oct 1999 @ Évora
+Aldair Neves,                 D,  1.80 m,  b. 11 Oct 1999 @ Torres Vedras
 João Virgínia,                G,  1.90 m,  b. 10 Oct 1999 @ Faro
 Rui Modesto,                  M,  1.80 m,  b. 7 Oct 1999 @ Vendas Novas
 Elves Baldé,                  F,  1.69 m,  b. 2 Oct 1999 @ Bissau
+Paulinho,                     F,  1.86 m,  b. 21 Sep 1999 @ Braga
 Filipe Relvas,                D,  1.92 m,  b. 20 Sep 1999 @ Espinho
 Diego Costa,                  G,  1.87 m,  b. 19 Sep 1999 @ Rothrist
 Kiko Vilas Boas,              D,  1.77 m,  b. 8 Sep 1999
+Venâncio Da Silva,            M,  - ,      b. 5 Sep 1999 @ Lisbon
+Diogo Rodrigues,              D,  1.83 m,  b. 23 Aug 1999 @ Vendas Novas
 Florentino Luis,              M,  1.84 m,  b. 19 Aug 1999 @ Lisbon
 Joël Monteiro,                F,  1.91 m,  b. 5 Aug 1999 @ Sion
 Jota Silva,                   F,  1.79 m,  b. 1 Aug 1999 @ Gondomar
+Pedro Mendes,                 F,  1.86 m,  b. 1 Aug 1999 @ Guimarães
+Bruno Reis,                   M,  1.76 m,  b. 20 Jul 1999 @ Portimão
 David Carmo,                  D,  1.96 m,  b. 19 Jul 1999 @ Aveiro
 Diogo Pinto,                  M,  1.75 m,  b. 29 Jun 1999 @ Tomar
 Nuno Moreira,                 F,  1.75 m,  b. 16 Jun 1999 @ Espinho
 Rafael Leão,                  F,  1.88 m,  b. 10 Jun 1999 @ Almada
+Samir Banjal,                 D,  1.87 m,  b. 31 May 1999
 Daniel Bragança,              M,  1.69 m,  b. 27 May 1999 @ Almeirim
 Filipe Soares,                M,  1.80 m,  b. 20 May 1999 @ Lisbon
+Causso Darame,                M,  - ,      b. 18 May 1999
+Ricardo Silva,                G,  1.89 m,  b. 9 May 1999 @ Mafamude
 Tomás Ribeiro,                D,  1.85 m,  b. 30 Apr 1999 @ Lisbon
+Matis Carvalho,               G,  1.86 m,  b. 28 Apr 1999 @ Nantes
+João Caiado,                  M,  1.78 m,  b. 20 Apr 1999 @ Viseu
 João Lameira,                 M,  1.78 m,  b. 19 Apr 1999 @ Santa Maria da Feira
+Maga,                         D,  1.75 m,  b. 19 Apr 1999 @ Penafiel
 Francisco Moura,              D,  1.82 m,  b. 16 Apr 1999 @ Braga
 Miguel Reisinho,              M,  1.85 m,  b. 9 Apr 1999 @ Vila Meã
 Rúben Vinagre,                D,  1.74 m,  b. 9 Apr 1999 @ Charneca de Caparica
 José Gomes,                   F,  1.78 m,  b. 8 Apr 1999 @ Bissau
+Nuno Henrique Pina Nunes,     M,  1.84 m,  b. 31 Mar 1999 @ Lisbon
 Federico Duarte,              M,  1.75 m,  b. 30 Mar 1999 @ Lisbon
+Jota,                         F,  1.75 m,  b. 30 Mar 1999 @ Lisbon
 Ismael,                       M,  1.84 m,  b. 25 Mar 1999 @ Estarreja
+David Tavares,                M,  1.81 m,  b. 18 Mar 1999 @ Lisbon
 Diogo Dalot,                  D,  1.84 m,  b. 18 Mar 1999 @ Braga
+Mésaque Djú,                  F,  1.78 m,  b. 18 Mar 1999 @ Bissau
+Tomás Castro,                 M,  1.81 m,  b. 13 Mar 1999 @ Lisbon
 Thierry Correia,              D,  1.79 m,  b. 9 Mar 1999 @ Amadora
+Alexandre Pimenta,            F,  1.84 m,  b. 2 Mar 1999 @ Coimbra
 Nuno Santos,                  M,  1.77 m,  b. 2 Mar 1999 @ Porto
 Miguel Luís,                  M,  1.70 m,  b. 27 Feb 1999 @ Coimbra
+Boubacar Hanne,               F,  1.75 m,  b. 26 Feb 1999 @ Paços de Ferreira
 Paulo Estrela,                M,  1.71 m,  b. 20 Feb 1999 @ Paços de Ferreira
 Luis Silva,                   D,  1.84 m,  b. 18 Feb 1999 @ Oeiras
+Jorge Silva,                  D,  1.84 m,  b. 4 Feb 1999 @ Porto
 Diogo Leite,                  D,  1.88 m,  b. 23 Jan 1999 @ Porto
+Álvaro Ramaho,                G,  1.88 m,  b. 20 Jan 1999 @ Lisbon
+Álvaro Ramalho,               G,  1.88 m,  b. 20 Jan 1999 @ Lisbon
 Toti Gomes,                   D,  1.87 m,  b. 16 Jan 1999 @ Bissau
 João Silva,                   D,  1.87 m,  b. 14 Jan 1999 @ Braga
 Gedson Fernandes,             M,  1.81 m,  b. 9 Jan 1999 @ São Tomé
 Edi Semedo,                   F,  1.81 m,  b. 6 Jan 1999 @ Damaia
+Diogo Queirós,                D,  1.85 m,  b. 5 Jan 1999 @ Matosinhos
+Euclides Cabral,              D,  1.78 m,  b. 5 Jan 1999 @ Lisbon
 Luís Maximiano,               G,  1.90 m,  b. 5 Jan 1999 @ Celeirós
 
+Rúben Gonçalves,              M,  1.80 m,  b. 23 Dec 1998 @ Valongo
+Francisco Cardoso,            F,  1.70 m,  b. 19 Dec 1998 @ Gondomar
 Pedro Amador,                 D,  1.81 m,  b. 18 Dec 1998 @ Loures
 Leo Da Silva Lopes,           M,  1.68 m,  b. 30 Nov 1998 @ Lisbon
+Madi Queta,                   F,  1.80 m,  b. 21 Oct 1998 @ Bissau
 Bruno Jordão,                 M,  1.80 m,  b. 12 Oct 1998 @ Marinha Grande
+Diogo Calila,                 D,  1.80 m,  b. 10 Oct 1998 @ Seixal
+Didi,                         F,  1.84 m,  b. 24 Sep 1998 @ Aveiro
+Miguel Sousa,                 D,  1.76 m,  b. 19 Sep 1998 @ Lisbon
 Kikas,                        F,  1.77 m,  b. 17 Sep 1998 @ Castelo Branco
+Diogo Sousa,                  G,  1.95 m,  b. 16 Sep 1998 @ Albufeira
 Rodrigo Martins,              F,  1.77 m,  b. 15 Sep 1998 @ Faro
+João Pais,                    F,  1.67 m,  b. 13 Sep 1998 @ Coimbra
 Matheus Nunes,                M,  1.83 m,  b. 27 Aug 1998 @ Rio de Janeiro
 Ricardo Velho,                G,  1.88 m,  b. 20 Aug 1998 @ Vila Nova de Famalicão
 André Vidigal,                F,  1.76 m,  b. 17 Aug 1998 @ Elvas
+Ricardinho,                   M,  1.78 m,  b. 6 Aug 1998 @ Porto
+Zé Carlos,                    D,  1.77 m,  b. 31 Jul 1998 @ Porto
 Dani Figueira,                G,  1.89 m,  b. 20 Jul 1998 @ Vizela
+Tomás Reymão,                 M,  1.90 m,  b. 14 Jul 1998 @ Lisbon
 Alex Pinto,                   D,  1.87 m,  b. 8 Jul 1998 @ Guimarães
 Pedro Gonçalves,              M,  1.73 m,  b. 28 Jun 1998 @ Vidago
+Martim Maia,                  M,  1.75 m,  b. 24 May 1998 @ Maia
 Tiago Dias,                   D,  1.75 m,  b. 4 May 1998 @ Lisbon
 Dany Mota,                    F,  1.80 m,  b. 2 May 1998 @ Niederkorn
 Batxi,                        F,  1.74 m,  b. 1 May 1998 @ Sintra
-Pedro Marques,                F,  1.81 m,  b. 25 Apr 1998 @ Lisbon
+Francisco Teixeira,           M,  1.77 m,  b. 26 Apr 1998 @ São Sebastião da Pedreira
+Pedro Marques,                D|F,1.81 m,  b. 25 Apr 1998 @ Lisbon
+Bruno Paz,                    M,  1.83 m,  b. 23 Apr 1998 @ Barreiro
 João Queirós,                 D,  1.90 m,  b. 22 Apr 1998 @ Viana do Castelo
 André Franco,                 M,  1.77 m,  b. 12 Apr 1998 @ Lisbon
+Luís Esteves,                 M,  1.69 m,  b. 9 Apr 1998 @ Ovar
+Rui Encarnação,               G,  1.85 m,  b. 5 Apr 1998 @ Funchal
 Abdu Conté,                   D,  1.83 m,  b. 24 Mar 1998 @ Bissau
+Rui Pires,                    M,  1.84 m,  b. 22 Mar 1998 @ Mirandela
 Rui Pedro,                    F,  1.82 m,  b. 20 Mar 1998 @ Castelo de Paiva
 Ricardo Mangas,               D,  1.79 m,  b. 19 Mar 1998 @ Lisbon
 Muhamed Djamanca,             F,  1.78 m,  b. 17 Mar 1998 @ Bissau
+Jorge Pereira,                D,  1.74 m,  b. 10 Mar 1998 @ Caracas
+Madiu Bari,                   M,  1.78 m,  b. 9 Mar 1998 @ Bissau
+Jonatas Centeno,              D,  1.77 m,  b. 25 Feb 1998 @ Barreiro
+Carlos Alves,                 G,  1.87 m,  b. 18 Feb 1998 @ Vila do Conde
+Gonçalo Agrelos,              F,  1.80 m,  b. 18 Feb 1998 @ Lisbon
 Kiki Silva,                   F,  1.72 m,  b. 14 Feb 1998 @ Sintra
 Daniel Azevedo,               G,  1.95 m,  b. 12 Feb 1998 @ Lisbon
+Manuel Namora,                F,  1.80 m,  b. 12 Feb 1998 @ Porto
 Nuno Namora,                  D,  1.78 m,  b. 12 Feb 1998 @ Porto
 Bruno Lourenço,               M,  1.79 m,  b. 2 Feb 1998 @ Lisbon
+Beto,                         F,  1.94 m,  b. 31 Jan 1998 @ Lisbon
+Ricardo Schutte,              F,  1.85 m,  b. 25 Jan 1998 @ Ribeira Brava
+Diogo Mendes,                 M,  1.82 m,  b. 24 Jan 1998 @ Faro
+Fali Candé,                   D,  1.84 m,  b. 24 Jan 1998 @ Bissau
 Pedro Pereira,                D,  1.85 m,  b. 22 Jan 1998 @ Lisbon
+João Moutinho,                D,  1.83 m,  b. 12 Jan 1998 @ Lisbon
+Pedro Ferreira,               M,  1.87 m,  b. 5 Jan 1998 @ Vieira de Leiria
 
+Paulinho,                     M,  1.76 m,  b. 25 Dec 1997 @ São João da Madeira
+Paulo Alves,                  M,  1.76 m,  b. 25 Dec 1997 @ São João da Madeira
+Bernardo Martins,             M,  1.76 m,  b. 4 Dec 1997 @ Porto
+Bruno Xadas,                  M,  1.79 m,  b. 2 Dec 1997 @ Oliveira de Azeméis
+André Mesquita,               F,  1.70 m,  b. 10 Oct 1997 @ Porto
 Vitó,                         M,  1.80 m,  b. 18 Sep 1997 @ Negreiros
 André Duarte,                 D,  1.95 m,  b. 12 Sep 1997 @ Sacavém
+Rui Gomes,                    F,  1.75 m,  b. 4 Sep 1997 @ Braga
 Pedro Amaral,                 D,  1.78 m,  b. 25 Aug 1997 @ Sintra
 Renato Sanches,               M,  1.76 m,  b. 18 Aug 1997 @ Lisbon
 Guilherme Ramos,              D,  1.91 m,  b. 11 Aug 1997 @ Lisbon
+Robinho,                      F,  1.71 m,  b. 31 Jul 1997 @ Lisbon
+Danny Henriques,              D|M,1.86 m,  b. 29 Jul 1997 @ Lourinhã
 Ronaldo Tavares,              F,  1.94 m,  b. 22 Jul 1997 @ Seixal
 Guga,                         M,  1.68 m,  b. 18 Jul 1997 @ Faro
 Luís Mata,                    D,  1.80 m,  b. 6 Jul 1997 @ Porto
+André Ribeiro,                F,  1.80 m,  b. 9 Jun 1997 @ Carouge
 Zé Pedro,                     D,  1.87 m,  b. 6 Jun 1997 @ Guimarães
+Flávio Cristóvão,             M,  1.85 m,  b. 23 May 1997
 Leonardo Rocha,               F,  1.98 m,  b. 23 May 1997 @ Almada
+Pêpê,                         M,  1.83 m,  b. 20 May 1997 @ Satão
 Rúben Dias,                   D,  1.87 m,  b. 14 May 1997 @ Amadora
 Rodrigo Escoval,              D,  1.88 m,  b. 8 May 1997 @ Lisbon
 Bruno Costa,                  M,  1.74 m,  b. 19 Apr 1997 @ Oliveira de Azeméis
+André Teles,                  M,  1.80 m,  b. 6 Apr 1997 @ Funchal
+Hélder Ferreira,              F,  1.79 m,  b. 5 Apr 1997 @ Fafe
 Jorge Fernandes,              D,  1.93 m,  b. 2 Apr 1997 @ Tondela
 Ferro,                        D,  1.92 m,  b. 26 Mar 1997 @ Oliveira de Azeméis
+David Sualehe,                D,  1.83 m,  b. 23 Mar 1997 @ Porto
+Xande Silva,                  F,  1.77 m,  b. 16 Mar 1997 @ Lisbon
+Fernando Fonseca,             D,  1.82 m,  b. 14 Mar 1997 @ Porto
 Rubén Neves,                  M,  1.80 m,  b. 13 Mar 1997 @ Mozelos
 João Carvalho,                M,  1.70 m,  b. 9 Mar 1997 @ Castanheira de Pera
 Heriberto Tavares,            F,  1.81 m,  b. 19 Feb 1997 @ Amadora
 Rafa Santos,                  M,  1.87 m,  b. 14 Feb 1997 @ Cascais
+Pedro Silva,                  G,  1.89 m,  b. 13 Feb 1997 @ Lisbon
 Aurélio Buta,                 D,  1.72 m,  b. 10 Feb 1997 @ Luanda
 Diogo Gonçalves,              M,  1.76 m,  b. 6 Feb 1997 @ Beja
 Yuri Ribeiro,                 D,  1.75 m,  b. 24 Jan 1997 @ Vieira do Minho
+João Basso,                   D,  1.87 m,  b. 13 Jan 1997 @ Curitiba
 
 Bruno Wilson,                 D,  1.92 m,  b. 27 Dec 1996 @ Lisbon
+Stephen Eustáquio,            M,  1.78 m,  b. 21 Dec 1996 @ Leamington (CAN)
+André Paulo,                  G,  1.88 m,  b. 18 Dec 1996 @ Albufeira
 Diogo Jota,                   F,  1.78 m,  b. 4 Dec 1996 @ Massarelos
+Sandro Semedo,                M,  1.74 m,  b. 3 Dec 1996
+Andrezinho,                   F,  1.74 m,  b. 1 Dec 1996 @ Lisbon
 Gonçalo Guedes,               M,  1.79 m,  b. 29 Nov 1996 @ Benavente
 João Pedro,                   F,  1.85 m,  b. 13 Nov 1996 @ Ponta Delgada
+Sérgio Conceição,             D,  1.77 m,  b. 12 Nov 1996 @ Porto
 André Horta,                  M,  1.67 m,  b. 7 Nov 1996 @ Almada
 Diogo Verdasca,               D,  1.85 m,  b. 26 Oct 1996 @ Guimarães
-Gil Dias,                     M,  1.83 m,  b. 28 Sep 1996 @ Gafanha da Nazaré
-Joel Pereira,                 D,  1.78 m,  b. 28 Sep 1996 @ Vila Nova de Gaia
+Paulo Henrique,               D,  1.82 m,  b. 23 Oct 1996 @ Fenais da Luz
+Rodolfo Cardoso,              G,  1.86 m,  b. 13 Oct 1996 @ Ribeira Grande
+Gil Dias,                     D|M|F,1.83 m,  b. 28 Sep 1996 @ Gafanha da Nazaré
+Joel Pereira,                 G|D,1.88 m,  b. 28 Sep 1996 @ Vila Nova de Gaia
 Miguel Crespo,                M,  1.83 m,  b. 11 Sep 1996 @ Lyon
+Bruno Almeida,                F,  1.72 m,  b. 9 Sep 1996 @ Porto
+João Correia,                 D,  1.75 m,  b. 5 Sep 1996 @ Setúbal
 João Gamboa,                  M,  1.87 m,  b. 31 Aug 1996 @ Póvoa de Varzim
 Miguel Campos,                D,  1.86 m,  b. 19 Aug 1996 @ Águeda
 Rúben Rodrigues,              F,  1.81 m,  b. 2 Aug 1996 @ Oliveira de Azeméis
 Miguel Carvalho,              G,  1.85 m,  b. 20 Jun 1996 @ Faro
+Tiago Alves,                  M,  1.77 m,  b. 19 Jun 1996 @ Coimbra
 André Ferreira,               G,  1.93 m,  b. 29 May 1996 @ Vila Nova de Gaia
+Dálcio,                       M,  1.86 m,  b. 22 May 1996 @ Pragal
+João Teixeira,                M,  1.82 m,  b. 7 May 1996 @ Forbach
 Samu,                         M,  1.70 m,  b. 21 Apr 1996 @ São Paio de Oleiros
 Rafael Barbosa,               M,  1.73 m,  b. 29 Mar 1996 @ Amarante
+Ivanildo,                     D,  1.93 m,  b. 26 Mar 1996 @ Amadora
+Jorge Silva,                  D,  1.83 m,  b. 22 Mar 1996 @ Porto
+Lisandro Semedo,              F,  1.75 m,  b. 12 Mar 1996 @ Setúbal
+Rúben Macedo,                 F,  1.71 m,  b. 9 Mar 1996 @ Amarante
 Hildeberto Pereira,           M,  1.75 m,  b. 2 Mar 1996 @ Lisbon
+João Costa,                   G,  1.85 m,  b. 2 Feb 1996 @ Barcelos
 Joca,                         M,  1.67 m,  b. 30 Jan 1996 @ Braga
+Miguel Bandarra,              D,  1.82 m,  b. 17 Jan 1996 @ Vila Real de Santo António
+João Lucas,                   D,  1.80 m,  b. 15 Jan 1996 @ Almada
 
 Rony Lopes,                   M,  1.74 m,  b. 28 Dec 1995 @ Belém
+André Moreira,                G,  1.95 m,  b. 2 Dec 1995 @ Ribeirão
+Henrique Gomes,               D,  1.85 m,  b. 30 Nov 1995 @ Barcelos
+João Vigário,                 D,  1.81 m,  b. 20 Nov 1995 @ Gondomar
 João Nunes,                   D,  1.88 m,  b. 19 Nov 1995 @ Setúbal
 Kiko Bondoso,                 F,  1.71 m,  b. 17 Nov 1995 @ Moimenta da Beira
+Guima,                        M,  1.81 m,  b. 14 Nov 1995 @ Aveiro
 André Silva,                  F,  1.85 m,  b. 6 Nov 1995 @ Baguim do Monte
-Daniel Podence,               F,  1.60 m,  b. 21 Oct 1995 @ Oeiras
+Daniel Podence,               M|F,1.60 m,  b. 21 Oct 1995 @ Oeiras
+Jorginho,                     M,  1.69 m,  b. 21 Sep 1995 @ Bissau
 Pedro Aparício,               M,  1.72 m,  b. 22 Aug 1995 @ Aveiro
-Tiago Esgaio,                 D,  1.75 m,  b. 1 Aug 1995 @ Nazaré
+Tiago Esgaio,                 D|M,1.75 m,  b. 1 Aug 1995 @ Nazaré
+Nélson Monte,                 D,  1.87 m,  b. 30 Jul 1995 @ Vila do Conde
+Reko,                         M,  1.80 m,  b. 25 Jul 1995 @ Barcelos
 Chiquinho,                    M,  1.74 m,  b. 19 Jul 1995 @ Santo Tirso
 João Palhinha,                M,  1.90 m,  b. 9 Jul 1995 @ Lisbon
 João Graça,                   M,  1.77 m,  b. 18 Jun 1995 @ Matosinhos
 Ricardo Santos,               D,  1.96 m,  b. 18 Jun 1995 @ Almada
 Nené,                         M,  1.87 m,  b. 10 Jun 1995 @ Graciosa
-Gelson Martins,               F,  1.73 m,  b. 11 May 1995 @ Praia
+Dinis Almeida,                D,  1.84 m,  b. 28 May 1995 @ Esposende
+Gelson Martins,               M|F,1.73 m,  b. 11 May 1995 @ Praia
 Rafa Soares,                  D,  1.82 m,  b. 9 May 1995 @ Marco de Canaveses
 André Pereira,                F,  1.88 m,  b. 5 May 1995 @ Porto
-Rochinha,                     F,  1.72 m,  b. 3 May 1995 @ Espinho
+Rochinha,                     M|F,1.72 m,  b. 3 May 1995 @ Espinho
+Chico Geraldes,               M,  1.75 m,  b. 18 Apr 1995 @ Lisbon
+Guilherme Oliveira,           G,  1.90 m,  b. 12 Apr 1995 @ Venda do Pinheiro
+Francisco Ramos,              M,  1.81 m,  b. 10 Apr 1995 @ Póvoa de Varzim
+Miguel Silva,                 G,  1.89 m,  b. 7 Apr 1995 @ Guimarães
+Ivo Rodrigues,                F,  1.79 m,  b. 30 Mar 1995 @ Baguim do Monte
 Domingos Duarte,              D,  1.92 m,  b. 10 Mar 1995 @ Cascais
+Nuno Santos,                  F,  1.76 m,  b. 13 Feb 1995 @ Trofa
 Otávio,                       M,  1.71 m,  b. 9 Feb 1995 @ João Pessoa
+Tomás Podstawski,             M,  1.81 m,  b. 30 Jan 1995 @ Porto
 Cristian Ponde,               F,  1.79 m,  b. 26 Jan 1995 @ Făurești
+Pedro Rebocho,                D,  1.72 m,  b. 23 Jan 1995 @ Évora
+Pedro Nuno,                   M,  1.74 m,  b. 13 Jan 1995 @ Buarcos
 Tiago Sá,                     G,  1.85 m,  b. 11 Jan 1995 @ Braga
+Rafael Ramos,                 D,  1.70 m,  b. 9 Jan 1995 @ Santa Marinha
 Filipe Nascimento,            M,  1.75 m,  b. 7 Jan 1995 @ Loures
 Raphael Guzzo,                M,  1.77 m,  b. 6 Jan 1995 @ São Paulo
 
 Rúben Lameiras,               M,  1.75 m,  b. 22 Dec 1994 @ Lisbon
+Rúben Oliveira,               M,  1.70 m,  b. 14 Dec 1994 @ Oliveira de Azeméis
 Kiki,                         D,  1.81 m,  b. 10 Dec 1994 @ Vila Chã
+Ricardo Vaz,                  M,  1.72 m,  b. 26 Nov 1994 @ Alcabideche
+Xeka,                         M,  1.86 m,  b. 10 Nov 1994 @ Rebordosa
 Bruno Varela,                 G,  1.91 m,  b. 4 Nov 1994 @ Lisbon
+Ricardo Fernandes,            G,  1.93 m,  b. 28 Oct 1994 @ Oliveira do Bairro
 Bruma,                        F,  1.73 m,  b. 24 Oct 1994 @ Bissau
 João Mendes,                  M,  1.83 m,  b. 21 Oct 1994 @ Matosinhos
 Ricardo Horta,                M,  1.73 m,  b. 15 Sep 1994 @ Almada
 Bruno Fernandes,              M,  1.79 m,  b. 8 Sep 1994 @ Maia
+Pité,                         M,  1.88 m,  b. 22 Aug 1994 @ Esgueira
 Artur Jorge,                  D,  1.86 m,  b. 14 Aug 1994 @ Braga
 Bernardo Silva,               M,  1.73 m,  b. 10 Aug 1994 @ Lisbon
 Gonçalo Paciência,            F,  1.84 m,  b. 1 Aug 1994 @ Porto
+Iuri Medeiros,                M,  1.74 m,  b. 10 Jul 1994 @ Horta
 Camacho,                      M,  1.74 m,  b. 23 Jun 1994 @ Funchal
 Miguel Cardoso,               M,  1.76 m,  b. 19 Jun 1994 @ Lisbon
+Filipe Cardoso,               M,  1.90 m,  b. 2 Jun 1994 @ Vila Nova de Gaia
 João Cancelo,                 D,  1.82 m,  b. 27 May 1994 @ Barreiro
+Miguel Oliveira,              G,  1.94 m,  b. 25 May 1994 @ Infantas
+Leandro Silva,                M,  1.73 m,  b. 4 May 1994 @ Castelo de Paiva
+Edgar Ié,                     D,  1.76 m,  b. 1 May 1994 @ Bissau
 Rúben Vezo,                   D,  1.82 m,  b. 25 Apr 1994 @ Setúbal
 Fábio Cardoso,                D,  1.86 m,  b. 19 Apr 1994 @ Águeda
-Kévin Rodrigues,              D,  1.70 m,  b. 5 Mar 1994 @ Bayonne
+Rúben Semedo,                 D,  1.89 m,  b. 4 Apr 1994 @ Amadora
+Nuno Da Silva,                M,  1.70 m,  b. 14 Mar 1994 @ Zürich
+Carlos Mané,                  F,  1.72 m,  b. 11 Mar 1994 @ Lisbon
+Kévin Rodrigues,              D|M,1.70 m,  b. 5 Mar 1994 @ Bayonne
+Alexandre Guedes,             F,  1.85 m,  b. 11 Feb 1994 @ Vila Nova de Gaia
 Rui Silva,                    G,  1.89 m,  b. 7 Feb 1994 @ Águas Santas
+João Teixeira,                M,  1.78 m,  b. 6 Feb 1994 @ Amora
+Fábio Sturgeon,               M,  1.83 m,  b. 4 Feb 1994 @ Almada
+Tobias Figueiredo,            D,  1.88 m,  b. 2 Feb 1994 @ Sátão
+Filipe Oliveira,              M,  1.87 m,  b. 24 Jan 1994 @ Leiria
+Hélder Costa,                 F,  1.78 m,  b. 12 Jan 1994 @ Luanda
 
 Raphaël Guerreiro,            D,  1.70 m,  b. 22 Dec 1993 @ Le Blanc-Mesnil
 Pedro Sá,                     M,  1.75 m,  b. 1 Dec 1993 @ Póvoa de Varzim
@@ -338,79 +551,147 @@ Nélson Semedo,                D,  1.77 m,  b. 16 Nov 1993 @ Lisbon
 Ivan Cavaleiro,               M,  1.75 m,  b. 18 Oct 1993 @ Vialonga
 Ricardo Pereira,              D,  1.75 m,  b. 6 Oct 1993 @ Lisbon
 Aylton Boa Morte,             F,  1.82 m,  b. 23 Sep 1993 @ Almada
+Lucas João,                   F,  1.92 m,  b. 4 Sep 1993 @ Luanda
 André Teixeira,               D,  1.80 m,  b. 14 Aug 1993 @ Porto
 André Gomes,                  M,  1.88 m,  b. 30 Jul 1993 @ Porto
+Fábio Martins,                F,  1.78 m,  b. 24 Jul 1993 @ Mafamude
 João Novais,                  M,  1.79 m,  b. 10 Jul 1993 @ Vila Nova de Gaia
+Tiago Ferreira,               D,  1.83 m,  b. 10 Jul 1993 @ Porto
+Luís Rocha,                   D,  1.74 m,  b. 27 Jun 1993 @ Vila Nova de Famalicão
 Mica Pinto,                   D,  1.76 m,  b. 4 Jun 1993 @ Diekirch
 Tiago Silva,                  M,  1.70 m,  b. 2 Jun 1993 @ Lisbon
-Rafa,                         M,  1.70 m,  b. 17 May 1993 @ Barreiro
+Rafa,                         M|F,1.70 m,  b. 17 May 1993 @ Barreiro
 Ricardo Esgaio,               D,  1.71 m,  b. 16 May 1993 @ Nazaré
+Adriano Castanheira,          F,  1.78 m,  b. 7 Apr 1993 @ Neuchâtel
+João Pedro,                   M,  1.77 m,  b. 3 Apr 1993 @ Guimarães
 Carraça,                      D,  1.77 m,  b. 1 Mar 1993 @ Folgosa da Maia
 Cafú,                         M,  1.83 m,  b. 26 Feb 1993 @ Guimarães
+Tiago Ilori,                  D,  1.90 m,  b. 26 Feb 1993 @ Hampstead
 Frederico Venâncio,           D,  1.86 m,  b. 4 Feb 1993 @ Setúbal
-João Mário,                   M,  1.78 m,  b. 19 Jan 1993 @ Porto
+João Mário,                   M,  1.73 m,  b. 19 Jan 1993 @ Porto
+João Teixeira,                M,  1.67 m,  b. 18 Jan 1993 @ Braga
 José Sá,                      G,  1.92 m,  b. 17 Jan 1993 @ Braga
+Afonso Figueiredo,            D,  1.69 m,  b. 6 Jan 1993 @ Oeiras
+Rúben Freitas,                D,  1.80 m,  b. 2 Jan 1993 @ Odivelas
 
 Pedrinho,                     M,  1.70 m,  b. 20 Dec 1992 @ Cristelo
 Daniel Heuer Fernandes,       G,  1.88 m,  b. 13 Nov 1992 @ Bochum
 Paulinho,                     F,  1.87 m,  b. 9 Nov 1992 @ Barcelos
 Luís Machado,                 F,  1.68 m,  b. 4 Nov 1992 @ Lamego
-Fábio Nunes,                  D,  1.76 m,  b. 24 Jul 1992 @ Portimão
+Luís Gustavo,                 M,  1.73 m,  b. 28 Sep 1992 @ Braga
+Costinha,                     M,  1.70 m,  b. 25 Aug 1992 @ Coimbra
+Mauro Cerqueira,              D,  1.81 m,  b. 20 Aug 1992 @ Lisbon
+Fábio Nunes,                  D|M,1.76 m,  b. 24 Jul 1992 @ Portimão
+Fábio China,                  D,  1.79 m,  b. 7 Jul 1992 @ Calheta
+António Xavier,               F,  1.81 m,  b. 6 Jul 1992 @ Guimarães
 João Reis,                    D,  1.74 m,  b. 24 Jun 1992 @ Loulé
+Afonso Taira,                 M,  1.77 m,  b. 17 Jun 1992 @ Cascais
+Josué,                        D,  1.86 m,  b. 17 Jun 1992 @ Lisbon
+Hugo Sousa,                   D,  1.83 m,  b. 4 Jun 1992 @ Santa Marinha
 Sérgio Oliveira,              M,  1.79 m,  b. 2 Jun 1992 @ Paços de Brandão
 Rúben Pinto,                  M,  1.81 m,  b. 24 Apr 1992 @ Odivelas
 William Carvalho,             M,  1.87 m,  b. 7 Apr 1992 @ Luanda
 Vítor Gonçalves,              M,  1.74 m,  b. 29 Mar 1992 @ São Bartolomeu de Messines
+David Bruno,                  D,  1.76 m,  b. 14 Feb 1992 @ Porto
+Tiago Rodrigues,              M,  1.77 m,  b. 29 Jan 1992 @ Vila Real
+Francisco Júnior,             M,  1.62 m,  b. 18 Jan 1992 @ Bissau
+Joel Ferreira,                D,  1.80 m,  b. 10 Jan 1992 @ Valongo
 Paulo Oliveira,               D,  1.87 m,  b. 8 Jan 1992 @ Vila Nova de Famalicão
 
 Cláudio Ramos,                G,  1.83 m,  b. 16 Nov 1991 @ Viseu
 Salvador Agra,                F,  1.66 m,  b. 11 Nov 1991 @ Vila do Conde
-Danilo Pereira,               M,  1.87 m,  b. 9 Sep 1991 @ Bissau
+Renato Santos,                M,  1.70 m,  b. 5 Oct 1991 @ Pardilhó
+Danilo Pereira,               D|M,1.87 m,  b. 9 Sep 1991 @ Bissau
 João Amaral,                  M,  1.72 m,  b. 7 Sep 1991 @ Vila Nova de Gaia
 Cédric Soares,                D,  1.72 m,  b. 31 Aug 1991 @ Gelsenkirchen
 Hernâni,                      F,  1.80 m,  b. 20 Aug 1991 @ Lisbon
 Nélson Oliveira,              F,  1.86 m,  b. 8 Aug 1991 @ Barcelos
+Rafael Lopes,                 F,  1.85 m,  b. 28 Jul 1991 @ Esposende
+Paulinho,                     D,  1.75 m,  b. 13 Jul 1991 @ Santa Marinha
 Gonçalo Silva,                D,  1.86 m,  b. 4 Jun 1991 @ Barreiro
 Mário Rui,                    D,  1.70 m,  b. 27 May 1991 @ Sines
+Ricardo Alves,                D,  1.81 m,  b. 9 May 1991 @ Vila Nova de Cerveira
 Geraldes,                     D,  1.81 m,  b. 2 May 1991 @ Maia
+Ricardo Valente,              F,  1.81 m,  b. 3 Apr 1991 @ Porto
+Roderick Miranda,             D,  1.93 m,  b. 30 Mar 1991 @ Odivelas
 Mika,                         G,  1.95 m,  b. 8 Mar 1991 @ Yverdon-les-Bains
 Alex Soares,                  M,  1.79 m,  b. 1 Mar 1991 @ Lisbon
+Thierry Moutinho,             M,  1.78 m,  b. 26 Feb 1991 @ Geneva
 
 Zé Manuel,                    F,  1.78 m,  b. 23 Oct 1990 @ Nogueira
+Miguel Vieira,                D,  1.90 m,  b. 8 Oct 1990 @ Amarante
 Anthony Lopes,                G,  1.84 m,  b. 1 Oct 1990 @ Givors
+Pedro Mendes,                 D,  1.87 m,  b. 1 Oct 1990 @ Neuchâtel
 Filipe Ferreira,              D,  1.78 m,  b. 27 Sep 1990 @ Lisbon
 Josué,                        M,  1.74 m,  b. 17 Sep 1990 @ Ermesinde
 André Almeida,                D,  1.86 m,  b. 10 Sep 1990 @ Lisbon
-David Simão,                  D,  1.79 m,  b. 15 May 1990 @ Versailles
+Alvarinho,                    F,  1.70 m,  b. 3 Sep 1990 @ Faro
+Rui Correia,                  D,  1.88 m,  b. 23 Aug 1990 @ Chaves
+Bebé,                         M,  1.90 m,  b. 12 Jul 1990 @ Agualva-Cacém
+André Sousa,                  M,  1.81 m,  b. 9 Jul 1990 @ Lisbon
+João Afonso,                  D,  1.88 m,  b. 28 May 1990 @ Castelo Branco
+David Simão,                  D|M,1.79 m,  b. 15 May 1990 @ Versailles
+Rui Fonte,                    F,  1.81 m,  b. 23 Mar 1990 @ Lisbon
+André Martins,                M,  1.66 m,  b. 21 Jan 1990 @ Santa Maria da Feira
 Ivo Pinto,                    D,  1.84 m,  b. 7 Jan 1990 @ Lourosa
 
+André Simões,                 M,  1.77 m,  b. 16 Dec 1989 @ Vila Nova de Gaia
+Ricardo Ferreira,             G,  1.88 m,  b. 3 Dec 1989 @ Braga
+Filipe Melo,                  M,  1.89 m,  b. 3 Nov 1989 @ Santa Maria de Lamas
 Pizzi,                        M,  1.77 m,  b. 6 Oct 1989 @ Bragança
+André Pinto,                  D,  1.92 m,  b. 5 Oct 1989 @ Vila Nova de Gaia
 Rúben Lima,                   D,  1.76 m,  b. 3 Oct 1989 @ Lisbon
+Arsénio,                      M,  1.80 m,  b. 30 Aug 1989 @ Esposende
 Talocha,                      D,  1.80 m,  b. 30 Aug 1989 @ Antas
 André André,                  M,  1.77 m,  b. 26 Aug 1989 @ Vila do Conde
 Jair,                         D,  1.88 m,  b. 21 Aug 1989 @ Lisbon
+Marco Baixinho,               D,  1.86 m,  b. 11 Jul 1989 @ Arruda dos Vinhos
+Joãozinho,                    D,  1.85 m,  b. 2 Jul 1989 @ Lisbon
 Marcel Correia,               D,  1.86 m,  b. 16 May 1989 @ Kaiserslautern
 Marco Matias,                 F,  1.77 m,  b. 10 May 1989 @ Barreiro
 Adrien Silva,                 M,  1.75 m,  b. 15 Mar 1989 @ Angoulême
 Pedro Moreira,                M,  1.82 m,  b. 15 Mar 1989 @ Lousada
+André Santos,                 M,  1.76 m,  b. 2 Mar 1989 @ Sobreiro Curvo
+Hélder Lopes,                 D,  1.79 m,  b. 4 Jan 1989 @ Vila Nova de Gaia
+Tiago Lopes,                  D,  1.80 m,  b. 4 Jan 1989 @ Vila Nova de Gaia
 
+Diogo Salomão,                M,  1.75 m,  b. 14 Sep 1988 @ Amadora
+Licá,                         F,  1.80 m,  b. 8 Sep 1988 @ Castro Daire
 Pedro Tiba,                   M,  1.76 m,  b. 31 Aug 1988 @ Arcos de Valdevez
 Zeca,                         M,  1.80 m,  b. 31 Aug 1988 @ Amadora
+Daniel Carriço,               D,  1.80 m,  b. 4 Aug 1988 @ Cascais
+Rui Pedro,                    M,  1.80 m,  b. 2 Jul 1988 @ VIla Nova de Gaia
+Fábio Pacheco,                M,  1.78 m,  b. 26 May 1988 @ Paredes
 Luís Neto,                    D,  1.85 m,  b. 26 May 1988 @ Póvoa de Varzim
+Orlando Sá,                   F,  1.88 m,  b. 26 May 1988 @ Barcelos
 André Castro,                 M,  1.79 m,  b. 2 Apr 1988 @ Gondomar
 Ukra,                         F,  1.75 m,  b. 16 Mar 1988 @ Vila Nova de Famalicão
 Fábio Coentrão,               D,  1.78 m,  b. 11 Mar 1988 @ Vila do Conde
+Candeias,                     M,  1.77 m,  b. 25 Feb 1988 @ Fornos de Algodres
 Rui Patrício,                 G,  1.88 m,  b. 15 Feb 1988 @ Marrazes
+Tiago Pinto,                  D,  1.77 m,  b. 1 Feb 1988 @ Porto
+Pedro Trigueira,              G,  1.92 m,  b. 4 Jan 1988 @ Baltar
 
 Vítor Gomes,                  M,  1.81 m,  b. 25 Dec 1987 @ Vila do Conde
 Éder,                         F,  1.88 m,  b. 22 Dec 1987 @ Bissau
+Bruno Gama,                   M,  1.75 m,  b. 15 Nov 1987 @ Vila Verde
+Sílvio,                       D,  1.78 m,  b. 28 Sep 1987 @ Lisbon
+Bruno Moreira,                F,  1.85 m,  b. 6 Sep 1987 @ Famalicão
 Rúben Ribeiro,                M,  1.75 m,  b. 1 Aug 1987 @ Ramalde
+Hélder Barbosa,               M,  1.72 m,  b. 25 May 1987 @ Paredes
+Marafona,                     G,  1.90 m,  b. 8 May 1987 @ Vila do Conde
+Edgar Costa,                  M,  1.80 m,  b. 14 Apr 1987 @ Câmara de Lobos
+Vitorino Antunes,             D,  1.76 m,  b. 1 Apr 1987 @ Freamunde
+Marco Pereira,                G,  1.83 m,  b. 12 Jan 1987 @ Paraíso
+Steven Vitória,               D,  1.95 m,  b. 11 Jan 1987 @ Toronto
 
 Miguel Lopes,                 D,  1.82 m,  b. 19 Dec 1986 @ Lisbon
 Ricardo Batista,              G,  1.93 m,  b. 19 Nov 1986 @ Setúbal
-Nani,                         M,  1.75 m,  b. 17 Nov 1986 @ Praia
+Nani,                         M|F,1.75 m,  b. 17 Nov 1986 @ Praia
 Vasco Fernandes,              D,  1.80 m,  b. 13 Nov 1986 @ Olhão
+Ricardo Vaz Tê,               F,  1.88 m,  b. 1 Oct 1986 @ Lisbon
 João Moutinho,                M,  1.70 m,  b. 8 Sep 1986 @ Portimão
+Jorge Teixeira,               D,  1.88 m,  b. 27 Aug 1986 @ Lisbon
 Rúben Micael,                 M,  1.75 m,  b. 19 Aug 1986 @ Câmara de Lobos
 Miguel Veloso,                M,  1.80 m,  b. 11 May 1986 @ Coimbra
 Rúben Fernandes,              D,  1.86 m,  b. 6 May 1986 @ Portimão
@@ -418,15 +699,21 @@ Manuel Fernandes,             M,  1.76 m,  b. 5 Feb 1986 @ Lisbon
 Vierinha,                     M,  1.73 m,  b. 24 Jan 1986 @ Guimarães
 
 Rolando,                      D,  1.89 m,  b. 31 Aug 1985 @ São Vicente
+Henrique Sereno,              D,  1.88 m,  b. 18 May 1985 @ Elvas
+Luisinho,                     D,  1.71 m,  b. 5 May 1985 @ Porto
 António Filipe,               G,  1.87 m,  b. 14 Apr 1985 @ Foz do Sousa
-Cristiano Ronaldo,            F,  1.86 m,  b. 5 Feb 1985 @ Funchal
+Cristiano Ronaldo,            F,  1.87 m,  b. 5 Feb 1985 @ Funchal
 Silvestre Varela,             F,  1.80 m,  b. 2 Feb 1985 @ Almada
 Ruben Amorim,                 M,  1.78 m,  b. 27 Jan 1985 @ Lisbon
 
+Flávio Paixão,                F,  1.81 m,  b. 19 Sep 1984 @ Sesimbra
+Marco Paixão,                 F,  1.85 m,  b. 19 Sep 1984 @ Sesimbra
 Hugo Almeida,                 F,  1.91 m,  b. 23 May 1984 @ Figueira da Foz
+Ivo Gonçalves,                G,  1.84 m,  b. 6 May 1984 @ Silves
 João Pereira,                 D,  1.72 m,  b. 25 Feb 1984 @ Lisbon
 
 José Fonte,                   D,  1.87 m,  b. 22 Dec 1983 @ Penafiel
+Tarantini,                    M,  1.89 m,  b. 7 Oct 1983 @ Baião
 Eliseu,                       D,  1.75 m,  b. 1 Oct 1983 @ Acoras
 Ricardo Quaresma,             M,  1.75 m,  b. 26 Sep 1983 @ Lisbon
 Daniel Fernandes,             G,  1.93 m,  b. 25 Sep 1983 @ Edmonton (CAN)

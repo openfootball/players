@@ -8,42 +8,61 @@ Luc De Fougerolles,           D,  - ,      b. 12 Oct 2005
 Jamie Knight-Lebel,           D,  1.88 m,  b. 24 Dec 2004 @ La Pocatière
 Nathaniel Noel,               D,  - ,      b. 14 Jan 2004 @ Toronto
 
+Justin Smith,                 D,  1.89 m,  b. 4 Feb 2003 @ Paris
+Kosi Thompson,                M,  1.78 m,  b. 27 Jan 2003 @ Toronto
+
+Aribim Pepple,                F,  1.85 m,  b. 25 Dec 2002 @ Kettering
+Malik Owolabi-Belewu,         D,  1.88 m,  b. 3 Jul 2002 @ Greenwich
 Ismaël Koné,                  M,  1.88 m,  b. 6 Jun 2002 @ Abidjan
 Theo Corbeanu,                F,  1.87 m,  b. 17 May 2002 @ Burlington
+Damiano Pecile,               M,  1.83 m,  b. 11 Apr 2002 @ Burnaby
 Simon Colyn,                  F,  1.75 m,  b. 23 Mar 2002 @ Langley
 Amir Batyrev,                 M,  1.73 m,  b. 11 Mar 2002 @ Toronto
 
 Victor Loturi,                M,  1.73 m,  b. 21 May 2001 @ Calgary
 
-Alphonso Davies,              D,  1.83 m,  b. 2 Nov 2000 @ Buduburam
+Alphonso Davies,              D|F,1.83 m,  b. 2 Nov 2000 @ Buduburam
 Ben Paton,                    M,  1.76 m,  b. 24 Aug 2000 @ Kitchener
+Julian Dunn,                  D,  1.88 m,  b. 11 Jul 2000 @ Toronto
+Steven Simpson,               F,  - ,      b. 5 Apr 2000
 Jonathan David,               F,  1.77 m,  b. 14 Jan 2000 @ Brooklyn
+Axel Desjardins,              G,  1.88 m,  b. 13 Jan 2000 @ Montreal
 
 Belal Halbouni,               D,  1.88 m,  b. 30 Dec 1999 @ London, ON
 Liam Millar,                  F,  1.76 m,  b. 27 Sep 1999 @ Toronto
 Theo Bair,                    F,  1.93 m,  b. 27 Aug 1999 @ Ottawa
+Clément Bayiha,               D,  1.73 m,  b. 3 Mar 1999 @ Yaoundé
 Tajon Buchanan,               F,  1.83 m,  b. 8 Feb 1999 @ Brampton
 
+Matthew Durrans,              F,  1.82 m,  b. 10 Dec 1998 @ Vancouver
 Diyaeddine Abzi,              D,  1.83 m,  b. 23 Nov 1998 @ Fès
+Gloire Amanda,                F,  1.80 m,  b. 11 Nov 1998 @ Nyarugusu
 Patrick Metcalfe,             M,  1.83 m,  b. 11 Nov 1998 @ Vancouver
 Alistair Johnston,            D,  1.80 m,  b. 8 Oct 1998 @ Vancouver
 Iké Ugbo,                     F,  1.86 m,  b. 21 Sep 1998 @ Lewisham
 Richlord Ennin,               F,  1.82 m,  b. 17 Sep 1998 @ Toronto
+Kosovar Sadiki,               D,  - ,      b. 27 Aug 1998 @ Moers
+David Norman Jr,              D,  1.88 m,  b. 31 May 1998 @ New Westminster
 Harry Paton,                  M,  1.75 m,  b. 23 May 1998 @ Kitchener
 Sebastian Breza,              G,  1.96 m,  b. 15 Mar 1998 @ Ottawa
 Liam Fraser,                  M,  1.85 m,  b. 13 Feb 1998 @ Toronto
 
+Fikayo Tomori,                D,  1.84 m,  b. 19 Dec 1997 @ Calgary
 Derek Cornelius,              D,  1.88 m,  b. 25 Nov 1997 @ Ajax
 Marcus Godinho,               D,  1.78 m,  b. 28 Jun 1997 @ Toronto
 Kamal Miller,                 D,  1.83 m,  b. 16 May 1997 @ Scarborough (CAN)
 Dayne St. Clair,              G,  1.91 m,  b. 9 May 1997 @ Pickering
+Kris Twardek,                 M,  1.91 m,  b. 8 Mar 1997 @ Ottawa
 James Pantemis,               G,  1.90 m,  b. 21 Feb 1997 @ Montreal
 
 Stephen Eustáquio,            M,  1.78 m,  b. 21 Dec 1996 @ Leamington (CAN)
+Caniggia Elva,                M|F,1.78 m,  b. 14 Jul 1996 @ Vieux Fort
 Marco Bustos,                 M,  1.68 m,  b. 22 Apr 1996 @ Winnipeg
 Kianz Froese,                 M,  1.75 m,  b. 16 Apr 1996 @ Havana
+Jordan Hamilton,              F,  1.83 m,  b. 17 Mar 1996 @ Scarborough (CAN)
 Joel Waterman,                D,  1.88 m,  b. 24 Jan 1996 @ Aldergrove
 
+Mike Petrasso,                M,  1.68 m,  b. 7 Sep 1995 @ Toronto
 Cyle Larin,                   F,  1.88 m,  b. 17 Apr 1995 @ Brampton
 Sam Adekugbe,                 D,  1.75 m,  b. 16 Jan 1995 @ London
 Richie Laryea,                M,  1.75 m,  b. 7 Jan 1995 @ Toronto
@@ -51,9 +70,15 @@ Richie Laryea,                M,  1.75 m,  b. 7 Jan 1995 @ Toronto
 Mark-Anthony Kaye,            M,  1.91 m,  b. 2 Dec 1994 @ Toronto
 Samuel Piette,                M,  1.73 m,  b. 12 Nov 1994 @ Repentigny
 Dominick Zator,               D,  1.88 m,  b. 18 Sep 1994 @ Calgary
+Jay Chapman,                  M,  1.83 m,  b. 1 Jan 1994 @ Brampton
+
+Manjrekar James,              D,  1.92 m,  b. 5 Aug 1993 @ Roseau
+Doneil Henry,                 D,  1.88 m,  b. 20 Apr 1993 @ Brampton
 
 Lucas Cavallini,              F,  1.81 m,  b. 28 Dec 1992 @ Toronto
+Ricardo Ferreira,             D,  1.90 m,  b. 25 Nov 1992 @ Mississisauga
 Jonathan Osorio,              M,  1.75 m,  b. 12 Jun 1992 @ Toronto
+Charlie Trafford,             M,  1.93 m,  b. 24 May 1992 @ Calgary
 
 Junior Hoilett,               M,  1.73 m,  b. 5 Jun 1990 @ Brampton
 Simon Thomas,                 G,  1.91 m,  b. 12 Apr 1990 @ Victoria
@@ -61,8 +86,12 @@ David Wotherspoon,            M,  1.81 m,  b. 16 Jan 1990 @ Perth
 
 Jayson Leutwiler,             G,  1.92 m,  b. 25 Apr 1989 @ Basel
 
+Scott Arfield,                M,  1.78 m,  b. 1 Nov 1988 @ Dechmont
+
 Milan Borjan,                 G,  1.93 m,  b. 23 Oct 1987 @ Knin
 Steven Vitória,               D,  1.95 m,  b. 11 Jan 1987 @ Toronto
+
+Marcel de Jong,               D,  1.74 m,  b. 15 Oct 1986 @ New Market
 
 Atiba Hutchinson,             M,  1.87 m,  b. 8 Feb 1983 @ North York
 
