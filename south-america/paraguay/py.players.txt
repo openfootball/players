@@ -1,0 +1,84 @@
+=================================
+=  Paraguay
+
+Enso González,                F,  1.69 m,  b. 20 Jan 2005 @ Asunción
+Hugo Cuenca,                  M,  1.83 m,  b. 8 Jan 2005 @ Coronel Oviedo
+
+Julio Enciso,                 F,  1.77 m,  b. 23 Jan 2004 @ Caaguazú
+
+Diego González,               F,  1.77 m,  b. 7 Jan 2003 @ Alto Paraná
+Matías Segovia,               F,  1.65 m,  b. 4 Jan 2003 @ Caaguazú
+
+Diego Acosta,                 F,  1.75 m,  b. 12 Nov 2002 @ Minga Guazú
+
+Braian Ojeda,                 M,  1.72 m,  b. 27 Jun 2000 @ Itauguá
+Roberto Fernández,            D,  1.88 m,  b. 7 Jun 2000 @ Concepción
+Alexis Duarte,                D,  1.86 m,  b. 12 Mar 2000 @ Itauguá
+
+Isidro Pitta,                 F,  1.83 m,  b. 14 Aug 1999 @ Asunción
+
+Julio Villalba,               F,  1.74 m,  b. 17 Sep 1998 @ Ciudad del Este
+Santiago Arzamendia,          D,  1.72 m,  b. 5 May 1998 @ Wanda
+Sergio Díaz,                  M,  1.70 m,  b. 5 Mar 1998 @ Itauguá
+Blas Riveros,                 D,  1.78 m,  b. 3 Feb 1998 @ Itauguá
+Jorge Morel,                  M,  1.84 m,  b. 22 Jan 1998 @ Asunción
+
+Jesús Medina,                 F,  1.77 m,  b. 30 Apr 1997 @ Limpio
+
+Omar Alderete,                D,  1.87 m,  b. 26 Dec 1996 @ Asunción
+Adam Bareiro,                 F,  1.84 m,  b. 26 Jul 1996 @ Asunción
+Andrés Cubas,                 M,  1.65 m,  b. 22 May 1996 @ Aristóbulo del Valle
+Antonio Sanabria,             F,  1.80 m,  b. 4 Mar 1996 @ San Lorenzo
+
+Braian Samudio,               F,  1.80 m,  b. 23 Dec 1995 @ Ciudad del Este
+Walter González,              F,  1.85 m,  b. 21 May 1995 @ Doctor Juan León Mallorquín
+
+Mauro Caballero,              F,  1.80 m,  b. 8 Oct 1994 @ Asunción
+Robert Piris Da Motta,        M,  1.78 m,  b. 26 Jul 1994 @ Ciudad del Este
+Miguel Almirón,               M,  1.77 m,  b. 1 Feb 1994 @ Asunción
+
+Juan Manuel Iturbe,           F,  1.72 m,  b. 4 Jun 1993 @ Capital Federal
+Júnior Alonso,                D,  1.85 m,  b. 9 Feb 1993 @ Asunción
+
+Óscar Romero,                 M,  1.76 m,  b. 4 Jul 1992 @ Fernando de la Mora
+
+Fabián Balbuena,              D,  1.88 m,  b. 23 Aug 1991 @ Ciudad del Este
+Federico Santander,           F,  1.87 m,  b. 4 Jun 1991 @ San Lorenzo
+
+Dario Lezcano,                F,  1.78 m,  b. 30 Jun 1990 @ Asunción
+
+Edgar Benítez,                F,  1.76 m,  b. 8 Nov 1987 @ Repatriación
+Raúl Bobadilla,               F,  1.80 m,  b. 18 Jun 1987 @ Formosa
+
+Víctor Cáceres,               M,  1.82 m,  b. 25 Mar 1985 @ Asunción
+
+Lucas Barrios,                F,  1.87 m,  b. 13 Nov 1984 @ San Fernando
+Néstor Ortigoza,              M,  1.80 m,  b. 7 Oct 1984 @ San Antonio de Padua
+Edgar Barreto,                M,  1.80 m,  b. 15 Jul 1984 @ Asunción
+
+Nelson Haedo Valdez,          F,  1.78 m,  b. 28 Nov 1983 @ Caaguazú
+Óscar Cardozo,                F,  1.93 m,  b. 20 May 1983 @ Campo 9
+
+Cristian Riveros,             M,  1.79 m,  b. 16 Oct 1982 @ J.A. Saldivar
+Antolín Alcaraz,              D,  1.84 m,  b. 30 Jul 1982 @ Roque Gonzalez
+Aureliano Torres,             D,  1.80 m,  b. 16 Jun 1982 @ Luque
+
+Jonathan Santana,             M,  1.81 m,  b. 19 Oct 1981 @ Capital Federal
+Roque Santa Cruz,             F,  1.87 m,  b. 16 Aug 1981 @ Asunción
+Diego Barreto,                G,  1.82 m,  b. 16 Jul 1981 @ Lambaré
+Roberto Gamarra,              F,  1.74 m,  b. 11 May 1981 @ Caazapá
+
+Paulo da Silva,               D,  1.81 m,  b. 1 Feb 1980 @ Asunción
+
+Júlio César Cáceres,          D,  1.81 m,  b. 5 Oct 1979 @ San José de los Aroyos
+Darío Verón,                  D,  1.81 m,  b. 16 Jul 1979 @ San Ignacio
+Enrique Vera,                 M,  1.79 m,  b. 10 Mar 1979 @ Asunción
+
+Claudio Morel Rodríguez,      D,  1.75 m,  b. 2 Feb 1978 @ Asunción
+
+Carlos Bonet,                 D,  1.76 m,  b. 2 Oct 1977 @ Asunción
+Justo Villar,                 G,  1.80 m,  b. 30 Jun 1977 @ Cerrito
+
+Aldo Bobadilla,               G,  1.94 m,  b. 20 Apr 1976 @ Pedro Juan Caballero
+
+Denis Caniza,                 D,  1.74 m,  b. 29 Aug 1974 @ Bella Vista

@@ -1,0 +1,98 @@
+=================================
+=  North Macedonia
+
+Edin Ajradinoski,             G,  1.90 m,  b. 13 May 2005 @ Macerata
+Feta Fetai,                   M,  1.72 m,  b. 11 May 2005 @ Skopje
+
+Dashmir Elezi,                F,  1.74 m,  b. 21 Nov 2004 @ Tetovo
+Ardijan Chilafi,              M,  1.89 m,  b. 3 Jun 2004 @ Skopje
+
+Reshat Ramadani,              M,  1.85 m,  b. 30 Jun 2003 @ Tetovo
+Filip Trpchevski,             F,  1.87 m,  b. 4 May 2003 @ Gothenburg
+Berat Kalkan,                 F,  1.71 m,  b. 2 Mar 2003 @ İstanbul
+
+Arda Kurtulan,                F,  1.83 m,  b. 19 Nov 2002 @ İstanbul
+Luka Stankovski,              M,  1.90 m,  b. 2 Sep 2002 @ Skopje
+Mario Ilievski,               F,  1.81 m,  b. 24 Apr 2002 @ Skopje
+
+Besir Baftijar,               F,  1.69 m,  b. 31 Aug 2001 @ Ústí nad Labem
+David Tosevski,               F,  1.86 m,  b. 16 Jul 2001 @ Skopje
+Agon Elezi,                   M,  1.78 m,  b. 1 Mar 2001 @ Skopje
+Jovan Manev,                  D,  1.88 m,  b. 25 Jan 2001 @ Kocani
+
+Filip Antovski,               D,  1.76 m,  b. 24 Nov 2000 @ Kumanovo
+Darko Churlinov,              M,  1.80 m,  b. 11 Jul 2000 @ Skopje
+Ali Adem,                     M,  1.75 m,  b. 1 Jun 2000 @ Skopje
+Adrian Hajdari,               D,  1.72 m,  b. 31 May 2000 @ Gostivar
+Enis Fazlagikj,               M,  1.88 m,  b. 27 Mar 2000 @ Veles
+
+Jani Atanasov,                M,  1.87 m,  b. 31 Oct 1999 @ Strumica
+Eljif Elmas,                  M,  1.82 m,  b. 24 Sep 1999 @ Skopje
+Andrej Lazarov,               M,  1.82 m,  b. 8 Sep 1999 @ Kočani
+Nikola Serafimov,             D,  1.93 m,  b. 11 Aug 1999 @ Skopje
+Bojan Miovski,                F,  1.89 m,  b. 24 Jun 1999 @ Štip
+Agron Rufati,                 D,  1.83 m,  b. 6 Apr 1999 @ Zagreb
+Todor Todoroski,              D,  1.80 m,  b. 26 Feb 1999 @ Prilep
+Dimitar Mitrovski,            F,  1.76 m,  b. 28 Jan 1999 @ Skopje
+
+Risto Jankov,                 G,  1.90 m,  b. 5 Sep 1998 @ Skopje
+Daniel Milovanovikj,          M,  1.80 m,  b. 10 Aug 1998 @ Kavadarci
+Milan Ristovski,              F,  1.88 m,  b. 8 Apr 1998 @ Skopje
+Davor Zdravkovski,            M,  1.80 m,  b. 20 Mar 1998 @ Skopje
+
+Valon Ethemi,                 F,  1.79 m,  b. 3 Oct 1997 @ Palatica
+Stefan Jevtoski,              M,  1.80 m,  b. 2 Sep 1997 @ Skopje
+Matej Cvetanoski,             D,  1.76 m,  b. 18 Aug 1997 @ Skopje
+Remzifaik Selmani,            M,  1.80 m,  b. 5 May 1997 @ Tetovo
+Vlatko Stojanovski,           F,  1.86 m,  b. 23 Apr 1997 @ Delčevo
+
+Taulant Seferi,               F,  1.77 m,  b. 15 Nov 1996 @ Kumanovo
+Ennur Totre,                  M,  1.82 m,  b. 29 Oct 1996 @ Tetovo
+Dorian Babunski,              F,  1.85 m,  b. 29 Aug 1996 @ Skopje
+Daniel Krezić,                F,  1.86 m,  b. 3 May 1996 @ Backa
+Tihomir Kostadinov,           M,  1.79 m,  b. 4 Mar 1996 @ Valandovo
+
+Enis Bardhi,                  M,  1.69 m,  b. 2 Jul 1995 @ Skopje
+Darko Velkovski,              D,  1.87 m,  b. 21 Jun 1995 @ Skopje
+Damjan Shishkovski,           G,  1.93 m,  b. 18 Mar 1995 @ Skopje
+Dejan Iliev,                  G,  1.95 m,  b. 25 Feb 1995 @ Strumica
+Daniel Avramovski,            M,  1.84 m,  b. 20 Feb 1995 @ Skopje
+Gjoko Zajkov,                 D,  1.86 m,  b. 10 Feb 1995 @ Skopje
+Marjan Radeski,               M,  1.80 m,  b. 10 Feb 1995 @ Prilep
+
+Visar Musliu,                 D,  1.86 m,  b. 13 Nov 1994 @ Gostivar
+Boban Nikolov,                M,  1.80 m,  b. 28 Jul 1994 @ Stip
+Valmir Nafiu,                 M,  1.75 m,  b. 23 Apr 1994 @ Tetovo
+David Babunski,               M,  1.76 m,  b. 1 Mar 1994 @ Skopje
+Egzon Bejtulai,               D,  1.86 m,  b. 7 Jan 1994 @ Tetovo
+
+Stole Dimitrievski,           G,  1.88 m,  b. 23 Dec 1993 @ Kumanovo
+Dejan Stojanović,             G,  1.96 m,  b. 19 Jul 1993 @ Feldkirch
+
+Eldis Bajrami,                M,  1.72 m,  b. 12 Dec 1992 @ Vienna
+Aleksandar Trajkovski,        F,  1.79 m,  b. 5 Sep 1992 @ Skopje
+Stefan Ashkovski,             M,  1.79 m,  b. 24 Feb 1992 @ Skopje
+Ezgjan Alioski,               D,  1.72 m,  b. 12 Feb 1992 @ Prilep
+Stefan Ristovski,             D,  1.81 m,  b. 12 Feb 1992 @ Skopje
+
+Arijan Ademi,                 M,  1.85 m,  b. 29 May 1991 @ Šibenik
+David Mitov Nilsson,          G,  1.90 m,  b. 12 Jan 1991 @ Norrköping
+
+Kire Ristevski,               D,  1.88 m,  b. 22 Oct 1990 @ Bitola
+Stefan Spirovski,             M,  1.85 m,  b. 23 Aug 1990 @ Bitola
+Ferhan Hasani,                M,  1.88 m,  b. 18 Jun 1990 @ Tetovo
+Ilija Nestorovski,            F,  1.82 m,  b. 12 Mar 1990 @ Prilep
+Nikola Jakimovski,            M,  1.87 m,  b. 26 Feb 1990 @ Kriva Palanka
+
+Mirko Ivanovski,              F,  1.80 m,  b. 31 Oct 1989 @ Bitola
+
+Krste Velkoski,               F,  1.78 m,  b. 20 Feb 1988 @ Vevčani
+
+Ivan Tričkovski,              F,  1.82 m,  b. 18 Apr 1987 @ Skopje
+Adis Jahović,                 F,  1.90 m,  b. 18 Mar 1987 @ Skopje
+
+Vanče Šikov,                  D,  1.92 m,  b. 19 Jul 1985 @ Kavadarci
+
+Goran Pandev,                 F,  1.84 m,  b. 27 Jul 1983 @ Strumica
+
+Nikolce Noveski,              D,  1.90 m,  b. 28 Apr 1979 @ Bitola

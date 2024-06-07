@@ -1,0 +1,623 @@
+=================================
+=  Denmark
+
+Mikkel Kristensen,            D,  - ,      b. 5 Jul 2006
+Lucas Høgsberg,               D,  - ,      b. 23 Jun 2006
+Oscar Schwartau,              F,  - ,      b. 17 May 2006
+Laurits Pedersen,             M,  - ,      b. 25 Jan 2006
+Jonathan Asp Jensen,          M,  - ,      b. 14 Jan 2006
+Anders Noshe,                 F,  - ,      b. 9 Jan 2006
+Tobias Slotsager,             D,  - ,      b. 1 Jan 2006 @ Morud
+
+Kasper Kiilerich,             G,  1.98 m,  b. 22 Nov 2005
+Sabil Hansen,                 D,  - ,      b. 14 Nov 2005
+Andreas Tomaselli,            D,  - ,      b. 13 Oct 2005
+Thomas Jørgensen,             M,  1.84 m,  b. 30 Sep 2005
+Adam Daghim,                  M,  - ,      b. 28 Sep 2005
+Viggo Andersen,               G,  - ,      b. 20 Aug 2005
+Andreas Dithmer,              G,  1.98 m,  b. 1 Aug 2005 @ Copenhagen
+Markus Jensen,                F,  - ,      b. 15 Jul 2005
+Aske Andresen,                G,  1.94 m,  b. 12 Jul 2005 @ Aarhus
+Marius Holst Papuga,          M,  - ,      b. 13 May 2005
+Oskar Boesen,                 M,  - ,      b. 5 May 2005
+Julius Beck,                  M,  1.78 m,  b. 27 Apr 2005 @ Haderslev
+Gustav Fraulo,                M,  1.83 m,  b. 23 Apr 2005 @ Odense
+Conrad Harder,                F,  - ,      b. 7 Apr 2005
+Anders Ravn,                  G,  1.93 m,  b. 2 Apr 2005
+Bertram Kvist,                M,  1.72 m,  b. 19 Mar 2005
+Zidan Sertdemir,              M,  1.82 m,  b. 4 Feb 2005 @ Ishøj
+Villads Nielsen,              D,  1.82 m,  b. 29 Jan 2005
+Theo Sander,                  G,  1.89 m,  b. 8 Jan 2005
+Magnus Munck,                 M,  - ,      b. 5 Jan 2005
+Valdemar Byskov,              M,  1.80 m,  b. 5 Jan 2005 @ Herning
+Emil Højlund,                 F,  - ,      b. 4 Jan 2005
+Oscar Højlund,                M,  - ,      b. 4 Jan 2005
+
+Jeppe Corfitzen,              F,  1.79 m,  b. 29 Dec 2004
+Jakob Vester,                 M,  - ,      b. 28 Dec 2004 @ Viby
+Oliver Amby,                  M,  - ,      b. 9 Dec 2004
+Alexander Lyng,               F,  1.77 m,  b. 26 Nov 2004 @ Copenhagen
+Patrick Dorgu,                D,  1.75 m,  b. 26 Oct 2004 @ Copenhagen
+Max Ejdum,                    M,  - ,      b. 15 Oct 2004
+Oliver Ross,                  F,  - ,      b. 10 Oct 2004
+Lauge Sandgrav,               M,  1.84 m,  b. 16 Sep 2004 @ Virum
+Gustav Christensen,           F,  1.78 m,  b. 7 Sep 2004 @ Ikast
+Magnus Bøttker,               F,  - ,      b. 11 Aug 2004
+Magnus Nielsen,               G,  - ,      b. 4 Aug 2004
+Filip Versterre,              G,  - ,      b. 29 Jul 2004
+Sanders Ngabo,                M,  1.74 m,  b. 4 Jul 2004 @ Sundby
+Tobias Storm,                 D|M,- ,      b. 4 Jul 2004
+Filip Bundgaard,              F,  1.76 m,  b. 3 Jul 2004 @ Randers
+William Clem,                 M,  - ,      b. 20 Jun 2004 @ Vedbæk
+Tobias Lauritsen,             M,  - ,      b. 18 Jun 2004 @ Randers
+Silas Andersen,               M,  1.85 m,  b. 13 Jun 2004
+Asbjørn Bøndergaard,          F,  - ,      b. 5 May 2004
+Jeffrey Adjei-Broni,          F,  - ,      b. 15 Apr 2004
+Mathias Sauer,                M,  - ,      b. 2 Apr 2004 @ Rønde
+Kaare Barslund,               D,  1.82 m,  b. 23 Mar 2004 @ Helsinge
+Mikkel Fischer,               D,  - ,      b. 23 Mar 2004
+Charly Horneman,              F,  - ,      b. 21 Mar 2004
+Charly Nouck,                 F,  1.84 m,  b. 21 Mar 2004 @ Odense
+William Kaastrup,             D,  1.78 m,  b. 21 Mar 2004 @ Kokkedal
+Gustav Mortensen,             D,  - ,      b. 19 Mar 2004
+Jeppe Kjær,                   F,  1.74 m,  b. 1 Mar 2004 @ Horsens
+Pontus Texel,                 D,  1.82 m,  b. 27 Feb 2004 @ Copenhagen
+Jonathan Hutters,             G,  - ,      b. 21 Feb 2004
+Jacob Andersen,               D,  - ,      b. 26 Jan 2004
+Mads Enggård,                 M,  - ,      b. 20 Jan 2004
+Johan Meyer,                  D,  1.92 m,  b. 5 Jan 2004
+
+Marinus Larsen,               M,  - ,      b. 30 Dec 2003
+Isak Jensen,                  F,  1.85 m,  b. 23 Dec 2003 @ Odense
+Oscar Fraulo,                 M,  1.80 m,  b. 6 Dec 2003 @ Odense
+Henrik Meister,               F,  1.91 m,  b. 17 Nov 2003
+Jakob Breum,                  F,  1.78 m,  b. 17 Nov 2003 @ Odense
+Aske Adelgaard,               D,  - ,      b. 10 Nov 2003
+Tammer Bany,                  F,  1.77 m,  b. 19 Oct 2003
+Mathias Andreasen,            F,  - ,      b. 8 Oct 2003
+Victor Bak,                   D,  1.79 m,  b. 3 Oct 2003 @ Copenhagen
+Lucas Ziegler,                G,  1.84 m,  b. 28 Sep 2003 @ Kalundborg
+Adam Vendelbo,                F,  - ,      b. 19 Sep 2003
+Anders Hoff,                  G,  1.88 m,  b. 4 Sep 2003 @ Horsens
+William Osula,                F,  - ,      b. 4 Aug 2003
+Wahid Faghir,                 F,  1.85 m,  b. 29 Jul 2003 @ Vejle
+Alexander Busch,              D,  - ,      b. 25 Jul 2003
+Marcus Baggesen,              D,  1.77 m,  b. 17 Jul 2003 @ Hjørring
+Victor Lind,                  F,  1.76 m,  b. 12 Jul 2003 @ Løgumkloster
+Zean Dalügge,                 F,  1.85 m,  b. 11 Jul 2003 @ Tønder
+Tobias Haahr Jakobsen,        G,  - ,      b. 3 Jul 2003
+Maurits Kjærgaard,            M,  1.89 m,  b. 26 Jun 2003 @ Herlev
+Frederik Ihler,               F,  - ,      b. 25 Jun 2003
+Elias Jelert,                 D,  - ,      b. 12 Jun 2003
+Oliver Provstgaard,           D,  - ,      b. 4 Jun 2003
+Tobias Bach,                  M,  1.94 m,  b. 4 Jun 2003 @ Brendstrup
+Sofus Berger,                 M,  - ,      b. 2 Jun 2003
+Andreas Nibe,                 M,  - ,      b. 31 May 2003
+Valdemar Lund,                D,  1.93 m,  b. 28 May 2003 @ Sundby
+Valdemar Lund Jensen,         D,  - ,      b. 28 May 2003 @ Sundby
+Jeppe Kilden Grøn,            M,  - ,      b. 28 Apr 2003
+Lucas Hey,                    D,  - ,      b. 13 Apr 2003
+Tochi Chukwuani,              M,  1.79 m,  b. 24 Mar 2003 @ Hvidovre
+Victor Dedes,                 D,  - ,      b. 20 Mar 2003
+Andreas Bredahl,              F,  - ,      b. 13 Mar 2003
+Christian Wagner,             F,  1.86 m,  b. 13 Mar 2003
+Christian Gammelgaard,        F,  - ,      b. 10 Mar 2003
+William Bøving,               M|F,1.78 m,  b. 1 Mar 2003 @ Copenhagen
+Jeppe Kudsk,                  D,  1.88 m,  b. 25 Feb 2003
+Christian Friedrich,          D,  1.87 m,  b. 15 Feb 2003
+Casper Winther,               M,  - ,      b. 11 Feb 2003
+Frederik Heiselberg,          F,  - ,      b. 11 Feb 2003 @ Lyne
+Christoffer Ravn,             D,  - ,      b. 9 Feb 2003
+Luca Kjerrumgaard,            F,  - ,      b. 9 Feb 2003 @ Odense
+Mika Biereth,                 F,  - ,      b. 8 Feb 2003 @ Lambeth
+Rasmus Højlund,               F,  1.92 m,  b. 4 Feb 2003 @ Copenhagen
+Sebastian Kristensen,         D,  - ,      b. 4 Feb 2003
+Gustav Grubbe,                D,  1.81 m,  b. 27 Jan 2003 @ Odense
+Andreas Gülstorff,            G,  - ,      b. 26 Jan 2003
+Christian Rasmussen,          F,  1.84 m,  b. 19 Jan 2003 @ Lyngby
+Filip Panjeskovic,            D,  - ,      b. 16 Jan 2003
+Eskild Dall,                  F,  - ,      b. 8 Jan 2003 @ Aalborg
+
+Mads Søndergaard,             M,  - ,      b. 26 Dec 2002
+Victor Kristiansen,           D,  1.81 m,  b. 16 Dec 2002 @ Copenhagen
+Noah Bischof,                 F,  1.85 m,  b. 7 Dec 2002 @ Feldkirch
+Anton Gaaei,                  D,  1.83 m,  b. 19 Nov 2002 @ Viborg
+Oliver Børsting,              F,  - ,      b. 30 Aug 2002
+Karl Leth,                    F,  - ,      b. 22 Aug 2002
+Laurs Skjellerup,             F,  1.95 m,  b. 12 Aug 2002 @ Mariagerfjord
+Robin Østrøm,                 D,  1.88 m,  b. 9 Aug 2002 @ Copenhagen
+Mads Hansen,                  F,  1.88 m,  b. 28 Jul 2002
+Daniel Obbekjær,              D,  1.94 m,  b. 16 Jul 2002
+Alexander Lind,               F,  1.86 m,  b. 26 Jun 2002
+Aral Şimşir,                  F,  1.69 m,  b. 19 Jun 2002 @ Køge
+Mads Borchers,                F,  1.88 m,  b. 18 Jun 2002 @ Sønderborg
+Frederik Christensen,         M,  1.80 m,  b. 7 Jun 2002 @ Ikast
+Marius Elvius,                D|F,1.85 m,  b. 1 Jun 2002 @ Taarnby
+David Kruse,                  M,  1.84 m,  b. 15 May 2002 @ Uldum
+Kristoffer Lund,              D,  1.84 m,  b. 14 May 2002 @ Kerteminde
+Marcus Hannesbo,              M,  - ,      b. 11 May 2002
+Anosike Ementa,               F,  2.02 m,  b. 3 May 2002
+Anders Dahl,                  M,  - ,      b. 1 May 2002
+Oliver Bjerrum Jensen,        M,  - ,      b. 30 Apr 2002
+Jonathan Ægidius,             G,  - ,      b. 22 Apr 2002
+Jonas Jensen-Abbew,           D,  1.87 m,  b. 20 Apr 2002 @ Herlev
+Filip Jörgensen,              G,  1.90 m,  b. 16 Apr 2002 @ Lomma
+Mathias Kvistgaarden,         F,  - ,      b. 15 Apr 2002 @ Birkerød
+Frederik Carstensen,          F,  1.78 m,  b. 9 Apr 2002 @ Virklund
+Lucas Lykkegaard,             D,  - ,      b. 5 Apr 2002
+Noah Back Crone,              F,  1.84 m,  b. 23 Mar 2002 @ Gentofte
+Niclas Holm Pedersen,         M,  - ,      b. 15 Mar 2002 @ Engesvang
+Mathias Brems,                D,  1.91 m,  b. 13 Mar 2002
+Oscar Fuglsang,               D,  1.73 m,  b. 12 Mar 2002 @ Aarhus
+Mathias Madsen,               D,  1.75 m,  b. 10 Mar 2002
+Oliver Sørensen,              M,  1.80 m,  b. 10 Mar 2002 @ Nørre Aaby
+Mads Frederiksen,             D,  1.80 m,  b. 7 Mar 2002
+Andreas Jungdal,              G,  1.91 m,  b. 22 Feb 2002 @ Singapore
+Lasse Haysen,                 M,  - ,      b. 22 Feb 2002
+Tobias Bech,                  M|F,1.89 m,  b. 19 Feb 2002 @ Møldrup
+Casper Gedsted,               D,  - ,      b. 4 Feb 2002
+Tobias Stagaard,              D,  - ,      b. 29 Jan 2002
+Mathias Voss,                 D,  - ,      b. 26 Jan 2002
+Magnus Lysholm,               D,  1.98 m,  b. 18 Jan 2002 @ Hvidovre
+Thomas Thiesson Kristensen,   D,  1.98 m,  b. 17 Jan 2002 @ Galten
+Yousef Salech,                F,  1.95 m,  b. 17 Jan 2002 @ Hellerup
+Hans Høllsberg,               M,  - ,      b. 3 Jan 2002
+
+Frederik Elkær,               D,  - ,      b. 8 Dec 2001
+Fredrik Carlsen,              M,  1.93 m,  b. 1 Dec 2001 @ Vesterbro
+Tobias Sommer,                M,  - ,      b. 27 Nov 2001
+Oliver Villadsen,             D,  1.71 m,  b. 16 Nov 2001 @ Sønderborg
+Alexander Hjælmhof,           M,  - ,      b. 9 Nov 2001
+Jonathan Fischer,             G,  1.97 m,  b. 9 Nov 2001 @ Ballerup
+Thomas Gundelund,             D,  1.78 m,  b. 6 Nov 2001 @ Skive
+Emeka Nnamani,                F,  1.78 m,  b. 4 Nov 2001 @ Rødovre
+Mads Winther,                 D,  - ,      b. 20 Oct 2001
+Jannick Liburd,               M,  - ,      b. 26 Sep 2001
+Mads Larsen,                  M,  1.83 m,  b. 20 Sep 2001 @ Esbjerg
+Alexander Jensen,             M,  1.80 m,  b. 24 Aug 2001
+Max Fenger,                   F,  1.82 m,  b. 7 Aug 2001 @ Roskilde
+Marcus Bundgaard,             G,  1.97 m,  b. 5 Aug 2001
+Pelle Mattsson,               M,  1.81 m,  b. 4 Aug 2001
+Arman Taranis,                F,  1.80 m,  b. 30 Jul 2001 @ Haderslev
+Nicolas Hansen,               G,  - ,      b. 10 Jul 2001
+Tobias Klysner,               M|F,- ,      b. 3 Jul 2001
+Jacob Steen Christensen,      M,  1.80 m,  b. 25 Jun 2001 @ Copenhagen
+Rasmus Nissen,                F,  - ,      b. 25 Jun 2001
+Mads Steenberg,               D,  - ,      b. 22 Jun 2001
+Mikkel Lassen,                D,  1.81 m,  b. 19 Jun 2001 @ Odder
+Nikolas Dyhr,                 D,  1.77 m,  b. 18 Jun 2001 @ Horsens
+Oliver Bundgaard,             D,  1.82 m,  b. 15 Jun 2001 @ Randers
+Daniel Gadegaard Andersen,    G,  1.91 m,  b. 31 May 2001
+Albert Grønbæk Erlykke,       M,  1.85 m,  b. 23 May 2001 @ Risskov
+Marc Nielsen,                 D,  - ,      b. 16 May 2001
+Oliver Rimmen,                F,  1.70 m,  b. 7 May 2001 @ Odense
+Willads Delvin,               M,  - ,      b. 2 May 2001
+Christian Vestergaard,        D,  - ,      b. 26 Apr 2001
+Gustav Isaksen,               M,  1.78 m,  b. 19 Apr 2001 @ Hjerk
+Gustav Mogensen,              F,  1.90 m,  b. 19 Apr 2001 @ Pindstrup
+Thomas Christiansen,          D,  - ,      b. 19 Apr 2001
+Malthe Højholt,               M,  - ,      b. 16 Apr 2001
+Mads Hansen,                  M,  1.74 m,  b. 10 Apr 2001 @ Haderslev
+Morten Frendrup,              M,  1.78 m,  b. 7 Apr 2001 @ Holbæk
+Valdemar Birksø,              G,  - ,      b. 17 Mar 2001 @ Brande
+Anis Slimane,                 M,  1.88 m,  b. 16 Mar 2001 @ Copenhagen
+Andreas Foged,                G,  - ,      b. 12 Mar 2001
+Tobias Anker,                 D,  1.94 m,  b. 6 Mar 2001 @ Herning
+Andreas Pyndt,                M,  1.75 m,  b. 4 Mar 2001 @ Allerød
+Jeppe Pedersen,               M,  1.81 m,  b. 3 Mar 2001 @ Hirtshals
+Mads Bidstrup,                M,  - ,      b. 25 Feb 2001 @ Køge
+Thor Höholt,                  D,  1.77 m,  b. 22 Feb 2001 @ Asnæs
+Muamer Brajanac,              M,  1.89 m,  b. 15 Feb 2001 @ Kolding
+Roni Arabaci,                 F,  1.76 m,  b. 14 Feb 2001 @ Copenhagen
+Tarik Ibrahimagic,            M,  1.84 m,  b. 23 Jan 2001 @ Odense
+Andreas Søndergaard,          G,  1.88 m,  b. 17 Jan 2001 @ Nyborg
+Mathias Ross,                 D,  1.90 m,  b. 15 Jan 2001 @ Aalborg
+Christoffer Petersen,         D,  1.73 m,  b. 13 Jan 2001 @ Randers
+Frederik Winther,             D,  1.86 m,  b. 4 Jan 2001 @ Gentofte
+Jagvir Singh Sidhu,           F,  - ,      b. 4 Jan 2001
+Mikkel Kaufmann,              F,  1.90 m,  b. 3 Jan 2001 @ Hjørring
+
+Magnus Kaastrup,              M,  1.76 m,  b. 28 Dec 2000 @ Skanderborg
+Kasper Høgh,                  F,  1.86 m,  b. 6 Dec 2000 @ Randers
+Jacob Trenskow,               M,  - ,      b. 26 Nov 2000
+Matt O'Riley,                 M,  1.87 m,  b. 21 Nov 2000 @ Hounslow
+Hans Christian Bernat,        G,  1.92 m,  b. 13 Nov 2000
+Adam Sørensen,                D,  1.65 m,  b. 11 Nov 2000 @ Herlev
+Oliver Sonne,                 D,  1.84 m,  b. 10 Nov 2000 @ Herfølge
+Rasmus Carstensen,            D,  1.83 m,  b. 10 Nov 2000 @ Virklund
+Anders Klynge,                M,  - ,      b. 14 Oct 2000
+Mathias Jørgensen,            F,  1.85 m,  b. 20 Sep 2000 @ Hundested
+Magnus Anbo,                  D,  1.85 m,  b. 18 Sep 2000 @ Risskov
+Emil Frederiksen,             M,  1.80 m,  b. 5 Sep 2000 @ Viborg
+Oliver Olsen,                 D,  - ,      b. 13 Aug 2000
+Mads Hermansen,               G,  1.84 m,  b. 11 Jul 2000 @ Odense
+Mikkel Damsgaard,             M,  1.80 m,  b. 3 Jul 2000 @ Roskilde
+Søren Tengstedt,              F,  1.87 m,  b. 30 Jun 2000 @ Nibe
+Joachim Rothmann,             F,  1.82 m,  b. 29 Jun 2000 @ Greve
+Marcus Lindberg,              M,  1.83 m,  b. 27 Jun 2000
+Magnus Warming,               F,  1.88 m,  b. 8 Jun 2000 @ Nykøbing
+Sebastian Jørgensen,          M,  1.83 m,  b. 8 Jun 2000 @ Silkeborg
+Casper Tengstedt,             F,  - ,      b. 1 Jun 2000
+Felix Winther,                M,  1.85 m,  b. 18 May 2000
+Nikolai Baden Frederiksen,    F,  1.84 m,  b. 18 May 2000 @ Odense
+Jakob Kiilerich,              D,  1.90 m,  b. 10 May 2000
+Anders Bærtelsen,             D,  1.90 m,  b. 9 May 2000 @ Støvring
+Lukas Klitten,                D,  1.93 m,  b. 1 May 2000 @ Aalborg
+Oliver Klitten,               F,  - ,      b. 1 May 2000
+Emil Kornvig,                 M,  1.89 m,  b. 28 Apr 2000 @ Søborg
+Sebastian Hausner,            D,  1.80 m,  b. 11 Apr 2000 @ Horsens
+Japhet Sery Larsen,           D,  1.78 m,  b. 10 Apr 2000
+Anton Skipper,                D,  1.94 m,  b. 31 Mar 2000
+Lucas Lund Pedersen,          G,  1.95 m,  b. 19 Mar 2000 @ Bruunshåb
+Nicolas Madsen,               M,  1.90 m,  b. 17 Mar 2000 @ Odense
+Benjamin Hvidt,               M,  1.89 m,  b. 12 Mar 2000
+Jesper Lindstrøm,             M,  1.82 m,  b. 29 Feb 2000 @ Taastrup
+Marcus Gudmann,               D,  1.83 m,  b. 27 Feb 2000 @ Ledøje-Smørum
+Nikolas Nartey,               M,  1.85 m,  b. 22 Feb 2000 @ Bagsværd
+Victor Jensen,                M,  1.75 m,  b. 8 Feb 2000 @ Copenhagen
+Peter Bjur,                   M,  1.80 m,  b. 2 Feb 2000
+Mikkel Juhl,                  D,  1.78 m,  b. 20 Jan 2000 @ Præstø
+
+Andreas Skov Olsen,           F,  1.88 m,  b. 29 Dec 1999 @ Hillerød
+Peter Buch Christiansen,      F,  1.75 m,  b. 2 Dec 1999
+Frederik Alves,               D,  1.89 m,  b. 8 Nov 1999 @ Hvidovre
+Kasper Jørgensen,             D,  - ,      b. 7 Nov 1999
+Lasse Sørensen,               M,  1.85 m,  b. 21 Oct 1999 @ Vejen
+Andreas Poulsen,              D,  1.88 m,  b. 13 Oct 1999 @ Ikast
+Mads Kikkenborg,              G,  1.97 m,  b. 7 Oct 1999
+Lucas Chang-Andersen,         G,  - ,      b. 6 Oct 1999
+Leonel Montano,               M,  1.90 m,  b. 2 Oct 1999
+Elias Sørensen,               F,  1.89 m,  b. 18 Sep 1999 @ Sjunkeby
+Nicklas Strunck Jakobsen,     M,  1.85 m,  b. 17 Aug 1999 @ Ølstykke
+Kasper Kristensen,            G,  1.91 m,  b. 4 Aug 1999 @ Aarhus
+Victor Torp,                  M,  1.78 m,  b. 30 Jul 1999 @ Lemvig
+Mads Frøkjær-Jensen,          M,  1.86 m,  b. 29 Jul 1999 @ Copenhagen
+Jeppe Okkels,                 F,  1.83 m,  b. 27 Jul 1999 @ Silkeborg
+Kasper Lunding,               M,  1.78 m,  b. 17 Jul 1999 @ Aarhus
+Mileta Rajović,               F,  1.89 m,  b. 17 Jul 1999
+Niklas Vesterlund,            D,  1.85 m,  b. 6 Jul 1999 @ Copenhagen
+Morten Hjulmand,              M,  1.85 m,  b. 25 Jun 1999 @ Kastrup
+Mads Roerslev,                D,  1.85 m,  b. 24 Jun 1999 @ Copenhagen
+Frederik Rieper,              D,  - ,      b. 19 Jun 1999
+Carlo Holse,                  F,  1.75 m,  b. 2 Jun 1999 @ Copenhagen
+Alexander Molberg,            D,  1.88 m,  b. 24 May 1999 @ Odense
+Magnus Kofoed Andersen,       M,  1.75 m,  b. 10 May 1999 @ Hundested
+Luka Račić,                   D,  1.87 m,  b. 8 May 1999 @ Greve
+Adam Jakobsen,                F,  1.85 m,  b. 7 Apr 1999 @ Frederiksberg
+Mikkel Hyllegaard,            F,  1.73 m,  b. 3 Apr 1999
+Jens Odgaard,                 F,  1.88 m,  b. 31 Mar 1999 @ Hillerød
+Oliver Christensen,           G,  1.90 m,  b. 22 Mar 1999 @ Kerteminde
+Simon Graves Jensen,          D,  1.91 m,  b. 22 Mar 1999 @ Holstebro
+Lukas Jensen,                 G,  1.98 m,  b. 18 Mar 1999 @ Helsingør
+Julius Eskesen,               M,  1.75 m,  b. 16 Mar 1999 @ Odense
+Magnus Mattsson,              M|F,1.74 m,  b. 25 Feb 1999 @ Marstal
+Alexander Ammitzbøll,         F,  1.87 m,  b. 17 Feb 1999 @ Skanderborg
+Magnus Wørts,                 D,  1.85 m,  b. 8 Feb 1999
+Jonas Wind,                   F,  1.90 m,  b. 7 Feb 1999 @ Hvidovre
+Younes Bakiz,                 F,  - ,      b. 5 Feb 1999
+Oskar Snorre,                 G,  1.90 m,  b. 26 Jan 1999 @ Copenhagen
+Andreas Bruus,                D|F,1.83 m,  b. 16 Jan 1999
+Mads Bech Sørensen,           D,  1.85 m,  b. 7 Jan 1999 @ Horsens
+Wessam Abou Ali,              F,  1.86 m,  b. 4 Jan 1999 @ Aalborg
+
+Lukas Engel,                  D|M,1.80 m,  b. 14 Dec 1998
+Victor Nelsson,               D,  1.85 m,  b. 14 Oct 1998 @ Hornbæk
+Thomas Santos,                D|M,1.78 m,  b. 10 Oct 1998 @ Silkeborg
+Jacob Bruun Larsen,           F,  1.83 m,  b. 19 Sep 1998 @ Lyngby
+Morten Olsen,                 F,  - ,      b. 30 Aug 1998
+Oliver Ottesen,               G,  1.84 m,  b. 22 Aug 1998
+Oscar Hedvall,                G,  1.95 m,  b. 9 Aug 1998
+Nicklas Røjkjær,              M,  1.79 m,  b. 24 Jul 1998 @ Gødvad
+Daniel Anyembe,               D,  1.86 m,  b. 22 Jul 1998 @ Esbjerg
+Oliver Kjærgaard,             M,  1.84 m,  b. 11 Jul 1998 @ Kokkedal
+Jacob Pryts,                  G,  1.90 m,  b. 25 Jun 1998
+Emil Riis Jakobsen,           F,  1.90 m,  b. 24 Jun 1998 @ Hobro
+Peter Therkildsen,            M,  1.90 m,  b. 13 Jun 1998 @ Solrød Strand
+Gustav Marcussen,             M,  1.78 m,  b. 12 Jun 1998
+Magnus Westergaard,           M,  1.87 m,  b. 27 May 1998 @ Frederiksberg
+Marco Ramkilde,               F,  1.87 m,  b. 9 May 1998 @ Aalborg
+Anders Dreyer,                M,  1.72 m,  b. 2 May 1998 @ Bramming
+Joël Kabongo,                 D,  1.90 m,  b. 5 Apr 1998
+Oskar Buur,                   D,  1.78 m,  b. 31 Mar 1998 @ Skanderborg
+Mark Brink,                   M,  1.77 m,  b. 15 Mar 1998 @ Esbjerg
+Jacob Lungi Sørensen,         M,  1.84 m,  b. 3 Mar 1998 @ Esbjerg
+Nikolai Laursen,              F,  1.83 m,  b. 19 Feb 1998 @ Vallensbæk
+Peter Vindahl Jensen,         G,  1.94 m,  b. 16 Feb 1998 @ Helsingør
+Malte Amundsen,               D,  1.79 m,  b. 11 Feb 1998 @ Herfølge
+Marcus Bobjerg,               G,  1.88 m,  b. 26 Jan 1998 @ Horsens
+Mads Emil Madsen,             M,  1.83 m,  b. 14 Jan 1998 @ Gammel Rye
+Joel Felix,                   D,  1.85 m,  b. 13 Jan 1998
+Martin Frese,                 D|F,1.79 m,  b. 4 Jan 1998
+
+Mads Juel Andersen,           D,  1.94 m,  b. 27 Dec 1997 @ Albertslund
+Alexander Munksgaard,         D,  1.81 m,  b. 13 Dec 1997
+Alexander Bah,                D|F,1.83 m,  b. 9 Dec 1997 @ Årslev
+Justin Shaibu,                F,  1.81 m,  b. 28 Oct 1997 @ Copenhagen
+Kasper Dolberg,               F,  1.87 m,  b. 6 Oct 1997 @ Silkeborg
+Kristian Kirkegaard,          M,  1.74 m,  b. 2 Oct 1997 @ Skibet
+Magnus Christensen,           M,  1.82 m,  b. 20 Aug 1997 @ Frederikshavn
+Rasmus Vinderslev,            M,  1.84 m,  b. 12 Aug 1997
+Rezan Corlu,                  M,  1.70 m,  b. 7 Aug 1997 @ Glostrup
+Ahmed Iljazovski,             D,  1.85 m,  b. 31 Jul 1997
+Daniel Iversen,               G,  1.93 m,  b. 19 Jul 1997 @ Gørding
+Rasmus Kristensen,            D,  1.86 m,  b. 11 Jul 1997 @ Brande
+Louka Prip,                   M,  1.82 m,  b. 29 Jun 1997 @ Hvidovre
+Mikkel Duelund,               M,  1.80 m,  b. 29 Jun 1997 @ Aarhus
+Mads Døhr Thychosen,          D,  1.78 m,  b. 27 Jun 1997 @ Vejle
+Jacob Rasmussen,              D,  1.90 m,  b. 28 May 1997 @ Odense
+Joakim Mæhle,                 D,  1.84 m,  b. 20 May 1997 @ Østervrå
+Frederik Lauenborg,           M,  1.81 m,  b. 18 May 1997
+Mikkel Kallesøe,              D|M,1.93 m,  b. 20 Apr 1997 @ Lemvig
+Jonas Dakir,                  G,  1.91 m,  b. 18 Apr 1997
+Kevin Tshiembe,               D,  1.85 m,  b. 31 Mar 1997 @ Copenhagen
+Frederik Ibsen,               G,  1.94 m,  b. 28 Mar 1997 @ Roskilde
+Andreas Skovgaard,            D,  1.84 m,  b. 27 Mar 1997 @ Hagendrup
+Andreas Smed,                 M,  1.82 m,  b. 19 Mar 1997
+Rasmus Nicolaisen,            D,  1.90 m,  b. 16 Mar 1997 @ Aulum
+Jacob Buus,                   D,  1.77 m,  b. 7 Mar 1997
+Sammy Skytte,                 M,  1.90 m,  b. 20 Feb 1997 @ Silkeborg
+Kristian Riis,                D,  1.89 m,  b. 17 Feb 1997 @ Haderslev
+Anders Hagelskjær,            D,  1.92 m,  b. 16 Feb 1997 @ Herning
+Anders Hagelskjærv,           D,  1.92 m,  b. 16 Feb 1997 @ Herning
+Sebastian Grønning,           F,  1.88 m,  b. 3 Feb 1997 @ Aalborg
+Stefan Gartenmann,            D,  1.85 m,  b. 2 Feb 1997 @ Roskilde
+Rasmus Thellufsen,            M,  1.85 m,  b. 9 Jan 1997 @ Sæby
+
+Jens Stage,                   M,  1.87 m,  b. 8 Nov 1996 @ Aarhus
+Magnus Jensen,                D,  1.95 m,  b. 27 Oct 1996 @ Kolding
+Sebastian Koch,               F,  1.86 m,  b. 11 Oct 1996
+Benjamin Schubert,            G,  1.84 m,  b. 22 Sep 1996
+Nicolai Vallys,               M,  1.89 m,  b. 4 Sep 1996 @ Copenhagen
+Mads Pedersen,                D,  1.78 m,  b. 1 Sep 1996 @ Hørsholm
+Adrian Kappenberger,          G,  1.94 m,  b. 25 Aug 1996 @ Nærum
+Mads Kaalund,                 M,  1.82 m,  b. 16 Aug 1996 @ Copenhagen
+Tobias Mølgaard,              D,  1.82 m,  b. 22 Jul 1996 @ Gudum
+Jonas Bager,                  D,  1.81 m,  b. 18 Jul 1996 @ Hadsten
+Frederik Brandhof,            M,  1.82 m,  b. 5 Jul 1996 @ Skive
+Marco Lund,                   D,  1.83 m,  b. 30 Jun 1996 @ Ansager
+Jens Thomasen,                M,  1.81 m,  b. 25 Jun 1996 @ Sanderum
+Philip Billing,               M,  1.93 m,  b. 11 Jun 1996 @ Copenhagen
+Oliver Abildgaard,            M,  1.75 m,  b. 10 Jun 1996 @ Hasseris
+Asger Sørensen,               D,  1.91 m,  b. 5 Jun 1996 @ Silkeborg
+Joachim Andersen,             D,  1.92 m,  b. 31 May 1996 @ Frederiksberg
+Robert Skov,                  F,  1.85 m,  b. 20 May 1996 @ Silkeborg
+Andreas Christensen,          D,  1.88 m,  b. 10 Apr 1996 @ Allerød
+Jannik Pohl,                  F,  1.83 m,  b. 6 Apr 1996 @ Hjørring
+Philip Rejnhold,              D,  1.77 m,  b. 21 Mar 1996 @ Copenhagen
+Marcus Mathisen,              D|M,1.85 m,  b. 27 Feb 1996 @ Albertslund
+Rasmus Lauritsen,             D,  1.87 m,  b. 27 Feb 1996 @ Brande
+Ken Gipson,                   D,  1.78 m,  b. 24 Feb 1996 @ Ludwigsburg
+Mathias Haarup,               D,  1.78 m,  b. 10 Feb 1996 @ Havndal
+Jonas Gemmer,                 M,  1.83 m,  b. 31 Jan 1996
+Gustav Dahl,                  M,  1.81 m,  b. 21 Jan 1996 @ Silkeborg
+Mikkel Pedersen,              M,  1.82 m,  b. 7 Jan 1996 @ Hobro
+Marcus Ingvartsen,            F,  1.86 m,  b. 4 Jan 1996 @ Farum
+Mathias Jensen,               M,  1.80 m,  b. 1 Jan 1996 @ Horsens
+
+Jeppe Simonsen,               D|F,1.84 m,  b. 21 Nov 1995 @ Kolding
+Edgar Babayan,                M,  1.80 m,  b. 28 Oct 1995 @ Hamburg
+Malte Kiilerich,              D,  1.88 m,  b. 16 Oct 1995
+Mikkel Maigaard,              M|F,1.80 m,  b. 20 Sep 1995 @ Varde
+Nicolai Flø,                  G,  1.90 m,  b. 9 Aug 1995
+Pierre-Emile Højbjerg,        M,  1.85 m,  b. 5 Aug 1995 @ Copenhagen
+Mathias Hebo Rasmussen,       M,  1.90 m,  b. 2 Aug 1995 @ Hvidovre
+Nicolai Clausen,              D,  - ,      b. 10 Jun 1995
+Matti Olsen,                  D,  - ,      b. 7 Jun 1995
+Svenn Crone,                  D,  1.83 m,  b. 20 May 1995
+Tobias Salquist,              D,  1.90 m,  b. 18 May 1995 @ Ikast
+Alexander Nybo,               G,  1.89 m,  b. 12 Apr 1995 @ Randers
+Nicklas Mouritsen,            D,  1.84 m,  b. 15 Mar 1995 @ Copenhagen
+Emiliano Marcondes,           M,  1.83 m,  b. 9 Mar 1995 @ Hvidovre
+Mikkel Desler,                D,  1.87 m,  b. 19 Feb 1995 @ Assens
+Frederik Børsting,            M,  1.83 m,  b. 13 Feb 1995 @ Klarup
+Mathias Greve,                M,  1.86 m,  b. 11 Feb 1995 @ Langeskov
+Jens Martin Gammelby,         D,  1.93 m,  b. 5 Feb 1995 @ Ikast
+Pione Sisto,                  M,  1.71 m,  b. 4 Feb 1995 @ Kampala
+Thomas Hagelskjær,            G,  1.88 m,  b. 4 Feb 1995 @ Copenhagen
+Andrew Hjulsager,             M,  1.77 m,  b. 15 Jan 1995 @ Amager
+Daniel Arrocha,               D,  1.83 m,  b. 9 Jan 1995
+
+Mads Aaquist,                 M,  1.76 m,  b. 31 Dec 1994 @ Herlev
+Philip Zinckernagel,          F,  1.75 m,  b. 16 Dec 1994 @ Copenhagen
+Casper Højer Nielsen,         D,  1.83 m,  b. 20 Nov 1994 @ Copenhagen
+Jacob Laursen,                D,  1.79 m,  b. 17 Nov 1994 @ Arden
+Tonni Adamsen,                F,  1.80 m,  b. 15 Nov 1994
+Patrick da Silva,             D,  1.72 m,  b. 23 Oct 1994 @ Kalundborg
+Lucas Jensen,                 M,  1.85 m,  b. 8 Oct 1994 @ Holstebro
+Mikael Uhre,                  F,  1.82 m,  b. 30 Sep 1994 @ Skovlund
+Frederik Holst,               M,  1.77 m,  b. 24 Sep 1994 @ Copenhagen
+Lucas Andersen,               M,  1.85 m,  b. 13 Sep 1994 @ Aalborg
+Lasse Vigen Christensen,      M,  1.78 m,  b. 15 Aug 1994 @ Esbjerg
+Kristian Pedersen,            D,  1.89 m,  b. 4 Aug 1994 @ Ringsted
+Younes Namli,                 M,  1.80 m,  b. 20 Jun 1994 @ Copenhagen
+Yussuf Poulsen,               F,  1.93 m,  b. 15 Jun 1994 @ Copenhagen
+Viktor Fischer,               M|F,1.80 m,  b. 9 Jun 1994 @ Aarhus
+Casper Nielsen,               M,  1.82 m,  b. 29 Apr 1994 @ Esbjerg
+Aleksandar Stanković,         G,  1.87 m,  b. 26 Apr 1994 @ Horsens
+Patrick Olsen,                M,  1.78 m,  b. 23 Apr 1994 @ Tårnby
+Patrick Banggaard,            D,  1.96 m,  b. 4 Apr 1994 @ Copenhagen
+Mads Nielsen,                 D,  1.97 m,  b. 26 Mar 1994
+Andreas Maxsø,                D,  1.85 m,  b. 18 Mar 1994 @ Hvidovre
+Andreas Oggesen,              M,  1.82 m,  b. 18 Mar 1994 @ Viborg
+Christian Nørgaard,           M,  1.86 m,  b. 10 Mar 1994 @ Copenhagen
+Andreas Hansen,               G,  1.88 m,  b. 3 Mar 1994
+Pascal Gregor,                D,  1.85 m,  b. 18 Feb 1994 @ Copenhagen
+Benjamin Hansen,              D,  1.90 m,  b. 7 Feb 1994 @ Bogense
+Benjamin Tiedemann Hansen,    D,  1.90 m,  b. 7 Feb 1994 @ Bogense
+Kenneth Zohore,               F,  1.94 m,  b. 31 Jan 1994 @ Copenhagen
+Riza Durmisi,                 D,  1.68 m,  b. 8 Jan 1994 @ Ishøj
+
+Jakob Bonde,                  M,  1.86 m,  b. 29 Dec 1993
+Emil Nielsen,                 F,  1.75 m,  b. 8 Nov 1993 @ Holbæk
+Jakob Busk,                   G,  1.89 m,  b. 12 Sep 1993 @ Copenhagen
+Bjarke Jacobsen,              M,  1.90 m,  b. 21 Aug 1993 @ Helsinge
+Nicolai Poulsen,              M,  1.76 m,  b. 5 Aug 1993 @ Helsted
+Thor Lange,                   D,  1.83 m,  b. 4 Aug 1993 @ Hillerød
+Søren Reese,                  D,  1.80 m,  b. 29 Jul 1993 @ Ingstrup
+Ayo Simon Okosun,             M,  1.97 m,  b. 21 Jul 1993 @ Copenhagen
+André Rømer,                  M,  1.86 m,  b. 18 Jul 1993 @ Køge
+Frans Dhia Putros,            D,  1.81 m,  b. 14 Jul 1993 @ Aarhus
+Lukas Lerager,                M,  1.88 m,  b. 12 Jul 1993 @ Gladsaxe
+Alexander Ludwig,             D,  1.84 m,  b. 30 Jun 1993 @ Copenhagen
+Mathias Kristensen,           F,  2.01 m,  b. 24 Jun 1993
+Jannich Storch,               G,  - ,      b. 12 May 1993 @ Helsinge
+Emil Berggreen,               F,  1.94 m,  b. 10 May 1993 @ Helsingør
+Nikolaj Thomsen,              M,  1.80 m,  b. 8 May 1993 @ Skagen
+Kasper Pedersen,              D,  1.85 m,  b. 21 Apr 1993 @ Aabybro
+Mads Lauritsen,               D,  1.95 m,  b. 14 Apr 1993
+Christian Jakobsen,           M,  1.89 m,  b. 27 Mar 1993 @ Copenhagen
+Andreas Cornelius,            F,  1.93 m,  b. 16 Mar 1993 @ Copenhagen
+Frederik Gytkjær,             M,  1.80 m,  b. 16 Mar 1993 @ Roskilde
+Jeppe Tverskov,               D,  1.85 m,  b. 12 Mar 1993 @ Copenhagen
+Frederik Tingager,            D,  1.98 m,  b. 22 Feb 1993 @ Holbæk
+Kasper Larsen,                D,  1.90 m,  b. 25 Jan 1993 @ Odense
+Uffe Bech,                    M|F,1.70 m,  b. 13 Jan 1993 @ Copenhagen
+Jens Jønsson,                 M,  1.82 m,  b. 10 Jan 1993 @ Aarhus
+Nicolai Brock-Madsen,         F,  1.92 m,  b. 9 Jan 1993 @ Randers
+
+Jeppe Andersen,               M,  1.78 m,  b. 6 Dec 1992
+Alexander Scholz,             D,  1.89 m,  b. 24 Oct 1992 @ Copenhagen
+Tobias Thomsen,               F,  1.82 m,  b. 19 Oct 1992
+Can Dursun,                   G,  1.93 m,  b. 3 Oct 1992
+Jonas Knudsen,                D,  1.85 m,  b. 16 Sep 1992 @ Esbjerg
+Jores Okore,                  D,  1.83 m,  b. 11 Aug 1992 @ Abidjan
+Jeff Mensah,                  M,  1.77 m,  b. 10 Aug 1992 @ Viborg
+Christian Sørensen,           D,  1.79 m,  b. 6 Aug 1992
+Frederik Rønnow,              G,  1.88 m,  b. 4 Aug 1992 @ Horsens
+Jannik Vestergaard,           D,  1.97 m,  b. 3 Aug 1992 @ Copenhagen
+Daniel Pedersen,              M,  1.85 m,  b. 27 Jul 1992 @ Silkeborg
+Magnus Fredslund,             D,  - ,      b. 26 Jul 1992
+Frederik Due,                 G,  1.87 m,  b. 18 Jul 1992 @ Køge
+Vito Hammershøy-Mistrati,     M,  1.77 m,  b. 15 Jun 1992 @ Copenhagen
+Mathias Gehrt,                M,  1.74 m,  b. 7 Jun 1992 @ Copenhagen
+Kasper Enghardt,              D,  1.86 m,  b. 27 May 1992
+Jakob Haugaard,               G,  1.97 m,  b. 1 May 1992 @ Sundby
+Frederik Sørensen,            D,  1.93 m,  b. 14 Apr 1992 @ Roskilde
+Ryan Johnson Laursen,         D,  1.85 m,  b. 14 Apr 1992 @ Los Angeles
+David Jensen,                 G,  1.95 m,  b. 25 Mar 1992 @ Hillerød
+Nicolai Boilesen,             D,  1.85 m,  b. 16 Feb 1992 @ Ballerup
+Christian Eriksen,            M,  1.82 m,  b. 14 Feb 1992 @ Middelfart
+Dario Dumić,                  D,  1.88 m,  b. 30 Jan 1992 @ Sarajevo
+Bror Blume,                   M,  1.77 m,  b. 22 Jan 1992 @ Copenhagen
+Rasmus Falk,                  M,  1.77 m,  b. 15 Jan 1992
+
+Kasper Kusk,                  M,  1.80 m,  b. 10 Nov 1991 @ Aalborg
+Rune Frantsen,                D,  1.85 m,  b. 15 Oct 1991
+Erik Sviatchenko,             D,  1.84 m,  b. 4 Oct 1991 @ Viborg
+Mikkel Kirkeskov,             D,  1.85 m,  b. 5 Sep 1991 @ Aarhus
+Thomas Delaney,               M,  1.82 m,  b. 3 Sep 1991 @ Frederiksberg
+Marcel Rømer,                 M,  1.81 m,  b. 8 Aug 1991 @ Køge
+Mathias Wichmann,             M,  1.80 m,  b. 6 Aug 1991 @ Gug
+Bashkim Kadrii,               F,  1.76 m,  b. 9 Jul 1991 @ Copenhagen
+Rasmus Thelander,             D,  1.91 m,  b. 9 Jul 1991 @ Copenhagen
+Bjørn Paulsen,                D,  1.90 m,  b. 2 Jul 1991 @ Augustenborg
+Nicolai Geertsen,             D,  1.85 m,  b. 19 Jun 1991 @ Fredensborg
+Martin Braithwaite,           F,  1.79 m,  b. 5 Jun 1991 @ Esbjerg
+Jeppe Grønning,               M,  1.80 m,  b. 24 May 1991
+Kevin Mensah,                 M,  1.74 m,  b. 15 May 1991 @ Viborg
+Nicklas Helenius,             F,  1.95 m,  b. 8 May 1991 @ Svenstrup
+Jesper Lauridsen,             D,  1.80 m,  b. 27 Mar 1991 @ Herning
+Nicolai Larsen,               G,  1.90 m,  b. 9 Mar 1991 @ Herlev
+Mathias Nielsen,              M,  1.87 m,  b. 2 Mar 1991 @ Herfølge
+Jens Stryger Larsen,          D,  1.80 m,  b. 21 Feb 1991 @ Sakskøbing
+Alexander Juel Andersen,      D,  1.88 m,  b. 29 Jan 1991 @ Viborg
+Jakob Ahlmann,                D,  1.79 m,  b. 18 Jan 1991 @ Aalborg
+Nicolai Jørgensen,            F,  1.90 m,  b. 15 Jan 1991 @ Fredericia
+Daniel Høegh,                 D,  1.90 m,  b. 6 Jan 1991 @ Odense
+
+Mikkel Rygaard,               M|F,1.79 m,  b. 25 Dec 1990 @ Nykøbing Falster
+Erik Marxen,                  D,  1.85 m,  b. 2 Dec 1990 @ Middelfart
+Simon Makienok,               F,  2.01 m,  b. 21 Nov 1990 @ Næstved
+Marc Dal Hende,               D,  1.78 m,  b. 6 Nov 1990 @ Dragør
+Troels Kløve,                 M,  1.77 m,  b. 23 Oct 1990
+Jakob Ankersen,               M,  1.82 m,  b. 22 Sep 1990 @ Esbjerg
+Peter Ankersen,               D,  1.80 m,  b. 22 Sep 1990 @ Esbjerg
+Mads Fenger,                  D,  1.85 m,  b. 10 Sep 1990 @ Aarhus
+Oliver Lund,                  D,  1.85 m,  b. 21 Aug 1990
+André Riel,                   F,  1.78 m,  b. 20 Aug 1990 @ Valby
+Martin Hansen,                G,  1.88 m,  b. 15 Jun 1990 @ Glostrup
+Anders Christiansen,          M,  1.74 m,  b. 8 Jun 1990 @ Copenhagen
+Christian Gytkjær,            F,  1.85 m,  b. 6 May 1990 @ Roskilde
+Mart Lieder,                  F,  1.80 m,  b. 1 May 1990 @ Purmerend
+Kristoffer Pallesen,          D,  1.75 m,  b. 30 Apr 1990
+Mathias Zanka Jørgensen,      D,  1.91 m,  b. 23 Apr 1990 @ Copenhagen
+Jonas Thorsen,                M,  1.85 m,  b. 19 Apr 1990 @ Viby
+Andreas Albers,               F,  1.92 m,  b. 23 Mar 1990 @ Skive
+Mads Albæk,                   M,  1.82 m,  b. 14 Jan 1990 @ Roskilde
+
+Anders Jacobsen,              F,  1.81 m,  b. 27 Oct 1989 @ Odense
+Mads Greve,                   D,  1.95 m,  b. 12 Sep 1989 @ Middelfart
+Ronnie Schwartz,              F,  1.83 m,  b. 29 Aug 1989 @ Ulsted
+Tonny Brochmann,              M,  1.81 m,  b. 11 Aug 1989 @ Horsens
+Marc Pedersen,                D,  1.83 m,  b. 31 Jul 1989 @ Give
+Henrik Dalsgaard,             D,  1.89 m,  b. 27 Jul 1989 @ Roum
+Patrick Mortensen,            F,  1.90 m,  b. 13 Jul 1989 @ Copenhagen
+Daniel Stenderup,             D,  1.86 m,  b. 31 May 1989 @ Copenhagen
+Daniel Wass,                  D|M,1.81 m,  b. 31 May 1989 @ Gladsaxe
+Brian Hamalainen,             D,  1.76 m,  b. 29 May 1989 @ Lillerød
+Simon Kjær,                   D,  1.90 m,  b. 26 Mar 1989 @ Horsens
+Kian Hansen,                  D,  1.84 m,  b. 3 Mar 1989 @ Grindsted
+Pierre Kanstrup,              D,  1.86 m,  b. 21 Feb 1989 @ Storkøbenhavn
+Jonas Lössl,                  G,  1.95 m,  b. 1 Feb 1989 @ Kolding
+Jesper Juelsgaard,            D,  1.82 m,  b. 26 Jan 1989 @ Spjald
+
+Jacob Schoop,                 M,  1.76 m,  b. 23 Dec 1988
+Mikkel Andersen,              G,  1.95 m,  b. 17 Dec 1988 @ Herlev
+Andreas Bjelland,             D,  1.88 m,  b. 11 Jul 1988 @ Fredensborg
+Janus Drachmann,              M,  1.79 m,  b. 11 May 1988 @ Frederikssund
+Matti Lund Nielsen,           M,  1.84 m,  b. 8 May 1988 @ Odense
+Nicklas Bendtner,             F,  1.92 m,  b. 16 Jan 1988 @ Copenhagen
+Michael Lumb,                 D,  1.77 m,  b. 9 Jan 1988 @ Aarhus
+Lasse Nielsen,                D,  1.85 m,  b. 8 Jan 1988 @ Aalborg
+
+Nicklas Pedersen,             F,  1.87 m,  b. 10 Oct 1987 @ Køge
+Thomas Enevoldsen,            M,  1.81 m,  b. 27 Jun 1987 @ Aalborg
+Søren Rieks,                  M,  1.84 m,  b. 7 Apr 1987 @ Esbjerg
+Martin Spelmann,              M,  1.74 m,  b. 21 Mar 1987 @ Copenhagen
+Lasse Vibe,                   F,  1.81 m,  b. 22 Feb 1987 @ Tranbjerg
+
+Kasper Schmeichel,            G,  1.85 m,  b. 5 Nov 1986 @ Copenhagen
+Tobias Mikkelsen,             M,  1.78 m,  b. 18 Sep 1986 @ Helsingør
+Lasse Fosgaard,               D,  1.81 m,  b. 6 Sep 1986 @ Rødovre
+Lasse Schøne,                 M,  1.77 m,  b. 27 May 1986 @ Glostrup
+Michael Tørnæs,               G,  1.87 m,  b. 8 Jan 1986 @ Herlev
+
+Johan Absalonsen,             M,  1.78 m,  b. 16 Sep 1985 @ Flemløse
+Niki Zimling,                 M,  1.75 m,  b. 19 Apr 1985 @ Tårnby
+Jesper Hansen,                G,  1.88 m,  b. 31 Mar 1985 @ Frederikssund
+William Kvist,                M,  1.84 m,  b. 24 Feb 1985 @ Odder
+David Ousted,                 G,  1.92 m,  b. 1 Feb 1985 @ Kildebrønde
+
+Daniel Agger,                 D,  1.87 m,  b. 12 Dec 1984 @ Hvidovre
+Simon Poulsen,                D,  1.84 m,  b. 7 Oct 1984 @ Sønderborg
+Anders Lindegaard,            G,  1.93 m,  b. 13 Apr 1984 @ Odense
+
+Mikkel Beckmann,              M,  1.83 m,  b. 24 Oct 1983 @ Lundtoft
+Thomas Mikkelsen,             G,  1.90 m,  b. 27 Aug 1983
+Jakob Poulsen,                M,  1.82 m,  b. 7 Jul 1983 @ Varde
+Michael Krohn-Dehli,          M,  1.71 m,  b. 6 Jun 1983 @ Copenhagen
+Leon Andreasen,               M,  1.88 m,  b. 23 Apr 1983 @ Aidt Thorsø
+Thomas Kahlenberg,            M,  1.83 m,  b. 20 Mar 1983 @ Hvidovre
+
+Peter Nymann Mikkelsen,       D,  1.79 m,  b. 22 Aug 1982 @ Lynge
+
+Stephan Andersen,             G,  1.90 m,  b. 26 Nov 1981 @ Copenhagen
+Søren Larsen,                 F,  1.94 m,  b. 6 Sep 1981 @ Køge
+Michael Silberbauer,          M,  1.83 m,  b. 7 Jul 1981 @ Støvring
+Patrick Mtiliga,              D,  1.72 m,  b. 28 Jan 1981 @ Copenhagen
+
+Christian Poulsen,            M,  1.82 m,  b. 28 Feb 1980 @ Asnaes
+
+Lars Jacobsen,                D,  1.81 m,  b. 20 Sep 1979 @ Odense
+Per Krøldrup,                 D,  1.87 m,  b. 31 Jul 1979 @ Farso
+Daniel Jensen,                M,  1.80 m,  b. 25 Jun 1979 @ Copenhagen
+
+Dennis Rommedahl,             M,  1.77 m,  b. 22 Jul 1978 @ Copenhagen
+Jesper Christiansen,          G,  1.93 m,  b. 24 Apr 1978 @ Roskilde
+
+Jesper Grønkjær,              M,  1.87 m,  b. 12 Aug 1977 @ Nuuk
+
+Jon Dahl Tomasson,            F,  1.80 m,  b. 29 Aug 1976 @ Roskilde
+Thomas Sørensen,              G,  1.96 m,  b. 12 Jun 1976 @ Fredericia
+
+Martin Jørgensen,             M,  1.80 m,  b. 6 Oct 1975 @ Orstad

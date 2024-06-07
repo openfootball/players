@@ -1,0 +1,593 @@
+=================================
+=  Croatia
+
+Dukan Ahmeti,                 M,  1.81 m,  b. 26 Oct 2007 @ Pula
+Anes Huskić,                  M,  - ,      b. 5 Mar 2007 @ Zagreb
+Luka Vušković,                D,  1.93 m,  b. 24 Feb 2007 @ Split
+Lovro Kitin,                  D,  - ,      b. 3 Feb 2007 @ Zadar
+Noa Mikić,                    D,  1.75 m,  b. 27 Jan 2007 @ Varaždin
+
+Josip Cundeković,             G,  - ,      b. 13 Oct 2006 @ Zagreb
+Dominik Babić,                M,  - ,      b. 5 Sep 2006 @ Bjelovar
+Zvonimir Josić,               D,  - ,      b. 29 Aug 2006 @ Zagreb
+Sven Lesjak,                  M,  - ,      b. 23 Aug 2006
+Filip Živković,               F,  - ,      b. 1 Aug 2006 @ Osijek
+Bartol Kardum,                F,  - ,      b. 18 Jul 2006 @ Zagreb
+Frano Vlašić,                 F,  1.78 m,  b. 25 Feb 2006 @ Dubrovnik
+Anton Matković,               F,  1.91 m,  b. 19 Feb 2006 @ Slavonski Brod
+Ivan Bikić,                   D,  - ,      b. 12 Feb 2006 @ Split
+Domagoj Mamić,                G,  - ,      b. 5 Feb 2006 @ Varaždin
+Noa Skoko,                    M,  1.77 m,  b. 12 Jan 2006 @ Wythenshawe
+
+Ivan Canjuga,                 M,  - ,      b. 30 Nov 2005 @ Varaždin
+Ivan Cvetko,                  D,  - ,      b. 23 Nov 2005 @ Zagreb
+Viktor Damjanić,              D,  - ,      b. 3 Nov 2005 @ Šibenik
+Adriano Jagušić,              M,  1.74 m,  b. 6 Sep 2005 @ Koprivnica
+Luka Ćurković,                D,  1.77 m,  b. 26 Aug 2005 @ Zagreb
+Luka Vrbančić,                M,  - ,      b. 4 Jul 2005 @ Zagreb
+Roko Brajković,               M,  1.76 m,  b. 3 Jul 2005 @ Split
+Djuro-Giulio Djekić,          D,  - ,      b. 30 Jun 2005 @ Zagreb
+Filip Krušelj,                D,  1.82 m,  b. 30 May 2005 @ Koprivnica
+Marin Žgomba,                 M,  - ,      b. 30 May 2005 @ Pula
+Lovro Nezirović,              F,  - ,      b. 27 May 2005 @ Zagreb
+Lovro Zvonarek,               M,  1.80 m,  b. 8 May 2005 @ Čakovec
+Krešimir Vrbanac,             D,  - ,      b. 24 Apr 2005 @ Našice
+Borna Buljan,                 G,  1.85 m,  b. 5 Apr 2005 @ Split
+Marko Cukon,                  M,  - ,      b. 1 Apr 2005 @ Pula
+Vito Težak,                   D,  - ,      b. 31 Mar 2005 @ Varaždin
+Filip Mažar,                  M,  - ,      b. 24 Mar 2005 @ Vukovar
+Eugen Ciban,                  G,  - ,      b. 4 Mar 2005 @ Zagreb
+Marin Prekodravac,            D,  - ,      b. 3 Mar 2005 @ Osijek
+Fabijan Krivak,               M,  1.82 m,  b. 24 Feb 2005 @ Zabok
+Luka Kapulica,                M,  - ,      b. 18 Jan 2005 @ Split
+Lorenzo Travaglia,            F,  - ,      b. 12 Jan 2005 @ Rijeka
+
+Niko Gajzler,                 F,  1.76 m,  b. 21 Dec 2004 @ Rijeka
+Nick Ocvirek,                 F,  1.79 m,  b. 12 Oct 2004 @ Zabok
+Mihael Stipić,                M,  - ,      b. 10 Oct 2004 @ Zagreb
+Tomislav Glavan,              F,  1.98 m,  b. 9 Oct 2004 @ Werribee
+Marin Šotiček,                M,  - ,      b. 18 Sep 2004 @ Novo Mesto
+Andro Babić,                  M,  1.81 m,  b. 8 Sep 2004 @ Rijeka
+Ante Vuković,                 G,  1.92 m,  b. 10 Aug 2004 @ Omiš
+Marko Brkljača,               M,  1.76 m,  b. 15 Jul 2004 @ Zadar
+Marino Kukoc,                 M,  1.82 m,  b. 11 Jul 2004 @ Split
+Luka Savatović,               G,  - ,      b. 6 Jul 2004 @ Zagreb
+Roko Vukušić,                 D,  1.87 m,  b. 3 Jul 2004 @ Šibenik
+Marko Batur,                  F,  - ,      b. 26 Jun 2004 @ Zagreb
+Vilim Krušlin,                D,  - ,      b. 20 Jun 2004 @ Zagreb
+Lenny Ilečić,                 F,  1.80 m,  b. 10 Jun 2004 @ Zagreb
+Matej Matić,                  D,  - ,      b. 5 Jun 2004 @ Zagreb
+Moreno Živković,              D,  1.84 m,  b. 22 May 2004 @ Zagreb
+Vanja Vukmanović,             F,  - ,      b. 20 May 2004 @ Zagreb
+Dominik Prpić,                D,  1.88 m,  b. 19 May 2004 @ Zagreb
+David Sim,                    D,  - ,      b. 13 May 2004 @ Zagreb
+Toni Silić,                   G,  1.96 m,  b. 7 May 2004 @ Split
+Luka Lukanić,                 M,  - ,      b. 3 May 2004 @ Zagreb
+Antonio Tikvić,               D,  1.95 m,  b. 21 Apr 2004 @ Hamburg
+Luka Brlek,                   M,  - ,      b. 21 Apr 2004 @ Zagreb
+Ino Vuko,                     D,  - ,      b. 22 Mar 2004 @ Split
+Fran Topić,                   F,  - ,      b. 20 Mar 2004 @ Zagreb
+Šimun Hrgović,                D,  1.77 m,  b. 20 Mar 2004 @ Vukovar
+Tin Sajko,                    G,  - ,      b. 7 Mar 2004 @ Koprivnica
+Marko Capan,                  M,  1.80 m,  b. 24 Feb 2004 @ Bjelovar
+Domagoj Bukvić,               D|F,1.74 m,  b. 22 Feb 2004 @ Osijek
+Ivan Kukavica,                D,  1.80 m,  b. 2 Feb 2004 @ Split
+Borna Lesjak,                 D,  - ,      b. 31 Jan 2004 @ Čakovec
+Grgo Huljić,                  D,  - ,      b. 30 Jan 2004 @ Zagreb
+Šimun Mikolčić,               M,  - ,      b. 21 Jan 2004 @ Vinkovci
+Gabriel Rukavina,             F,  1.80 m,  b. 16 Jan 2004 @ Zagreb
+Jakov Gurlica,                D,  - ,      b. 10 Jan 2004 @ Zadar
+
+Ante Crnac,                   F,  1.89 m,  b. 17 Dec 2003 @ Kutina
+Duje Dujmović,                D,  1.88 m,  b. 15 Dec 2003 @ Split
+Dominik Braun,                D,  1.90 m,  b. 3 Dec 2003 @ Zagreb
+Filip Ambroz,                 M,  1.84 m,  b. 1 Dec 2003 @ Gothenburg
+Gabriel Vidović,              M,  1.80 m,  b. 1 Dec 2003 @ Augsburg
+Marko Soldo,                  M,  1.75 m,  b. 22 Nov 2003 @ Ljubuski
+Antonio Maurić,               M,  - ,      b. 4 Nov 2003 @ Pula
+Karlo Lusavec,                M,  1.75 m,  b. 30 Oct 2003 @ Varaždin
+Luka Stojković,               M,  1.82 m,  b. 28 Oct 2003 @ Zagreb
+Ivan Cvijanović,              D,  1.85 m,  b. 9 Oct 2003 @ Zagreb
+Franjo Ivanović,              F,  1.85 m,  b. 1 Oct 2003 @ Schwaz
+Roko Šimić,                   F,  1.90 m,  b. 10 Sep 2003 @ Milan
+Niko Sigur,                   D,  1.76 m,  b. 9 Sep 2003 @ Burnaby
+Luka Bradarić,                D,  1.90 m,  b. 8 Sep 2003 @ Split
+Ivan Ćubelić,                 M,  1.84 m,  b. 2 Sep 2003 @ Split
+Niko Rak,                     M,  1.73 m,  b. 26 Jul 2003 @ Šibenik
+Roko Brajković,               M,  1.85 m,  b. 13 Jul 2003 @ Zadar
+Mateo Lisica,                 F,  1.78 m,  b. 9 Jul 2003 @ Pula
+Fran Vujnović,                D,  - ,      b. 23 Jun 2003 @ Zagreb
+Ivan Šaranić,                 F,  1.85 m,  b. 12 May 2003 @ Sisak
+Daniel Katić,                 D,  1.84 m,  b. 26 Apr 2003 @ Tešanj
+Vinko Skrbin,                 M,  - ,      b. 24 Apr 2003 @ Zagreb
+Mislav Zadro,                 G,  - ,      b. 22 Apr 2003 @ Zagreb
+Fran Žilinski,                D,  1.70 m,  b. 4 Apr 2003 @ Zagreb
+Josip Mihalić,                M,  1.78 m,  b. 4 Apr 2003 @ Karlovac
+Mario Matković,               D,  - ,      b. 2 Apr 2003 @ Zagreb
+Mauro Perković,               D,  1.85 m,  b. 22 Mar 2003 @ Pula
+Karlo Špeljak,                F,  1.76 m,  b. 14 Mar 2003 @ Zagreb
+Dominik Simčić,               M,  1.77 m,  b. 7 Mar 2003 @ Rijeka
+Gabriel Marušić,              D,  1.86 m,  b. 3 Mar 2003 @ Nuremberg
+Lukas Kačavenda,              M,  1.74 m,  b. 2 Mar 2003 @ Zagreb
+Emanuel Madjarić,             M,  1.84 m,  b. 26 Feb 2003 @ Čakovec
+Niko Domjanić,                F,  - ,      b. 19 Feb 2003 @ Stuttgart
+Martin Baturina,              M,  1.72 m,  b. 16 Feb 2003 @ Split
+Matija Frigan,                F,  1.85 m,  b. 11 Feb 2003 @ Rijeka
+Franko Kolić,                 G,  1.90 m,  b. 7 Feb 2003 @ Pula
+Tomislav Duvnjak,             M,  1.72 m,  b. 5 Feb 2003 @ Zagreb
+Viktor Kanižaj,               F,  - ,      b. 2 Feb 2003 @ Čakovec
+Luka Išlić,                   M,  1.80 m,  b. 27 Jan 2003 @ Samobor
+Ivan Krolo,                   M,  1.89 m,  b. 23 Jan 2003 @ Split
+Filip Brekalo,                D,  1.67 m,  b. 20 Jan 2003 @ Zagreb
+Luka Tomljenović,             D,  1.88 m,  b. 7 Jan 2003 @ Zürich
+Bartol Barišić,               F,  1.87 m,  b. 1 Jan 2003 @ Zagreb
+
+Dino Grozdanić,               D,  1.93 m,  b. 27 Dec 2002 @ Slavonski Brod
+Stipe Biuk,                   F,  1.82 m,  b. 26 Dec 2002 @ Split
+Ante Matej Jurić,             F,  - ,      b. 26 Nov 2002 @ Osijek
+Moris Valinčić,               D,  - ,      b. 17 Nov 2002 @ Rijeka
+Veldin Hodža,                 M,  1.83 m,  b. 15 Oct 2002 @ Rijeka
+Filip Mekić,                  D,  - ,      b. 13 Sep 2002 @ Slavonski Brod
+Luka Sučić,                   M,  1.85 m,  b. 8 Sep 2002 @ Linz
+Noa Vugrinec,                 F,  - ,      b. 13 Aug 2002 @ Varaždin
+Fran Tomek,                   M,  1.68 m,  b. 25 Jun 2002 @ Zagreb
+Luka Branšteter,              F,  1.83 m,  b. 19 Jun 2002 @ Slavonski Brod
+Filip Braut,                  D,  1.79 m,  b. 5 Jun 2002 @ Rijeka
+Jakov Anton Vasilj,           M,  1.81 m,  b. 2 Jun 2002 @ Zadar
+Nikola Čavlina,               G,  1.91 m,  b. 2 Jun 2002 @ Zagreb
+Uwem Alexander,               D,  1.90 m,  b. 20 May 2002 @ Zagreb
+Mario Veljača,                F,  1.90 m,  b. 2 May 2002 @ Split
+Tino Agić,                    D,  1.87 m,  b. 30 Apr 2002 @ Rijeka
+Jurica Jurčec,                F,  1.76 m,  b. 4 Apr 2002 @ Zabok
+Dino Rendić,                  G,  1.88 m,  b. 16 Mar 2002 @ Rijeka
+Novak Tepšić,                 D,  1.85 m,  b. 16 Mar 2002 @ Belgrade
+Gabriel Groznica,             M,  1.85 m,  b. 12 Mar 2002 @ Zagreb
+Dion Beljo,                   F,  1.95 m,  b. 1 Mar 2002 @ Zagreb
+Marin Ljubičić,               F,  1.83 m,  b. 28 Feb 2002 @ Split
+Ivica Vidović,                M,  - ,      b. 15 Feb 2002 @ Livno
+Patrik Jug,                   M,  - ,      b. 4 Feb 2002 @ Zagreb
+Luka Škaričić,                D,  1.90 m,  b. 28 Jan 2002 @ Split
+Joško Gvardiol,               D,  1.85 m,  b. 23 Jan 2002 @ Zagreb
+Mihael Rovis,                 D,  1.80 m,  b. 18 Jan 2002 @ Pula
+Leon Belcar,                  M,  1.86 m,  b. 4 Jan 2002 @ Varaždin
+Ivan Perić,                   G,  1.92 m,  b. 2 Jan 2002 @ Split
+
+Karlo Kralj,                  G,  1.90 m,  b. 23 Nov 2001 @ Zagreb
+Mario Vušković,               D,  1.89 m,  b. 16 Nov 2001 @ Split
+Lovro Banovec,                F,  - ,      b. 28 Oct 2001 @ Zagreb
+Marco Boras,                  D,  1.99 m,  b. 28 Sep 2001 @ Frankfurt am Main
+Roko Jurišić,                 D,  1.73 m,  b. 28 Sep 2001 @ Zagreb
+Marko Bulat,                  M,  1.79 m,  b. 26 Sep 2001 @ Šibenik
+Niko Janković,                M,  1.88 m,  b. 25 Aug 2001 @ Zagreb
+Ivan Brnić,                   M,  1.75 m,  b. 23 Aug 2001 @ Split
+Jan Paus-Kunšt,               G,  1.93 m,  b. 17 Aug 2001 @ Pula
+Filip Dujmović,               F,  1.73 m,  b. 4 Aug 2001 @ Zagreb
+Ivijan Svržnjak,              F,  1.80 m,  b. 2 Aug 2001 @ Koprivnica
+Kristijan Kopljar,            F,  - ,      b. 7 Jul 2001 @ Zagreb
+Marin Laušić,                 M,  1.87 m,  b. 26 Jun 2001 @ Split
+Antonio Djaković,             G,  1.90 m,  b. 12 Jun 2001 @ Šibenik
+Karlo Sentić,                 G,  1.93 m,  b. 3 Jun 2001 @ Dubrovnik
+Antonio Mionić,               M,  1.75 m,  b. 31 May 2001 @ Pula
+Karlo Žiger,                  G,  1.86 m,  b. 11 May 2001 @ Zagreb
+Phillip Čančar,               D,  1.86 m,  b. 11 May 2001 @ Wollongong
+Mario Čuić,                   M,  1.84 m,  b. 22 Apr 2001 @ Split
+Bruno Brajković,              D,  1.78 m,  b. 16 Apr 2001 @ Zadar
+Niko Galešić,                 D,  1.87 m,  b. 26 Mar 2001 @ Berlin
+Tino Blaž Lauš,               M,  1.83 m,  b. 17 Mar 2001 @ Split
+Toni Fruk,                    F,  1.74 m,  b. 9 Mar 2001 @ Našice
+Luka Liklin,                  M,  1.77 m,  b. 21 Feb 2001 @ Čakovec
+Karlo Perić,                  F,  - ,      b. 14 Feb 2001 @ Zagreb
+Nikola Soldo,                 D,  1.89 m,  b. 25 Jan 2001 @ Stuttgart
+Stipe Vulikić,                D,  1.95 m,  b. 23 Jan 2001 @ Split
+Edin Julardžija,              M,  1.73 m,  b. 21 Jan 2001 @ Zagreb
+Ivan Šarić,                   F,  1.77 m,  b. 16 Jan 2001 @ Split
+Adrian Liber,                 M,  1.71 m,  b. 9 Jan 2001 @ Zabok
+Antonio Marin,                M|F,1.82 m,  b. 9 Jan 2001 @ Zagreb
+
+Ivan Nekić,                   D,  1.84 m,  b. 24 Dec 2000 @ Zadar
+Jan Jurčec,                   M,  1.77 m,  b. 27 Nov 2000 @ Zagreb
+Dominik Oroz,                 D,  1.92 m,  b. 29 Oct 2000 @ Vienna
+Leon Sopić,                   D,  1.93 m,  b. 28 Oct 2000 @ Ahlen
+Roko Jureškin,                D,  1.88 m,  b. 29 Sep 2000 @ Split
+Marco Pašalić,                F,  1.78 m,  b. 14 Sep 2000 @ Karlsruhe
+Luka Zebec,                   D,  1.90 m,  b. 11 Sep 2000 @ Osijek
+Hrvoje Smolčić,               D,  1.85 m,  b. 17 Aug 2000 @ Gospić
+Ivan Smolčić,                 D,  1.81 m,  b. 17 Aug 2000 @ Gospić
+Filip Hlevnjak,               D,  1.86 m,  b. 5 Aug 2000 @ Koprivnica
+Michele Šego,                 F,  1.78 m,  b. 5 Aug 2000 @ Split
+Dominik Pavlek,               D,  - ,      b. 2 Aug 2000 @ Zagreb
+David Čolina,                 D,  1.74 m,  b. 19 Jul 2000 @ Zagreb
+Ivan Durdov,                  F,  1.94 m,  b. 17 Jul 2000 @ Split
+Krešimir Krizmanić,           D,  1.88 m,  b. 3 Jul 2000 @ Zagreb
+Roko Baturina,                F,  1.87 m,  b. 20 Jun 2000 @ Split
+Ante Šuto,                    F,  1.85 m,  b. 19 Jun 2000 @ Split
+Josip Mitrović,               F,  1.74 m,  b. 11 Jun 2000 @ Osijek
+Matej Vuk,                    F,  1.83 m,  b. 10 Jun 2000 @ Čakovec
+Stipe Radić,                  D,  1.91 m,  b. 10 Jun 2000 @ Split
+Jurica Pršir,                 M,  1.81 m,  b. 29 May 2000 @ Zagreb
+Dominik Rešetar,              F,  1.80 m,  b. 27 May 2000 @ Zabok
+Luka Jelenić,                 D,  1.87 m,  b. 24 May 2000 @ Zagreb
+Leon Kreković,                M|F,1.82 m,  b. 7 May 2000 @ Knin
+Ivan Dolček,                  F,  1.81 m,  b. 24 Apr 2000 @ Koprivnica
+Jan Paolo Debijadji,          G,  1.91 m,  b. 16 Apr 2000 @ Zagreb
+Denis Bušnja,                 M,  1.71 m,  b. 14 Apr 2000 @ Varaždin
+Ante Palaversa,               M,  1.87 m,  b. 6 Apr 2000 @ Split
+Josip Stanišić,               D,  1.86 m,  b. 2 Apr 2000 @ Munich
+Ivor Pandur,                  G,  1.85 m,  b. 25 Mar 2000 @ Rijeka
+Mateo Leš,                    D,  1.86 m,  b. 25 Mar 2000 @ Virovitica
+Jakov Karabatić,              D,  1.97 m,  b. 23 Mar 2000 @ Split
+Dino Kapitanović,             F,  1.67 m,  b. 16 Mar 2000 @ Zadar
+Josip Šutalo,                 D,  1.90 m,  b. 28 Feb 2000 @ Čapljina
+Silvio Goričan,               F,  1.76 m,  b. 27 Feb 2000 @ Zabok
+Mario Šubarić,                D,  1.85 m,  b. 22 Feb 2000 @ Našice
+Dominik Kotarski,             G,  1.85 m,  b. 10 Feb 2000 @ Zabok
+Marko Hanuljak,               M,  1.81 m,  b. 31 Jan 2000 @ Djakovo
+Bartol Franjić,               M,  1.86 m,  b. 14 Jan 2000 @ Zagreb
+Mislav Matić,                 D,  1.95 m,  b. 6 Jan 2000 @ Sinj
+Boško Šutalo,                 D,  1.88 m,  b. 1 Jan 2000 @ Metković
+
+Tomislav Srbljinović,         M,  1.75 m,  b. 27 Dec 1999 @ Koprivnica
+Josip Silić,                  G,  1.90 m,  b. 16 Dec 1999 @ Split
+Domagoj Bradarić,             D,  1.78 m,  b. 10 Dec 1999 @ Split
+Sandro Kulenović,             F,  1.88 m,  b. 4 Dec 1999 @ Zagreb
+Martin Pajić,                 D,  1.85 m,  b. 11 Nov 1999 @ Čakovec
+Daniel Štefulj,               D,  1.86 m,  b. 8 Nov 1999 @ Langenhagen
+Kruno Bašić,                  G,  1.87 m,  b. 7 Nov 1999 @ Djakovo
+Robert Mišković,              M,  1.90 m,  b. 20 Oct 1999 @ Ingolstadt
+Nediljko Labrović,            G,  1.96 m,  b. 10 Oct 1999 @ Split
+Lovro Majkić,                 G,  1.86 m,  b. 8 Oct 1999 @ Zagreb
+Dino Skorup,                  M,  1.87 m,  b. 4 Oct 1999 @ Split
+Luka Kulenović,               F,  1.90 m,  b. 29 Sep 1999 @ Toronto
+Mario Šuver,                  D,  1.86 m,  b. 23 Sep 1999 @ Stuttgart
+Ivan Čalušić,                 D,  1.87 m,  b. 12 Sep 1999 @ Split
+Tonio Teklić,                 M,  1.82 m,  b. 9 Sep 1999 @ Split
+Davor Matijas,                G,  1.87 m,  b. 23 Aug 1999 @ Split
+Franko Kovačević,             F,  1.85 m,  b. 8 Aug 1999 @ Koprivnica
+Ivan Lepinjica,               M,  1.90 m,  b. 9 Jul 1999 @ Rijeka
+Marino Bulat,                 G,  1.94 m,  b. 26 Jun 1999 @ Split
+Luka Hujber,                  D,  1.72 m,  b. 16 Jun 1999 @ Nova Gradiška
+Marko Divković,               D|F,1.81 m,  b. 11 Jun 1999 @ Vinkovci
+Mario Marić,                  G,  1.90 m,  b. 25 May 1999 @ Zagreb
+Matija Horvat,                M,  1.80 m,  b. 7 May 1999 @ Čakovec
+Marko Djira,                  M,  1.71 m,  b. 5 May 1999 @ Šibenik
+Marko Barešić,                G,  1.96 m,  b. 30 Apr 1999 @ Zadar
+Mario Cuze,                   F,  1.88 m,  b. 24 Apr 1999 @ Metković
+Dominik Štumberger,           D,  1.84 m,  b. 17 Apr 1999 @ Graz
+Hrvoje Ilić,                  M,  1.81 m,  b. 14 Apr 1999 @ Slavonski Brod
+Jozo Stanić,                  D,  1.84 m,  b. 6 Apr 1999 @ Augsburg
+Dario Špikić,                 F,  1.83 m,  b. 22 Mar 1999 @ Zagreb
+Tomi Petrović,                F,  1.89 m,  b. 11 Mar 1999 @ Toulouse
+Marko Vranjković,             D,  1.85 m,  b. 5 Feb 1999 @ Zagreb
+Darko Nejašmić,               M,  1.83 m,  b. 25 Jan 1999 @ Split
+Nikola Tavares,               D,  1.85 m,  b. 17 Jan 1999 @ Cape Town
+Dominik Bilogrević,           M,  1.90 m,  b. 2 Jan 1999 @ Gummersbach
+
+Ivor Ljubanović,              F,  1.82 m,  b. 29 Dec 1998 @ Zagreb
+Luka Ivanušec,                M,  1.75 m,  b. 26 Nov 1998 @ Varaždin
+Kristian Fućak,               F,  1.93 m,  b. 14 Nov 1998 @ Rijeka
+Martin Šroler,                M,  1.73 m,  b. 2 Nov 1998 @ Zagreb
+Davor Lovren,                 M,  1.72 m,  b. 3 Oct 1998 @ Munich
+Ivan Delić,                   F,  1.86 m,  b. 29 Sep 1998 @ Split
+Mario Ćurić,                  M,  1.82 m,  b. 28 Sep 1998 @ Split
+Matej Maglica,                D,  1.96 m,  b. 25 Sep 1998 @ Slavonski Brod
+Jakov Medić,                  D,  1.93 m,  b. 7 Sep 1998 @ Zagreb
+Karlo Butić,                  F,  1.86 m,  b. 21 Aug 1998 @ Zadar
+Neven Djurasek,               M,  1.73 m,  b. 15 Aug 1998 @ Varaždin
+Mihael Žaper,                 M,  1.87 m,  b. 11 Aug 1998 @ Osijek
+Ivan Nevistić,                G,  1.95 m,  b. 31 Jul 1998 @ Djakovo
+Matko Babić,                  F,  1.84 m,  b. 28 Jul 1998 @ Zagreb
+Lovre Knežević,               F,  1.86 m,  b. 22 Jul 1998 @ Zadar
+Matko Zirdum,                 D,  1.95 m,  b. 21 Jul 1998 @ Koprivnica
+Ivan Posavec,                 M,  1.82 m,  b. 5 Jul 1998 @ Novaki
+Bruno Bogojević,              F,  1.86 m,  b. 29 Jun 1998 @ Koprivnica
+Josip Brekalo,                M|F,1.75 m,  b. 23 Jun 1998 @ Zagreb
+Dario Vizinger,               F,  1.81 m,  b. 6 Jun 1998 @ Čakovec
+Branimir Kalaica,             D,  1.95 m,  b. 1 Jun 1998 @ Zagreb
+Marko Martinaga,              D,  1.84 m,  b. 27 May 1998 @ Koprivnica
+Tomislav Gudelj,              F,  1.85 m,  b. 1 May 1998 @ Zagreb
+Bruno Goda,                   D,  1.82 m,  b. 17 Apr 1998 @ Vinkovci
+Marin Karamarko,              D,  1.91 m,  b. 14 Apr 1998 @ Pula
+Kristijan Bistrović,          M,  1.83 m,  b. 9 Apr 1998 @ Koprivnica
+Luka Marin,                   D,  1.80 m,  b. 16 Mar 1998 @ Osijek
+Luka Pasariček,               M,  1.70 m,  b. 12 Mar 1998 @ Zagreb
+Nikola Moro,                  M,  1.83 m,  b. 12 Mar 1998 @ Solin
+Petar Musa,                   F,  1.90 m,  b. 4 Mar 1998 @ Zagreb
+Vinko Soldo,                  D,  1.84 m,  b. 15 Feb 1998 @ Zagreb
+Marin Šverko,                 D,  1.87 m,  b. 4 Feb 1998 @ Pforzheim
+Martin Erlić,                 D,  1.93 m,  b. 24 Jan 1998 @ Zadar
+Borna Sosa,                   D,  1.84 m,  b. 21 Jan 1998 @ Zagreb
+Lovro Majer,                  M,  1.76 m,  b. 17 Jan 1998 @ Zagreb
+Adrian Šemper,                G,  1.94 m,  b. 12 Jan 1998 @ Zagreb
+Mato Stanić,                  M,  1.84 m,  b. 11 Jan 1998 @ Ludwigshafen am Rhein
+Sacha Marasović,              M,  1.69 m,  b. 6 Jan 1998 @ Paris
+Stjepan Plazonja,             F,  1.92 m,  b. 2 Jan 1998 @ Djakovo
+
+Matija Jesenović,             G,  1.93 m,  b. 19 Dec 1997 @ Čakovec
+Renato Pantalon,              D,  1.94 m,  b. 27 Oct 1997 @ Zadar
+Marin Ljubić,                 G,  1.87 m,  b. 18 Oct 1997 @ Split
+Borna Petrović,               F,  1.81 m,  b. 16 Oct 1997 @ Zagreb
+Advan Kadušić,                D,  1.78 m,  b. 14 Oct 1997 @ Zenica
+Ivan Sušak,                   G,  2.03 m,  b. 6 Oct 1997 @ Metković
+Nikola Vlašić,                M,  1.78 m,  b. 4 Oct 1997 @ Split
+Mihael Klepač,                F,  1.84 m,  b. 19 Sep 1997 @ Našice
+Marko Žuljević,               F,  1.79 m,  b. 16 Sep 1997 @ Wasserburg am Inn
+Marin Pongračić,              D,  1.89 m,  b. 11 Sep 1997 @ Landshut
+Antonio Bosec,                D,  1.78 m,  b. 28 Aug 1997 @ Zagreb
+Jurica Poldrugač,             M,  - ,      b. 10 Aug 1997 @ Koprivnica
+Filip Benković,               D,  1.94 m,  b. 13 Jul 1997 @ Zagreb
+Robert Ćosić,                 D,  1.84 m,  b. 8 Jul 1997 @ Zagreb
+Danijel Lončar,               D,  1.87 m,  b. 26 Jun 1997 @ Osijek
+Toni Borevković,              D,  1.94 m,  b. 18 Jun 1997 @ Slavonski Brod
+Zvonimir Šubarić,             G,  1.87 m,  b. 25 May 1997 @ Vinkovci
+Kristijan Jakić,              M,  1.81 m,  b. 14 May 1997 @ Split
+Leo Mikić,                    F,  1.80 m,  b. 6 May 1997 @ Požega
+Robert Mudražija,             M,  1.77 m,  b. 5 May 1997 @ Zagreb
+Andrija Filipović,            F,  1.81 m,  b. 18 Apr 1997 @ Rijeka
+Ante Ćorić,                   M,  1.76 m,  b. 14 Apr 1997 @ Zagreb
+Matej Jukić,                  M,  1.84 m,  b. 7 Apr 1997 @ Split
+Marko Dabro,                  F,  1.78 m,  b. 28 Mar 1997 @ Vinkovci
+Marijan Čabraja,              D,  1.82 m,  b. 25 Feb 1997 @ Pula
+Fabijan Buntić,               G,  1.94 m,  b. 24 Feb 1997 @ Stuttgart
+Patrik Džalto,                F,  1.75 m,  b. 19 Feb 1997 @ Reutlingen
+Filip Uremović,               D,  1.84 m,  b. 11 Feb 1997 @ Požega
+Karlo Letica,                 G,  2.01 m,  b. 11 Feb 1997 @ Split
+Ivan Kontek,                  D,  1.88 m,  b. 29 Jan 1997 @ Zagreb
+Fran Brodić,                  F,  1.80 m,  b. 8 Jan 1997 @ Zagreb
+Josip Špoljarić,              F,  1.84 m,  b. 5 Jan 1997 @ Osijek
+
+Marin Jakoliš,                M|F,1.83 m,  b. 26 Dec 1996 @ Šibenik
+Marin Pilj,                   M,  1.65 m,  b. 3 Dec 1996 @ Osijek
+Jakov Bašić,                  M,  1.91 m,  b. 25 Nov 1996 @ Zagreb
+Toma Bašić,                   M,  1.89 m,  b. 25 Nov 1996 @ Zagreb
+Nikola Katić,                 D,  1.94 m,  b. 10 Oct 1996 @ Ljubuški
+Ivan Šunjić,                  M,  1.84 m,  b. 9 Oct 1996 @ Zenica
+Duje Ćaleta-Car,              D,  1.88 m,  b. 17 Sep 1996 @ Šibenik
+Zvonimir Šarlija,             D,  1.89 m,  b. 29 Aug 1996 @ Koprivnica
+Stanko Jurić,                 M,  1.89 m,  b. 16 Aug 1996 @ Split
+Mihael Rebernik,              D,  1.75 m,  b. 6 Aug 1996 @ Čakovec
+Tomislav Štrkalj,             F,  1.84 m,  b. 2 Aug 1996 @ Zagreb
+Dominik Radić,                F,  1.88 m,  b. 26 Jul 1996 @ Hannover
+Petar Bočkaj,                 F,  1.80 m,  b. 23 Jul 1996 @ Zagreb
+Christian Ilić,               D,  1.78 m,  b. 22 Jul 1996 @ Friesach
+Lorenco Šimić,                D,  1.95 m,  b. 15 Jul 1996 @ Split
+Marko Stolnik,                D,  1.86 m,  b. 8 Jul 1996 @ Varaždin
+Marko Tolić,                  M,  1.89 m,  b. 5 Jul 1996 @ Zagreb
+Marko Iharoš,                 D,  1.78 m,  b. 23 Jun 1996 @ Bjelovar
+Alen Halilović,               M,  1.69 m,  b. 18 Jun 1996 @ Dubrovnik
+Vinko Medjimorec,             D,  1.89 m,  b. 1 Jun 1996 @ Koprivnica
+Ivan Prtajin,                 F,  1.89 m,  b. 14 May 1996 @ Zadar
+Karlo Lulić,                  M,  1.86 m,  b. 10 May 1996 @ Nova Gradiška
+Josip Filipović,              D,  1.84 m,  b. 8 May 1996 @ Zagreb
+Ivan Fiolić,                  M,  1.76 m,  b. 29 Apr 1996 @ Zagreb
+Petar Bosančić,               D,  1.90 m,  b. 19 Apr 1996 @ Split
+Matija Kolarić,               D,  1.87 m,  b. 14 Apr 1996 @ Varaždin
+Luka Bogdan,                  D,  1.95 m,  b. 26 Mar 1996 @ Split
+Domagoj Drožđek,              F,  1.80 m,  b. 20 Mar 1996 @ Varaždin
+Robert Murić,                 F,  1.80 m,  b. 12 Mar 1996 @ Varaždin
+Ante Roguljić,                M,  1.79 m,  b. 11 Mar 1996 @ Split
+Josip Posavec,                G,  1.90 m,  b. 10 Mar 1996 @ Varaždin
+Maks Juraj Čelić,             D,  1.91 m,  b. 8 Mar 1996 @ Zagreb
+Petar Mamić,                  D,  1.77 m,  b. 6 Mar 1996 @ Zagreb
+Matej Rodin,                  D,  1.93 m,  b. 13 Feb 1996 @ Metković
+Anton Krešić,                 D,  1.98 m,  b. 29 Jan 1996 @ Zagreb
+Ivo Grbić,                    G,  1.95 m,  b. 18 Jan 1996 @ Split
+Karlo Muhar,                  M,  1.88 m,  b. 17 Jan 1996 @ Zagreb
+Dragan Lovrić,                D,  1.91 m,  b. 3 Jan 1996 @ Split
+
+Mario Zebić,                  D,  1.87 m,  b. 17 Dec 1995 @ Split
+Kristijan Lovrić,             F,  1.86 m,  b. 1 Dec 1995 @ Ogulin
+Tin Jedvaj,                   D,  1.88 m,  b. 28 Nov 1995 @ Zagreb
+Valentino Majstorović,        D|F,1.70 m,  b. 11 Nov 1995 @ Zagreb
+Vinko Petković,               F,  1.80 m,  b. 1 Oct 1995 @ Šibenik
+Fran Tudor,                   M,  1.73 m,  b. 27 Sep 1995 @ Zagreb
+Nikola Jambor,                M,  1.88 m,  b. 25 Sep 1995 @ Koprivnica
+Antonio Boršić,               D,  1.80 m,  b. 19 Sep 1995 @ Zagreb
+Marko Roginić,                F,  1.88 m,  b. 5 Sep 1995 @ Bjelovar
+Filip Krovinović,             M,  1.75 m,  b. 29 Aug 1995 @ Zagreb
+Lovre Rogić,                  G,  1.89 m,  b. 27 Aug 1995 @ Zadar
+Josip Juranović,              D,  1.73 m,  b. 16 Aug 1995 @ Zagreb
+Antonio Mance,                F,  1.88 m,  b. 7 Aug 1995 @ Rijeka
+Marko Rog,                    M,  1.80 m,  b. 19 Jul 1995 @ Varaždin
+Stipe Perica,                 F,  1.92 m,  b. 7 Jul 1995 @ Zadar
+Lovro Cvek,                   M,  1.83 m,  b. 6 Jul 1995 @ Varaždin
+Frane Čirjak,                 M,  1.80 m,  b. 23 Jun 1995 @ Zadar
+Marko Kolar,                  F,  1.85 m,  b. 31 May 1995 @ Zabok
+Leonard Vuk,                  F,  1.73 m,  b. 23 May 1995 @ Čakovec
+Mirko Marić,                  F,  1.88 m,  b. 16 May 1995 @ Split
+Marko Pjaca,                  M|F,1.86 m,  b. 6 May 1995 @ Zagreb
+Mateo Mužek,                  D,  1.83 m,  b. 29 Apr 1995 @ Graz
+Karlo Bartolec,               D,  1.76 m,  b. 20 Apr 1995 @ Zagreb
+Luka Capan,                   D,  1.84 m,  b. 6 Apr 1995 @ Zagreb
+Mateo Kocijan,                M,  1.88 m,  b. 27 Mar 1995 @ Koprivnica
+Tibor Halilović,              M,  1.76 m,  b. 18 Mar 1995 @ Zagreb
+Marko Pejić,                  D,  1.75 m,  b. 24 Feb 1995 @ Zagreb
+Mario Pašalić,                M,  1.88 m,  b. 9 Feb 1995 @ Mainz
+Marijan Ćorić,                G,  1.82 m,  b. 6 Feb 1995 @ Čapljina
+Igor Postonjski,              M,  1.78 m,  b. 4 Feb 1995 @ Zabok
+Edin Šehić,                   M,  1.78 m,  b. 3 Feb 1995 @ Zagreb
+Ivica Ivušić,                 G,  1.95 m,  b. 1 Feb 1995 @ Rijeka
+Danijel Klarić,               F,  1.81 m,  b. 19 Jan 1995 @ Vienna
+Dominik Livaković,            G,  1.88 m,  b. 9 Jan 1995 @ Zadar
+Tomislav Gomelt,              M,  1.85 m,  b. 7 Jan 1995 @ Sisak
+
+Ivan Filipović,               G,  1.97 m,  b. 13 Nov 1994 @ Slavonski Brod
+Benedik Mioč,                 M,  1.82 m,  b. 6 Oct 1994 @ Osijek
+Bruno Petković,               F,  1.93 m,  b. 16 Sep 1994 @ Metković
+Dominik Mihaljević,           D,  1.80 m,  b. 27 Aug 1994 @ Zagreb
+Alen Grgić,                   D,  1.87 m,  b. 10 Aug 1994 @ Nova Gradiška
+Krešimir Kovačević,           F,  1.90 m,  b. 7 Aug 1994 @ Treuchtlingen
+Bernardo Matić,               M,  1.94 m,  b. 27 Jul 1994 @ Sinj
+Mateo Barać,                  D,  1.90 m,  b. 20 Jul 1994 @ Sinj
+Ivan Banić,                   G,  1.87 m,  b. 18 Jul 1994 @ Sinj
+Dino Perić,                   D,  1.95 m,  b. 12 Jul 1994 @ Osijek
+Dino Mikanović,               D,  1.74 m,  b. 5 Jul 1994 @ Nova Gradiška
+Josip Mišić,                  M,  1.87 m,  b. 28 Jun 1994 @ Vinkovci
+Frane Ikić,                   D,  1.94 m,  b. 19 Jun 1994 @ Zadar
+Zoran Arsenić,                D,  1.87 m,  b. 2 Jun 1994 @ Osijek
+Mateo Kovačić,                M,  1.81 m,  b. 6 May 1994 @ Linz
+Josip Elez,                   D,  1.89 m,  b. 25 Apr 1994 @ Split
+Marko Alvir,                  M,  1.81 m,  b. 19 Apr 1994 @ Zagreb
+Dario Čanadjija,              M,  1.76 m,  b. 17 Apr 1994 @ Bjelovar
+Marko Dugandžić,              F,  1.88 m,  b. 7 Apr 1994 @ Osijek
+Šime Gržan,                   D|M,1.72 m,  b. 6 Apr 1994 @ Zadar
+Tomislav Kiš,                 F,  1.80 m,  b. 4 Apr 1994 @ Zagreb
+Josip Radošević,              M,  1.80 m,  b. 3 Apr 1994 @ Split
+Andrej Lukić,                 D,  1.87 m,  b. 2 Apr 1994 @ Osijek
+Karlo Kamenar,                M,  1.75 m,  b. 15 Mar 1994 @ Zagreb
+Antonio Milić,                D,  1.90 m,  b. 10 Mar 1994 @ Split
+Domagoj Pavičić,              M,  1.79 m,  b. 9 Mar 1994 @ Zagreb
+Josip Tomašević,              D,  1.80 m,  b. 4 Mar 1994 @ Sinj
+Marko Malenica,               G,  1.92 m,  b. 8 Feb 1994 @ Nova Gradiška
+Petar Brlek,                  M,  1.80 m,  b. 29 Jan 1994 @ Varaždin
+Denis Kolinger,               D,  1.99 m,  b. 14 Jan 1994 @ Malsch
+Matej Mršić,                  M,  1.83 m,  b. 13 Jan 1994 @ Rijeka
+Dominik Kovačić,              D,  1.92 m,  b. 5 Jan 1994 @ Zagreb
+
+Dino Kovačec,                 M,  1.78 m,  b. 27 Dec 1993 @ Zagreb
+Ante Majstorović,             D,  1.85 m,  b. 6 Nov 1993 @ Zagreb
+Toni Datković,                D,  1.84 m,  b. 6 Nov 1993 @ Zagreb
+Danijel Miškić,               M,  1.82 m,  b. 11 Oct 1993 @ Novo Mesto
+Ante Rebić,                   F,  1.82 m,  b. 21 Sep 1993 @ Split
+Antonio-Mirko Čolak,          F,  1.87 m,  b. 17 Sep 1993 @ Ludwigsburg
+Josip Čondrić,                G,  1.95 m,  b. 27 Aug 1993 @ Zagreb
+Marko Livaja,                 F,  1.82 m,  b. 26 Aug 1993 @ Split
+Jakov Puljić,                 F,  1.87 m,  b. 4 Aug 1993 @ Vinkovci
+Mato Miloš,                   D,  1.75 m,  b. 30 Jun 1993 @ Pula
+Silvije Begić,                D,  1.97 m,  b. 3 Jun 1993 @ Imotski
+Oliver Zelenika,              G,  1.91 m,  b. 14 May 1993 @ Zagreb
+Marko Pajač,                  D,  1.85 m,  b. 11 May 1993 @ Zagreb
+Ivan Močinić,                 M,  1.80 m,  b. 30 Apr 1993 @ Rijeka
+Niko Datković,                D,  1.90 m,  b. 21 Apr 1993 @ Rijeka
+Filip Mrzljak,                M,  1.75 m,  b. 16 Apr 1993 @ Zagreb
+Danijel Romić,                D,  1.87 m,  b. 19 Mar 1993 @ Subotica
+Simon Sluga,                  G,  1.91 m,  b. 17 Mar 1993 @ Rijeka
+Luka Pavković,                D,  1.91 m,  b. 18 Feb 1993 @ Zagreb
+Jan Doležal,                  F,  1.82 m,  b. 12 Feb 1993 @ Zagreb
+Matej Mitrović,               D,  1.87 m,  b. 4 Feb 1993 @ Požega
+
+Mislav Oršić,                 M,  1.79 m,  b. 29 Dec 1992 @ Zagreb
+Slavko Bralić,                D,  1.91 m,  b. 15 Dec 1992 @ Split
+Marcelo Brozović,             M,  1.81 m,  b. 16 Nov 1992 @ Zagreb
+Borna Barišić,                D,  1.86 m,  b. 10 Nov 1992 @ Osijek
+Dario Melnjak,                D,  1.85 m,  b. 31 Oct 1992 @ Varaždin
+Matej Delač,                  G,  1.90 m,  b. 20 Aug 1992 @ Gornji Vakuf-Uskoplje
+Nino Galović,                 D,  1.84 m,  b. 6 Jul 1992 @ Split
+Antun Marković,               G,  1.94 m,  b. 4 Jul 1992 @ Gjilan
+David Puclin,                 M,  1.77 m,  b. 17 Jun 1992 @ Čakovec
+Mijo Caktaš,                  M,  1.78 m,  b. 8 May 1992 @ Split
+Josip Vuković,                M,  1.86 m,  b. 2 May 1992 @ Split
+Karlo Bručić,                 D,  1.83 m,  b. 17 Apr 1992 @ Zagreb
+Ivan Pešić,                   M,  1.83 m,  b. 6 Apr 1992 @ Šibenik
+Mario Šitum,                  M|F,1.77 m,  b. 4 Apr 1992 @ Zagreb
+Frano Mlinar,                 M,  1.84 m,  b. 30 Mar 1992 @ Zagreb
+Diego Živulić,                M,  1.87 m,  b. 23 Mar 1992 @ Rijeka
+Filip Mihaljević,             F,  1.79 m,  b. 9 Mar 1992 @ Zagreb
+Antonio Perošević,            F,  1.80 m,  b. 6 Mar 1992 @ Split
+Antonio Jakoliš,              F,  1.75 m,  b. 28 Feb 1992 @ Varaždin
+Filip Bradarić,               M,  1.85 m,  b. 11 Jan 1992 @ Split
+Šime Vrsaljko,                D,  1.81 m,  b. 10 Jan 1992 @ Zadar
+
+Anton Maglica,                F,  1.81 m,  b. 11 Nov 1991 @ Brčko
+Marko Perković,               D,  1.89 m,  b. 30 Aug 1991 @ Derventa
+Darijo Pecirep,               F,  1.88 m,  b. 14 Aug 1991 @ Kiseljak
+Vedran Celjak,                D,  1.87 m,  b. 13 Aug 1991 @ Zabok
+Ante Budimir,                 F,  1.90 m,  b. 22 Jul 1991 @ Zenica
+Ivan Paurević,                M,  1.94 m,  b. 1 Jul 1991 @ Essen
+Andrej Kramarić,              F,  1.77 m,  b. 19 Jun 1991 @ Zagreb
+Mile Škorić,                  D,  1.89 m,  b. 19 Jun 1991 @ Vinkovci
+Ante Vukušić,                 F,  1.77 m,  b. 4 Jun 1991 @ Sinj
+Dante Stipica,                G,  1.89 m,  b. 30 May 1991 @ Split
+Tomislav Glumac,              M,  1.94 m,  b. 14 May 1991 @ Split
+Marko Brtan,                  M,  1.89 m,  b. 7 Apr 1991 @ Zagreb
+Petar Slišković,              F,  1.93 m,  b. 21 Feb 1991 @ Sarajevo
+
+Tomislav Tomić,               M,  1.83 m,  b. 16 Nov 1990 @ Mostar
+Matej Jelić,                  F,  1.84 m,  b. 5 Nov 1990 @ Našice
+Ivan Runje,                   D,  1.92 m,  b. 9 Oct 1990 @ Split
+Dino Štiglec,                 D,  1.88 m,  b. 3 Oct 1990 @ Zagreb
+Ivan Martić,                  M,  1.83 m,  b. 2 Oct 1990 @ Uzwil
+Ivan Čović,                   G,  1.95 m,  b. 27 Sep 1990 @ Zagreb
+Tonći Kukoč,                  M,  1.89 m,  b. 25 Sep 1990 @ Split
+Petar Filipović,              D,  1.88 m,  b. 14 Sep 1990 @ Hamburg
+Dejan Radonjić,               F,  1.90 m,  b. 23 Jul 1990 @ Tettnang
+Domagoj Antolić,              M,  1.80 m,  b. 30 Jun 1990 @ Zagreb
+Mateo Pavlović,               D,  1.96 m,  b. 9 Jun 1990 @ Mostar
+Matija Katanec,               D,  1.83 m,  b. 4 May 1990 @ Varaždin
+Lovre Kalinić,                G,  1.98 m,  b. 3 Apr 1990 @ Split
+Duje Čop,                     F,  1.82 m,  b. 1 Feb 1990 @ Split
+
+Branko Vrgoč,                 D,  1.94 m,  b. 18 Dec 1989 @ Osijek
+Ante Erceg,                   F,  1.80 m,  b. 12 Dec 1989 @ Split
+Ivan Tomečak,                 D,  1.76 m,  b. 7 Dec 1989 @ Zagreb
+Zoran Nižić,                  D,  1.95 m,  b. 11 Oct 1989 @ Split
+Damjan Djoković,              M,  1.88 m,  b. 11 Sep 1989 @ Zagreb
+Sandi Križman,                F,  1.78 m,  b. 17 Aug 1989 @ Pula
+Mario Marina,                 M,  1.84 m,  b. 3 Aug 1989 @ Bugojno
+Vedran Jugović,               M,  1.78 m,  b. 31 Jul 1989 @ Osijek
+Dejan Lovren,                 D,  1.88 m,  b. 5 Jul 1989 @ Karlovac
+Stjepan Kukuruzović,          M,  1.80 m,  b. 7 Jun 1989 @ Thun
+Ivan Santini,                 F,  1.90 m,  b. 21 May 1989 @ Zadar
+Adam Sušac,                   D,  1.84 m,  b. 20 May 1989 @ Varaždin
+Mario Maloča,                 D,  1.89 m,  b. 4 May 1989 @ Zagreb
+Domagoj Vida,                 D,  1.82 m,  b. 29 Apr 1989 @ Osijek
+Božidar Radošević,            G,  1.86 m,  b. 4 Apr 1989 @ Split
+Tomislav Barbarić,            D,  1.90 m,  b. 29 Mar 1989 @ Zagreb
+Krunoslav Hendija,            G,  1.94 m,  b. 19 Mar 1989 @ Zagreb
+Mate Maleš,                   M,  1.81 m,  b. 11 Mar 1989 @ Šibenik
+Milan Badelj,                 M,  1.86 m,  b. 25 Feb 1989 @ Zagreb
+Ivan Perišić,                 M|F,1.86 m,  b. 2 Feb 1989 @ Split
+Josip Pivarić,                D,  1.76 m,  b. 30 Jan 1989 @ Zagreb
+Goran Milović,                D,  1.95 m,  b. 29 Jan 1989 @ Split
+Darko Bodul,                  F,  1.84 m,  b. 11 Jan 1989 @ Sarajevo
+
+Josip Knežević,               M,  1.83 m,  b. 3 Oct 1988 @ Osijek
+Ivan Kovacec,                 F,  1.88 m,  b. 27 Jun 1988 @ Zagreb
+Roko Mišlov,                  M,  1.90 m,  b. 26 May 1988 @ Zadar
+Mato Jajalo,                  M,  1.82 m,  b. 25 May 1988 @ Jajce
+Ivan Rakitić,                 M,  1.84 m,  b. 10 Mar 1988 @ Rheinfelden
+Ivan Kelava,                  G,  1.95 m,  b. 20 Feb 1988 @ Zagreb
+Zoran Lesjak,                 D,  1.85 m,  b. 1 Feb 1988 @ Čakovec
+Nikola Žižić,                 D,  1.85 m,  b. 23 Jan 1988 @ Split
+Nikola Kalinić,               F,  1.87 m,  b. 5 Jan 1988 @ Split
+
+Tomislav Božić,               D,  1.84 m,  b. 1 Nov 1987 @ Požega
+Josip Tadić,                  F,  1.87 m,  b. 22 Aug 1987 @ Osijek
+Ivan Strinić,                 D,  1.86 m,  b. 17 Jul 1987 @ Split
+Antonio Mršić,                M,  1.88 m,  b. 5 Jun 1987 @ Vinkovci
+Sammir,                       M,  1.78 m,  b. 23 Apr 1987 @ Itabuna
+Krševan Santini,              G,  1.88 m,  b. 11 Apr 1987 @ Zadar
+Slavko Blagojević,            M,  1.78 m,  b. 21 Mar 1987 @ Otok
+Ivan Vargić,                  G,  1.92 m,  b. 15 Mar 1987 @ Osijek
+Danijel Zagorac,              G,  1.86 m,  b. 7 Feb 1987 @ Drniš
+
+Ivo Iličević,                 M,  1.74 m,  b. 14 Nov 1986 @ Aschaffenburg
+Mladen Bartulović,            M,  1.82 m,  b. 5 Oct 1986 @ Kakanj
+Jurica Buljat,                D,  1.88 m,  b. 19 Sep 1986 @ Zadar
+Ante Kulušić,                 D,  1.89 m,  b. 6 Jun 1986 @ Šibenik
+Mario Mandžukić,              F,  1.90 m,  b. 21 May 1986 @ Slavonski Brod
+Vedran Ćorluka,               D,  1.93 m,  b. 5 Feb 1986 @ Derventa
+
+Luka Modrić,                  M,  1.72 m,  b. 9 Sep 1985 @ Zadar
+Nikica Jelavić,               F,  1.88 m,  b. 27 Aug 1985 @ Capljina
+Ivan Lovrić,                  D,  1.90 m,  b. 11 Jul 1985 @ Split
+Gordon Schildenfeld,          D,  1.91 m,  b. 18 Mar 1985 @ Šibenik
+
+Danijel Subašić,              G,  1.92 m,  b. 27 Oct 1984 @ Zadar
+Niko Kranjčar,                M,  1.85 m,  b. 13 Aug 1984 @ Zagreb
+Dario Krešić,                 G,  1.95 m,  b. 11 Jan 1984 @ Vukovar
+
+Ognjen Vukojević,             M,  1.84 m,  b. 20 Dec 1983 @ Bjelovar
+Srdjan Lakić,                 F,  1.88 m,  b. 2 Oct 1983 @ Dubrovnik
+Eduardo,                      F,  1.77 m,  b. 25 Feb 1983 @ Rio de Janeiro
+
+Darijo Srna,                  D,  1.82 m,  b. 1 May 1982 @ Metković
+
+Danijel Pranjić,              M,  1.72 m,  b. 2 Dec 1981 @ Našice
+Tomislav Dujmović,            M,  1.88 m,  b. 26 Feb 1981 @ Zagreb
+
+Ivica Olić,                   F,  1.81 m,  b. 14 Sep 1979 @ Davor
+Stipe Pletikosa,              G,  1.94 m,  b. 8 Jan 1979 @ Split
+
+Josip Šimunić,                D,  1.95 m,  b. 18 Feb 1978 @ Canberra
+
+Zdenko Miletić,               G,  1.91 m,  b. 23 Apr 1968 @ Sarajevo

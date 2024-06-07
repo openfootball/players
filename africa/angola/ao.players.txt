@@ -1,0 +1,57 @@
+=================================
+=  Angola
+
+Maestro,                      M,  1.73 m,  b. 4 Aug 2003 @ Luanda
+Jermain Nischalke,            F,  1.92 m,  b. 26 Mar 2003 @ Berlin
+Manuel Keliano,               M,  1.85 m,  b. 16 Jan 2003 @ Luanda
+
+Pedro Lubamba,                F,  1.67 m,  b. 14 Sep 2002 @ Luanda
+Antonio Zini,                 F,  1.81 m,  b. 3 Jul 2002 @ Cazenga
+Beni,                         M,  1.80 m,  b. 21 May 2002 @ Luanda
+Zito Luvumbo,                 M|F,1.71 m,  b. 9 Mar 2002 @ Luanda
+Capita,                       M|F,1.71 m,  b. 10 Jan 2002 @ Luanda
+
+Jabez Makanda,                F,  1.86 m,  b. 8 Aug 2001 @ Luanda
+Picas,                        F,  1.70 m,  b. 14 Feb 2001 @ Luanda
+
+Buni Jorge,                   M,  1.67 m,  b. 7 Sep 2000 @ Uige
+Loide Augusto,                D,  1.85 m,  b. 26 Feb 2000 @ Luanda
+Depú,                         F,  1.78 m,  b. 8 Jan 2000 @ Lobito
+
+Elliot Simões,                F,  1.72 m,  b. 20 Dec 1999 @ Amadora
+Milson,                       F,  1.74 m,  b. 12 Oct 1999 @ Luanda
+Show,                         M,  1.80 m,  b. 6 Mar 1999 @ Luanda
+
+Felix Vá,                     F,  1.66 m,  b. 24 Aug 1998 @ Cambambe
+Bruno Paz,                    M,  1.83 m,  b. 23 Apr 1998 @ Barreiro
+Nélson da Luz,                F,  1.77 m,  b. 4 Feb 1998 @ Luanda
+
+Egas Cacintura,               F,  1.75 m,  b. 29 Oct 1997 @ Moçâmedes
+Kialonda Gaspar,              D,  1.93 m,  b. 27 Sep 1997 @ Dundo
+Mário Balbúrdia,              M,  1.74 m,  b. 19 Aug 1997 @ Luanda
+
+Gelson Dala,                  F,  1.75 m,  b. 13 Jul 1996 @ Luanda
+Anderson Emanuel,             F,  1.75 m,  b. 9 Apr 1996 @ Luanda
+
+Núrio Fortuna,                D,  1.77 m,  b. 24 Mar 1995 @ Luanda
+
+Hélder Costa,                 M,  1.78 m,  b. 12 Jan 1994 @ Luanda
+
+Jonathan Buatu Mananga,       D,  1.87 m,  b. 27 Sep 1993 @ Liège
+Lucas João,                   F,  1.92 m,  b. 4 Sep 1993 @ Luanda
+Vital N'Simba,                D,  1.68 m,  b. 8 Jul 1993 @ Cacuaco
+Bruno Gaspar,                 D,  1.80 m,  b. 21 Apr 1993 @ Évora
+Jérémie Bela,                 M,  1.73 m,  b. 8 Apr 1993 @ Melun
+Fábio Abreu,                  F,  1.82 m,  b. 29 Jan 1993 @ Lisbon
+
+Igor Vetokele,                F,  1.73 m,  b. 23 Mar 1992 @ Ostend
+
+Bastos,                       D,  1.80 m,  b. 23 Nov 1991 @ Luanda
+Geraldo,                      M,  1.68 m,  b. 23 Nov 1991 @ Luanda
+
+Wilson Eduardo,               F,  1.76 m,  b. 8 Jul 1990 @ Pedras Rubras
+Fredy,                        M,  1.69 m,  b. 27 Mar 1990 @ Luanda
+
+Djalma,                       M,  1.75 m,  b. 30 May 1987 @ Luanda
+
+Hugo Marques,                 G,  1.93 m,  b. 15 Jan 1986 @ Fão

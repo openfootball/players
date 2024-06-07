@@ -1,0 +1,681 @@
+=================================
+=  Russia
+
+Andrey Ivlev,                 M,  1.80 m,  b. 21 Nov 2006
+Kirill Simonov,               M,  1.74 m,  b. 24 May 2006
+Ivan Bober,                   M,  1.79 m,  b. 7 Jan 2006 @ Samara
+
+Kirill Glebov,                M,  1.73 m,  b. 10 Nov 2005 @ Chelyabinsk
+Mikhail Ryadno,               D,  1.82 m,  b. 18 Sep 2005 @ Moscow
+Matvey Kislyak,               M,  1.80 m,  b. 26 Jul 2005 @ Stary Oskol
+Mikhail Shchetinin,           M,  1.83 m,  b. 8 Jul 2005 @ Kursk
+Ilya Ishkov,                  M,  1.77 m,  b. 25 May 2005 @ Yekaterinburg
+Aleksandr Degtev,             G,  1.95 m,  b. 27 Apr 2005
+Ilya Rozhkov,                 D,  1.80 m,  b. 29 Mar 2005 @ Zelenodolsk
+Nikita Korets,                G,  1.95 m,  b. 25 Mar 2005 @ Kazan
+Danil Anosov,                 F,  1.76 m,  b. 26 Feb 2005 @ Belgorod
+Aleksey Lysov,                D,  1.85 m,  b. 10 Feb 2005 @ Vladimir
+Mikhail Tsulaya,              G,  1.90 m,  b. 8 Feb 2005 @ Rostov-on-Don
+Dmitriy Kalayda,              M,  1.74 m,  b. 4 Feb 2005 @ Belorechensk
+Danila Kozlov,                M,  1.83 m,  b. 19 Jan 2005 @ St. Petersburg
+Ivan Lepskiy,                 D,  1.85 m,  b. 19 Jan 2005 @ Vilyuchinsk
+Vadim Rakov,                  F,  1.78 m,  b. 9 Jan 2005
+
+Zakhar Federov,               F,  1.82 m,  b. 24 Dec 2004
+Aleksandr Koksharov,          F,  1.90 m,  b. 20 Dec 2004
+Sergey Pinyaev,               F,  1.67 m,  b. 2 Nov 2004 @ Saratov
+Danil Kapustyanskiy,          M,  1.76 m,  b. 30 Oct 2004 @ Orenburg
+David Semenchuk,              D,  1.93 m,  b. 22 Oct 2004 @ Moscow
+Abdula Bagamayev,             M,  1.75 m,  b. 18 Oct 2004 @ Tyumen
+Andrea Pelamatti,             D,  - ,      b. 9 Oct 2004 @ Esine
+Ilya Kirsh,                   D,  1.92 m,  b. 21 Sep 2004 @ Vladivostok
+Andrey Khodanovich,           G,  1.95 m,  b. 8 Sep 2004 @ Orenburg
+Nikita Saltykov,              M,  1.75 m,  b. 11 Aug 2004 @ Volgodonsk
+Artem Varganov,               D,  1.93 m,  b. 6 Aug 2004 @ Nizhny Novgorod
+Timofey Kashintsev,           G,  1.92 m,  b. 1 Aug 2004
+Igor Dmitriev,                M,  1.78 m,  b. 24 Jul 2004 @ St. Petersburg
+Vladislav Teplyakov,          D,  1.71 m,  b. 23 Jul 2004
+Artem Ismagilov,              G,  1.98 m,  b. 29 Jun 2004
+Luka Bagatelia,               M,  1.83 m,  b. 29 Jun 2004
+Dmitriy Vasilyev,             M,  1.84 m,  b. 16 Jun 2004 @ St. Petersburg
+Matvey Lukin,                 D,  1.87 m,  b. 27 Apr 2004
+Maksim Shnaptsev,             D,  1.82 m,  b. 19 Apr 2004 @ Moscow
+Kirill Stolbov,               M,  1.78 m,  b. 8 Apr 2004 @ St. Petersburg
+Pavel Meleshin,               F,  1.88 m,  b. 25 Mar 2004 @ Moscow
+Stanislav Bessmertniy,        D,  1.80 m,  b. 11 Mar 2004 @ Rodionovo
+Ivan Zazvonkin,               M,  1.73 m,  b. 10 Mar 2004 @ Tyumen
+Yegor Pogostnov,              D,  1.98 m,  b. 1 Mar 2004 @ Alexandrov
+Daniil Zorin,                 M,  1.80 m,  b. 22 Feb 2004 @ Moscow
+Artur Kuskov,                 D,  1.85 m,  b. 6 Feb 2004 @ Petrozavodsk
+Kirill Nikishin,              F,  1.79 m,  b. 5 Feb 2004 @ Moscow
+Dmitriy Burkin,               D,  1.78 m,  b. 4 Feb 2004
+Yaroslav Arbuzov,             M,  1.76 m,  b. 12 Jan 2004 @ Luhansk
+Daniil Khudyakov,             G,  1.93 m,  b. 9 Jan 2004 @ Moscow
+
+Ramil Mustafaev,              D,  1.83 m,  b. 20 Dec 2003 @ Makhachkala
+Ruslan Shagyakhmetov,         M,  1.89 m,  b. 19 Dec 2003 @ Moscow
+Viktor Melyokhin,             D,  1.80 m,  b. 16 Dec 2003 @ Domodedovo
+Vladislav Torop,              G,  1.89 m,  b. 7 Nov 2003 @ Moscow
+Artem Evshintsev,             D,  1.83 m,  b. 8 Oct 2003 @ Mytishchi
+Rizvan Tashayev,              G,  1.94 m,  b. 5 Oct 2003 @ Grozny
+Yan Tses,                     D,  1.96 m,  b. 2 Oct 2003 @ St. Petersburg
+Vladimir Panov,               G,  1.94 m,  b. 24 Sep 2003
+Vyacheslav Dorovskikh,        G,  1.94 m,  b. 14 Sep 2003
+Egor Mosin,                   D,  1.75 m,  b. 31 Aug 2003
+Aleksandr Kovalenko,          M,  1.77 m,  b. 8 Aug 2003
+Denis Mikhailov,              M,  1.73 m,  b. 23 Jul 2003 @ Yandemirovo
+Matvey Ivakhnov,              F,  1.88 m,  b. 21 Jul 2003 @ Volgograd
+Ansor Khabibov,               M,  1.72 m,  b. 20 Jul 2003 @ Dushanbe
+Timofey Shipunov,             M,  1.72 m,  b. 20 Jul 2003 @ Krasnodar
+Vladislav Cherny,             M,  1.72 m,  b. 21 Jun 2003 @ Magnitogorsk
+Aleksandr Dyachkov,           G,  1.87 m,  b. 6 Jun 2003 @ Moscow
+Davyd Alekseyev,              G,  1.91 m,  b. 4 Jun 2003
+Maksim Laykin,                M,  1.79 m,  b. 31 May 2003 @ Saransk
+Andrey Langovich,             D,  1.80 m,  b. 28 May 2003 @ Rostov-on-Don
+Arsen Zakharyan,              M,  1.80 m,  b. 26 May 2003 @ Samara
+Daniil Martovoy,              M,  1.70 m,  b. 24 May 2003 @ Krasnodar
+Lenar Fattakhov,              M,  1.72 m,  b. 12 May 2003
+Vitaliy Shitov,               M,  1.76 m,  b. 7 May 2003 @ Yaroslavl
+Vladislav Shitov,             F,  1.77 m,  b. 7 May 2003 @ Yaroslavl
+Yaroslav Gladyshev,           F,  1.81 m,  b. 5 May 2003 @ Kirov
+Yaroslav Mikhailov,           M,  1.82 m,  b. 28 Apr 2003 @ Pskov
+Daniil Kuznetsov,             M,  1.82 m,  b. 23 Apr 2003 @ St. Petersburg
+Dmitriy Begun,                M,  1.70 m,  b. 23 Apr 2003 @ Dalnerechensk
+Artyom Ntumba Muamba,         F,  1.85 m,  b. 19 Apr 2003 @ Moscow
+Ivan Komarov,                 M,  1.77 m,  b. 15 Apr 2003 @ Slavyansk-on-Kuban
+Artem Sokolov,                M,  1.70 m,  b. 1 Apr 2003 @ Yakutsk
+Nikita Yanovich,              G,  1.86 m,  b. 28 Mar 2003 @ Tomsk
+Yegor Noskov,                 D,  1.77 m,  b. 24 Mar 2003 @ Moscow
+Mikhail Shtepa,               G,  1.92 m,  b. 19 Mar 2003
+Ivan Savitskiy,               D,  1.81 m,  b. 7 Mar 2003
+Roman Safronov,               G,  1.93 m,  b. 15 Feb 2003 @ Nalchik
+Daniil Odoevskiy,             G,  1.90 m,  b. 22 Jan 2003 @ St. Petersburg
+Nikita Yermakov,              D,  1.81 m,  b. 19 Jan 2003 @ Syzran
+Maksim Kolmakov,              M,  1.75 m,  b. 5 Jan 2003 @ Tikhoretsk
+
+Yegor Prutsev,                M,  1.79 m,  b. 23 Dec 2002 @ Krasnodar
+Sergey Pryakhin,              M,  1.75 m,  b. 16 Dec 2002
+Vadim Lukyanov,               G,  1.94 m,  b. 16 Dec 2002 @ Krasnodar
+Egor Ushakov,                 M,  1.76 m,  b. 2 Dec 2002 @ Moscow
+Yuri Zheleznov,               M,  1.73 m,  b. 15 Nov 2002 @ Saransk
+Denis Osokin,                 D,  1.87 m,  b. 14 Nov 2002 @ Krasnogorsk
+Daniil Denisov,               M,  1.84 m,  b. 21 Oct 2002 @ St. Petersburg
+Danila Khotulyov,             D,  1.87 m,  b. 1 Oct 2002 @ Orenburg
+Sergey Babkin,                M,  1.76 m,  b. 25 Sep 2002 @ Volgograd
+Irakliy Manelov,              F,  1.73 m,  b. 19 Sep 2002 @ Vyselki
+Nikita Yershov,               M,  1.76 m,  b. 17 Sep 2002 @ Shebekino
+Daniil Kamlashev,             M,  1.80 m,  b. 11 Sep 2002 @ Moscow
+Sergey Volkov,                D,  1.82 m,  b. 9 Sep 2002 @ Chita
+Nikita Kotin,                 D,  1.89 m,  b. 1 Sep 2002 @ Samara
+Danila Sukhomlinov,           M,  1.83 m,  b. 31 Aug 2002 @ Voronezh
+Nikita Krivtsov,              M,  1.86 m,  b. 18 Aug 2002 @ Dzerzhinsk
+Danila Bokov,                 G,  1.84 m,  b. 9 Aug 2002 @ Moscow
+Ivan Kukushkin,               G,  1.96 m,  b. 24 Jul 2002 @ St. Petersburg
+Ilya Tuseev,                  G,  1.94 m,  b. 19 Jul 2002
+Vadim Karpov,                 D,  1.90 m,  b. 14 Jul 2002 @ Kotlas
+Daniil Shamkin,               M,  1.87 m,  b. 22 Jun 2002 @ St. Petersburg
+Konstantin Tyukavin,          F,  1.80 m,  b. 22 Jun 2002 @ Kotlas
+Konstantin Nizhegorodov,      D,  1.87 m,  b. 21 Jun 2002 @ Moscow
+Kirill Kravtsov,              M,  1.87 m,  b. 14 Jun 2002 @ St. Petersburg
+Artyom Karpukas,              M,  1.84 m,  b. 13 Jun 2002 @ Biysk
+Denis Mukhin,                 G,  1.89 m,  b. 13 Jun 2002 @ Krasnodar
+Daniil Pavlov,                F,  1.76 m,  b. 5 Jun 2002 @ Tula
+Dmitriy Vershkov,             D,  1.84 m,  b. 27 May 2002 @ Volzhskiy
+Bogdan Reichman,              M,  1.82 m,  b. 26 May 2002 @ Yevpatoria
+Aleksandr Orekhov,            M,  1.78 m,  b. 24 May 2002 @ Moscow
+Nikolay Tolstopyatov,         D,  1.95 m,  b. 12 May 2002 @ Yevpatoria
+Konstantin Shiltsov,          M,  1.86 m,  b. 7 May 2002 @ Yelets
+Aleksandr Mukhin,             D,  1.85 m,  b. 29 Apr 2002 @ Serpukhov
+Stepan Melnikov,              M,  1.81 m,  b. 25 Apr 2002 @ Moscow
+Timur Abdrashitov,            M,  1.78 m,  b. 19 Apr 2002 @ Perm
+Grigory Borisenko,            M,  1.81 m,  b. 15 Apr 2002 @ Moscow
+Tigran Avanesyan,             M,  1.75 m,  b. 13 Apr 2002 @ Kaliningrad
+Vladislav Galkin,             M,  1.80 m,  b. 3 Apr 2002 @ Krasnogorsk
+Maksim Kaynov,                M,  1.91 m,  b. 24 Mar 2002 @ Bronnitsy
+Ruslan Bezrukov,              M,  1.75 m,  b. 21 Mar 2002 @ Rostov-on-Don
+Aleksandr Koryakin,           G,  1.89 m,  b. 10 Mar 2002
+Maksim Turishchev,            F,  1.83 m,  b. 5 Mar 2002 @ Moscow
+Yan Gudkov,                   D,  1.79 m,  b. 5 Mar 2002
+Nikita Belousov,              M,  1.71 m,  b. 26 Feb 2002 @ Tuymazy
+Viktor Aleksandrov,           D,  1.90 m,  b. 14 Feb 2002 @ Nizhny Novgorod
+Vladislav Yakovlev,           F,  1.85 m,  b. 14 Feb 2002 @ Moscow
+Magomedemin Rabadanov,        F,  1.68 m,  b. 5 Feb 2002 @ Sergokala
+Saba Sazonov,                 D,  1.94 m,  b. 1 Feb 2002 @ St. Petersburg
+Stepan Surikov,               M,  1.87 m,  b. 30 Jan 2002 @ Izhevsk
+Ilya Kuptsov,                 G,  1.97 m,  b. 25 Jan 2002 @ Moscow
+Kirill Schetinin,             M,  1.78 m,  b. 17 Jan 2002 @ Kursk
+Dmitriy Kratkov,              M,  1.80 m,  b. 15 Jan 2002 @ Krasnogvardeyskoye
+Artur Maksimchuk,             F,  1.85 m,  b. 12 Jan 2002 @ Shchotove
+Maksim Matveev,               D,  1.83 m,  b. 11 Jan 2002 @ Ryazan
+Nikita Alekseyev,             G,  1.94 m,  b. 9 Jan 2002 @ Lukino
+Stanislav Agkatsev,           G,  1.89 m,  b. 9 Jan 2002 @ Vladikavkaz
+Artyom Shmykov,               D,  1.86 m,  b. 8 Jan 2002 @ Dzerzhinsk
+Vladislav Samko,              F,  1.76 m,  b. 3 Jan 2002
+Aleksandr Kutitskiy,          D|M,1.83 m,  b. 1 Jan 2002 @ Moscow
+Mishel Pukhaev,               M,  1.77 m,  b. 1 Jan 2002 @ Vladikavkaz
+
+Fanil Sungatulin,             M,  1.77 m,  b. 24 Dec 2001 @ Yarkovo
+Kirill Dontsov,               D,  1.81 m,  b. 21 Dec 2001 @ Volgograd
+Vladislav Lazarev,            M,  1.81 m,  b. 13 Nov 2001 @ Kaliningrad
+Valeriy Tsarukyan,            M,  1.70 m,  b. 12 Nov 2001 @ Novaya Derevnya
+Maksim Mukhin,                M,  1.81 m,  b. 4 Nov 2001 @ Tolyatti
+Ivan Repyakh,                 F,  1.69 m,  b. 18 Oct 2001 @ Krasnodar
+Daniil Kornyushin,            D,  1.87 m,  b. 8 Oct 2001 @ Stavropol
+Stepan Oganesyan,             F,  1.83 m,  b. 28 Sep 2001 @ Mezhdurechensk
+Islam Alsultanov,             F,  1.85 m,  b. 18 Aug 2001
+Ruslan Litvinov,              M,  1.83 m,  b. 18 Aug 2001 @ Voronezh
+Edgar Sevikyan,               M,  1.75 m,  b. 8 Aug 2001 @ Moscow
+Kirill Kosarev,               F,  1.79 m,  b. 1 Aug 2001 @ Samara
+Tamerlan Musayev,             F,  1.84 m,  b. 29 Jul 2001 @ Sultan-Yangi-Yurt
+Ivan Budachev,                G,  1.93 m,  b. 20 Jul 2001 @ St. Petersburg
+Timur Melekestsev,            F,  1.89 m,  b. 3 Jul 2001 @ Novoaleksandrovsk
+Maksim Kutovoy,               F,  1.87 m,  b. 1 Jul 2001 @ Slavyansk-na-Kubani
+Danila Smirnov,               M,  1.76 m,  b. 7 Jun 2001 @ Samara
+Danila Vedernikov,            D,  1.76 m,  b. 6 Jun 2001 @ Astrakhan
+Artem Sukhanov,               D,  1.77 m,  b. 29 May 2001 @ Vologda
+Marat Apshatsev,              M,  1.77 m,  b. 27 May 2001 @ Nalchik
+Danila Prokhin,               D,  1.86 m,  b. 24 May 2001 @ Kirishi
+Vitali Botnar,                G,  1.87 m,  b. 19 May 2001 @ Bălți
+Georgi Sulakvelidze,          M,  1.77 m,  b. 18 Apr 2001 @ Moscow
+Nikita Iosifov,               M,  1.75 m,  b. 11 Apr 2001 @ Tambov
+Vyacheslav Litvinov,          D,  1.90 m,  b. 1 Apr 2001 @ Anapa
+Nikoloz Kutateladze,          F,  1.84 m,  b. 19 Mar 2001 @ Tbilisi
+Vladimir Khubulov,            F,  1.79 m,  b. 2 Mar 2001 @ Vladikavkaz
+Daniil Khlusevich,            M,  1.82 m,  b. 26 Feb 2001 @ Simferopol
+Aleksandr Silyanov,           D,  1.85 m,  b. 17 Feb 2001 @ Moscow
+Ilya Bykovskiy,               D,  1.75 m,  b. 16 Feb 2001 @ Lyubertsy
+Sergey Samok,                 G,  1.90 m,  b. 15 Feb 2001 @ Talmenka
+Yevgeniy Morozov,             D,  1.87 m,  b. 14 Feb 2001 @ Moscow
+Egor Teslenko,                D,  1.86 m,  b. 31 Jan 2001 @ Krasnodar
+Kirill Klimov,                F,  1.91 m,  b. 30 Jan 2001 @ Oryol
+Georgy Karginov,              M,  1.76 m,  b. 29 Jan 2001 @ Vladikavkaz
+Petr Kudakovskiy,             G,  1.93 m,  b. 25 Jan 2001 @ Vladivostok
+Ilya Agapov,                  D,  1.74 m,  b. 21 Jan 2001 @ Kazan
+Maksim Petrov,                M,  1.70 m,  b. 18 Jan 2001 @ Balashikha
+Ilya Vakhania,                D,  1.78 m,  b. 14 Jan 2001 @ St. Petersburg
+Igor Shkolik,                 M,  1.78 m,  b. 9 Jan 2001 @ Arkhangelsk
+Daniil Chernyakov,            M,  1.78 m,  b. 7 Jan 2001 @ Davydovo
+Danil Kazantsev,              M,  1.87 m,  b. 5 Jan 2001 @ Syzran
+
+Kirill Bozhenov,              M,  1.74 m,  b. 7 Dec 2000 @ Barnaul
+Denis Shepilov,               M,  1.84 m,  b. 17 Nov 2000 @ Voronezh
+Andrey Nikitin,               D,  1.78 m,  b. 26 Oct 2000 @ Belgorod
+Ivan Kuzmichev,               D,  1.93 m,  b. 20 Oct 2000 @ Tolyatti
+Ilya Sadygov,                 F,  1.92 m,  b. 29 Sep 2000 @ Khimki
+Ilya Svinov,                  G,  1.93 m,  b. 25 Sep 2000 @ Tolyatti
+Vladislav Molchan,            D,  1.89 m,  b. 21 Sep 2000 @ St. Petersburg
+Ilya Kuleshin,                M,  1.79 m,  b. 29 Aug 2000 @ Tula
+Anatoli Nemchenko,            M,  1.70 m,  b. 22 Aug 2000 @ Kislovodsk
+Nikolai Titkov,               M,  1.77 m,  b. 18 Aug 2000 @ Ryazan
+Artyom Shabolin,              M,  1.87 m,  b. 19 Jul 2000 @ Barnaul
+Nikita Karmaev,               D,  1.89 m,  b. 17 Jul 2000 @ Slavyansk-na-Kubani
+Gamid Agalarov,               F,  1.80 m,  b. 16 Jul 2000 @ Makhachkala
+Nail Umyarov,                 M,  1.82 m,  b. 27 Jun 2000 @ Syzran
+Ruslan Fishchenko,            M,  1.85 m,  b. 9 Jun 2000 @ Moscow
+Eduard Spertsyan,             M,  1.78 m,  b. 7 Jun 2000 @ Stavropol
+Leon Klassen,                 D,  1.74 m,  b. 29 May 2000 @ Bad Neuenahr-Ahrweiler
+Vladislav Volkov,             D,  1.93 m,  b. 18 May 2000 @ Bilhorod-Dnistrovskyi
+Gocha Gogrichiani,            F,  1.75 m,  b. 5 May 2000 @ Sochi
+Mikhail Ignatov,              M,  1.87 m,  b. 4 May 2000 @ Moscow
+Mikhail Ageyev,               F,  1.90 m,  b. 22 Apr 2000 @ Volzhskiy
+Nikita Koldunov,              M,  1.78 m,  b. 19 Apr 2000 @ St. Petersburg
+Pavel Maslov,                 D,  1.84 m,  b. 14 Apr 2000 @ Tyumen
+Danil Prutsev,                M,  1.74 m,  b. 25 Mar 2000 @ Mostovskoy
+Timur Suleymanov,             F,  1.83 m,  b. 17 Mar 2000 @ Derbent
+Ilya Berkovsky,               M,  1.80 m,  b. 15 Mar 2000 @ Tavricheskoye
+Danila Proshlyakov,           F,  1.87 m,  b. 8 Mar 2000 @ Moscow
+Andrei Bokovoy,               M,  1.75 m,  b. 4 Mar 2000 @ St. Petersburg
+Vitaliy Sychev,               G,  2.00 m,  b. 2 Mar 2000 @ Barnaul
+Vladimir Moskvichev,          M,  1.77 m,  b. 2 Mar 2000 @ Moscow
+Kirill Folmer,                M,  1.78 m,  b. 25 Feb 2000 @ Engels
+Maksim Borisko,               G,  1.94 m,  b. 15 Feb 2000 @ Krasnodar
+Artur Chyorny,                D,  1.87 m,  b. 11 Feb 2000 @ Vladikavkaz
+Konstantin Maradishvili,      M,  1.79 m,  b. 7 Feb 2000 @ Moscow
+Kirill Glushchenkov,          D,  1.91 m,  b. 5 Feb 2000 @ Stavropol
+Minkail Matsuev,              M,  1.70 m,  b. 3 Feb 2000
+Aleksandr Chernikov,          M,  1.84 m,  b. 1 Feb 2000 @ Vyselki
+Kirill Kolesnichenko,         D|F,1.83 m,  b. 31 Jan 2000 @ Kamyshin
+Oleg Isayenko,                D,  1.72 m,  b. 31 Jan 2000 @ Kaliningrad
+Anton Shitov,                 G,  1.90 m,  b. 29 Jan 2000 @ Moscow
+Danil Stepanov,               D,  1.72 m,  b. 25 Jan 2000 @ Kazan
+Ilya Martynov,                D,  1.85 m,  b. 25 Jan 2000 @ Rostov-on-Don
+Kirill Ushatov,               M,  1.78 m,  b. 24 Jan 2000 @ Moscow
+Danila Yemelyanov,            M,  1.83 m,  b. 23 Jan 2000 @ Asha
+Nikita Khlusov,               F,  1.84 m,  b. 16 Jan 2000 @ St. Petersburg
+Konstantin Kovalev,           M,  1.78 m,  b. 14 Jan 2000 @ Kursk
+Lechi Sadulayev,              M,  1.79 m,  b. 8 Jan 2000 @ Tsentaroy
+David Kobesov,                M,  1.82 m,  b. 6 Jan 2000 @ Vladikavkaz
+Vladislav Karapuzov,          M,  1.80 m,  b. 6 Jan 2000 @ Norilsk
+Vladislav Poletayev,          G,  1.88 m,  b. 5 Jan 2000 @ Yekaterinburg
+Aleksey Mironov,              M,  1.75 m,  b. 1 Jan 2000 @ Moscow
+Dzambolat Tsallagov,          M,  1.81 m,  b. 1 Jan 2000 @ Vladikavkaz
+
+Magomed Suleymanov,           F,  1.71 m,  b. 16 Dec 1999 @ Makhachkala
+Danil Glebov,                 M,  1.78 m,  b. 3 Nov 1999 @ Tomsk
+Arsen Adamov,                 D,  1.81 m,  b. 20 Oct 1999 @ Nizhny Tagil
+Nikolai Poyarkov,             D,  1.78 m,  b. 16 Oct 1999 @ Yefremov
+Daniil Utkin,                 M,  1.83 m,  b. 12 Oct 1999 @ Aksay
+Igor Diveev,                  D,  1.93 m,  b. 27 Sep 1999 @ Ufa
+Danil Lipovoy,                M,  1.77 m,  b. 22 Sep 1999 @ Kirov
+Vladimir Kabakhidze,          M,  1.75 m,  b. 9 Sep 1999 @ Krasnodar
+Aykhan Guseynov,              M,  1.81 m,  b. 3 Sep 1999 @ St. Petersburg
+Andrey Savin,                 G,  1.93 m,  b. 30 Aug 1999 @ Kirov
+Nikita Kakkoev,               D,  1.84 m,  b. 22 Aug 1999 @ St. Petersburg
+Soltmurad Bakayev,            M,  1.78 m,  b. 5 Aug 1999 @ Nazran
+Maksim Glushenkov,            M,  1.79 m,  b. 28 Jul 1999 @ Smolensk
+Nikita Repin,                 G,  1.92 m,  b. 28 Jul 1999 @ Volgograd
+Igor Golenkov,                F,  1.89 m,  b. 7 Jul 1999 @ Samara
+Dmitri Tsypchenko,            F,  1.84 m,  b. 29 Jun 1999 @ Voronezh
+Danil Karpov,                 F,  1.79 m,  b. 28 Jun 1999 @ Tyumen
+Artur Galoyan,                M,  1.76 m,  b. 25 Jun 1999 @ Moscow
+Kirill Kaplenko,              M,  1.87 m,  b. 15 Jun 1999 @ Minsk
+Danil Massurenko,             F,  1.76 m,  b. 22 May 1999 @ Rostov-on-Don
+Dmitry Landakov,              G,  1.98 m,  b. 21 May 1999 @ Moscow
+Nikolay Sysuev,               G,  1.90 m,  b. 19 May 1999 @ Nizhny Novgorod
+Sergei Slepov,                D,  1.68 m,  b. 19 May 1999 @ Yekaterinburg
+Nayair Tiknizyan,             D|M,1.80 m,  b. 12 May 1999 @ St. Petersburg
+Stanislav Magkeyev,           D|M,1.86 m,  b. 27 Mar 1999 @ Vladikavkaz
+Vyacheslav Grulyov,           F,  1.89 m,  b. 23 Mar 1999 @ Kemerovo
+Aleksey Mamin,                G,  1.87 m,  b. 22 Mar 1999 @ Yekaterinburg
+Aleksandr Rudenko,            F,  1.72 m,  b. 15 Mar 1999 @ Darjevka
+Yuri Gorshkov,                D,  1.74 m,  b. 13 Mar 1999 @ Kondopoga
+Andrei Yevdokimov,            D,  1.91 m,  b. 9 Mar 1999
+Oleg Dzantiev,                D,  1.93 m,  b. 9 Mar 1999 @ Krasnodar
+Dmitriy Merenchukov,          F,  1.76 m,  b. 3 Mar 1999 @ Leninsk-Kuznetskiy
+Matvey Safonov,               G,  1.92 m,  b. 25 Feb 1999 @ Krasnodar
+Roman Evgenyev,               D,  1.92 m,  b. 23 Feb 1999 @ Spasskoye
+Yevgeniy Tatarinov,           F,  1.80 m,  b. 6 Feb 1999 @ Verkhnyaya Salda
+Sergey Borodin,               D,  1.88 m,  b. 30 Jan 1999 @ Lazarevskoye
+Leon Musayev,                 M,  1.79 m,  b. 25 Jan 1999 @ St. Petersburg
+Artyom Golubev,               D,  1.81 m,  b. 21 Jan 1999 @ Volgograd
+Ivan Lomayev,                 G,  1.90 m,  b. 21 Jan 1999 @ Kemerovo
+Idris Umayev,                 F,  1.76 m,  b. 15 Jan 1999 @ Komsomolskoye
+Yegor Proshkin,               D,  1.89 m,  b. 15 Jan 1999 @ Moscow
+Aleks Matsukatov,             M,  1.80 m,  b. 11 Jan 1999 @ Oktyabrskoye
+Ivan Ignatyev,                F,  1.80 m,  b. 6 Jan 1999 @ Achinsk
+Bogdan Ovsyannikov,           G,  1.89 m,  b. 5 Jan 1999 @ Nizhny Novgorod
+
+Maksim Nenakhov,              D,  1.78 m,  b. 13 Dec 1998 @ Krasnogarsk
+Batraz Gurtsiyev,             M,  1.81 m,  b. 12 Dec 1998 @ Vladikavkaz
+Aleksandr Golovnya,           D,  1.95 m,  b. 27 Oct 1998 @ Moscow
+Aleksandr Osipov,             M,  1.86 m,  b. 21 Oct 1998 @ Kolomna
+Dzhambulat Dulayev,           F,  1.79 m,  b. 18 Oct 1998
+Kamran Aliyev,                F,  1.78 m,  b. 15 Oct 1998 @ Baku
+Aleksei Tatayev,              D,  1.83 m,  b. 8 Oct 1998 @ Tskhinvali
+Erving Botaka,                D,  1.84 m,  b. 5 Oct 1998 @ Pushkino
+Aleksandr Dolgov,             F,  1.84 m,  b. 24 Sep 1998 @ Voronezh
+Igor Paradin,                 D,  1.75 m,  b. 10 Sep 1998 @ Mostovskoy
+Ivan Oleynikov,               M,  1.78 m,  b. 24 Aug 1998 @ Podolsk
+Aleksey Kenyaykin,            G,  1.89 m,  b. 23 Aug 1998 @ Samara
+Dmitri Rybchinsky,            M,  1.78 m,  b. 19 Aug 1998 @ Moscow
+Nikita Goylo,                 G,  1.88 m,  b. 10 Aug 1998 @ St. Petersburg
+Chingiz Magomadov,            D,  1.78 m,  b. 1 Aug 1998 @ Kurchaloy
+Roman Tugarev,                M,  1.70 m,  b. 22 Jul 1998 @ Izhevsk
+Mikhail Tikhonov,             D,  1.76 m,  b. 17 Jul 1998 @ Moscow
+Ivan Oblyakov,                M,  1.75 m,  b. 5 Jul 1998 @ Vyndin Ostrov
+Daniil Kulikov,               M,  1.78 m,  b. 24 Jun 1998 @ Reutov
+Yevgeni Latyshonok,           G,  1.89 m,  b. 21 Jun 1998 @ Giaginskaya
+Aleksey Chernov,              G,  1.97 m,  b. 3 Jun 1998 @ Kozelsk
+Danil Krugovoy,               D,  1.75 m,  b. 28 May 1998 @ St. Petersburg
+Artyom Maksimenko,            F,  1.85 m,  b. 27 May 1998 @ Tolyatii
+Artyom Galadzhan,             F,  1.80 m,  b. 22 May 1998 @ Novorossiysk
+Oleg Nikolayev,               D,  1.80 m,  b. 21 May 1998 @ Luhansk
+Fyodor Chalov,                F,  1.80 m,  b. 10 Apr 1998 @ Moscow
+Islamzhan Nasyrov,            D,  1.79 m,  b. 8 Apr 1998 @ Luzhki
+Georgi Makhatadze,            M,  1.80 m,  b. 26 Mar 1998 @ Rostov-on-Don
+Aleksandr Melikhov,           G,  1.90 m,  b. 23 Mar 1998 @ Novokuznetsk
+Daniil Penchikov,             D,  1.84 m,  b. 21 Mar 1998 @ St. Petersburg
+Aleksandr Maksimenko,         G,  1.87 m,  b. 18 Mar 1998 @ Rostov-on-Don
+Konstantin Kuchaev,           M,  1.78 m,  b. 18 Mar 1998 @ Ryazan
+Maksim Sidorov,               D,  1.78 m,  b. 18 Mar 1998 @ Krasnodar
+Nikita Kalugin,               D,  1.84 m,  b. 12 Mar 1998 @ Krasnoe-na-Volge
+Denis Adamov,                 G,  1.94 m,  b. 20 Feb 1998 @ Ulyanovsk
+Denis Makarov,                M,  1.81 m,  b. 18 Feb 1998 @ Tolyatti
+Maksim Vityugov,              M,  1.79 m,  b. 1 Feb 1998 @ Krasnoyarsk
+Anton Terekhov,               M,  1.86 m,  b. 30 Jan 1998 @ Surgut
+Mikhail Lysov,                D,  1.82 m,  b. 29 Jan 1998 @ Vladimir
+Aleksandr Lomovitskiy,        M,  1.81 m,  b. 27 Jan 1998 @ Moscow
+Dmitriy Redkovich,            D,  1.83 m,  b. 15 Jan 1998 @ Moscow
+Daniil Lesovoy,               M,  1.75 m,  b. 12 Jan 1998 @ Moscow
+Ramazan Gadzhimuradov,        M,  1.78 m,  b. 9 Jan 1998 @ Moscow
+Vyacheslav Yakimov,           M,  1.78 m,  b. 5 Jan 1998 @ Novokubansk
+Nikolay Rasskazov,            D,  1.80 m,  b. 4 Jan 1998 @ Yefremov
+Nikolay Prudnikov,            F,  1.71 m,  b. 1 Jan 1998 @ Shklov
+
+Ilzat Akhmetov,               M,  1.72 m,  b. 31 Dec 1997 @ Bishkek
+Butta Magomedov,              M,  1.75 m,  b. 25 Dec 1997 @ Makhachkala
+Roman Minayev,                F,  1.78 m,  b. 24 Dec 1997 @ Kursk
+Dmitriy Vorobyov,             F,  1.84 m,  b. 28 Nov 1997 @ Kubanskaya Step
+Ilya Samoshnikov,             D,  1.77 m,  b. 14 Nov 1997 @ Moscow
+Andrey Mostovoy,              M,  1.80 m,  b. 5 Nov 1997 @ Omsk
+Ilya Gaponov,                 D,  1.85 m,  b. 25 Oct 1997 @ Orel
+Vladislav Sarveli,            F,  1.76 m,  b. 1 Oct 1997 @ Bolshoy Kamen
+Roman Yezhov,                 F,  1.81 m,  b. 2 Sep 1997 @ Nizhnekamsk
+Aleksandr Saplinov,           M,  1.95 m,  b. 12 Aug 1997 @ Stary Oskol
+Denis Kaykov,                 D,  1.90 m,  b. 12 Aug 1997 @ Moscow
+Yevheniy Chabanov,            M,  1.75 m,  b. 8 Aug 1997 @ Komsomolsk-on-Amur
+Artyom Mamin,                 D,  1.87 m,  b. 25 Jul 1997 @ Yekaterinburg
+Pavel Shakuro,                D,  1.80 m,  b. 25 Jul 1997 @ Tyumen
+Nikolay Giorgobiani,          M,  1.70 m,  b. 16 Jul 1997 @ Sochi
+Ilya Kamyshev,                M,  1.86 m,  b. 13 Jul 1997 @ Novotroitsk
+Moris Nusuev,                 D,  1.92 m,  b. 28 Jun 1997
+Artyom Yuran,                 D,  1.86 m,  b. 24 Jun 1997 @ Düsseldorf
+Yevgeniy Goshev,              G,  1.97 m,  b. 17 Jun 1997 @ Voronezh
+Artem Sokol,                  D,  1.80 m,  b. 11 Jun 1997 @ Moscow
+Leo Goglichidze,              D,  1.80 m,  b. 29 May 1997 @ Rostov-on-Don
+Timur Zhamaletdinov,          F,  1.81 m,  b. 21 May 1997 @ Moscow
+Artem Yusupov,                F,  1.90 m,  b. 29 Apr 1997 @ Yekaterinburg
+Georgiy Melkadze,             F,  1.80 m,  b. 4 Apr 1997 @ Moscow
+Aleksandr Sobolev,            F,  1.95 m,  b. 7 Mar 1997 @ Barnaul
+Ivan Zlobin,                  G,  1.91 m,  b. 7 Mar 1997 @ Tyumen
+Kirill Malyarov,              D,  1.83 m,  b. 7 Mar 1997 @ Moscow
+Daniil Fomin,                 M,  1.87 m,  b. 2 Mar 1997 @ Tikhoretsk
+Dmitriy Skopintsev,           D,  1.77 m,  b. 2 Mar 1997 @ Voronezh
+Eduard Valiakhmetov,          D,  1.78 m,  b. 26 Feb 1997 @ Yekaterinburg
+Nikolai Kipiani,              M,  1.80 m,  b. 25 Jan 1997 @ Tbilisi
+Sergey Serchenkov,            M,  1.79 m,  b. 1 Jan 1997 @ Krasnodar
+
+Aleksandr Soldatenkov,        D,  1.89 m,  b. 28 Dec 1996 @ Moscow
+Artyom Arkhipov,              F,  1.86 m,  b. 15 Dec 1996 @ Tambov
+Ayaz Guliev,                  M,  1.69 m,  b. 27 Nov 1996 @ Moscow
+Konstantin Pliyev,            D,  1.81 m,  b. 26 Oct 1996 @ Vladikavkaz
+Sergey Makarov,               M,  1.73 m,  b. 3 Oct 1996 @ Khabarovsk
+Rifat Zhemaletdinov,          M,  1.84 m,  b. 20 Sep 1996 @ Moscow
+Dmitriy Barinov,              M,  1.79 m,  b. 11 Sep 1996 @ Ogudnevo
+Tomas Rukas,                  D,  1.94 m,  b. 4 Sep 1996 @ Andrušaičiai
+Abubakar Kadyrov,             F,  1.78 m,  b. 26 Aug 1996 @ Tsentaroy
+Aleksey Kuznetsov,            G,  1.89 m,  b. 20 Aug 1996 @ Bryansk
+Ilya Pomazun,                 G,  1.89 m,  b. 16 Aug 1996 @ Kaliningrad
+Vladislav Panteleyev,         M,  1.78 m,  b. 15 Aug 1996 @ Aleksin
+Igor Bezdenezhnykh,           M,  1.75 m,  b. 8 Aug 1996 @ Ufa
+Igor Konovalov,               M,  1.80 m,  b. 8 Jul 1996 @ Belorechensk
+German Onugkha,               F,  1.90 m,  b. 6 Jul 1996 @ Moscow
+Zelimkhan Bakayev,            M,  1.79 m,  b. 1 Jul 1996 @ Nazran
+Yuri Zhuravlyov,              D,  1.87 m,  b. 29 Jun 1996 @ Krasnodar
+Aleksandr Zuev,               D|M,1.75 m,  b. 26 Jun 1996 @ Kostanay
+Ilya Stefanovich,             F,  1.88 m,  b. 23 Jun 1996 @ Dnipropetrovsk
+Maksim Kuzmin,                M,  1.78 m,  b. 1 Jun 1996 @ Samara
+Aleksandr Golovin,            M,  1.80 m,  b. 30 May 1996 @ Kaltan
+Said-Ali Akhmaev,             M,  1.82 m,  b. 30 May 1996 @ Moscow
+Igor Obukhov,                 G,  1.90 m,  b. 29 May 1996 @ St. Petersburg
+Denis Yakuba,                 M,  1.68 m,  b. 26 May 1996 @ Sotnikovskoye
+Aleksandr Troshechkin,        M,  1.83 m,  b. 23 Apr 1996 @ Moscow
+Anton Zinkovskiy,             M,  1.75 m,  b. 14 Apr 1996 @ Novorossiysk
+Georgi Gongadze,              F,  1.86 m,  b. 20 Mar 1996 @ Moscow
+Aleksey Kashtanov,            F,  1.96 m,  b. 13 Mar 1996 @ Dyatkovo
+Vladimir Pisarsky,            F,  1.88 m,  b. 27 Feb 1996 @ Simferopol
+Igor Leshchuk,                G,  1.87 m,  b. 20 Feb 1996 @ Moscow
+Artyom Meshchaninov,          D,  1.89 m,  b. 19 Feb 1996 @ Kolpino
+Aleksandr Dovbnya,            D,  1.90 m,  b. 14 Feb 1996 @ Moscow
+Anton Mitryushkin,            G,  1.86 m,  b. 8 Feb 1996 @ Krasnoyarsk
+Ilya Zhigulyov,               M,  1.75 m,  b. 1 Feb 1996 @ Chernomorski
+Aleksandr Ektov,              D|M,1.73 m,  b. 30 Jan 1996 @ Volokolamsk
+Maksim Rudakov,               G,  1.90 m,  b. 22 Jan 1996 @ St. Petersburg
+Nikita Chernov,               D,  1.88 m,  b. 14 Jan 1996 @ Volzhsky
+Vasiliy Cherov,               D,  1.85 m,  b. 13 Jan 1996 @ Slavyansk-na-Kubani
+
+Mingiyan Beveyev,             D,  1.82 m,  b. 30 Nov 1995 @ Elista
+Oleg Dmitriyev,               M,  1.80 m,  b. 18 Nov 1995 @ Vyazma
+Vladislav Masternoy,          D,  1.79 m,  b. 17 Nov 1995 @ Pskov
+Ilya Lantratov,               G,  1.91 m,  b. 11 Nov 1995 @ Prokhorovka
+Artyom Makarchuk,             D,  1.85 m,  b. 9 Nov 1995 @ Svetly
+Egor Sorokin,                 D,  1.89 m,  b. 4 Nov 1995 @ St. Petersburg
+Maksim Maksimov,              F,  1.90 m,  b. 4 Nov 1995 @ Voronezh
+Aleksey Miranchuk,            M,  1.82 m,  b. 17 Oct 1995 @ Slavyansk-na-Kubani
+Anton Miranchuk,              M,  1.83 m,  b. 17 Oct 1995 @ Slavyansk-na-Kubani
+Vladislav Kamilov,            M,  1.76 m,  b. 29 Aug 1995 @ Kalmanka
+Svyatoslav Georgievskiy,      M,  1.74 m,  b. 26 Aug 1995 @ Moscow
+Egor Danilkin,                D,  1.86 m,  b. 1 Aug 1995 @ Vladimir
+Maksim Shiryaev,              D,  1.97 m,  b. 13 Jul 1995 @ Moscow
+Nikita Khaikin,               G,  1.86 m,  b. 11 Jul 1995 @ Netanya
+Vitaliy Lystsov,              D,  1.92 m,  b. 11 Jul 1995 @ Voronezh
+Nikolay Komlichenko,          F,  1.91 m,  b. 29 Jun 1995 @ Plastunovskaya
+Arshak Koryan,                F,  1.69 m,  b. 17 Jun 1995 @ Sochi
+Evgeny Kharin,                M,  1.85 m,  b. 11 Jun 1995 @ Tallinn
+Aleksey Gritsayenko,          D,  1.86 m,  b. 25 May 1995 @ Vladivostok
+Vyacheslav Karavaev,          D,  1.75 m,  b. 20 May 1995 @ Moscow
+Ivan Sergeyev,                F,  1.84 m,  b. 11 May 1995 @ Cherepovets
+Nikita Chagrov,               G,  2.01 m,  b. 24 Apr 1995 @ Moscow
+Vitaliy Gudiyev,              G,  1.81 m,  b. 22 Apr 1995 @ Vladikavkaz
+Andrey Mendel,                M,  1.86 m,  b. 17 Apr 1995 @ Krasnoselskoe
+Aleksandr Yushin,             M|F,1.81 m,  b. 4 Apr 1995 @ Moscow
+Dmitriy Efremov,              M,  1.80 m,  b. 1 Apr 1995 @ Ulyanovsk
+Vladislav Levin,              M,  1.80 m,  b. 28 Mar 1995 @ Moscow
+Denis Davydov,                F,  1.75 m,  b. 22 Mar 1995 @ Moscow
+Maksim Karpov,                D,  1.93 m,  b. 17 Mar 1995 @ St. Petersburg
+David Karayev,                F,  1.80 m,  b. 10 Mar 1995 @ Vladikavkaz
+Elmir Nabiullin,              D,  1.76 m,  b. 8 Mar 1995 @ Kazan
+Maksim Martusevich,           M,  1.75 m,  b. 7 Mar 1995 @ Moscow
+Aleksandr Vasyutin,           G,  1.90 m,  b. 4 Mar 1995 @ St. Petersburg
+Guram Adzhoyev,               F,  1.85 m,  b. 27 Feb 1995 @ Miskolc
+
+Nikita Medvedev,              G,  1.92 m,  b. 17 Dec 1994 @ Izhevsk
+Oleg Baklov,                  G,  2.01 m,  b. 20 Oct 1994 @ Syzran
+Andrey Panyukov,              F,  1.78 m,  b. 25 Sep 1994 @ Moscow
+Igor Gorbunov,                M,  1.72 m,  b. 20 Sep 1994 @ Nikitino
+Sergey Bozhin,                D,  1.80 m,  b. 12 Sep 1994 @ Samara
+Ivan Konovalov,               G,  1.91 m,  b. 18 Aug 1994 @ Balashikha
+Yevgeniy Markov,              F,  1.87 m,  b. 7 Jul 1994 @ St. Petersburg
+Grigoriy Morozov,             D,  1.83 m,  b. 6 Jun 1994 @ Izhevsk
+Yegor Shamov,                 G,  1.90 m,  b. 2 Jun 1994 @ Moscow
+Amur Kalmykov,                F,  1.91 m,  b. 29 May 1994 @ Islamey
+Dmitriy Zhivoglyadov,         D,  1.78 m,  b. 29 May 1994 @ Dubna
+Vladimir Ilyin,               F,  1.87 m,  b. 20 May 1994 @ St. Petersburg
+Maksim Osipenko,              D,  1.90 m,  b. 16 May 1994 @ Omsk
+Azer Aliyev,                  M,  1.68 m,  b. 12 May 1994 @ Krasnoyarsk
+Yuriy Shafinskiy,             G,  1.90 m,  b. 6 May 1994 @ Moscow
+Khalid Kadyrov,               M,  1.64 m,  b. 19 Apr 1994 @ Tsentaroy
+Aleksandr Selikhov,           G,  1.90 m,  b. 7 Apr 1994 @ Orel
+Aleksey Evseev,               M,  1.87 m,  b. 30 Mar 1994 @ St. Petersburg
+Serder Serderov,              F,  1.76 m,  b. 10 Mar 1994 @ Makhachkala
+Roman Zobnin,                 M,  1.84 m,  b. 11 Feb 1994 @ Irkutsk
+Ivan Enin,                    M,  1.83 m,  b. 6 Feb 1994 @ Kherson
+Yuriy Bavin,                  M,  1.72 m,  b. 5 Feb 1994 @ Slautnoe
+Mikhail Merkulov,             D,  1.77 m,  b. 26 Jan 1994 @ Kamyshin
+Dmitri Chistyakov,            D,  1.85 m,  b. 13 Jan 1994 @ Pikalyovo
+Artem Timofeev,               M,  1.85 m,  b. 12 Jan 1994 @ Saratov
+Aleksey Sutormin,             M,  1.87 m,  b. 10 Jan 1994 @ St. Petersburg
+Artem Samsonov,               D,  1.81 m,  b. 5 Jan 1994 @ Kaluga
+Kamil Mullin,                 F,  1.78 m,  b. 5 Jan 1994 @ Moscow
+
+Igor Yurganov,                D,  1.86 m,  b. 10 Dec 1993 @ Rubtsovsk
+Georgi Dzhikiya,              D,  1.83 m,  b. 21 Nov 1993 @ Moscow
+Nikolay Kalinskiy,            M,  1.80 m,  b. 22 Sep 1993 @ Moscow
+Ilnur Alshin,                 M,  1.73 m,  b. 31 Aug 1993 @ Tyumen
+Aleksey Gorodovoy,            G,  1.91 m,  b. 10 Aug 1993 @ Stavropol
+Egor Baburin,                 G,  1.84 m,  b. 9 Aug 1993 @ Chernihiv
+Ilya Kutepov,                 D,  1.91 m,  b. 29 Jul 1993 @ Stavropol
+Timur Ayupov,                 M,  1.83 m,  b. 26 Jul 1993 @ Moscow
+Reziuan Mirzov,               M,  1.80 m,  b. 22 Jun 1993 @ Baksan
+Mikhail Oparin,               G,  1.91 m,  b. 22 May 1993 @ Omsk
+Maksim Barsov,                F,  1.74 m,  b. 29 Apr 1993 @ Tver
+Anton Shvets,                 M,  1.87 m,  b. 26 Apr 1993 @ Moscow
+Aleksei Gerasimov,            D,  1.94 m,  b. 15 Apr 1993 @ Borisoglebsk
+Albert Sharipov,              M,  1.71 m,  b. 11 Apr 1993 @ Samara
+Merabi Uridia,                F,  1.75 m,  b. 7 Apr 1993 @ Batumi
+Ravil Netfullin,              M,  1.83 m,  b. 3 Mar 1993 @ Moscow
+Soslan Takazov,               D,  1.86 m,  b. 28 Feb 1993 @ Vladikavkaz
+Aleksandr Putsko,             D,  1.85 m,  b. 24 Feb 1993 @ Unecha
+Vyacheslav Krotov,            F,  1.81 m,  b. 14 Feb 1993 @ Astrakhan
+Pavel Mogilevets,             M,  1.83 m,  b. 25 Jan 1993 @ Kingisepp
+Egor Generalov,               G,  1.87 m,  b. 24 Jan 1993 @ Smorgon
+Gela Zaseyev,                 M,  1.82 m,  b. 20 Jan 1993
+Daler Kuzyayev,               M,  1.90 m,  b. 15 Jan 1993 @ Orenburg
+Alikhan Shavaev,              M,  1.76 m,  b. 5 Jan 1993 @ Nalchik
+
+Artur Anisimov,               G,  1.86 m,  b. 31 Dec 1992 @ Naberezhnye Chelny
+Mukhammad Sultonov,           M,  1.76 m,  b. 22 Dec 1992 @ Yovon
+Sergey Bryzgalov,             D,  1.78 m,  b. 15 Nov 1992 @ Pavlovo
+Magomed Ozdoev,               M,  1.82 m,  b. 5 Nov 1992 @ Grozny
+Dmitri Tikhiy,                D,  1.86 m,  b. 29 Oct 1992 @ Vladivostok
+Evgeniy Chernov,              D,  1.80 m,  b. 23 Oct 1992 @ Tomsk
+Kirill Zaika,                 D,  1.68 m,  b. 7 Oct 1992 @ Uspenskoye
+Kirill Gotsuk,                D,  1.94 m,  b. 10 Sep 1992 @ Yelets
+Denis Terentyev,              D,  1.81 m,  b. 13 Aug 1992 @ St. Petersburg
+Pavel Karasev,                M,  1.75 m,  b. 10 Jul 1992 @ Drezna
+Vyacheslav Podberezkin,       M,  1.87 m,  b. 21 Jun 1992 @ Moscow
+Dmitriy Barkov,               F,  1.83 m,  b. 19 Jun 1992 @ St. Petersburg
+Timofey Margasov,             D,  1.81 m,  b. 12 Jun 1992 @ Tolyatti
+Naim Sharifi,                 D,  1.75 m,  b. 3 Jun 1992 @ Dushanbe
+Roman Emelyanov,              M,  1.89 m,  b. 8 May 1992 @ Pavlovo
+Nikita Drozdov,               M,  1.74 m,  b. 21 Apr 1992 @ Moscow
+Valeriy Pochivalin,           D,  1.78 m,  b. 11 Apr 1992 @ Voronezh
+Dmitri Kabutov,               D|F,1.72 m,  b. 26 Mar 1992 @ Sokur
+Vladimir Obukhov,             F,  1.84 m,  b. 8 Feb 1992 @ Bukhara
+Aleksey Nikitin,              D,  1.87 m,  b. 27 Jan 1992 @ Moscow
+Khoren Bayramyan,             M,  1.69 m,  b. 7 Jan 1992 @ Koti
+
+Yan Kazayev,                  M,  1.83 m,  b. 26 Nov 1991 @ St. Petersburg
+Andrey Lunev,                 G,  1.89 m,  b. 13 Nov 1991 @ Moscow
+Roman Akbashev,               M,  1.77 m,  b. 1 Nov 1991 @ Sterlitamak
+Kirill Suslov,                D,  1.80 m,  b. 26 Oct 1991 @ Vysokovsk
+Mikhail Levashov,             G,  1.93 m,  b. 4 Oct 1991 @ Bogoroditsk
+Maksim Belyayev,              D,  1.85 m,  b. 30 Sep 1991 @ Ozyory
+Zaurbek Pliev,                D,  1.82 m,  b. 27 Sep 1991 @ Vladikavkaz
+Ruslan Magal,                 D,  1.72 m,  b. 24 Sep 1991 @ Voronezh
+Yevgeni Shlyakov,             D,  1.83 m,  b. 30 Aug 1991 @ Bryansk
+Ivan Novoseltsev,             D,  1.91 m,  b. 25 Aug 1991 @ Moscow
+Arseniy Logashov,             D,  1.83 m,  b. 20 Aug 1991 @ Kursk
+Mikhail Kostyukov,            M,  1.82 m,  b. 9 Aug 1991 @ Nizhny Novgorod
+Maksim Kanunnikov,            F,  1.83 m,  b. 14 Jul 1991 @ St. Petersburg
+Dmitriy Poloz,                F,  1.83 m,  b. 12 Jul 1991 @ Stavropol
+Evgeniy Bashkirov,            M,  1.73 m,  b. 6 Jul 1991 @ St. Petersburg
+Anton Zabolotniy,             F,  1.88 m,  b. 13 Jun 1991 @ Lipetsk
+Artur Nigmatullin,            G,  1.92 m,  b. 17 May 1991 @ Vladivostok
+Georgi Schennikov,            D,  1.78 m,  b. 27 Apr 1991 @ Moscow
+Evgeniy Gapon,                D,  1.89 m,  b. 20 Apr 1991 @ Novosibirsk
+Aleksandr Kokorin,            F,  1.84 m,  b. 19 Mar 1991 @ Moscow
+Aleksandr Zhirov,             D,  1.93 m,  b. 24 Jan 1991 @ Barnaul
+Vitaliy Shakhov,              D,  1.88 m,  b. 9 Jan 1991 @ Severny
+Sergey Petrov,                D,  1.80 m,  b. 2 Jan 1991 @ St. Petersburg
+
+Denis Cheryshev,              M,  1.79 m,  b. 26 Dec 1990 @ Nizhny Novgorod
+Ibrahim Tsallagov,            D|M,1.77 m,  b. 12 Dec 1990 @ Vladikavkaz
+Stanislav Kritsyuk,           G,  1.92 m,  b. 1 Dec 1990 @ Tolyatti
+Anton Kilin,                  M,  1.69 m,  b. 14 Nov 1990 @ Izhevsk
+Mário Fernandes,              D,  1.89 m,  b. 19 Sep 1990 @ São Caetano
+Aleksandr Zotov,              M,  1.72 m,  b. 27 Aug 1990 @ Askiz
+Nikita Chicherin,             D,  1.84 m,  b. 18 Aug 1990 @ Moscow
+Ilya Kukharchuk,              M|F,1.84 m,  b. 2 Aug 1990 @ Kostroma
+Oleg Shatov,                  M,  1.73 m,  b. 29 Jul 1990 @ Nizhny Tagil
+Aleksey Shumskikh,            D,  1.89 m,  b. 1 Jul 1990 @ Barnaul
+Sergey Terekhov,              D,  1.80 m,  b. 27 Jun 1990 @ Bryansk
+Alan Dzagoev,                 M,  1.79 m,  b. 17 Jun 1990 @ Beslan
+Aslan Dudiyev,                D,  1.81 m,  b. 15 Jun 1990 @ Alagir
+Mikhail Smirnov,              D,  1.88 m,  b. 3 Jun 1990 @ St. Petersburg
+Oleg Kozhemyakin,             D,  1.80 m,  b. 30 May 1990 @ Kryvyi Rih
+Yuri Lodigin,                 G,  1.85 m,  b. 26 May 1990 @ Vladimir
+Aleksey Pomerko,              M,  1.82 m,  b. 3 May 1990 @ Gorodovikovsk
+Nikolay Zabolotniy,           G,  1.84 m,  b. 16 Apr 1990 @ St. Petersburg
+Taras Burlak,                 D,  1.87 m,  b. 22 Feb 1990 @ Vladivostok
+Fedor Smolov,                 F,  1.87 m,  b. 9 Feb 1990 @ Saratov
+Khyzyr Appayev,               F,  1.75 m,  b. 27 Jan 1990 @ Nalchik
+Georgiy Zotov,                D,  1.74 m,  b. 12 Jan 1990 @ Novosibirsk
+Ruslan Kambolov,              M,  1.80 m,  b. 1 Jan 1990 @ Moscow
+
+Dmitriy Stotskiy,             D|M,1.71 m,  b. 1 Dec 1989 @ Kaliningrad
+Nikita Malyarov,              M,  1.81 m,  b. 23 Oct 1989 @ Moscow
+Kirill Panchenko,             F,  1.85 m,  b. 16 Oct 1989 @ Stavropol
+Aleksandr Erokhin,            M,  1.93 m,  b. 13 Oct 1989 @ Barnaul
+Aleksandr Yerkin,             M,  1.87 m,  b. 1 Sep 1989 @ St Petersburg
+Artur Yusupov,                M,  1.79 m,  b. 1 Sep 1989 @ Samara
+Yuriy Gazinskiy,              M,  1.84 m,  b. 20 Jul 1989 @ Komsomolsk-on-Amur
+Vladimir Poluyakhtov,         D,  1.80 m,  b. 11 Jul 1989 @ Krasavino
+Nikita Burmistrov,            M,  1.81 m,  b. 6 Jul 1989 @ Moscow
+Denis Tkachuk,                M,  1.76 m,  b. 2 Jul 1989 @ Belgorod
+Aleksandr Sapeta,             M,  1.79 m,  b. 28 Jun 1989 @ Engels
+Sergey Tkachev,               M,  1.83 m,  b. 19 May 1989 @ Boguchar
+Andrey Semenov,               D,  1.90 m,  b. 24 Mar 1989 @ Moscow
+Sergey Parshivlyuk,           D,  1.78 m,  b. 18 Mar 1989 @ Moscow
+Aleksandr Denisov,            D,  1.86 m,  b. 23 Feb 1989 @ Tula
+Yevgeni Pesegov,              M,  1.77 m,  b. 21 Feb 1989 @ Krasnoyarsk
+Aslan Dashayev,               D,  1.83 m,  b. 19 Feb 1989 @ Grozny
+Aleksey Ionov,                M,  1.77 m,  b. 18 Feb 1989 @ Kingisepp
+Azat Bairyyev,                D,  1.84 m,  b. 17 Feb 1989 @ Balkanabat
+Anton Piskunov,               D,  1.78 m,  b. 13 Feb 1989 @ Suzemka
+Igor Gorbatenko,              M,  1.70 m,  b. 13 Feb 1989 @ Belgorod
+Oleg Aleynik,                 M,  1.81 m,  b. 8 Feb 1989 @ Gukovo
+Ivan Temnikov,                D,  1.70 m,  b. 28 Jan 1989 @ Bratsk
+
+Sergey Pesyakov,              G,  1.95 m,  b. 16 Dec 1988 @ Ivanovo
+Viktor Vasin,                 D,  1.92 m,  b. 6 Oct 1988 @ St. Petersburg
+Pavel Mamaev,                 M,  1.78 m,  b. 17 Sep 1988 @ Moscow
+Andrey Malykh,                D,  1.76 m,  b. 24 Aug 1988 @ Kirov
+Artem Dzyuba,                 F,  1.93 m,  b. 22 Aug 1988 @ Moscow
+Igor Smolnikov,               D,  1.78 m,  b. 8 Aug 1988 @ Moscow
+Guram Tetrashvili,            M,  1.78 m,  b. 2 Aug 1988 @ Vladikavkaz
+Vladimir Dyadyun,             F,  1.80 m,  b. 12 Jul 1988 @ Omsk
+Andrey Sinitsyn,              G,  1.96 m,  b. 23 Jun 1988 @ Krasnokamensk
+Yuri Dyupin,                  G,  1.86 m,  b. 17 Mar 1988 @ Barnaul
+Roman Neustädter,             M,  1.90 m,  b. 18 Feb 1988 @ Dnipropetrovsk
+Rizvan Utsiev,                D,  1.73 m,  b. 7 Feb 1988 @ Argun
+Evgeniy Frolov,               G,  1.94 m,  b. 5 Feb 1988 @ Saransk
+Aleksei Rybin,                D,  1.78 m,  b. 26 Jan 1988 @ Lipetsk
+Dmitriy Sisuev,               M,  1.75 m,  b. 13 Jan 1988 @ Saransk
+
+Vladimir Rykov,               D,  1.91 m,  b. 13 Nov 1987 @ Novosibirsk
+Vladimir Granat,              D,  1.84 m,  b. 22 May 1987 @ Ulan-Ude
+Aleksandr Dovbnya,            G,  1.93 m,  b. 10 Apr 1987 @ Moscow
+Fedor Kudryashov,             D,  1.83 m,  b. 5 Apr 1987 @ Moscow
+Anton Kochenkov,              G,  1.97 m,  b. 2 Apr 1987 @ Bishkek
+Dmitriy Tarasov,              M,  1.88 m,  b. 18 Mar 1987 @ Tomsk
+Soslan Dzhanaev,              G,  1.90 m,  b. 13 Mar 1987 @ Vladikavkaz
+Evgeniy Lutsenko,             F,  1.86 m,  b. 25 Feb 1987 @ Moscow
+Mikhail Kerzhakov,            G,  1.89 m,  b. 28 Jan 1987 @ Kingisepp
+Anton Shunin,                 G,  1.91 m,  b. 27 Jan 1987 @ Moscow
+Denis Glushakov,              M,  1.78 m,  b. 27 Jan 1987 @ Millerovo
+Roman Shishkin,               D,  1.77 m,  b. 27 Jan 1987 @ Voronezh
+Evgeniy Nazarov,              D,  1.94 m,  b. 26 Jan 1987 @ Neftekumsk
+Dmitriy Kombarov,             D|M,1.82 m,  b. 22 Jan 1987 @ Moscow
+Kirill Kombarov,              D,  1.82 m,  b. 22 Jan 1987 @ Moscow
+Vladislav Ignatyev,           D|M,1.80 m,  b. 20 Jan 1987 @ Naberezhnye Chelny
+
+Aleksey Kozlov,               D,  1.86 m,  b. 25 Dec 1986 @ Petrozavodsk
+Anri Khagush,                 D,  1.77 m,  b. 23 Sep 1986 @ Gagra
+Aleksandr Belenov,            G,  1.97 m,  b. 13 Sep 1986 @ Belgorod
+Kirill Nababkin,              D,  1.76 m,  b. 8 Sep 1986 @ Moscow
+Aleksandr Ryazantsev,         M,  1.76 m,  b. 5 Sep 1986 @ Moscow
+Oleg Ivanov,                  M,  1.91 m,  b. 4 Aug 1986 @ Moscow
+Viktor Fayzulin,              M,  1.76 m,  b. 22 Apr 1986 @ Nakhodka
+Igor Akinfeev,                G,  1.85 m,  b. 8 Apr 1986 @ Vidnoye
+Aleksandr Sukhov,             D,  1.74 m,  b. 3 Jan 1986 @ Moscow
+
+Evgeniy Gorodov,              G,  1.85 m,  b. 13 Dec 1985 @ Barnaul
+Guilherme,                    G,  1.97 m,  b. 12 Dec 1985 @ Cataguases
+Andrey Murnin,                M,  1.78 m,  b. 11 May 1985 @ Saratov
+
+Dmitriy Khomich,              G,  1.83 m,  b. 4 Oct 1984 @ Vladikavkaz
+Aleksandr Samedov,            M,  1.74 m,  b. 19 Jul 1984 @ Moscow
+Aleksandr Alkhazov,           F,  1.84 m,  b. 27 May 1984 @ Rostov
+Igor Denisov,                 M,  1.76 m,  b. 17 May 1984 @ St. Petersburg
+Dmitriy Torbinskiy,           M,  1.72 m,  b. 28 Apr 1984 @ Moscow
+Pavel Alikin,                 D,  1.85 m,  b. 6 Mar 1984 @ Perm
+Artem Rebrov,                 G,  1.89 m,  b. 4 Mar 1984 @ Moscow
+Andrei Yeschenko,             D,  1.76 m,  b. 9 Feb 1984 @ Irkutsk
+
+Pavel Pogrebnyak,             F,  1.88 m,  b. 8 Nov 1983 @ Moscow
+Vladimir Gabulov,             G,  1.90 m,  b. 19 Oct 1983 @ Mozdok
+Yuriy Zhirkov,                M,  1.80 m,  b. 20 Aug 1983 @ Tambov
+Igor Lebedenko,               M,  1.82 m,  b. 27 May 1983 @ Moscow
+
+Aleksandr Kerzhakov,          F,  1.75 m,  b. 27 Nov 1982 @ Kingisepp
+Aleksandr Anyukov,            D,  1.78 m,  b. 28 Sep 1982 @ Samara
+Marat Izmailov,               M,  1.72 m,  b. 21 Sep 1982 @ Moscow
+Adessoye Oyewole,             D,  1.84 m,  b. 18 Sep 1982 @ Moscow
+Aleksey Berezutskiy,          D,  1.90 m,  b. 20 Jun 1982 @ Moscow
+Vasiliy Berezutskiy,          D,  1.89 m,  b. 20 Jun 1982 @ Moscow
+
+Roman Pavlyuchenko,           F,  1.88 m,  b. 15 Dec 1981 @ Mostovskoy
+Roman Shirokov,               M,  1.83 m,  b. 6 Jul 1981 @ Dedovsk
+Andrey Arshavin,              M,  1.72 m,  b. 29 May 1981 @ St. Petersburg
+
+Sergey Ryzhikov,              G,  1.94 m,  b. 19 Sep 1980 @ Shebekino
+
+Sergey Ignashevich,           D,  1.86 m,  b. 14 Jul 1979 @ Moscow
+Vyacheslav Malafeev,          G,  1.85 m,  b. 4 Mar 1979 @ St. Petersburg
+
+Igor Semshov,                 M,  1.70 m,  b. 6 Apr 1978 @ Moscow
+
+Konstantin Zyryanov,          M,  1.76 m,  b. 5 Oct 1977 @ Perm
+
+Roman Sharonov,               D,  1.84 m,  b. 8 Sep 1976 @ Moscow

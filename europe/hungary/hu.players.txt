@@ -1,0 +1,542 @@
+=================================
+=  Hungary
+
+Patrik Kovács,                F,  - ,      b. 15 Aug 2007 @ Budapest
+Kevin Mondovics,              F,  - ,      b. 14 Mar 2007
+Barna Pál,                    D,  1.87 m,  b. 11 Feb 2007 @ Pécs
+
+Bendegúz Lehoczki,            G,  - ,      b. 28 Dec 2006
+Ádám Szamosi,                 M,  - ,      b. 11 Dec 2006
+Márk Engedi,                  G,  1.88 m,  b. 7 Sep 2006 @ Makó
+Csaba Hornyák,                D,  1.75 m,  b. 22 Jun 2006
+Hunor Bogdán,                 F,  - ,      b. 13 Jun 2006
+Ádám Umathum,                 D,  - ,      b. 8 Apr 2006
+Martin Kern,                  M,  - ,      b. 23 Mar 2006 @ Szeged
+Áron Yaakobishvili,           G,  1.85 m,  b. 6 Mar 2006 @ Budapest
+
+Bence Vékony,                 M,  - ,      b. 12 Nov 2005
+Alex Tóth,                    M,  1.81 m,  b. 23 Oct 2005 @ Budapest
+István Juhász,                G,  - ,      b. 13 Sep 2005
+Benedek Erdélyi,              G,  1.90 m,  b. 8 Sep 2005 @ Debrecen
+Szabolcs Dusinszki,           M,  - ,      b. 6 Aug 2005 @ Odorheiu Secuiesc
+Ákos Markgráf,                D,  - ,      b. 30 Jun 2005
+Csongor Papp,                 M,  - ,      b. 22 May 2005 @ Zalaegerszeg
+Krisztián Lisztes,            M,  1.83 m,  b. 6 May 2005 @ Budapest
+Zoltán Pesti,                 F,  - ,      b. 24 Apr 2005
+János Bodnár,                 D,  - ,      b. 18 Apr 2005
+Roland Gergely,               G,  1.90 m,  b. 6 Apr 2005 @ Odorheiu Secuiesc
+Tibor Szabó,                  D,  1.89 m,  b. 3 Apr 2005 @ Jászberény
+Nazar Ponomarenko,            F,  - ,      b. 26 Mar 2005
+Flórián Cibla,                M,  1.76 m,  b. 23 Mar 2005
+Marcell Major,                M,  - ,      b. 17 Mar 2005
+Kevin Horváth,                F,  - ,      b. 2 Mar 2005
+Milán Klausz,                 F,  1.88 m,  b. 24 Feb 2005 @ Komárom
+Ármin Pécsi,                  G,  1.83 m,  b. 24 Feb 2005 @ Hainburg an der Donau
+Milán Demeter,                D,  - ,      b. 21 Feb 2005 @ Miskolc
+Kolos Kovács,                 M,  1.65 m,  b. 19 Feb 2005
+Patrik Kovács,                D,  - ,      b. 9 Feb 2005
+Zsombor Boros,                M,  - ,      b. 7 Feb 2005
+Attila Bodnár,                M,  1.70 m,  b. 29 Jan 2005 @ Eger
+Milán Pető,                   M,  1.75 m,  b. 25 Jan 2005 @ Breda
+Tamás Batai,                  F,  1.87 m,  b. 23 Jan 2005
+
+Balázs Bakti,                 M,  - ,      b. 31 Dec 2004 @ Budapest
+Pál Helmich,                  M,  - ,      b. 20 Nov 2004 @ Budapest
+Bálint Illés,                 M,  1.84 m,  b. 15 Nov 2004 @ Miskolc
+Zalán Vancsa,                 F,  1.75 m,  b. 27 Oct 2004 @ Budapest
+Adrián Csenterics,            G,  1.96 m,  b. 8 Oct 2004 @ Budapest
+Dávid Artner,                 M,  1.82 m,  b. 25 Sep 2004 @ Szombathely
+Noel Keresztes,               M,  1.83 m,  b. 16 Sep 2004 @ Pécs
+Máté Tuboly,                  M,  1.82 m,  b. 15 Sep 2004 @ Budapest
+Tamás Tóth,                   F,  - ,      b. 13 Sep 2004 @ Székesfehérvár
+Zsombor Gruber,               F,  1.80 m,  b. 7 Sep 2004 @ Győr
+Bendegúz Farkas,              D,  - ,      b. 5 Aug 2004 @ Budapest
+Péter Tullner,                D,  - ,      b. 26 Jul 2004 @ Győr
+Antal Yaakobishvili,          D,  1.93 m,  b. 12 Jul 2004 @ Budapest
+Kristóf Polyák,               D,  - ,      b. 5 Jul 2004 @ Székesfehérvár
+Dominik Földi,                M,  1.78 m,  b. 27 Jun 2004 @ Budapest
+Zsombor Menyhárt,             M,  1.84 m,  b. 24 Jun 2004 @ Székesfehérvár
+Marcell Berki,                F,  1.80 m,  b. 14 Jun 2004 @ Székesfehérvár
+Gábor Jurek,                  F,  1.83 m,  b. 4 Jun 2004 @ Szikszó
+Bálint Faragó,                M,  1.84 m,  b. 14 May 2004
+Balázs Tóth,                  G,  1.87 m,  b. 29 Apr 2004 @ Ózd
+Martin Dala,                  G,  1.90 m,  b. 26 Apr 2004 @ Székesfehérvár
+Norbert Kiss,                 M,  - ,      b. 3 Apr 2004 @ Mór
+Dominik Csóka,                M,  - ,      b. 29 Mar 2004 @ Zalaegerszeg
+Bálint Geiger,                M,  - ,      b. 26 Mar 2004
+Ábel Győri,                   M,  - ,      b. 16 Mar 2004
+Botond Vajda,                 M,  1.74 m,  b. 15 Mar 2004 @ Rožňava
+Zalán Kállai,                 F,  - ,      b. 21 Feb 2004 @ Miskolc
+Bogdán Bánhegyi,              G,  1.91 m,  b. 20 Feb 2004 @ Miskolc
+Barnabás Simon,               G,  1.92 m,  b. 13 Feb 2004 @ Szombathely
+Bence Fiáth,                  M,  1.85 m,  b. 18 Jan 2004 @ Siófok
+Levente Babós,                D,  - ,      b. 16 Jan 2004 @ Szeged
+Balázs Rácz,                  F,  1.87 m,  b. 14 Jan 2004 @ Pécs
+Szabolcs Sipos,               D,  1.80 m,  b. 5 Jan 2004 @ Debrecen
+
+Dominik Sztojka,              M,  1.93 m,  b. 23 Dec 2003
+József Balázs,                G,  1.85 m,  b. 2 Dec 2003 @ Karcag
+Barnabás Biben,               M,  - ,      b. 19 Nov 2003 @ Budapest
+Milos Kerkez,                 D,  1.76 m,  b. 7 Nov 2003 @ Vrbas
+Balázs Varga,                 M,  1.77 m,  b. 23 Oct 2003 @ Baja
+György Varga,                 M,  - ,      b. 23 Oct 2003
+Dániel Németh,                F,  1.81 m,  b. 9 Oct 2003 @ Gyöngyös
+Artúr Horváth,                M,  1.83 m,  b. 2 Oct 2003 @ Szeged
+Mario Simut,                  D,  1.86 m,  b. 23 Sep 2003 @ Oradea
+Szabolcs Szilágyi,            M,  1.85 m,  b. 23 Sep 2003 @ Cluj-Napoca
+Barna Benczenleitner,         D,  1.86 m,  b. 16 Sep 2003 @ Szombathely
+Attila Szujó,                 D,  1.82 m,  b. 14 Sep 2003 @ Kecskemét
+Gábor Vas,                    M,  - ,      b. 29 Aug 2003
+Tamás Kispál,                 M,  - ,      b. 23 Aug 2003
+Nimród Baranyai,              D,  1.80 m,  b. 6 Aug 2003 @ Debrecen
+Zalán Kerezsi,                F,  1.80 m,  b. 17 Jul 2003 @ Mátészalka
+Tamás Farkas,                 M,  1.77 m,  b. 14 Jul 2003 @ Debrecen
+Mátyás Kovács,                F,  1.81 m,  b. 7 Jul 2003 @ Budapest
+Ervin Németh,                 G,  - ,      b. 5 Jul 2003
+Zsombor Molnár,               G,  1.90 m,  b. 1 Jul 2003
+Barnabás Kecskés,             G,  - ,      b. 26 Jun 2003
+Roland Bíró,                  M,  - ,      b. 30 May 2003 @ Nyíregyháza
+Erik Czérna,                  M,  1.71 m,  b. 7 May 2003 @ Kisvárda
+Ágoston Bényei,               M,  1.77 m,  b. 3 Apr 2003 @ Tiszavasvári
+Zsombor Senkó,                G,  1.95 m,  b. 1 Apr 2003 @ Zalaegerszeg
+Kevin Rédling,                M,  - ,      b. 30 Mar 2003 @ Ajka
+Ákos Debreceni,               D,  - ,      b. 24 Mar 2003
+Benjámin Győri,               F,  - ,      b. 16 Mar 2003
+Olivér Nagy,                  D,  1.77 m,  b. 12 Mar 2003 @ Budapest
+Zoltán Bodor,                 F,  - ,      b. 4 Mar 2003
+Balázs Vogyicska,             F,  1.81 m,  b. 27 Feb 2003 @ Mohács
+Gergő Csatári,                M,  - ,      b. 26 Feb 2003 @ Debrecen
+Botond Bartha,                M,  1.84 m,  b. 13 Feb 2003 @ Budapest
+Marcell Kovács,               G,  1.85 m,  b. 9 Feb 2003 @ Nyíregyháza
+Ádám Czékus,                  F,  1.78 m,  b. 1 Feb 2003 @ Vrbas
+Ákos Szendrei,                F,  1.80 m,  b. 23 Jan 2003 @ Szekszárd
+Botond Gergely,               D,  - ,      b. 11 Jan 2003 @ Gheorgheni
+
+Gábor Megyeri,                G,  1.93 m,  b. 16 Dec 2002 @ Békéscsaba
+Barnabás Kovács,              M,  1.81 m,  b. 14 Nov 2002 @ Dunaújváros
+József Szalai,                F,  1.94 m,  b. 11 Nov 2002 @ Kecskemét
+András Németh,                M,  1.87 m,  b. 9 Nov 2002 @ Cape Town
+Dominik Csontos,              D,  1.71 m,  b. 8 Nov 2002 @ Székesfehérvár
+Ákos Zuigeber,                F,  1.75 m,  b. 8 Nov 2002 @ Budapest
+Martin Auerbach,              G,  - ,      b. 3 Nov 2002 @ Tatabánya
+Gábor Sipos,                  G,  - ,      b. 1 Nov 2002 @ Hódmezővásárhely
+Laszló Vizler,                F,  - ,      b. 13 Oct 2002 @ Győr
+Gergő Ominger,                M,  1.83 m,  b. 25 Sep 2002 @ Győr
+Krisztián Hegyi,              G,  1.93 m,  b. 24 Sep 2002 @ Budapest
+Bálint Katona,                M,  1.78 m,  b. 7 Sep 2002 @ Budapest
+Rajmund Molnár,               F,  1.86 m,  b. 28 Aug 2002 @ Budapest
+Dominik Kovács,               M,  1.77 m,  b. 22 Aug 2002 @ Mór
+Ádám Miknyóczki,              M|F,1.79 m,  b. 17 Aug 2002 @ Budapest
+Patrik Volter,                M,  - ,      b. 13 Aug 2002 @ Szolnok
+Csaba Mester,                 F,  1.77 m,  b. 12 Aug 2002
+Bertalan Kapornai,            M,  1.78 m,  b. 6 Aug 2002 @ Budapest
+Nejc Gradisar,                F,  1.87 m,  b. 6 Aug 2002 @ Ljubljana
+Dominik Kocsis,               F,  1.69 m,  b. 1 Aug 2002 @ Nagykanizsa
+Patrik Posztobányi,           M,  1.80 m,  b. 29 Jul 2002 @ Budapest
+Donát Orosz,                  D,  1.81 m,  b. 28 Jul 2002 @ Miskolc
+Péter Iváncsics,              G,  - ,      b. 6 Jul 2002
+Zalán Debreceni,              D,  1.88 m,  b. 6 Jul 2002 @ Szekszárd
+Csanád Fehér,                 D,  1.87 m,  b. 13 Jun 2002 @ Szeged
+Botond Balogh,                D,  1.85 m,  b. 6 Jun 2002 @ Sopron
+Gergő Gyurkits,               M,  - ,      b. 5 Jun 2002
+Alex Szabó,                   D,  1.89 m,  b. 15 May 2002 @ Jászberény
+Gergő Gyönyörű,               M,  1.75 m,  b. 5 May 2002 @ Debrecen
+Dávid László,                 F,  1.74 m,  b. 25 Apr 2002 @ Székesfehérvár
+Márk Németh,                  G,  1.85 m,  b. 20 Apr 2002
+Roland Lehoczky,              D,  1.84 m,  b. 19 Apr 2002 @ Budapest
+Márk Kosznovszky,             M,  1.77 m,  b. 17 Apr 2002 @ Budapest
+Mihály Kata,                  M,  1.76 m,  b. 13 Apr 2002 @ Budapest
+Bence Várkonyi,               D,  1.87 m,  b. 18 Mar 2002 @ Budapest
+András Eördögh,               M,  1.87 m,  b. 9 Mar 2002 @ Budapest
+Bertalan Bocskay,             M,  1.73 m,  b. 2 Mar 2002 @ Budapest
+Gábor Buna,                   D,  1.82 m,  b. 2 Mar 2002 @ Kaposvár
+Bence Köcse,                  G,  1.87 m,  b. 25 Feb 2002 @ Zalaegerszeg
+Gellért Dúzs,                 G,  1.85 m,  b. 24 Feb 2002 @ Kerepestarcsa
+Péter Baráth,                 M,  1.85 m,  b. 21 Feb 2002 @ Kisvárda
+Bálint Szabó,                 D,  1.77 m,  b. 18 Feb 2002 @ Nyíregyháza
+Szabolcs Szalay,              F,  1.81 m,  b. 17 Feb 2002 @ Veszprém
+Márton Dárdai,                D,  1.88 m,  b. 12 Feb 2002 @ Berlin
+Antal Bencze,                 G,  1.90 m,  b. 3 Feb 2002 @ Budapest
+Milán Horváth,                D,  1.95 m,  b. 30 Jan 2002 @ Kistarcsa
+György Komáromi,              F,  1.77 m,  b. 19 Jan 2002 @ Szolnok
+Kevin Kállai,                 D,  1.78 m,  b. 14 Jan 2002 @ Miskolc
+Sámuel Major,                 D|M,1.74 m,  b. 9 Jan 2002 @ Debrecen
+Krisztofer Horváth,           M,  1.72 m,  b. 8 Jan 2002 @ Hévíz
+Patrick Iyinbor,              D,  1.88 m,  b. 7 Jan 2002
+
+Levente Katona,               D,  1.87 m,  b. 31 Dec 2001 @ Mohács
+Ádám Pintér,                  F,  1.79 m,  b. 25 Dec 2001 @ Szolnok
+Márton Radics,                M,  1.82 m,  b. 2 Dec 2001 @ Győr
+Márk Mucsányi,                M,  1.85 m,  b. 16 Nov 2001
+Gábor Vágó,                   D,  1.88 m,  b. 14 Nov 2001 @ Budapest
+Máté Kotula,                  D,  1.81 m,  b. 18 Oct 2001 @ Szolnok
+Kornél Szűcs,                 D,  1.79 m,  b. 24 Sep 2001 @ Miskolc
+Zsombor Kálnoki-Kis,          F,  1.87 m,  b. 23 Sep 2001 @ Budapest
+Patrik Eckl,                  D,  - ,      b. 21 Sep 2001
+Kristóf Tóth-Gábor,           F,  1.84 m,  b. 11 Sep 2001 @ Nagykanizsa
+Ákos Ónodi,                   G,  1.93 m,  b. 2 Sep 2001
+Csaba Bukta,                  F,  1.76 m,  b. 25 Jul 2001 @ Törökszentmiklós
+Ádám Halmai,                  M,  1.77 m,  b. 17 Jul 2001 @ Budapest
+Dániel Veszelinov,            G,  1.85 m,  b. 5 Jul 2001 @ Szeged
+Viktor Csörgő,                D,  1.86 m,  b. 2 Jul 2001 @ Eger
+Kevin Körmendi,               D,  1.80 m,  b. 30 Jun 2001 @ Zalaegerszeg
+Dominik Tóth,                 M,  - ,      b. 17 Jun 2001 @ Miskolc
+Máté Kovács,                  M,  1.83 m,  b. 30 May 2001 @ Budapest
+Bendek Varjú,                 D,  1.89 m,  b. 21 May 2001 @ Győr
+Martin Major,                 D,  1.86 m,  b. 29 Apr 2001 @ Székesfehérvár
+Máté Ódor,                    D,  1.89 m,  b. 29 Apr 2001 @ Székesfehérvár
+Ádám Mayer,                   F,  - ,      b. 28 Apr 2001
+Bence Kocsis,                 M,  1.80 m,  b. 23 Apr 2001 @ Târgu Mureș
+Olivér Tamás,                 D,  1.83 m,  b. 14 Apr 2001 @ Solotvyno
+Alen Skribek,                 F,  1.81 m,  b. 11 Apr 2001 @ Budapest
+Patrik Nyári,                 M,  1.85 m,  b. 9 Apr 2001 @ Szombathely
+Péter Beke,                   F,  1.81 m,  b. 14 Mar 2001 @ Budapest
+Ágoston Kiss,                 G,  1.87 m,  b. 14 Mar 2001 @ Budapest
+Zoltán Sipos,                 M,  1.84 m,  b. 7 Mar 2001 @ Hódmezővásárhely
+Sándor Hidi M.,               M,  1.80 m,  b. 20 Feb 2001 @ Velyka Dobron
+Marcell Papp,                 M,  1.77 m,  b. 19 Feb 2001 @ Budapest
+Dominik Kovács,               D,  - ,      b. 18 Feb 2001
+Zsolt Kojnok,                 D,  1.82 m,  b. 15 Feb 2001 @ Mór
+János Uram,                   G,  1.92 m,  b. 9 Feb 2001
+Milán Szekszárdi,             D,  - ,      b. 8 Feb 2001
+Marcell Farkas,               D,  1.83 m,  b. 1 Feb 2001 @ Miskolc
+Dominik Cipf,                 F,  1.80 m,  b. 31 Jan 2001 @ Kisvárda
+András Huszti,                D,  1.83 m,  b. 29 Jan 2001 @ Pécs
+Lóránt Sebestyén,             M,  1.86 m,  b. 29 Jan 2001 @ Zalaegerszeg
+Bálint Szabó,                 M,  1.79 m,  b. 18 Jan 2001 @ Székesfehérvár
+Levente Szőr,                 M,  1.82 m,  b. 14 Jan 2001 @ Kisvárda
+László Papp,                  F,  1.84 m,  b. 9 Jan 2001 @ Zalaegerszeg
+
+Dominik Soltész,              M,  1.76 m,  b. 29 Nov 2000
+István Soltész,               M,  1.76 m,  b. 29 Nov 2000 @ Budapest
+Tamás Kiss,                   M,  1.77 m,  b. 24 Nov 2000 @ Győr
+Regő Szánthó,                 M,  1.85 m,  b. 22 Nov 2000 @ Győr
+Áron Csongvai,                D|M,1.86 m,  b. 31 Oct 2000 @ Budapest
+Martin Majnovics,             D,  1.79 m,  b. 26 Oct 2000 @ Sopron
+Dominik Szoboszlai,           M,  1.86 m,  b. 25 Oct 2000 @ Budapest
+Szabolcs Mezei,               M,  1.72 m,  b. 18 Oct 2000 @ Békéscsaba
+Dániel Zsóri,                 F,  1.83 m,  b. 14 Oct 2000 @ Békéscsaba
+Szabolcs Schön,               M|F,1.74 m,  b. 27 Sep 2000 @ Budapest
+Barnabás Nagy,                D,  1.87 m,  b. 5 Sep 2000
+Donát Bárány,                 F,  1.79 m,  b. 4 Sep 2000 @ Debrecen
+Márió Zeke,                   D,  1.82 m,  b. 1 Sep 2000 @ Sopron
+Márk Kovácsréti,              F,  1.86 m,  b. 1 Sep 2000 @ Budapest
+Eduard Fedinisinec,           G,  1.91 m,  b. 21 Aug 2000 @ Nyíregyháza
+Alexander Torvund,            F,  1.83 m,  b. 1 Aug 2000 @ Bærum
+Gergő Major,                  D,  1.89 m,  b. 16 Jul 2000 @ Aba
+Márton Gréczi,                F,  1.75 m,  b. 10 Jul 2000 @ Szeged
+Filip Borsos,                 F,  1.85 m,  b. 22 Jun 2000 @ Sopron
+Kevin Csoboth,                F,  1.78 m,  b. 20 Jun 2000 @ Pécs
+Máté Zsiga,                   M,  - ,      b. 13 Jun 2000 @ Miskolc
+Gábor Szalai,                 G|D,1.85 m,  b. 9 Jun 2000 @ Kecskemét
+Attila Temesvári,             D,  1.90 m,  b. 2 Jun 2000 @ Budapest
+Erik Németh,                  D,  1.84 m,  b. 1 Jun 2000 @ Zalaegerszeg
+Attila Mocsi,                 D,  1.88 m,  b. 29 May 2000 @ Sokolce
+Krisztián Kovács,             D,  1.75 m,  b. 29 May 2000 @ Komarno
+Kristóf Korbély,              F,  1.84 m,  b. 26 May 2000 @ Miskolc
+Máté Deczki,                  G,  - ,      b. 5 May 2000 @ Debrecen
+Olivér Dinnyés,               D,  1.90 m,  b. 3 May 2000 @ Budapest
+András Csonka,                M,  1.78 m,  b. 1 May 2000 @ Budapest
+Daniel Csóka,                 D,  1.88 m,  b. 4 Apr 2000 @ Zalaegerszeg
+Szilárd Bokros,               D,  1.83 m,  b. 28 Mar 2000 @ Kistarcsa
+Callum Styles,                M,  1.67 m,  b. 27 Mar 2000 @ Oldham
+Norbert Szendrei,             M,  1.87 m,  b. 27 Mar 2000 @ Budapest
+Dániel Varasdi,               G,  1.86 m,  b. 12 Mar 2000 @ Pécs
+Péter Kovács,                 G,  1.91 m,  b. 10 Feb 2000 @ Debrecen
+Erik Kusnyír,                 D,  1.77 m,  b. 7 Feb 2000 @ Nizhniy Koropets
+Márk Bencze,                  M,  1.88 m,  b. 30 Jan 2000 @ Budapest
+Krisztofer Szerető,           M,  1.77 m,  b. 10 Jan 2000 @ Budapest
+
+Mátyás Katona,                M,  1.73 m,  b. 30 Dec 1999 @ Budapest
+Soma Szuhodovszki,            M,  1.82 m,  b. 30 Dec 1999 @ Budapest
+Bendegúz Bolla,               D,  1.77 m,  b. 22 Nov 1999 @ Székesfehérvár
+Tamás Nikitscher,             M,  1.90 m,  b. 3 Nov 1999 @ Zalaegerszeg
+József Keaveny,               F,  - ,      b. 12 Oct 1999 @ Leicester
+Richárd Rabatin,              M,  1.83 m,  b. 17 Aug 1999 @ Nyíregyháza
+Daniel Tiefenbach,            M,  - ,      b. 10 Aug 1999
+Bence Zoltán Banó-Szabó,      M,  1.80 m,  b. 25 Jul 1999 @ Kecskemét
+Henrik Kirják,                D,  1.77 m,  b. 12 Jul 1999 @ Szolnok
+Bence Kiss,                   M,  1.67 m,  b. 1 Jul 1999 @ Celldömölk
+Milan Majer,                  F,  1.79 m,  b. 28 Jun 1999 @ Budapest
+Gergely Mim,                  M,  1.88 m,  b. 7 Jun 1999 @ Pécs
+Levente Szabó,                F,  1.84 m,  b. 6 Jun 1999 @ Székesfehérvár
+Norbert Kundrák,              F,  1.80 m,  b. 18 May 1999 @ Miskolc
+Bertalan Kun,                 M,  1.77 m,  b. 6 May 1999 @ Veszprém
+Zoltán Tomori,                G,  1.94 m,  b. 6 May 1999 @ Budapest
+Pál Dárdai,                   M|F,1.79 m,  b. 24 Apr 1999 @ Berlin
+András Schäfer,               M,  1.77 m,  b. 13 Apr 1999 @ Szombathely
+Attila Berla,                 G,  1.93 m,  b. 8 Apr 1999 @ Budapest
+László Deutsch,               D,  1.74 m,  b. 9 Mar 1999 @ Budapest
+Levente Lustyik,              M,  1.76 m,  b. 7 Mar 1999 @ Orosháza
+Nikolasz Kovács,              D,  1.84 m,  b. 27 Feb 1999 @ Budapest
+Ádám Varga,                   G,  1.91 m,  b. 12 Feb 1999 @ Budapest
+Zsombor Bévárdi,              D|M,1.77 m,  b. 30 Jan 1999 @ Siófok
+Máté Szabó,                   F,  1.78 m,  b. 26 Jan 1999 @ Budapest
+Balázs Bese,                  G,  1.91 m,  b. 22 Jan 1999 @ Budapest
+Martin Palincsár,             M,  1.76 m,  b. 3 Jan 1999 @ Esztergom
+
+Bence Pethő,                  F,  1.88 m,  b. 1 Nov 1998 @ Kapuvár
+Zoltán Derekas,               M,  1.82 m,  b. 19 Sep 1998 @ Budapest
+Alex Szabó,                   D,  1.85 m,  b. 26 Aug 1998 @ Nagyatád
+Bence Bíró,                   F,  1.85 m,  b. 14 Jul 1998 @ Budapest
+Csaba Lakatos,                D,  1.85 m,  b. 12 Jul 1998 @ Budapest
+Dávid Tóth,                   D,  1.81 m,  b. 9 Jul 1998 @ Sopron
+Kristóf Herjeczki,            F,  1.73 m,  b. 29 Jun 1998 @ Budapest
+Máté Toth,                    M,  1.82 m,  b. 20 Jun 1998 @ Szombathely
+Mátyás Tajti,                 M,  1.83 m,  b. 2 Jun 1998 @ Budapest
+Bence Gundel-Takács,          G,  1.93 m,  b. 6 Apr 1998 @ Budapest
+Patrik Demjén,                G,  1.85 m,  b. 22 Mar 1998 @ Esztergom
+Zsombor Nagy,                 D,  1.86 m,  b. 21 Mar 1998 @ Szeged
+Bence Gergényi,               D,  1.87 m,  b. 16 Mar 1998 @ Budapest
+Bence Ötvös,                  M,  1.82 m,  b. 13 Mar 1998 @ Nyíregyháza
+Filip Dragoner,               F,  1.80 m,  b. 12 Mar 1998 @ Budapest
+Bálint Vogyicska,             M,  1.81 m,  b. 27 Feb 1998 @ Mohács
+Bence Bárdos,                 D,  1.87 m,  b. 5 Feb 1998 @ Miskolc
+Kristóf Hinora,               M,  1.80 m,  b. 5 Feb 1998 @ Mór
+Ronald Takács,                F,  1.80 m,  b. 26 Jan 1998 @ Vyshkovo
+Attila Szalai,                D,  1.92 m,  b. 20 Jan 1998 @ Budapest
+Bence Szabó,                  M,  1.81 m,  b. 16 Jan 1998 @ Székesfehérvár
+Miklós Micsinai,              M,  1.74 m,  b. 11 Jan 1998 @ Kecskemét
+Richárd Jelena,               F,  1.88 m,  b. 8 Jan 1998 @ Pécs
+
+Dávid Zimonyi,                F,  1.81 m,  b. 24 Dec 1997 @ Kimle
+Tibor Lippai,                 D,  1.85 m,  b. 24 Dec 1997 @ Kisvárda
+Zsolt Rátkai,                 G,  1.85 m,  b. 21 Dec 1997 @ Eisenstadt
+Zsolt Máté,                   D,  1.93 m,  b. 14 Sep 1997 @ Kecskemét
+Balázs Tóth,                  G,  1.89 m,  b. 4 Sep 1997 @ Kazincbarcika
+Dávid Bognár,                 M,  1.79 m,  b. 16 Aug 1997 @ Paks
+Roland Kersák,                G,  1.91 m,  b. 31 Jul 1997 @ Budapest
+Vince Szegi,                  D,  1.88 m,  b. 1 Jul 1997 @ Tapolca
+Máté Katona,                  M,  1.76 m,  b. 22 Jun 1997 @ Sopron
+István Szatmári,              M,  1.85 m,  b. 27 May 1997 @ Budapest
+Roland Sallai,                M|F,1.80 m,  b. 22 May 1997 @ Székesfehérvár
+Bence Végh,                   M,  - ,      b. 13 May 1997
+Richárd Csősz,                M,  1.86 m,  b. 22 Apr 1997 @ Debrecen
+Dániel Gyollai,               G,  1.93 m,  b. 7 Apr 1997 @ Békéscsaba
+Bence Pávkovics,              D,  1.79 m,  b. 27 Mar 1997 @ Mohács
+Attila Haris,                 M,  1.77 m,  b. 23 Jan 1997 @ Szolnok
+Donát Szivacski,              D,  1.84 m,  b. 18 Jan 1997 @ Szeged
+
+Attila Márkus,                M,  1.89 m,  b. 29 Dec 1996
+Gergő Pálinkás,               F,  - ,      b. 22 Dec 1996 @ Mátészalka
+Erik Bukrán,                  G,  1.95 m,  b. 6 Dec 1996 @ Eger
+Kristóf Polgár,               D,  1.81 m,  b. 28 Nov 1996 @ Komárom
+Bence Bedi,                   M,  1.82 m,  b. 14 Nov 1996 @ Zalaegerszeg
+András Hársfalvi,             G,  1.92 m,  b. 12 Nov 1996 @ Zalaegerszeg
+János Hegedűs,                D,  1.83 m,  b. 4 Oct 1996 @ Budapest
+Márk Koszta,                  F,  1.85 m,  b. 26 Sep 1996 @ Kazincbarcika
+Dániel Szalai,                D,  1.84 m,  b. 5 Sep 1996 @ Kecskemét
+Gábor Makrai,                 F,  1.84 m,  b. 26 Jun 1996 @ Eger
+Erik Silye,                   D,  1.81 m,  b. 12 Jun 1996 @ Orosháza
+Bencze Lenzsér,               D,  1.83 m,  b. 9 Jun 1996 @ Győr
+Szabolcs Barna,               D,  1.84 m,  b. 27 Apr 1996 @ Debrecen
+Barnabás Rácz,                M,  1.68 m,  b. 26 Apr 1996 @ Szombathely
+Dániel Lukács,                F,  1.85 m,  b. 3 Apr 1996 @ Budapest
+Kevin Varga,                  M,  1.78 m,  b. 30 Mar 1996 @ Karcag
+Lóránd Pászka,                D,  1.86 m,  b. 22 Mar 1996 @ Târgu Secuiesc
+Adrián Rus,                   D,  1.88 m,  b. 18 Mar 1996 @ Satu Mare
+Máté Vida,                    M,  1.82 m,  b. 8 Mar 1996 @ Budapest
+Csaba Spandler,               D|M,1.83 m,  b. 7 Mar 1996 @ Székesfehérvár
+Norbert Szélpál,              D,  1.95 m,  b. 3 Mar 1996 @ Szeged
+Dániel Gazdag,                M,  1.78 m,  b. 2 Mar 1996 @ Nyíregyháza
+Déniel Gazdag,                M,  1.84 m,  b. 2 Mar 1996 @ Nyíregyháza
+Norbert Balogh,               F,  1.96 m,  b. 21 Feb 1996 @ Debrecen
+Tamás Szántó,                 M,  1.79 m,  b. 17 Feb 1996 @ Sopron
+Bence Varga,                  G,  1.92 m,  b. 9 Jan 1996 @ Kazincbarcika
+Donát Zsótér,                 M,  1.70 m,  b. 6 Jan 1996 @ Szeged
+Ákos Kecskés,                 D,  1.90 m,  b. 4 Jan 1996 @ Hódmezővásárhely
+
+Máté Sajbán,                  F,  1.86 m,  b. 19 Dec 1995 @ Budapest
+Zsombor Berecz,               M,  1.80 m,  b. 13 Dec 1995 @ Miskolc
+Attila Osváth,                D,  1.77 m,  b. 10 Dec 1995 @ Veszprém
+Márton Gyurján,               G,  1.85 m,  b. 1 Dec 1995 @ Nyíregyháza
+Imre Antal Széles,            D,  1.96 m,  b. 30 Nov 1995 @ Győr
+Benjamin Babati,              F,  1.76 m,  b. 29 Nov 1995 @ Zalaegerszeg
+Márk Madarász,                M,  1.76 m,  b. 24 Nov 1995 @ Mosonmagyaróvár
+Róbert Kővári,                M,  1.80 m,  b. 23 Nov 1995 @ Szekszárd
+Gergő Rácz,                   G,  1.87 m,  b. 20 Nov 1995 @ Budapest
+Tamás Fadgyas,                G,  1.88 m,  b. 20 Nov 1995 @ Budapest
+Dávid Bobál,                  D,  1.88 m,  b. 31 Aug 1995 @ Pásztó
+Gergely Bobál,                F,  1.88 m,  b. 31 Aug 1995 @ Pásztó
+Dániel Gera,                  D|F,1.78 m,  b. 29 Aug 1995 @ Budapest
+Máté Fekete,                  M,  1.84 m,  b. 22 Aug 1995 @ Budapest
+Zoltán Medgyes,               M,  1.72 m,  b. 23 Jul 1995 @ Kistarcsa
+Milán Sági,                   D,  1.79 m,  b. 19 Jul 1995 @ Pécs
+Krisztián Nagy,               M,  1.87 m,  b. 18 Jul 1995 @ Kaposvár
+Kristopher Vida,              M,  1.77 m,  b. 23 Jun 1995 @ Budapest
+Ádám Nagy,                    M,  1.78 m,  b. 17 Jun 1995 @ Budapest
+Zsolt Kalmár,                 M,  1.84 m,  b. 9 Jun 1995 @ Győr
+Valentin Hadaró,              D,  1.85 m,  b. 8 Jun 1995 @ Kaposvár
+Dominik Nagy,                 M,  1.82 m,  b. 8 May 1995 @ Mohács
+István Csirmaz,               D|M,1.72 m,  b. 4 May 1995 @ Mezőkövesd
+Krisztián Tamás,              D,  1.82 m,  b. 18 Apr 1995 @ Budapest
+Alex Hrabina,                 G,  1.86 m,  b. 5 Apr 1995 @ Nyíregyháza
+Csaba János Hahn,             F,  1.85 m,  b. 15 Mar 1995 @ Paks
+Barna Tóth,                   F,  1.98 m,  b. 13 Mar 1995 @ Budapest
+Bence Mervó,                  F,  1.85 m,  b. 5 Mar 1995 @ Mosonmagyaróvár
+Márton Lorentz,               D,  1.84 m,  b. 1 Feb 1995 @ Budapest
+
+Dániel Karacs,                D,  1.90 m,  b. 8 Dec 1994 @ Budapest
+Bálint Oláh,                  M,  1.88 m,  b. 2 Dec 1994 @ Miskolc
+Ádám Viczián,                 D,  1.87 m,  b. 24 Nov 1994 @ Békéscsaba
+Martin Ádám,                  F,  1.91 m,  b. 6 Nov 1994 @ Budapest
+Dávid Márkvárt,               M,  1.83 m,  b. 20 Sep 1994 @ Szekszárd
+Ákos Baki,                    D,  1.83 m,  b. 24 Aug 1994 @ Zalaegerszeg
+Gergő Holdampf,               M,  1.81 m,  b. 31 Jul 1994 @ Sopron
+Filip Holender,               F,  1.80 m,  b. 27 Jul 1994 @ Kragujevac
+Benjámin Cseke,               M,  1.87 m,  b. 22 Jul 1994 @ Budapest
+Soma Novothny,                F,  1.85 m,  b. 16 Jun 1994 @ Veszprém
+Dániel Prosser,               F,  1.75 m,  b. 15 Jun 1994 @ Budapest
+Csaba Szatmári,               D,  1.81 m,  b. 14 Jun 1994 @ Debrecen
+Krisztián Géresi,             M,  1.83 m,  b. 14 Jun 1994 @ Székesfehérvár
+Gergely Nagy,                 G,  1.87 m,  b. 27 May 1994 @ Győr
+Márk Szécsi,                  F,  1.78 m,  b. 22 May 1994 @ Eger
+Gábor Molnár,                 M,  1.78 m,  b. 16 May 1994 @ Miskolc
+Bence Sós,                    M,  1.89 m,  b. 10 May 1994 @ Debrecen
+Dávid Banai,                  G,  1.86 m,  b. 9 May 1994 @ Budapest
+Barnabás Bese,                D,  1.83 m,  b. 6 May 1994 @ Budapest
+Levente Bősz,                 G,  1.89 m,  b. 6 May 1994 @ Budapest
+Sebestyén Ihrig-Farkas,       F,  1.87 m,  b. 28 Apr 1994 @ Budapest
+Endre Botka,                  D,  1.86 m,  b. 25 Apr 1994 @ Budapest
+Attila Lőrinczy,              M,  1.86 m,  b. 8 Apr 1994 @ Budapest
+László Kleinheisler,          M,  1.86 m,  b. 8 Apr 1994 @ Kazincbarcika
+Richárd Nagy,                 M,  1.82 m,  b. 8 Apr 1994 @ Budapest
+Edvárd Rusák,                 G,  1.83 m,  b. 6 Apr 1994 @ Zenta
+Gergő Kocsis,                 D|M,1.88 m,  b. 7 Mar 1994 @ Budapest
+Csaba Belényesi,              D,  1.93 m,  b. 3 Mar 1994 @ Debrecen
+Martin Hudák,                 M,  1.87 m,  b. 22 Feb 1994 @ Szarvas
+Barnabás Varga,               F,  1.78 m,  b. 25 Jan 1994 @ Szombathely
+Dániel Kovács,                G,  1.90 m,  b. 16 Jan 1994 @ Gyula
+Gábor Eperjesi,               D,  1.78 m,  b. 12 Jan 1994 @ Miskolc
+Szilveszter Hangya,           D,  1.87 m,  b. 2 Jan 1994 @ Baja
+
+Tamás Szeles,                 M,  1.79 m,  b. 7 Dec 1993 @ Salgótarján
+Patrik Poór,                  D,  1.85 m,  b. 25 Nov 1993 @ Győr
+Bence Batik,                  D,  1.91 m,  b. 8 Nov 1993 @ Szeged
+Márk Tamás,                   D,  1.84 m,  b. 28 Oct 1993 @ Székesfehérvár
+András Radó,                  F,  1.69 m,  b. 9 Sep 1993 @ Pápa
+Barna Kesztyűs,               M,  1.84 m,  b. 4 Sep 1993 @ Pécs
+Bálint Vécsei,                M,  1.92 m,  b. 13 Jul 1993 @ Kazincbarcika
+Zsolt Nagy,                   D,  1.88 m,  b. 25 May 1993 @ Székesfehérvár
+Ákos Kinyik,                  D,  1.91 m,  b. 12 May 1993 @ Debrecen
+Kristóf Papp,                 M,  1.83 m,  b. 4 May 1993 @ Kerepestarcsa
+Ádám Baranyai,                D,  1.82 m,  b. 5 Mar 1993 @ Budapest
+Dávid Dombó,                  G,  1.84 m,  b. 26 Feb 1993 @ Pápa
+László Pekár,                 F,  1.73 m,  b. 20 Jan 1993 @ Szolnok
+Krisztián Adorján,            M,  1.80 m,  b. 19 Jan 1993 @ Budapest
+Patrik Vass,                  F,  1.84 m,  b. 17 Jan 1993 @ Budapest
+Ádám Lang,                    D,  1.88 m,  b. 17 Jan 1993 @ Veszprém
+Ádám Hajdú,                   D,  1.79 m,  b. 16 Jan 1993 @ Dunaújváros
+Gergő Nagy,                   M,  1.83 m,  b. 7 Jan 1993 @ Gyula
+
+József Windecker,             M,  1.83 m,  b. 2 Dec 1992 @ Szeged
+Roland Ugrai,                 F,  1.82 m,  b. 13 Nov 1992 @ Békéscsaba
+Willi Orbán,                  D,  1.85 m,  b. 3 Nov 1992 @ Kaiserslautern
+Kornél Khiesz,                D,  1.83 m,  b. 19 Oct 1992 @ Veszprém
+Tamás Hámori,                 G,  - ,      b. 21 Sep 1992
+Levente Vágó,                 M,  1.79 m,  b. 15 Sep 1992 @ Szeged
+Kenny Otigba,                 D,  1.90 m,  b. 29 Aug 1992 @ Kaduna
+Mihály Nagy,                  F,  1.80 m,  b. 20 Jun 1992 @ Siklós
+Patrik Bacsa,                 F,  1.84 m,  b. 3 Jun 1992 @ Miskolc
+Botond Baráth,                D,  1.87 m,  b. 21 Apr 1992 @ Budapest
+Márk Jagodics,                D,  1.84 m,  b. 12 Apr 1992 @ Szombathely
+Ádám István Kovács,           M,  1.84 m,  b. 27 Mar 1992 @ Szombathely
+Levente Jova,                 G,  1.87 m,  b. 30 Jan 1992 @ Budapest
+Roland Szolnoki,              D,  1.76 m,  b. 21 Jan 1992 @ Mór
+
+Kornél Kulcsár,               M,  1.78 m,  b. 11 Nov 1991 @ Nagyatád
+Zsolt Haraszti,               F,  1.86 m,  b. 4 Nov 1991 @ Paks
+Márton Eppel,                 F,  1.89 m,  b. 26 Oct 1991 @ Budapest
+András Stieber,               M,  1.86 m,  b. 8 Oct 1991 @ Sárvár
+Tamás Markek,                 G,  1.87 m,  b. 30 Aug 1991 @ Nagykanizsa
+Botond Antal,                 G,  1.90 m,  b. 22 Aug 1991 @ Budapest
+Dávid Kálnoki Kis,            D,  1.88 m,  b. 6 Aug 1991 @ Budapest
+Patrick Tischler,             F,  1.86 m,  b. 30 Jul 1991 @ Budapest
+Attila Grünwald,              D,  1.84 m,  b. 26 Jul 1991 @ Szeged
+Gergő Vaszicsku,              D,  1.87 m,  b. 30 Jun 1991 @ Debrecen
+Dávid Kovács,                 F,  1.80 m,  b. 18 Jun 1991 @ Budapest
+Krisztián Simon,              M,  1.83 m,  b. 10 Jun 1991 @ Budapest
+István Bognár,                M,  1.75 m,  b. 6 May 1991 @ Liège
+Adam Kovacsik,                G,  1.92 m,  b. 4 Apr 1991 @ Budapest
+János Ferenczi,               D,  1.80 m,  b. 3 Apr 1991 @ Debrecen
+Dániel Nagy,                  F,  1.81 m,  b. 15 Mar 1991 @ Budapest
+Patrik Nagy,                  M,  1.75 m,  b. 16 Feb 1991 @ Győr
+Loïc Nego,                    D,  1.79 m,  b. 15 Jan 1991 @ Paris
+Andor Margitics,              M,  1.83 m,  b. 3 Jan 1991 @ Budapest
+
+Dávid Sigér,                  M,  1.75 m,  b. 30 Nov 1990 @ Debrecen
+Patrik Hidi,                  M,  1.86 m,  b. 27 Nov 1990 @ Győr
+Dénes Dibusz,                 G,  1.86 m,  b. 19 Nov 1990 @ Pécs
+Péter Szappanos,              G,  1.94 m,  b. 14 Nov 1990 @ Jászberény
+András Gosztonyi,             F,  1.78 m,  b. 7 Nov 1990 @ Kaposvár
+Ádám Bódi,                    M,  1.75 m,  b. 1 Nov 1990 @ Nyíregyháza
+Lajos Bertus,                 M,  1.82 m,  b. 26 Sep 1990 @ Kecskemét
+Patrik Lázar,                 D,  1.85 m,  b. 24 Aug 1990 @ Győr
+Balázs Balogh,                M,  1.85 m,  b. 11 Jun 1990 @ Budapest
+Bence Iszlai,                 M,  1.85 m,  b. 29 May 1990 @ Veszprém
+Norbert Heffler,              M,  1.81 m,  b. 24 May 1990 @ Dunaújváros
+Péter Gulácsi,                G,  1.90 m,  b. 6 May 1990 @ Budapest
+Benjamin Balázs,              D,  1.79 m,  b. 26 Apr 1990 @ Kaposvár
+Balázs Megyeri,               G,  1.88 m,  b. 31 Mar 1990 @ Budapest
+András Simon,                 F,  1.83 m,  b. 30 Mar 1990 @ Salgótarján
+Lukács Bőle,                  M|F,1.79 m,  b. 27 Mar 1990 @ Marcali
+Róbert Litauszki,             D,  1.87 m,  b. 15 Mar 1990 @ Budapest
+Tamás Kádár,                  D,  1.88 m,  b. 14 Mar 1990 @ Veszprém
+Márkó Futács,                 F,  1.96 m,  b. 22 Feb 1990 @ Budapest
+Attila Fiola,                 D,  1.82 m,  b. 17 Feb 1990 @ Paks
+Roland Varga,                 F,  1.82 m,  b. 23 Jan 1990 @ Budapest
+Dániel Póser,                 G,  1.89 m,  b. 12 Jan 1990 @ Debrecen
+
+Zoltán Horváth,               F,  1.85 m,  b. 30 Jul 1989 @ Kisvárda
+Tamás Rubus,                  D,  1.86 m,  b. 13 Jul 1989 @ Békéscsaba
+János Szabo,                  D,  1.82 m,  b. 11 Jul 1989 @ Paks
+Dávid Gróf,                   G,  1.91 m,  b. 17 Apr 1989 @ Budapest
+Gergő Szécsi,                 G,  1.85 m,  b. 7 Feb 1989 @ Eger
+Dávid Barczi,                 M,  1.87 m,  b. 1 Feb 1989 @ Siófok
+Krisztián Németh,             F,  1.79 m,  b. 5 Jan 1989 @ Győr
+
+András Vági,                  D,  1.82 m,  b. 25 Dec 1988 @ Budapest
+Mihály Korhut,                D,  1.81 m,  b. 1 Dec 1988 @ Miskolc
+Bence Somodi,                 G,  1.87 m,  b. 25 Nov 1988 @ Eger
+Zoltán Stieber,               M,  1.83 m,  b. 16 Oct 1988 @ Budapest
+Lóránd Szatmári,              M,  1.76 m,  b. 3 Oct 1988 @ Petroșani
+Gergő Lovrencsics,            D|M,1.77 m,  b. 1 Sep 1988 @ Pécs
+Ádám Vass,                    M,  1.80 m,  b. 9 Aug 1988 @ Kápolnásnyék
+Ákos Elek,                    M,  1.87 m,  b. 21 Jul 1988 @ Ózd
+Attila Filkor,                M,  1.81 m,  b. 12 Jul 1988 @ Budapest
+László Lencse,                F,  1.84 m,  b. 2 Jul 1988 @ Győr
+Ádám Pintér,                  D,  1.90 m,  b. 12 Jun 1988 @ Kaposvár
+József Varga,                 M,  1.75 m,  b. 6 Jun 1988 @ Debrecen
+Ádám Holczer,                 G,  1.93 m,  b. 28 Mar 1988 @ Budapest
+Dénes Szakály,                M,  1.79 m,  b. 15 Mar 1988 @ Nagyatád
+Máté Pátkai,                  M,  1.72 m,  b. 6 Mar 1988 @ Budapest
+Dávid Kulcsár,                D,  1.80 m,  b. 25 Feb 1988 @ Miskolc
+Dániel Vadnai,                D,  1.77 m,  b. 19 Feb 1988 @ Budapest
+András Horváth,               G,  1.88 m,  b. 3 Feb 1988 @ Budapest
+Tamás Cseri,                  M,  1.74 m,  b. 15 Jan 1988 @ Győr
+
+Nemanja Nikolić,              F,  1.80 m,  b. 31 Dec 1987 @ Zenta
+Lajos Hegedűs,                G,  1.92 m,  b. 19 Dec 1987 @ Budapest
+Ádám Szalai,                  F,  1.93 m,  b. 9 Dec 1987 @ Budapest
+Zsolt Gévay,                  D,  1.87 m,  b. 19 Nov 1987 @ Dunaújváros
+Ádám Bogdán,                  G,  1.94 m,  b. 27 Sep 1987 @ Budapest
+Richárd Guzmics,              D,  1.90 m,  b. 16 Apr 1987 @ Szombathely
+
+Balázs Dzsudzsák,             M,  1.79 m,  b. 23 Dec 1986 @ Nyírlugos
+Dániel Böde,                  M|F,1.90 m,  b. 24 Oct 1986 @ Szekszárd
+Tamás Priskin,                F,  1.85 m,  b. 27 Sep 1986 @ Komarno
+Péter Szakály,                M,  1.82 m,  b. 17 Aug 1986 @ Nagyatád
+Róbert Feczesin,              F,  1.87 m,  b. 22 Feb 1986 @ Budapest
+
+Zoltán Kovács,                G,  1.91 m,  b. 29 Oct 1984 @ Medgyesegyháza
+József Kanta,                 M,  1.70 m,  b. 24 Mar 1984 @ Ajka
+
+Roland Juhász,                D,  1.93 m,  b. 1 Jul 1983 @ Monor
+Szabolcs Huszti,              M,  1.72 m,  b. 18 Apr 1983 @ Miskolc
+Attila Simon,                 F,  1.88 m,  b. 4 Feb 1983 @ Budapest
+
+Zoltán Gera,                  M,  1.83 m,  b. 22 Apr 1979 @ Pécs
+
+Tamás Fodor-Papp,             G,  - ,      b. 13 Feb 1977 @ Székesfehérvár
+
+Gabor Király,                 G,  1.91 m,  b. 1 Apr 1976 @ Szombathely

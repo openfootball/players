@@ -1,0 +1,91 @@
+=================================
+=  Iran
+
+Kasra Taheri,                 F,  1.85 m,  b. 6 Aug 2006 @ Yasuj
+
+Amirhossein Reyvandi,         D,  1.70 m,  b. 8 Mar 2004 @ Tehran
+Yadegar Rostami,              M,  1.81 m,  b. 2 Jan 2004 @ Marivan
+
+Allahyar Sayyadmanesh,        F,  1.82 m,  b. 29 Jun 2001 @ Amol
+Mohammad Ghorbani,            M,  1.90 m,  b. 21 May 2001 @ Arak
+
+Amirhossein Hosseinzadeh,     M,  1.78 m,  b. 30 Oct 2000 @ Tehran
+Younes Delfi,                 M,  1.84 m,  b. 2 Oct 2000 @ Shush
+
+Mohammad Reza Azadi,          M,  1.88 m,  b. 7 Dec 1999 @ Naqadeh
+
+Mohammad Mohebi,              F,  1.76 m,  b. 20 Dec 1998 @ Bushehr
+Abolfazl Jalali,              D,  1.77 m,  b. 26 Jun 1998 @ Amol
+
+Mohammad Naderi,              D,  1.88 m,  b. 5 Oct 1997 @ Tehran
+Jafar Salmani,                F,  1.76 m,  b. 12 Jan 1997 @ Shadegan
+
+Saeid Ezatolahi,              M,  1.90 m,  b. 1 Oct 1996 @ Bandar-e Anzali
+Majid Hosseini,               D,  1.83 m,  b. 20 Jun 1996 @ Karaj
+Ali Gholizadeh,               M,  1.76 m,  b. 10 Mar 1996 @ Namin
+Sadegh Moharrami,             D,  1.74 m,  b. 1 Mar 1996 @ Hashtpar
+Reza Asadi,                   M,  1.90 m,  b. 17 Jan 1996 @ Gorgan
+
+Ali Alipour,                  F,  1.77 m,  b. 11 Nov 1995 @ Qaem Shahr
+Shahab Zahedi,                F,  1.87 m,  b. 18 Aug 1995 @ Malayer
+Payam Niazmand,               G,  1.93 m,  b. 6 Apr 1995 @ Tehran
+Sardar Azmoun,                F,  1.86 m,  b. 1 Jan 1995 @ Gonbad
+
+Shahriar Moghanlou,           F,  1.92 m,  b. 21 Dec 1994 @ Zanjan
+Mehdi Torabi,                 M,  1.85 m,  b. 10 Sep 1994 @ Eshtehard
+Hossein Kanaanizadegan,       D,  1.88 m,  b. 23 Mar 1994 @ Bandar-e Mahshahr
+Ali Karimi,                   M,  1.86 m,  b. 11 Feb 1994 @ Isfahan
+
+Alireza Jahanbakhsh,          F,  1.85 m,  b. 8 Oct 1993 @ Jirandeh
+Milad Mohammadi,              D,  1.78 m,  b. 29 Sep 1993 @ Tehran
+Saman Ghoddos,                M|F,1.76 m,  b. 6 Sep 1993 @ Malmö
+Rouzbeh Cheshmi,              D,  1.92 m,  b. 24 Jul 1993 @ Tehran
+Amir Abedzadeh,               G,  1.86 m,  b. 26 Apr 1993 @ Tehran
+Shaho Maroufi,                M,  1.79 m,  b. 16 Feb 1993 @ Mahabad
+Ahmad Nourollahi,             M,  1.85 m,  b. 1 Feb 1993 @ Azadshahr
+
+Alireza Beiranvand,           G,  1.92 m,  b. 21 Sep 1992 @ Sarab-e Yas
+Mehdi Taremi,                 F,  1.87 m,  b. 18 Jul 1992 @ Bushehr
+Hossein Hosseini,             G,  1.87 m,  b. 30 Jun 1992 @ Shiraz
+Morteza Pouraliganji,         D,  1.82 m,  b. 19 Apr 1992 @ Babol
+Kaveh Rezaei,                 F,  1.85 m,  b. 5 Apr 1992 @ Eslamabad-e Gharb
+Mohammad Reza Khanzadeh,      D,  1.88 m,  b. 20 Jan 1992 @ Tehran
+
+Bakhtiar Rahmani,             M,  1.78 m,  b. 23 Sep 1991 @ Sarpol-e Zahab
+
+Karim Ansarifard,             F,  1.86 m,  b. 3 Apr 1990 @ Ardabil
+Ramin Rezaeian,               D,  1.85 m,  b. 21 Mar 1990 @ Sari
+Ehsan Hajsafi,                D|M,1.76 m,  b. 25 Feb 1990 @ Kashan
+Reza Ghoochannejhad,          F,  1.80 m,  b. 1 Jan 1990 @ Mashdad
+
+Mohammad Rashid Mazaheri,     G,  1.93 m,  b. 18 May 1989 @ Gachsaran
+Shojae Khalilzadeh,           D,  1.79 m,  b. 14 May 1989 @ Bahnemir
+Reza Haghighi,                M,  1.94 m,  b. 1 Feb 1989 @ Mashhad
+
+Alireza Haghighi,             G,  1.93 m,  b. 2 May 1988 @ Tehran
+Vahid Amiri,                  M,  1.79 m,  b. 2 Apr 1988 @ Darreh-ye Badam
+Daniel Davari,                G,  1.92 m,  b. 6 Jan 1988 @ Gießen
+
+Omid Ebrahimi,                M,  1.79 m,  b. 16 Sep 1987 @ Neka
+Mehrdad Pooladi,              D,  1.81 m,  b. 26 Feb 1987 @ Karaj
+Steven Beitashour,            D,  1.78 m,  b. 1 Feb 1987 @ San Jose
+
+Sosha Makani,                 G,  1.92 m,  b. 18 Nov 1986 @ Bandar Anzali
+Hossein Mahini,               D,  1.84 m,  b. 16 Sep 1986 @ Bushehr
+Ashkan Dejagah,               M|F,1.81 m,  b. 5 Jul 1986 @ Tehran
+
+Masoud Shojaei,               M,  1.84 m,  b. 9 Jun 1984 @ Shiraz
+Hashem Beikzadeh,             D,  1.89 m,  b. 22 Jan 1984 @ Shiraz
+
+Khosro Heydari,               D,  1.74 m,  b. 14 Sep 1983 @ Tehran
+Pejman Montazeri,             D,  1.86 m,  b. 6 Sep 1983 @ Ahvaz
+Ghasem Hadadifar,             M,  1.80 m,  b. 12 Jul 1983 @ Esfahan
+Andranik Teymourian,          M,  1.80 m,  b. 6 Mar 1983 @ Tehran
+
+Ahmad Alnameh,                D,  1.86 m,  b. 20 Oct 1982 @ Ahvaz
+Jalal Hosseini,               D,  1.84 m,  b. 3 Feb 1982 @ Bandar-e Anzali
+
+Amir-Hossein Sadeghi,         D,  1.88 m,  b. 6 Sep 1981 @ Tehran
+
+Javad Nekounam,               M,  1.86 m,  b. 7 Sep 1980 @ Shar Rey
+Rahman Ahmadi,                G,  1.84 m,  b. 30 Jul 1980 @ Nowshahr

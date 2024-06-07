@@ -1,0 +1,281 @@
+=================================
+=  Senegal
+
+Ibrahima Sow,                 F,  1.84 m,  b. 26 Jan 2007 @ Dakar
+
+Yoro Ba,                      F,  - ,      b. 31 Dec 2005 @ Tenghori
+Mame Mor Faye,                F,  1.82 m,  b. 12 Jul 2005 @ Saint-Louis
+Ibrahima Ba,                  D,  1.86 m,  b. 26 May 2005
+Ibou Sané,                    F,  1.80 m,  b. 28 Mar 2005 @ Diégoune
+Serigne Deme,                 F,  - ,      b. 4 Feb 2005
+Moctar Diop,                  F,  1.93 m,  b. 6 Jan 2005 @ Saint-Louis
+Arona Fall,                   F,  1.75 m,  b. 5 Jan 2005 @ Boujne
+
+El Hadji Malick Diouf,        D,  - ,      b. 28 Dec 2004
+Abdoulaye Faye,               D,  1.84 m,  b. 22 Sep 2004 @ Kaolack
+Fallou Sene,                  F,  1.87 m,  b. 21 Aug 2004 @ Khombole
+Nobel Mendy,                  D,  1.87 m,  b. 16 Aug 2004 @ Guédiawaye
+Mikayil Faye,                 D,  1.86 m,  b. 14 Jul 2004 @ Sédhiou
+Amadou Sarr,                  F,  1.90 m,  b. 28 Jun 2004 @ Gossas
+Papa Amadou Diallo,           M,  1.82 m,  b. 25 Jun 2004 @ Saint-Louis
+Assane N'Doye,                D,  1.75 m,  b. 11 Jun 2004 @ Thiaroye
+Sadibou Sané,                 D,  1.85 m,  b. 10 Jun 2004 @ Diouloulou
+Fallou Fall,                  D,  1.92 m,  b. 15 Apr 2004 @ Rufisque
+Malick Mbaye,                 F,  1.78 m,  b. 6 Apr 2004 @ Dakar
+Sérigné Faye,                 F,  1.86 m,  b. 5 Apr 2004 @ Dakar
+Madiodio Dia,                 D,  - ,      b. 15 Jan 2004
+Baye Ablaye Mbaye,            D,  - ,      b. 12 Jan 2004 @ Méckhé
+Sekou Matar Sagna,            M,  1.71 m,  b. 6 Jan 2004 @ Coubalan
+Habib Diarra,                 M,  1.79 m,  b. 3 Jan 2004 @ Guédiawaye
+Assane Seck,                  F,  1.75 m,  b. 1 Jan 2004 @ Dakar
+Lamine Camara,                M,  1.73 m,  b. 1 Jan 2004 @ Bignona
+
+Samba Dida,                   M,  1.92 m,  b. 24 Dec 2003 @ Louga
+Aliou Thiare,                 D,  1.97 m,  b. 20 Dec 2003 @ Diouloulou
+Cheikh Diouf,                 F,  1.82 m,  b. 17 Dec 2003 @ Hann Bel-Air
+Souleymane Basse,             D,  1.82 m,  b. 6 Nov 2003 @ Thiès
+Pathé Mboup,                  F,  1.75 m,  b. 19 Oct 2003 @ Mbao
+Pape Demba Diop,              M,  1.82 m,  b. 4 Sep 2003 @ Ouakam
+Ibrahima Diallo,              F,  1.73 m,  b. 4 Jun 2003 @ Diouloulou
+Oumar Diouf,                  F,  1.76 m,  b. 15 May 2003 @ Dakar
+Ibrahima Cissoko,             M,  1.78 m,  b. 18 Apr 2003 @ Thiaroye
+Modou Tambedou,               M,  - ,      b. 4 Apr 2003
+Pape Youssou Niang,           M,  1.90 m,  b. 23 Mar 2003 @ Guédiawaye
+Pape Massar Djitte,           M,  1.75 m,  b. 8 Feb 2003 @ Meckhe
+Racine Ba,                    M,  - ,      b. 21 Jan 2003
+Djibril Soumaré,              M,  1.85 m,  b. 7 Jan 2003 @ Dakar
+Samba Diallo,                 M,  1.68 m,  b. 5 Jan 2003
+
+Ibrahima Sy,                  M,  1.80 m,  b. 16 Dec 2002
+Aliou Baldé,                  F,  1.70 m,  b. 12 Dec 2002 @ Ziguinchor
+Mamadou Fall,                 D,  1.88 m,  b. 21 Nov 2002 @ Rufisque
+Mamadou Camara,               M,  1.85 m,  b. 15 Oct 2002 @ Dakar
+Pape Matar Sarr,              M,  1.84 m,  b. 14 Sep 2002 @ Thiaroye
+Mamina Badji,                 F,  1.82 m,  b. 23 Aug 2002
+Moussa N'Diaye,               D,  1.81 m,  b. 18 Jun 2002 @ Dakar
+Ousmane Ba,                   G,  1.85 m,  b. 6 Jun 2002 @ Rufisque
+Pape Samba Thiam,             F,  1.88 m,  b. 8 May 2002
+Arouna Sanganté,              D,  1.89 m,  b. 12 Apr 2002 @ Mboa
+Abdoulaye Ndiaye,             D,  1.85 m,  b. 10 Apr 2002 @ Boune
+Bassirou N'Diaye,             F,  1.81 m,  b. 15 Feb 2002
+Dion Lopy,                    M,  1.84 m,  b. 2 Feb 2002 @ Dakar
+Maissa Ndiaye,                D,  1.88 m,  b. 28 Jan 2002 @ Dakar
+Amadou Mbengue,               M,  - ,      b. 5 Jan 2002
+
+Youssouph Badji,              F,  1.92 m,  b. 20 Dec 2001 @ Thionck Essyl
+Lamine Tall,                  F,  1.80 m,  b. 5 Dec 2001 @ Saint-Louis
+Laurent Mendy,                M,  1.83 m,  b. 27 Nov 2001
+Alpha Dionkou,                D,  1.83 m,  b. 10 Oct 2001 @ Sindone
+Massamba Ndiaye,              G,  2.02 m,  b. 8 Oct 2001 @ Thiès
+Ibrahima Dramé,               F,  1.67 m,  b. 6 Oct 2001 @ Sédhiou
+Nicolas Jackson,              M|F,1.86 m,  b. 20 Jun 2001 @ Dakar
+Abdallah Sima,                F,  1.88 m,  b. 17 Jun 2001 @ Dakar
+Kaly Sène,                    F,  1.80 m,  b. 28 May 2001 @ Dakar
+Mamadou Diatta,               M,  1.88 m,  b. 5 Apr 2001 @ Camaracounda
+Mamadou Danfa,                M,  1.90 m,  b. 6 Mar 2001
+Alioune Ndour,                F,  1.88 m,  b. 3 Mar 2001 @ Dakar
+Demba Seck,                   F,  1.90 m,  b. 10 Feb 2001 @ Guediawaye
+Sambou Soumano,               F,  1.82 m,  b. 3 Jan 2001 @ Dakar
+Formose Mendy,                D,  1.91 m,  b. 2 Jan 2001 @ Dakar
+Mamadou Diaw,                 F,  - ,      b. 2 Jan 2001
+
+Ibrahima Sarr,                D,  1.90 m,  b. 24 Nov 2000 @ Guédiawaye
+Mor Ndiaye,                   M,  1.85 m,  b. 22 Nov 2000 @ Thiès
+Lamine Diack,                 M,  1.86 m,  b. 15 Nov 2000 @ Dakar
+Issa Soumaré,                 F,  1.82 m,  b. 10 Oct 2000 @ Podor
+Babacar Sy,                   F,  1.84 m,  b. 2 Oct 2000
+Mouhamed Diop,                M,  1.82 m,  b. 30 Sep 2000 @ Thiaroye
+Adama Sane,                   F,  1.78 m,  b. 11 Jun 2000
+Kane Sarr,                    G,  1.90 m,  b. 21 Apr 2000 @ Dakar
+Khadim Ndiaye,                G,  1.85 m,  b. 12 Apr 2000 @ Dakar
+Bamba Dieng,                  F,  1.78 m,  b. 23 Mar 2000 @ Diourbel
+Moustapha Mbow,               D,  1.92 m,  b. 8 Mar 2000 @ Dakar
+Iliman Ndiaye,                M,  1.80 m,  b. 6 Mar 2000 @ Rouen
+Cheikh Niasse,                M,  1.88 m,  b. 19 Jan 2000 @ Gossas
+Pape Ndiaga Yade,             F,  1.85 m,  b. 5 Jan 2000 @ Saint-Louis (SEN)
+Mamadou Diop,                 G,  - ,      b. 3 Jan 2000 @ Guédiawaye
+Aboubacar Lô,                 D,  1.83 m,  b. 2 Jan 2000 @ Dakar
+Amadou Dia Ndiaye,            F,  1.86 m,  b. 2 Jan 2000 @ Bambey
+
+Moussa Djitté,                F,  1.80 m,  b. 4 Oct 1999 @ Diattouma
+Amadou Ciss,                  M,  1.86 m,  b. 7 Sep 1999 @ Guédiawaye
+El Hadji Gueye,               D,  1.89 m,  b. 20 Aug 1999
+Ismail Jakobs,                D,  1.83 m,  b. 17 Aug 1999 @ Cologne
+El Hadji Ndiaye,              F,  1.85 m,  b. 12 Aug 1999 @ Niary Tally
+Dialy N'Diaye,                G,  1.93 m,  b. 4 Jul 1999
+Amadou Sagna,                 M|F,1.73 m,  b. 10 Jun 1999 @ Dakar
+Ousseynou Diagne,             M,  1.90 m,  b. 5 Jun 1999 @ Dakar
+Philippe Paulin Keny,         F,  1.86 m,  b. 18 May 1999 @ Tivaouane
+Souleymane Aw,                D,  1.73 m,  b. 5 Apr 1999
+Ibrahima Niane,               F,  1.87 m,  b. 11 Mar 1999 @ M'Bour
+Cheikh Tidiane Sabaly,        M,  1.68 m,  b. 4 Mar 1999 @ Kolda
+Mamadou Coulibaly,            M,  1.83 m,  b. 2 Mar 1999 @ Thiès
+Krépin Diatta,                M,  1.75 m,  b. 25 Feb 1999 @ Dakar
+Pape Gueye,                   M|F,1.87 m,  b. 24 Jan 1999 @ Montreuil
+Olivier Boissy,               F,  1.91 m,  b. 22 Jan 1999 @ Dakar
+Djibril Diop,                 D,  1.88 m,  b. 6 Jan 1999 @ Thiès
+Souleymane Cissé,             D,  1.90 m,  b. 1 Jan 1999
+
+Abdou Diakhaté,               M,  1.79 m,  b. 31 Dec 1998 @ Dakar
+Franck Kanouté,               M,  1.86 m,  b. 13 Dec 1998 @ Bignona
+Bouly Junior Sambou,          F,  1.83 m,  b. 1 Dec 1998 @ Bignona
+Ousseynou Ndiaye,             M,  1.85 m,  b. 24 Nov 1998 @ Thiaroye
+Mendy Mamadou,                F,  1.85 m,  b. 4 Oct 1998
+Moussa Wagué,                 D,  1.77 m,  b. 4 Oct 1998 @ Bignona
+Abdallah Gning,               F,  1.84 m,  b. 29 Sep 1998
+Ibrahima Ndiaye,              M,  1.76 m,  b. 6 Jul 1998 @ Saint Louis
+Momo Mbaye,                   D,  1.90 m,  b. 28 Jun 1998 @ Dakara
+Thierno Thioub,               F,  1.94 m,  b. 1 Jun 1998 @ Tivaouane
+Lamine Gueye,                 F,  1.78 m,  b. 13 Mar 1998 @ M'Bour
+Demba Thiam,                  G,  2.02 m,  b. 9 Mar 1998 @ Dakar
+Ismaïla Sarr,                 M|F,1.78 m,  b. 25 Feb 1998 @ Saint-Louis
+Youssouph Cheikh Sylla,       F,  1.97 m,  b. 20 Feb 1998 @ Mbacké
+Matar Dieye,                  F,  1.91 m,  b. 10 Jan 1998 @ Mbédiène
+
+Mamadou Diarra,               D,  1.84 m,  b. 20 Dec 1997 @ Dakar
+Makhtar Gueye,                F,  1.95 m,  b. 4 Dec 1997 @ Dakar
+Alioune Ndour,                M|F,1.83 m,  b. 21 Oct 1997 @ Dakar
+Mouhamed Mbaye,               G,  1.93 m,  b. 13 Oct 1997 @ Bargny
+Aliou Badji,                  F,  1.89 m,  b. 10 Oct 1997 @ Ziguinchor
+Mor Talla Nguer,              M,  1.76 m,  b. 9 Oct 1997 @ Dakar
+Youssoupha Ndiaye,            D,  1.85 m,  b. 7 Oct 1997 @ Dakar
+Assane Dioussé,               M,  1.75 m,  b. 20 Sep 1997 @ Dakar
+Boubacar Traoré,              F,  1.85 m,  b. 26 Jul 1997
+Pape Meissa Ba,               F,  1.87 m,  b. 4 Jul 1997 @ Guinaw Rails
+Mame Mor Ndiaye,              F,  1.88 m,  b. 23 May 1997 @ Thiès
+Joel Baraye,                  D,  1.82 m,  b. 5 Jan 1997 @ Dakar
+Mouhamadou Sarr,              G,  1.90 m,  b. 5 Jan 1997 @ Kaolack
+Fodé Ballo-Touré,             D,  1.82 m,  b. 3 Jan 1997 @ Conflans-Sainte-Honorine
+
+Abdourahmane Ndiaye,          M,  1.89 m,  b. 31 Dec 1996 @ Dakar
+Mamadou Loum,                 M,  1.88 m,  b. 30 Dec 1996 @ Dakar
+Moussa Koné,                  F,  1.75 m,  b. 30 Dec 1996 @ Dakar
+Pape Ousmane Sakho,           F,  1.73 m,  b. 21 Dec 1996 @ Rufisque
+Alassane Ndao,                M,  1.76 m,  b. 20 Dec 1996 @ Dakar
+Boulaye Dia,                  F,  1.80 m,  b. 16 Nov 1996 @ Oyonnax
+Modou N'Diaye,                M,  1.84 m,  b. 29 Oct 1996 @ Kaolack
+Amath Ndiaye,                 F,  1.73 m,  b. 16 Jul 1996 @ Dakar
+Sidy Sarr,                    M,  1.96 m,  b. 5 Jun 1996 @ M'Bour
+Abdou Diallo,                 D,  1.83 m,  b. 4 May 1996 @ Tours
+Moussa Niakhaté,              D,  1.75 m,  b. 8 Mar 1996 @ Roubaix
+Moustapha Seck,               D,  1.80 m,  b. 23 Feb 1996 @ Dakar
+Cherif Ndiaye,                F,  1.88 m,  b. 23 Jan 1996 @ Dakar
+Mamadou Tounkara,             F,  1.86 m,  b. 19 Jan 1996 @ Blanes
+Serigne Mor Mbaye,            G,  1.90 m,  b. 3 Jan 1996 @ Bargny
+
+Joher Khadim Rassoul,         D,  1.87 m,  b. 31 Dec 1995 @ Dakar
+Daouda Gueye,                 F,  1.90 m,  b. 22 Dec 1995 @ Dakar
+Babacar Niasse,               G,  1.90 m,  b. 20 Dec 1995 @ Dakar
+Elhadj Dabo,                  D,  1.81 m,  b. 20 Dec 1995 @ Thiès
+Seydou Sy,                    G,  1.92 m,  b. 12 Dec 1995 @ Dakar
+Racine Coly,                  D,  1.85 m,  b. 8 Dec 1995 @ Dakar
+Ousseynou Ba,                 D,  1.92 m,  b. 11 Nov 1995 @ Dakar
+Pape Abou Cissé,              D,  1.97 m,  b. 14 Sep 1995 @ Pikine
+Alhassane Sylla,              D,  1.77 m,  b. 24 Aug 1995 @ Dakar
+Habib Diallo,                 F,  1.85 m,  b. 15 Jun 1995 @ Thiès
+Sada Thioub,                  F,  1.79 m,  b. 1 Jun 1995 @ Nanterre
+Sekou Gassama,                F,  1.90 m,  b. 6 May 1995 @ Granollers
+Ibrahima Wadji,               F,  1.75 m,  b. 5 May 1995 @ Bignona
+Moustapha Name,               M,  1.85 m,  b. 5 May 1995 @ Dakar
+Mamadou Thiam,                F,  1.82 m,  b. 20 Mar 1995 @ Aubervilliers
+Keita Baldé,                  F,  1.84 m,  b. 8 Mar 1995 @ Arbúcies
+
+Babacar Guèye,                F,  1.90 m,  b. 31 Dec 1994 @ Dakar
+Elhadji Diaw,                 D,  1.93 m,  b. 31 Dec 1994 @ Dakar
+Mbaye Niang,                  F,  1.84 m,  b. 19 Dec 1994 @ Meulan-en-Yvelines
+Seny Dieng,                   G,  1.93 m,  b. 23 Nov 1994 @ Zürich
+Ibrahima Mbaye,               D,  1.87 m,  b. 19 Nov 1994 @ Guédiawaye
+Arial Mendy,                  D,  1.80 m,  b. 7 Nov 1994 @ Ziguinchor
+Donatien Gomis,               D,  1.88 m,  b. 7 Nov 1994 @ Dakar
+Mamadou Diallo,               F,  1.77 m,  b. 19 Sep 1994 @ Yeumbeul
+Birama Ndoye,                 M,  1.80 m,  b. 27 Mar 1994 @ Dakar
+Mamadou Sylla,                F,  1.84 m,  b. 20 Mar 1994 @ Granollers
+Pathé Ciss,                   M,  1.83 m,  b. 16 Mar 1994 @ Dakar
+Khaly Thiam,                  M,  1.86 m,  b. 7 Jan 1994 @ Dakar
+Modou Diagne,                 D,  1.88 m,  b. 3 Jan 1994 @ Mbacke
+Faustin Senghor,              D,  1.83 m,  b. 2 Jan 1994 @ Ziguinchor
+
+Abdallah Ndour,               D,  1.86 m,  b. 20 Dec 1993 @ Rufisque
+Oumar Diakhité,               D,  1.80 m,  b. 9 Dec 1993 @ Dakar
+Adama Mbengue,                D,  1.78 m,  b. 1 Dec 1993 @ Rufisque
+Cheikhou Dieng,               M|F,1.80 m,  b. 23 Nov 1993 @ Thiès
+Wagane Faye,                  D,  1.80 m,  b. 20 Nov 1993
+Ousseynou Thioune,            M,  1.80 m,  b. 16 Nov 1993 @ Kolda
+Alfred Gomis,                 G,  1.96 m,  b. 5 Sep 1993 @ Ziguinchor
+Mory Diaw,                    G,  1.95 m,  b. 22 Jun 1993 @ Poissy
+Moussa Konaté,                F,  1.83 m,  b. 3 Apr 1993 @ M'Bour
+Jamal Thiaré,                 F,  1.80 m,  b. 31 Mar 1993 @ Kaolack
+Khouma Babacar,               F,  1.85 m,  b. 17 Mar 1993 @ Thiès
+Youssouf Sabaly,              D,  1.74 m,  b. 5 Mar 1993 @ Chesnay
+Dame Diop,                    F,  1.83 m,  b. 15 Feb 1993 @ Louga
+Pape Ibnou Ba,                F,  1.74 m,  b. 5 Jan 1993 @ Saint Louis
+
+Famara Diedhiou,              F,  1.89 m,  b. 15 Dec 1992 @ Saint-Louis
+Mame Baba Thiam,              F,  1.85 m,  b. 9 Oct 1992 @ Ngiudile
+Nampalys Mendy,               M,  1.68 m,  b. 23 Jun 1992 @ La Seyne-sur-Mer
+Yves Baraye,                  F,  1.77 m,  b. 22 Jun 1992 @ Dakar
+Abdoulaye Seck,               D,  1.92 m,  b. 4 Jun 1992 @ M'Bour
+Sadio Mané,                   M|F,1.75 m,  b. 10 Apr 1992 @ Sédhiou
+Abdoulaye Diallo,             G,  1.89 m,  b. 30 Mar 1992 @ Reims
+Joseph Romeric Lopy,          M,  1.81 m,  b. 15 Mar 1992 @ Boutoupa
+Édouard Mendy,                G,  1.97 m,  b. 1 Mar 1992 @ Montivilliers
+Amidou Diop,                  M,  1.96 m,  b. 27 Feb 1992 @ Missirah
+Arthur Yannick Gomis,         F,  1.80 m,  b. 3 Feb 1992 @ Dakar
+Bouna Sarr,                   D,  1.77 m,  b. 31 Jan 1992 @ Lyon
+Davide Diaw,                  F,  1.85 m,  b. 6 Jan 1992 @ Cividale del Friuli
+
+Mamadou Fall,                 M,  1.84 m,  b. 31 Dec 1991
+Pape Sané,                    F,  1.87 m,  b. 30 Dec 1991 @ Dakar
+Emile Thiakane,               M,  1.90 m,  b. 17 Nov 1991 @ Pikine
+Mbaye Diagne,                 F,  1.92 m,  b. 28 Oct 1991 @ Dakar
+Souleymane Doukara,           F,  1.93 m,  b. 29 Sep 1991 @ Meudon
+Souleymane Cissé,             M,  1.72 m,  b. 30 Jul 1991 @ Sédhiou
+Kalidou Koulibaly,            D,  1.95 m,  b. 20 Jun 1991 @ Saint-Dié
+Ablaye Mbengue,               F,  1.87 m,  b. 19 Mar 1991 @ Thiès
+Abdoulaye Ba,                 D,  1.97 m,  b. 1 Jan 1991 @ St. Louis
+
+Christophe Diandy,            M,  1.86 m,  b. 25 Nov 1990 @ Dakar
+Badou Ndiaye,                 M,  1.79 m,  b. 27 Oct 1990 @ Dakar
+Henri Saivet,                 M,  1.73 m,  b. 26 Oct 1990 @ Dakar
+Aliou Coly,                   D,  1.86 m,  b. 14 Sep 1990 @ Bila
+Ibrahima Baldé,               F,  1.87 m,  b. 1 Sep 1990 @ Pikine
+Salif Sané,                   D,  1.94 m,  b. 25 Aug 1990 @ Lormont
+Pierre Sagna,                 D,  1.83 m,  b. 21 Aug 1990 @ Valenciennes
+Pape N'Diaye Souaré,          D,  1.78 m,  b. 6 Jun 1990 @ Mbao
+Oumar Niasse,                 F,  1.82 m,  b. 18 Apr 1990 @ Ouakam
+Alfred N'Diaye,               M,  1.87 m,  b. 6 Mar 1990 @ Paris
+Pape Maly Diamanka,           M,  1.84 m,  b. 10 Jan 1990 @ Dakar
+
+Diafra Sakho,                 F,  1.84 m,  b. 24 Dec 1989 @ Guédiawaye
+Cheikhou Kouyaté,             M,  1.89 m,  b. 21 Dec 1989 @ Dakar
+Kara Mbodji,                  D,  1.92 m,  b. 11 Nov 1989 @ Ndiass
+Zargo Touré,                  D,  1.83 m,  b. 11 Nov 1989 @ Pikine
+Lamine Gassama,               D,  1.81 m,  b. 20 Oct 1989 @ Marseille
+Armand Traoré,                D,  1.85 m,  b. 8 Oct 1989 @ Paris
+Idrissa Gueye,                M,  1.74 m,  b. 26 Sep 1989 @ Dakar
+Saliou Ciss,                  D,  1.73 m,  b. 15 Sep 1989 @ Dakar
+Fallou Diagné,                D,  1.85 m,  b. 14 Aug 1989 @ Pikine
+Ibrahima Seck,                M,  1.92 m,  b. 10 Aug 1989 @ Bargny
+Vieux Sané,                   D,  1.91 m,  b. 4 Aug 1989 @ Dakar
+Papa Diouf,                   F,  1.80 m,  b. 22 Jun 1989 @ Dakar
+
+Papy Djilobodji,              D,  1.93 m,  b. 1 Dec 1988 @ Kaolack
+Mohamed Coulibaly,            F,  1.77 m,  b. 7 Aug 1988 @ Bakel
+Ibrahima Niasse,              D,  1.88 m,  b. 18 Apr 1988 @ Nancy
+Christophe Diedhiou,          D,  1.91 m,  b. 8 Jan 1988 @ Rufisque
+
+Mame Biram Diouf,             F,  1.85 m,  b. 16 Dec 1987 @ Dakar
+Mohamed Diamé,                M,  1.84 m,  b. 14 Jun 1987 @ Créteil
+Lamine Sané,                  D,  1.92 m,  b. 22 Mar 1987 @ Villeneuve-sur-Lot
+Ousmane Cissokho,             F,  1.75 m,  b. 14 Jan 1987 @ St Louis
+
+Ricardo Faty,                 M,  1.92 m,  b. 4 Aug 1986 @ Villeneuve-St-Georges
+Cheick Ndoye,                 M,  1.90 m,  b. 29 Mar 1986 @ Rufisque
+Papakouli Diop,               M,  1.79 m,  b. 19 Mar 1986 @ Kaolack
+Moussa Sow,                   F,  1.80 m,  b. 19 Jan 1986 @ Mantes-la-Jolie
+
+Papiss Demba Cissé,           F,  1.83 m,  b. 3 Jun 1985 @ Dakar
+Demba Ba,                     F,  1.89 m,  b. 25 May 1985 @ Sèvres
+Dame N'Doye,                  F,  1.86 m,  b. 21 Feb 1985 @ Thiès
+
+Khadim Ndiaye,                G,  1.72 m,  b. 30 Nov 1984 @ Dakar

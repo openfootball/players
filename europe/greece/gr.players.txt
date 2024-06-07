@@ -1,0 +1,558 @@
+=================================
+=  Greece
+
+Athanasios Christopoulos,     D,  - ,      b. 5 Jan 2008
+
+Theofilos Kakadiaris,         G,  - ,      b. 17 Jan 2007
+
+Andreas Adamakis,             M,  - ,      b. 7 Jul 2006
+Konstantinos Veris,           F,  - ,      b. 7 Jun 2006
+Denis Kala,                   M,  - ,      b. 29 Mar 2006
+Nikos Tsaras,                 D,  - ,      b. 13 Mar 2006
+Marios Dervisi,               F,  - ,      b. 8 Feb 2006
+Charalampos Kallantzi,        M,  - ,      b. 20 Jan 2006
+Stefanos Tzimas,              F,  1.84 m,  b. 6 Jan 2006 @ Thessaloniki
+
+Ilias Simantirakis,           D,  - ,      b. 22 Dec 2005
+Georgios Agorastos,           F,  - ,      b. 30 Nov 2005
+Sarantis Tselebakis,          M,  1.78 m,  b. 2 Nov 2005
+Vangelis Papakonstantinou,    D,  - ,      b. 26 Oct 2005 @ Serres
+Vasilis Kontonikos,           F,  - ,      b. 11 Oct 2005
+Thomas Avgoustidis,           M,  - ,      b. 10 Oct 2005 @ Thessaloniki
+Dimitris Laskaris,            D,  - ,      b. 29 Sep 2005
+Angelos Papadopoulos,         M,  - ,      b. 21 Aug 2005
+Thomas Papadimitriou,         M,  - ,      b. 6 Jun 2005
+Stelios-Rafail Vallindras,    G,  - ,      b. 3 May 2005
+Manouel Kalafatis,            G,  - ,      b. 23 Mar 2005
+Kostas Tanoulis,              D,  - ,      b. 7 Mar 2005
+Sotiris Kontouris,            M,  - ,      b. 24 Feb 2005 @ Agrinio
+Georgios Karakasidis,         G,  - ,      b. 31 Jan 2005
+Spyros Angelidis,             G,  1.88 m,  b. 28 Jan 2005 @ Thessaloniki
+Spyros Ampartzidis,           M,  - ,      b. 24 Jan 2005
+Nikolaos Lolis,               M,  1.87 m,  b. 20 Jan 2005 @ Ioannina
+Nikos Lolis,                  M,  - ,      b. 20 Jan 2005
+
+Georgios Konstantakopoulos,   M,  - ,      b. 30 Dec 2004
+Christos Papadopoulos,        M,  - ,      b. 1 Nov 2004 @ Larissa
+Giannis Theodosoulakis,       F,  - ,      b. 11 Sep 2004 @ Retyhmno
+Georgios Kyriopoulos,         M,  1.76 m,  b. 24 Aug 2004 @ Kos
+Angelos Tsiris,               M,  - ,      b. 18 Aug 2004
+Alexandros Maskanakis,        M,  1.73 m,  b. 8 Aug 2004 @ Serres
+Alexandros Tsompanidis,       G,  1.85 m,  b. 5 Aug 2004 @ Komotini
+Dimitris Naoumis,             D,  - ,      b. 3 Aug 2004
+Christos Ioannidis,           M,  - ,      b. 28 Jul 2004 @ Katerini
+Alexios Kalogeropoulos,       D,  1.87 m,  b. 26 Jul 2004 @ Andravida
+Vasilis Kaperdas,             M,  - ,      b. 25 Jul 2004
+Thomas Vrakas,                G,  - ,      b. 22 Jul 2004
+Tasos Symeonidis,             M,  - ,      b. 6 Jul 2004 @ Thessaloniki
+Panagiotis Kalampoukas,       G,  - ,      b. 24 Jun 2004
+Nikolaos Tropoulos,           G,  1.80 m,  b. 21 Jun 2004
+Vangelis Nikolaou,            M,  - ,      b. 3 Jun 2004
+Rafail Sgouros,               M,  - ,      b. 28 May 2004
+Georgios Karagiannidis,       D,  1.91 m,  b. 30 Apr 2004 @ Xanthi
+Giannis Apostolakis,          M,  - ,      b. 24 Apr 2004 @ Rethymno
+Nikolaos Botis,               G,  1.96 m,  b. 31 Mar 2004 @ Larissa
+Leonid Mina,                  F,  - ,      b. 28 Mar 2004
+Alexandros Kedikoglou,        F,  1.86 m,  b. 22 Mar 2004 @ Thessaloniki
+Dimitrios Monastirlis,        G,  1.92 m,  b. 22 Mar 2004 @ Thessaloniki
+Konstantinos Kyriazis,        G,  - ,      b. 4 Mar 2004
+Nikos Chalkiadakis,           M,  - ,      b. 19 Feb 2004 @ Heraklion
+Zacharias Papadimitriou,      M,  - ,      b. 18 Feb 2004
+Michalis Panagidis,           M,  - ,      b. 11 Feb 2004
+Georgios Koutsias,            F,  1.80 m,  b. 8 Feb 2004 @ Thessaloniki
+Christos Chatziioannou,       F,  - ,      b. 10 Jan 2004
+
+Vassilis Troumpoulos,         M,  1.94 m,  b. 23 Dec 2003 @ Lamia
+Dimitris Metaxas,             M,  - ,      b. 16 Dec 2003
+Konstantinos Koulierakis,     D,  1.85 m,  b. 28 Nov 2003 @ Chania
+Marios Sofianos,              M,  1.75 m,  b. 24 Nov 2003 @ Serres
+Mattheos Mountes,             M,  - ,      b. 17 Nov 2003
+Nikos Zouglis,                F,  - ,      b. 14 Nov 2003
+Panagiotis Anastasopoulos,    D,  - ,      b. 24 Oct 2003
+Antonis Makatounakis,         G,  1.86 m,  b. 18 Oct 2003
+Athanasios Karamanis,         M,  - ,      b. 14 Oct 2003
+Marios Tzavidas,              F,  1.83 m,  b. 8 Oct 2003 @ Lagonisi
+Lampros Moustakas,            M,  - ,      b. 18 Sep 2003
+Ilias Lazaridis,              D,  1.85 m,  b. 10 Sep 2003 @ Kozani
+Titos Koutentakis,            M,  1.69 m,  b. 22 Aug 2003 @ Heraklion
+Dominikos Prountzos,          M,  - ,      b. 19 Aug 2003
+Thanasis Triantafyllou,       F,  1.85 m,  b. 22 Jul 2003
+Thanos Papadoudis,            G,  - ,      b. 6 Jul 2003
+Christos Dimos,               G,  - ,      b. 3 Jul 2003
+Christos Kryparakos,          M,  1.74 m,  b. 12 Jun 2003 @ Athens
+Alexandros Tsioptsis,         G,  1.93 m,  b. 2 Jun 2003 @ Giannitsa
+Nikos Grammatikakis,          G,  - ,      b. 26 May 2003
+Konstantinos Theodoridis,     D,  - ,      b. 24 May 2003
+Konstantinos Chrysopoulos,    D,  1.87 m,  b. 21 May 2003 @ Thessaloniki
+Panagiotis Anagnostopoulos,   M,  1.73 m,  b. 16 May 2003
+Sotiris Ragias,               G,  - ,      b. 16 May 2003
+Giannis Konstantelias,        M,  1.76 m,  b. 10 May 2003 @ Volos
+Zisis Saliaris,               M,  - ,      b. 25 Apr 2003 @ Thessaloniki
+Dimitrios Stamatakis,         G,  1.91 m,  b. 23 Apr 2003 @ Athens
+Konstantinos Lampropoulos,    D,  1.90 m,  b. 21 Apr 2003
+Dimitrios Ananiadis,          M,  - ,      b. 18 Apr 2003
+Georgios Kosteas,             F,  - ,      b. 16 Apr 2003
+Panagiotis Dalamitras,        F,  - ,      b. 13 Apr 2003
+Panagiotis Avgerinos,         G,  1.97 m,  b. 11 Apr 2003
+Fotis Kitsos,                 D,  1.74 m,  b. 31 Mar 2003 @ Athens
+Kristian Rroku,               G,  1.90 m,  b. 29 Mar 2003 @ Athens
+Iason Kyrkos,                 M,  - ,      b. 21 Mar 2003
+Ilias Kostis,                 D,  1.88 m,  b. 27 Feb 2003 @ Thessaloniki
+Manolis Smpokos,              D,  - ,      b. 19 Feb 2003
+Athanasios Stoinovic,         M,  1.78 m,  b. 17 Feb 2003 @ Komotini
+Alexandros Doumas,            D,  - ,      b. 3 Feb 2003
+Andreas Ntoi,                 D,  1.90 m,  b. 2 Feb 2003 @ Athens
+Ilias Christopoulos,          D,  1.73 m,  b. 2 Feb 2003
+Fotis Pseftis,                G,  1.90 m,  b. 19 Jan 2003 @ Athens
+Thomas Kastanaras,            F,  1.85 m,  b. 9 Jan 2003 @ Stuttgart
+
+Apostolos Apostolopoulos,     D,  1.75 m,  b. 11 Dec 2002
+Vasilios Sourlis,             M,  1.82 m,  b. 16 Nov 2002 @ Athens
+Vasilis Sourlis,              M,  1.82 m,  b. 16 Nov 2002 @ Athens
+Christos Kourfalidis,         M,  1.78 m,  b. 11 Nov 2002 @ Thessaloniki
+Konstantinos Tzolakis,        G,  1.93 m,  b. 8 Nov 2002 @ Chania
+Ajdi Dajko,                   D,  - ,      b. 28 Oct 2002
+Giorgos Papadopoulos,         D,  - ,      b. 18 Oct 2002
+Pavlos Pantelidis,            F,  - ,      b. 16 Sep 2002 @ Athens
+Alexandros Lolis,             M,  1.80 m,  b. 5 Sep 2002 @ Igoumenitsa
+Vasíleios Pavlídis,           D,  1.84 m,  b. 4 Sep 2002 @ Thessaloniki
+Antonis Siatounis,            M,  1.83 m,  b. 26 Aug 2002 @ Ilion
+Aventis Aventisian,           D,  1.70 m,  b. 17 Aug 2002 @ Thessaloniki
+Georgios Anthoulakis,         M,  - ,      b. 10 Aug 2002
+Apostolos Konstantopoulos,    D,  1.88 m,  b. 2 Aug 2002
+Christos Belevonis,           M,  1.83 m,  b. 29 Jul 2002 @ Heraklion
+Konstantinos Nikolopoulos,    F,  1.70 m,  b. 13 Jul 2002 @ Athens
+Giorgos Theocharis,           G,  1.88 m,  b. 10 Jul 2002
+Ilias Karargyris,             G,  1.85 m,  b. 29 Jun 2002 @ Nafplio
+Vasilis Skiadas,              D,  - ,      b. 25 Jun 2002
+Pavlos Logaras,               D,  - ,      b. 18 Jun 2002
+Konstantinos Pomonis,         D,  - ,      b. 5 Jun 2002
+Georgios Sideras,             D,  1.85 m,  b. 30 May 2002 @ Kandila
+Christos Marmaridis,          D,  1.67 m,  b. 25 May 2002 @ Thessaloniki
+Fotis Sgouris,                G,  - ,      b. 29 Apr 2002
+Angelos Tsavos,               D,  1.81 m,  b. 11 Apr 2002
+Pavlos Grosdanis,             M,  - ,      b. 3 Apr 2002 @ Florina
+Vasilis Kravaritis,           G,  - ,      b. 3 Apr 2002
+Ronaldo Shani,                F,  1.82 m,  b. 29 Mar 2002
+Giannis Rizos,                D,  - ,      b. 19 Mar 2002
+Konstantinos Balomenos,       G,  1.87 m,  b. 11 Mar 2002 @ Kilkis
+Kyriakos Aslanidis,           D,  1.84 m,  b. 11 Mar 2002 @ Serres
+Christos Chatzigiannakis,     G,  1.88 m,  b. 9 Mar 2002 @ Anavyssos
+Giannis Saltas,               G,  - ,      b. 5 Mar 2002
+Stefanos Katsikas,            D,  1.81 m,  b. 28 Feb 2002
+Michalis Kosidis,             F,  1.91 m,  b. 9 Feb 2002 @ Thessaloniki
+Christos Tzolis,              F,  1.79 m,  b. 30 Jan 2002 @ Thessaloniki
+Vasilios Gordeziani,          F,  1.85 m,  b. 29 Jan 2002 @ Thessaloniki
+Athanasios Michopoulos,       M,  - ,      b. 20 Jan 2002
+Panagiotis Panagiotou,        D,  1.84 m,  b. 16 Jan 2002 @ Ioannina
+Vangelis Kontogiannis,        G,  - ,      b. 9 Jan 2002
+
+Andreas Athanasakopoulos,     M,  1.78 m,  b. 27 Nov 2001 @ Patras
+Sotiris Alexandropoulos,      M,  1.83 m,  b. 26 Nov 2001 @ Marousi
+Anestis Vlachomitros,         F,  1.86 m,  b. 6 Nov 2001 @ Pefki
+Giorgos Rodis,                F,  - ,      b. 2 Nov 2001
+Vassilis Sifakis,             G,  - ,      b. 27 Oct 2001
+Triantafyllos Tsapras,        D,  1.86 m,  b. 22 Oct 2001 @ Livadeia
+Vangelis Nikokyrakis,         F,  1.75 m,  b. 4 Oct 2001 @ Heraklion
+Giannis Sourdis,              G,  1.91 m,  b. 29 Sep 2001 @ Voula
+Giorgos Daktylas,             M,  1.75 m,  b. 22 Sep 2001
+Christos Mandas,              G,  1.89 m,  b. 17 Sep 2001 @ Piraeus
+Giorgos Vagiannidis,          D,  1.82 m,  b. 12 Sep 2001 @ Gerakas
+Dimitris Pinakas,             F,  1.75 m,  b. 1 Sep 2001 @ Larissa
+Spyros Tzavidas,              F,  1.82 m,  b. 21 Aug 2001 @ Lagonisi
+Stathis Tachatos,             D,  1.77 m,  b. 12 Aug 2001 @ Thessaloniki
+Christos Voutsas,             M,  1.80 m,  b. 31 Jul 2001 @ Thessaloniki
+Kostas Roukounakis,           M,  1.83 m,  b. 17 Jul 2001 @ Athens
+Giorgos Gogos,                D,  1.93 m,  b. 11 Jul 2001 @ Ioannina
+Stelios Kokovas,              D,  1.86 m,  b. 6 Jul 2001 @ Larissa
+Theodoros Antonopoulos,       G,  1.80 m,  b. 6 Jul 2001 @ Athens
+Panos Katseris,               M,  1.79 m,  b. 5 Jul 2001 @ Athens
+Petros Bakoutsis,             M,  1.80 m,  b. 29 Jun 2001 @ Thessaloniki
+Panagiotis Sengergis,         D,  - ,      b. 23 Jun 2001
+Andrews Tetteh,               F,  1.88 m,  b. 25 May 2001 @ Athens
+Ilias Koutsoupias,            M,  1.82 m,  b. 10 May 2001 @ Athens
+Vassilis Zagaritis,           D,  1.77 m,  b. 4 May 2001 @ Thiva
+Kostas Chatzipirpiridis,      F,  1.67 m,  b. 1 May 2001 @ Thessaloniki
+Georgios Vrakas,              M,  1.80 m,  b. 28 Apr 2001 @ Ioannina
+Giorgios Ballas,              F,  - ,      b. 7 Apr 2001
+Spyros Skondras,              F,  - ,      b. 6 Apr 2001
+Kyriakos Giaxis,              M,  1.84 m,  b. 3 Apr 2001 @ Serres
+Nikolaos Michelis,            D,  1.92 m,  b. 23 Mar 2001 @ Nea Smyrni
+Nikos Michelis,               D,  1.91 m,  b. 23 Mar 2001 @ Nea Smyrni
+Christos Talichmanidis,       G,  1.86 m,  b. 16 Mar 2001 @ Thessaloniki
+Nikos Athanasiou,             D,  1.77 m,  b. 16 Mar 2001 @ Athens
+Dimitris Serpezis,            M,  1.82 m,  b. 14 Mar 2001 @ Metamorfosi
+Panagiotis Tzimas,            M,  1.81 m,  b. 12 Mar 2001 @ Preveza
+Kostas Tsirigotis,            D,  - ,      b. 10 Mar 2001
+Panagiotis Tsagalidis,        D,  - ,      b. 5 Mar 2001
+Charilaos Fourkiotis,         D,  1.85 m,  b. 4 Mar 2001
+Michalis Pardalos,            G,  - ,      b. 2 Mar 2001
+Konstantinos Thymianis,       D,  1.86 m,  b. 28 Feb 2001 @ Olympiada
+Dmitris Karagannis,           D,  1.84 m,  b. 27 Feb 2001 @ Mandra
+Giorgos Kanellakis,           M,  1.78 m,  b. 22 Feb 2001 @ Volos
+Giorgos Liavas,               D,  1.81 m,  b. 12 Feb 2001 @ Archontochori
+Petros Bagalianis,            D,  - ,      b. 6 Feb 2001 @ Nea Kallikrateia
+Apostolos Kotsianoulis,       F,  - ,      b. 29 Jan 2001
+Nikos Gotzamanidis,           D,  1.89 m,  b. 25 Jan 2001
+Vasilios Spinos,              D,  1.88 m,  b. 20 Jan 2001 @ Kifisia
+Alexandros Kardaris,          D,  - ,      b. 14 Jan 2001
+Apostolos Martinis,           D,  1.83 m,  b. 8 Jan 2001
+Georgios Christodoulis,       G,  1.91 m,  b. 4 Jan 2001 @ Katerini
+Stefanos Souloukos,           G,  - ,      b. 4 Jan 2001
+Giorgos Zacharakis,           F,  - ,      b. 2 Jan 2001
+
+Giannis-Fivos Botos,          M,  1.72 m,  b. 20 Dec 2000 @ Athens
+Stavros Pilios,               D|F,1.77 m,  b. 10 Dec 2000 @ Ioannina
+Giannis Nikopolidis,          G,  1.88 m,  b. 8 Dec 2000 @ Athens
+Giannis Sardelis,             M,  1.71 m,  b. 30 Nov 2000 @ Methoni
+Theodoris Chiritrantas,       D,  - ,      b. 10 Nov 2000 @ Thessaloniki
+Kostas Stamoulis,             D,  1.73 m,  b. 29 Oct 2000 @ Patras
+Dimitrios Emmanouilidis,      F,  1.71 m,  b. 24 Oct 2000 @ Leuctra
+Klaidi Lolos,                 F,  1.88 m,  b. 6 Oct 2000 @ Athens
+Frixos Grivas,                M,  1.78 m,  b. 23 Sep 2000 @ Livadia
+Efthymios Christopoulos,      F,  1.81 m,  b. 20 Sep 2000 @ Patras
+Savvas Gentsoglou,            M,  1.85 m,  b. 19 Sep 2000 @ Alexandroupoli
+Alexandros Kyziridis,         F,  1.79 m,  b. 16 Sep 2000 @ Skydra
+Apostolos Tsilingiris,        G,  1.90 m,  b. 6 Sep 2000 @ Xanthi
+Charis Tsiggaras,             M,  1.73 m,  b. 20 Aug 2000 @ Portaria
+Georgios Neofytidis,          M,  1.83 m,  b. 28 Jul 2000 @ Thessaloniki
+Giannis Christopoulos,        D,  1.84 m,  b. 22 Jul 2000 @ Tripoli
+Venizelos Pentarakis,         G,  1.94 m,  b. 15 Jul 2000 @ Chania
+Sotirios Kokkinis,            F,  1.68 m,  b. 11 Jul 2000 @ Preveza
+Orestis Grigoropoulos,        D,  1.75 m,  b. 4 Jul 2000
+Theodoros Tsirigotis,         F,  1.83 m,  b. 23 Jun 2000 @ Athens
+Christos Kalantzis,           G,  - ,      b. 19 Jun 2000
+Alexandros Chalatsis,         M,  1.89 m,  b. 16 Jun 2000
+Gerasimos Bakadimas,          D,  - ,      b. 6 Jun 2000
+Alexandros Voilis,            F,  1.87 m,  b. 26 May 2000 @ Mandra
+Angelos Liasos,               M,  1.85 m,  b. 26 May 2000 @ Florina
+Apostolos Diamantis,          D,  1.87 m,  b. 20 May 2000 @ Serres
+Serafim Maniotis,             M,  1.85 m,  b. 17 May 2000 @ Lamia
+Marios Tsaousis,              D,  1.75 m,  b. 11 May 2000 @ Thessaloniki
+Alexandros Kavvadias,         F,  - ,      b. 10 May 2000
+Theodosis Macheras,           F,  1.79 m,  b. 9 May 2000 @ Leros
+Symeon Papadopoulos,          G,  1.92 m,  b. 18 Apr 2000 @ Thessaloniki
+Alexandros Gkargkalatzidis,   F,  1.81 m,  b. 12 Apr 2000 @ Thessaloniki
+Dimitris Loufakis,            M,  1.74 m,  b. 1 Apr 2000 @ Thessaloniki
+Giorgos Doumtsis,             F,  1.80 m,  b. 4 Mar 2000 @ Florina
+Alexandros Tereziou,          F,  1.81 m,  b. 1 Mar 2000 @ Nafplion
+Kristo Shehu,                 F,  1.89 m,  b. 1 Mar 2000 @ Eretria
+Lefteris Lyratzis,            D,  1.75 m,  b. 22 Feb 2000 @ Kavala
+Giannis Michailidis,          D,  1.85 m,  b. 18 Feb 2000 @ Giannitsa
+Dimitrios Fytopoulos,         M,  - ,      b. 11 Feb 2000
+Giorgos Antzoulas,            D,  1.83 m,  b. 4 Feb 2000 @ Tripoli
+Giorgos Kanellopoulos,        M,  1.73 m,  b. 29 Jan 2000 @ Tripoli
+Nikos Christogeorgos,         G,  1.90 m,  b. 18 Jan 2000 @ Marousi
+Marios Vichos,                D,  1.80 m,  b. 14 Jan 2000 @ Itea
+Fotis Ioannidis,              F,  1.86 m,  b. 10 Jan 2000 @ Athens
+
+Zisis Chatzistravos,          M,  1.70 m,  b. 16 Dec 1999 @ Serres
+Christoforos Karagiannis,     M,  1.75 m,  b. 9 Dec 1999 @ Athens
+Georgios Sournakis,           M,  - ,      b. 7 Nov 1999 @ Heraklion
+Panagiotis Liagas,            D,  1.89 m,  b. 5 Nov 1999 @ Karpenisi
+Georgios Tzovaras,            D|F,1.86 m,  b. 3 Nov 1999 @ Volos
+Gerasimos Mitoglou,           D,  1.95 m,  b. 20 Oct 1999
+Marios Siabanis,              G,  1.87 m,  b. 28 Sep 1999 @ Katerini
+Giorgos Nikas,                M,  1.88 m,  b. 17 Sep 1999 @ Thiva
+Georgios Xenitidis,           M,  - ,      b. 4 Sep 1999
+Vasilis Kostikas,             F,  1.74 m,  b. 4 Sep 1999
+Alexandros Safarikas,         G,  1.94 m,  b. 26 Aug 1999 @ Veria
+Vasilis Chatziemmanouil,      G,  1.88 m,  b. 9 Aug 1999 @ Nea Makri
+Tasos Douvikas,               F,  1.84 m,  b. 2 Aug 1999 @ Athens
+Dimitrios Tsakmakis,          D,  1.87 m,  b. 28 Jul 1999 @ Thessaloniki
+Angelos Tsigaras,             M,  1.73 m,  b. 24 Jul 1999 @ Portaria
+Vasilis Athanasiou,           G,  1.88 m,  b. 24 Jul 1999 @ Aigio
+Antonis Tsiftsis,             G,  1.91 m,  b. 21 Jul 1999 @ Giannitsa
+Paris Babis,                  M,  1.72 m,  b. 17 Jul 1999 @ Athens
+Panagiotis Pritsas,           M,  - ,      b. 9 Jul 1999
+Nikos Zografakis,             M,  1.76 m,  b. 7 Jul 1999 @ Berlin
+Kostas Dimitriou,             D,  1.85 m,  b. 30 Jun 1999 @ Thessaloniki
+Nikos Peios,                  M,  1.84 m,  b. 17 Jun 1999 @ Veria
+Kostas Apostolakis,           D,  1.78 m,  b. 28 May 1999 @ Athens
+Marios Pourzitidis,           D,  1.90 m,  b. 8 May 1999 @ Thessaloniki
+Argyris Kampetsis,            F,  1.86 m,  b. 6 May 1999 @ Athens
+Antonis Trimmatis,            F,  1.76 m,  b. 29 Apr 1999 @ Kos
+Leonidas Rossi,               D,  1.83 m,  b. 19 Apr 1999 @ Sarandë
+Antonis Stergiakis,           G,  1.95 m,  b. 16 Mar 1999 @ Thessaloniki
+Panagiotis Katsikas,          G,  1.89 m,  b. 10 Mar 1999 @ Athens
+Christos Giousis,             M,  1.76 m,  b. 8 Feb 1999 @ Athens
+Konstantinos Balogiannis,     D|M,1.79 m,  b. 8 Feb 1999 @ Thessaloniki
+Giannis Iatroudis,            F,  1.90 m,  b. 2 Feb 1999 @ Heraklion
+Panagiotis Ginis,             G,  1.90 m,  b. 23 Jan 1999 @ Athens
+
+Evangelos Pavlidis,           F,  1.80 m,  b. 21 Nov 1998 @ Thessaloniki
+Giannis Papanikolaou,         M,  1.81 m,  b. 18 Nov 1998 @ Marousi
+Nikos Kainourgios,            D,  - ,      b. 8 Sep 1998
+Dimitris Nikolaou,            D,  1.88 m,  b. 13 Aug 1998 @ Chalcis
+Panagiotis Retsos,            D,  1.84 m,  b. 9 Aug 1998 @ Johannesburg
+Georgios Giannoutsos,         D,  1.83 m,  b. 16 Jul 1998 @ Psachna
+Giorgos Giannoutsos,          D,  1.81 m,  b. 16 Jul 1998 @ Chalcis
+Giorgos Daviotis,             M,  1.81 m,  b. 29 Jun 1998 @ Athens
+Abdul Rahman Oues,            D,  1.75 m,  b. 14 Jun 1998 @ Athens
+Konstantinos Panagou,         D,  1.75 m,  b. 11 Jun 1998 @ Cholargos
+Spyros Natsos,                D,  1.77 m,  b. 9 Jun 1998 @ Preveza
+Odysseas Lymperakis,          D,  1.76 m,  b. 5 Jun 1998 @ Kavala
+Manolis Kragiopoulos,         M,  1.78 m,  b. 29 May 1998 @ Katerini
+Dimitris Limnios,             M|F,1.78 m,  b. 27 May 1998 @ Volos
+Vassilis Xenopoulos,          G,  1.85 m,  b. 20 May 1998 @ Athens
+Alexandros Parras,            D,  1.80 m,  b. 12 May 1998
+Stefanos Evangelou,           D,  1.85 m,  b. 12 May 1998 @ Athens
+Antonis Oikonomopoulos,       D,  1.79 m,  b. 9 May 1998 @ Athens
+Alexandros Katranis,          D,  1.74 m,  b. 4 May 1998 @ Volos
+Vasilis Poghosyan,            M,  1.79 m,  b. 4 May 1998 @ Athens
+Pantelis Panourgias,          D,  1.90 m,  b. 13 Apr 1998 @ Athens
+Giorgos Maidanos,             D,  1.70 m,  b. 12 Apr 1998 @ Chrysoupoli
+Giorgos Manousakis,           F,  1.77 m,  b. 10 Apr 1998 @ Heraklion
+Giannis Angelopoulos,         G,  1.85 m,  b. 3 Apr 1998 @ Messenia
+Giannis Bouzoukis,            M,  1.72 m,  b. 27 Mar 1998 @ Preveza
+Giannis Varkas,               F,  1.78 m,  b. 27 Mar 1998 @ Chalcis
+Savvas Mourgos,               M,  1.73 m,  b. 16 Mar 1998 @ Amarousio
+Giorgos Kornezos,             D,  1.91 m,  b. 23 Feb 1998 @ Athens
+Giannis Kiakos,               D,  1.82 m,  b. 14 Feb 1998 @ Bamberg
+Stathis Belevonis,            M,  1.72 m,  b. 6 Feb 1998
+Theodoros Mingos,             M,  1.79 m,  b. 6 Feb 1998 @ Athens
+Giannis Ikonomidis,           M,  1.81 m,  b. 3 Jan 1998
+
+Kostas Galanopoulos,          M,  1.72 m,  b. 28 Dec 1997 @ Athens
+Lazaros Lambrou,              F,  1.83 m,  b. 19 Dec 1997 @ Katerini
+Konstantinos Mavropanos,      D,  1.92 m,  b. 11 Dec 1997 @ Athens
+Spyros Glynos,                F,  1.68 m,  b. 2 Dec 1997 @ Marousi
+Panagiotis Moraitis,          F,  1.80 m,  b. 1 Dec 1997 @ Agrinio
+Stratos Svarnas,              D,  1.81 m,  b. 11 Nov 1997 @ Athens
+Ilias Chatzitheodoridis,      D,  1.78 m,  b. 5 Nov 1997 @ Katerini
+Ilias Kyritsis,               G,  1.85 m,  b. 14 Oct 1997 @ Frankfurt am Main
+Stefanos Stroungis,           D,  1.87 m,  b. 9 Oct 1997 @ Volos
+Ilias Tselios,                M,  1.68 m,  b. 6 Oct 1997 @ Athens
+Kostas Doumtsios,             F,  1.82 m,  b. 20 Sep 1997 @ Serres
+Lazaros Rota,                 D,  1.77 m,  b. 23 Aug 1997 @ Katerini
+Anastasios Karagiozis,        G,  1.95 m,  b. 20 Jun 1997 @ Katerini
+Tasos Chatzigiovanis,         M,  1.75 m,  b. 31 May 1997 @ Mytilene
+Georgios Servilakis,          D,  1.75 m,  b. 18 May 1997 @ Retyhmno
+Alexis Triadis,               M,  1.85 m,  b. 16 May 1997 @ Herdecke
+Fanis Mavromatis,             D,  1.86 m,  b. 12 May 1997 @ Argos
+Giorgos Manthatis,            M,  1.82 m,  b. 11 May 1997 @ Athens
+Thanasis Androutsos,          D|M,1.82 m,  b. 6 May 1997 @ Athens
+Dimitris Stavropoulos,        D,  1.91 m,  b. 1 May 1997 @ Athens
+Kyriakos Mazoulouxis,         D,  1.83 m,  b. 1 May 1997 @ Thessaloniki
+Giorgos Xydas,                F,  1.75 m,  b. 14 Apr 1997 @ Chios
+Fotis Pantekidis,             D,  1.86 m,  b. 2 Apr 1997 @ Ptolemaida
+Alexandros Malis,             D,  1.82 m,  b. 19 Mar 1997 @ Agrinio
+Athanasios Margaritis,        M,  1.75 m,  b. 17 Mar 1997
+Konstantinos Kotsopoulos,     F,  1.77 m,  b. 21 Feb 1997 @ Veria
+Nikos Vafeas,                 D,  1.87 m,  b. 21 Feb 1997 @ Thessaloniki
+Manolis Patralis,             M,  1.74 m,  b. 6 Feb 1997 @ Nea Redestos
+Pantelis Hatzidiakos,         D,  1.81 m,  b. 18 Jan 1997 @ Rhodes
+
+James Efmorfidis,             M,  1.78 m,  b. 18 Oct 1996 @ Nea Erythraia
+Dimitris Giannoulis,          D,  1.75 m,  b. 17 Oct 1996 @ Katerini
+Christos Theodorakis,         G,  1.85 m,  b. 17 Sep 1996 @ Ioannina
+Manolis Saliakas,             D,  1.75 m,  b. 12 Sep 1996 @ Heraklion
+Theocharis Iliadis,           D,  1.85 m,  b. 5 Sep 1996 @ Katerini
+Anastasios Donis,             F,  1.76 m,  b. 29 Aug 1996 @ Blackburn
+Panagiotis Deligiannidis,     D,  1.77 m,  b. 29 Aug 1996 @ Thessaloniki
+Giannis Masouras,             D|M,1.81 m,  b. 24 Aug 1996 @ Patras
+Konstantinos Kotsaris,        G,  1.85 m,  b. 25 Jul 1996 @ Athens
+Triantafyllos Pasalidis,      D,  1.85 m,  b. 19 Jul 1996 @ Eleftherio-Kordelio
+Charalampos Makridis,         F,  1.80 m,  b. 5 Jul 1996 @ Minden
+Konstantinos Provydakis,      D,  1.75 m,  b. 21 May 1996 @ Heraklion
+Kostas Tsimikas,              D,  1.77 m,  b. 12 May 1996 @ Thessaloniki
+Efthimios Koulouris,          F,  1.84 m,  b. 6 Mar 1996 @ Skydra
+Paschalis Staikos,            M,  1.77 m,  b. 8 Feb 1996 @ Drama
+Georgios Kyriakopoulos,       D,  1.78 m,  b. 5 Feb 1996 @ Patras
+Nikos Vergos,                 F,  1.83 m,  b. 13 Jan 1996 @ Kilkis
+Zissis Karahalios,            M,  1.75 m,  b. 10 Jan 1996 @ Karditsa
+
+Achilleas Pouggouras,         D,  1.87 m,  b. 13 Dec 1995 @ Thessaloniki
+Taxiarchis Fountas,           M|F,1.68 m,  b. 4 Sep 1995 @ Mesologi
+Angelos Oikonomou,            M,  1.73 m,  b. 23 Aug 1995 @ Thessaloniki
+Leonardo Koutris,             D,  1.74 m,  b. 23 Jul 1995 @ Rhodes
+Praxitelis Vouros,            D,  1.83 m,  b. 5 May 1995 @ Mytilini
+Antonis Papasavvas,           M,  1.85 m,  b. 20 Mar 1995 @ Arta
+Antonis Dentakis,             D,  1.79 m,  b. 13 Mar 1995 @ Chania
+Sotiris Tsiloulis,            M,  1.85 m,  b. 14 Feb 1995 @ Larissa
+Adam Tzanetopoulos,           D,  1.93 m,  b. 10 Feb 1995 @ Volos
+Epaminondas Pantelakis,       D,  1.87 m,  b. 10 Feb 1995 @ Chania
+Angelos Zioulis,              D,  1.88 m,  b. 1 Feb 1995 @ Athens
+Alexandros Kartalis,          D|M,1.78 m,  b. 29 Jan 1995 @ Nuremberg
+Anastasios Kritikos,          F,  1.77 m,  b. 25 Jan 1995 @ Larissa
+Charis Charisis,              M,  1.77 m,  b. 12 Jan 1995 @ Ioannina
+Kleton Perntreou,             G,  1.88 m,  b. 8 Jan 1995 @ Tirana
+
+Giorgos Manalis,              F,  1.82 m,  b. 21 Dec 1994 @ Athens
+Giannis Kargas,               D,  1.86 m,  b. 9 Dec 1994 @ Kilkis
+Giorgos Giakoumakis,          F,  1.85 m,  b. 9 Dec 1994 @ Rethymno
+Vasilis Soulis,               G,  1.99 m,  b. 7 Dec 1994 @ Patras
+Christos Albanis,             F,  1.84 m,  b. 5 Nov 1994 @ Kalabaka
+Marios Ogkmpoe,               F,  1.88 m,  b. 10 Oct 1994 @ Athens
+Christos Donis,               M,  1.83 m,  b. 9 Oct 1994 @ Athens
+Dimitris Manos,               F,  1.79 m,  b. 16 Sep 1994 @ Trikala
+Alexandros Anagnostopoulos,   G,  1.85 m,  b. 18 Aug 1994 @ Athens
+Dimitris Sounas,              M,  1.77 m,  b. 12 Aug 1994 @ Portaria
+Alexandros Nikolias,          M,  1.72 m,  b. 23 Jul 1994 @ Kymi
+Lefteris Choutesiotis,        G,  1.92 m,  b. 20 Jul 1994 @ Makrychori
+Diamantis Chouchoumis,        D,  1.78 m,  b. 17 Jul 1994 @ Aliveri
+Dimitris Konstantinidis,      D,  1.73 m,  b. 2 Jun 1994 @ Thessaloniki
+Vasilios Barkas,              G,  1.96 m,  b. 30 May 1994 @ Peristeri
+Manolis Siopis,               M,  1.71 m,  b. 14 May 1994 @ Alexandroupoli
+Kosmas Tsilianidis,           M,  1.80 m,  b. 9 May 1994 @ Thessaloniki
+Nikos Ioannidis,              F,  1.88 m,  b. 26 Apr 1994 @ Remscheid
+Odisseas Vlachodimos,         G,  1.88 m,  b. 26 Apr 1994 @ Stuttgart
+Giorgos Migas,                D,  1.85 m,  b. 7 Apr 1994 @ Amfilochia
+Dimitris Goutas,              D,  1.89 m,  b. 4 Apr 1994 @ Kavala
+Stefanos Kapino,              G,  1.96 m,  b. 18 Mar 1994 @ Piraeus
+Charalambos Mavrias,          M,  1.77 m,  b. 21 Feb 1994 @ Zakynthos
+Spyros Risvanis,              D,  1.96 m,  b. 3 Jan 1994 @ Kalamata
+
+Konstantinos Bouloulis,       M,  1.73 m,  b. 7 Dec 1993 @ Lamia
+Kostas Stafylidis,            D,  1.76 m,  b. 2 Dec 1993 @ Koufalia
+Giorgos Masouras,             M,  1.84 m,  b. 30 Nov 1993 @ Amfilochia
+Spyros Fourlanos,             M,  1.73 m,  b. 19 Nov 1993 @ Athens
+Giorgos Pamlidis,             F,  1.79 m,  b. 13 Nov 1993 @ Katerini
+Dimitrios Kourbelis,          M,  1.82 m,  b. 2 Nov 1993 @ Korakovouni
+Vasilis Vitlis,               D,  1.80 m,  b. 28 Oct 1993 @ Thessaloniki
+Dimitris Pelkas,              M,  1.75 m,  b. 26 Oct 1993 @ Giannitsa
+Charalampos Lykogiannis,      D,  1.90 m,  b. 22 Oct 1993 @ Athens
+Stelios Kitsiou,              D,  1.76 m,  b. 28 Sep 1993 @ Thessaloniki
+Nikos Marinakis,              D,  1.86 m,  b. 13 Sep 1993 @ Heraklion
+Panagiotis Tsintotas,         G,  1.92 m,  b. 4 Jul 1993 @ Katerini
+Stavros Panagiotou,           D,  1.71 m,  b. 1 Jul 1993 @ Arta
+Anastasios Bakasetas,         F,  1.85 m,  b. 28 Jun 1993 @ Corinth
+Theofanis Tzandaris,          M,  1.80 m,  b. 13 Jun 1993 @ Sochos
+Giannis Gianniotas,           M,  1.75 m,  b. 29 Apr 1993 @ Thessaloniki
+Dimitris Kolovos,             M,  1.82 m,  b. 27 Apr 1993 @ Athens
+Giorgos Athanasiadis,         G,  1.91 m,  b. 7 Apr 1993 @ Thessaloniki
+Andreas Bouhalakis,           M,  1.86 m,  b. 5 Apr 1993 @ Heraklion
+Konstantinos Triantafyllopoulos,D,  1.85 m,  b. 3 Apr 1993 @ Corinth
+Serafim Giannikoglou,         G,  1.89 m,  b. 25 Mar 1993 @ Kavala
+Nikos Melissas,               G,  1.82 m,  b. 24 Feb 1993 @ Thessaloniki
+Nikos Giannakopoulos,         G,  1.92 m,  b. 19 Feb 1993 @ Athens
+Sokratis Dioudis,             G,  1.82 m,  b. 3 Feb 1993 @ Thessaloniki
+George Baldock,               D,  1.75 m,  b. 26 Jan 1993 @ Buckingham
+
+Andreas Gianniotis,           G,  1.90 m,  b. 18 Dec 1992 @ Serres
+Giannis Kotsiras,             D,  1.83 m,  b. 16 Dec 1992 @ Megalopolis
+Stavros Petavrakis,           D,  1.77 m,  b. 9 Nov 1992 @ Rhodes
+Panagiotis Symelidis,         F,  1.77 m,  b. 3 Nov 1992 @ Vatero
+Kostas Fortounis,             M,  1.82 m,  b. 16 Oct 1992 @ Kalambaka
+Marios Oikonomou,             D,  1.89 m,  b. 6 Oct 1992 @ Giannina
+Dimitris Chatziisaias,        D,  1.93 m,  b. 21 Sep 1992 @ Thessaloniki
+Panagiotis Triadis,           M,  1.78 m,  b. 9 Sep 1992 @ Herdecke
+Kosmas Gezos,                 D,  1.82 m,  b. 15 Aug 1992 @ Athens
+Thanassis Garavelis,          G,  1.90 m,  b. 6 Aug 1992 @ Kozani
+Kyriakos Kivrakidis,          D,  1.81 m,  b. 21 Jul 1992 @ Berlin
+Petros Giakoumakis,           F,  1.75 m,  b. 3 Jul 1992 @ Heraklion
+Manolis Tzanakakis,           D,  1.76 m,  b. 30 Apr 1992 @ Heraklion
+Ioannis Gelios,               G,  1.90 m,  b. 24 Apr 1992 @ Augsburg
+Anastasios Lagos,             M,  1.82 m,  b. 12 Apr 1992 @ Volos
+Georgios Papavasiliou,        F,  1.87 m,  b. 6 Apr 1992 @ Proti
+Nikos Tsoukalos,              F,  1.83 m,  b. 23 Mar 1992 @ Lamia
+Nikolaos Karanikas,           D,  1.76 m,  b. 4 Mar 1992 @ Larissa
+Nikos Karelis,                F,  1.79 m,  b. 24 Feb 1992 @ Rethymno
+Kyriakos Papadopoulos,        D,  1.83 m,  b. 23 Feb 1992 @ Katerini
+Giorgos Valerianos,           D,  1.80 m,  b. 13 Feb 1992 @ Athens
+Giorgos Saramantas,           D,  1.76 m,  b. 29 Jan 1992 @ Pyrgos
+Stavros Vasilantonopoulos,    D,  1.78 m,  b. 28 Jan 1992 @ Egio
+Valentinos Vlachos,           D,  1.77 m,  b. 14 Jan 1992 @ Athens
+Apostolos Vellios,            F,  1.91 m,  b. 8 Jan 1992 @ Thessaloniki
+
+Vasilis Mantzis,              F,  1.81 m,  b. 4 Dec 1991 @ Grammatiko
+Dimitris Kolovetsios,         D,  1.84 m,  b. 16 Oct 1991 @ Larissa
+Panagiotis Vlachodimos,       F,  1.84 m,  b. 12 Oct 1991 @ Stuttgart
+Christos Eleftheriadis,       M,  1.78 m,  b. 30 Sep 1991 @ Kavala
+Thanassis Karagounis,         F,  1.79 m,  b. 25 Sep 1991 @ Ptolemaida
+Kostas Lamprou,               G,  1.76 m,  b. 18 Sep 1991 @ Athens
+Dimitris Anakoglou,           M,  1.75 m,  b. 6 Sep 1991 @ Serres
+Petros Mandalos,              M,  1.73 m,  b. 31 Aug 1991 @ Komotini
+Nikos Korovesis,              D,  1.76 m,  b. 10 Aug 1991 @ Chalkida
+Konstantinos Manolas,         D,  1.89 m,  b. 14 Jun 1991 @ Naxos
+Thanos Petsos,                M,  1.84 m,  b. 5 Jun 1991 @ Düsseldorf
+Aristotelis Karasalidis,      D,  1.86 m,  b. 3 May 1991 @ Thessaloniki
+Christos Tasoulis,            D,  1.78 m,  b. 3 May 1991 @ Tripoli
+Tasos Tsokanis,               M,  1.82 m,  b. 2 May 1991 @ Chalkida
+Michalis Bakakis,             D,  1.77 m,  b. 18 Mar 1991 @ Agrinio
+Giannis Anestis,              G,  1.97 m,  b. 9 Mar 1991 @ Chalkida
+Andreas Vasilogiannis,        M,  1.82 m,  b. 21 Feb 1991 @ Kato Achaia
+Panagiotis Tachtsidis,        M,  1.91 m,  b. 15 Feb 1991 @ Nafplio
+Giorgios Koutroubis,          D,  1.85 m,  b. 10 Feb 1991 @ Athens
+
+Giannis Fetfatzidis,          M,  1.68 m,  b. 21 Dec 1990 @ Drama
+Anastasios Karamanos,         F,  1.81 m,  b. 21 Sep 1990 @ Athens
+Stergios Dimopoulos,          D,  1.80 m,  b. 25 May 1990 @ Karditsa
+Nikos Moustakis,              D,  1.79 m,  b. 4 May 1990 @ Athens
+Nikos Kaltsas,                M,  1.71 m,  b. 3 May 1990 @ Veria
+Nikos Papadopoulos,           G,  1.90 m,  b. 11 Apr 1990 @ Athens
+Sotiris Ninis,                M,  1.73 m,  b. 3 Apr 1990 @ Himara
+Vasilios Lampropoulos,        D,  1.85 m,  b. 31 Mar 1990 @ Pyrgos
+Konstantinos Theodoropoulos,  G,  1.85 m,  b. 27 Mar 1990 @ Athens
+Giannis Gotsoulias,           M,  1.70 m,  b. 15 Mar 1990 @ Patras
+Lefteris Matsoukas,           F,  1.74 m,  b. 7 Mar 1990 @ Athens
+Giannis Skondras,             D,  1.82 m,  b. 21 Feb 1990 @ Trikala
+Apostolis Giannou,            F,  1.85 m,  b. 25 Jan 1990 @ Naoussa
+Anastasios Avlonitis,         D,  1.91 m,  b. 1 Jan 1990 @ Chalcis
+
+Alexandros Paschalakis,       G,  1.93 m,  b. 28 Jul 1989 @ Athens
+Andreas Samaris,              M,  1.89 m,  b. 13 Jun 1989 @ Patras
+Manolis Mpertos,              D,  1.80 m,  b. 13 May 1989 @ Xanthi
+
+Dimitris Siovas,              D,  1.92 m,  b. 16 Sep 1988 @ Drama
+Theodoros Vassilakakis,       M,  1.85 m,  b. 20 Jul 1988 @ Thessaloniki
+Elini Dimoutsos,              M,  1.78 m,  b. 18 Jun 1988 @ Luznja
+Sokratis Papastathopoulos,    D,  1.83 m,  b. 9 Jun 1988 @ Kalamata
+Stavros Tsoukalas,            M,  1.85 m,  b. 23 May 1988 @ Thessaloniki
+Dimos Baxevanidis,            D,  1.75 m,  b. 14 Apr 1988 @ Komotini
+Kostas Mitroglou,             F,  1.88 m,  b. 12 Mar 1988 @ Kavala
+Vangelis Platellas,           F,  1.65 m,  b. 1 Feb 1988 @ Xanthi
+
+Kostas Giannoulis,            D,  1.83 m,  b. 9 Dec 1987 @ Katerini
+Giorgos Manousos,             F,  1.78 m,  b. 3 Dec 1987 @ Mytilene
+Giorgos Delizisis,            D,  1.91 m,  b. 1 Dec 1987 @ Kozani
+Giorgos Tzavelas,             D,  1.83 m,  b. 26 Nov 1987 @ Athens
+Stergos Marinos,              D,  1.66 m,  b. 17 Sep 1987 @ Kos
+Dimitris Sotiriou,            G,  1.85 m,  b. 13 Sep 1987 @ Athens
+Stefanos Siontis,             D,  1.79 m,  b. 4 Sep 1987 @ Ioannina
+Panagiotis Kone,              M,  1.83 m,  b. 26 Jul 1987 @ Tirana
+Grigoris Makos,               M,  1.83 m,  b. 18 Jan 1987 @ Athens
+
+Lazaros Christodoulopoulos,   M,  1.83 m,  b. 19 Dec 1986 @ Thessaloniki
+Giannis Maniatis,             D,  1.75 m,  b. 12 Oct 1986 @ Livadia
+Panagiotis Glykos,            G,  1.84 m,  b. 10 Oct 1986 @ Volos
+Alexis Michail,               D,  1.83 m,  b. 18 Aug 1986 @ Giannina
+Savvas Tsambouris,            D,  1.80 m,  b. 16 Jul 1986 @ Athens
+Christos Lisgaras,            D,  1.89 m,  b. 12 Feb 1986 @ Giannina
+
+Orestis Karnezis,             G,  1.89 m,  b. 11 Jul 1985 @ Athens
+Vasilis Torosidis,            D,  1.85 m,  b. 10 Jun 1985 @ Xanthi
+Stelios Malezas,              D,  1.92 m,  b. 11 Mar 1985 @ Katerini
+Giorgos Samaras,              F,  1.93 m,  b. 21 Feb 1985 @ Heraklion
+Alexandros Tziolis,           M,  1.89 m,  b. 13 Feb 1985 @ Katerini
+
+Avraam Papadopoulos,          D,  1.86 m,  b. 3 Dec 1984 @ Sydney
+Michalis Sifakis,             G,  1.85 m,  b. 9 Sep 1984 @ Arta
+José Holebas,                 D,  1.85 m,  b. 27 Jun 1984 @ Aschaffenburg
+
+Nikos Spiropoulos,            D,  1.72 m,  b. 10 Oct 1983 @ Giannina
+Pantelis Kapetanos,           F,  1.90 m,  b. 8 Jun 1983 @ Ptolemaida
+
+Alexandros Tzorvas,           G,  1.88 m,  b. 12 Aug 1982 @ Athens
+
+Giorgos Fotakis,              M,  1.75 m,  b. 29 Oct 1981 @ Kalamata
+Vangelis Moras,               D,  1.93 m,  b. 26 Aug 1981 @ Larisa
+Dimitris Salpigidis,          F,  1.72 m,  b. 18 Aug 1981 @ Thessaloniki
+Georgios Seitaridis,          D,  1.85 m,  b. 4 Jun 1981 @ Piraeus
+Loukas Vyntra,                D,  1.84 m,  b. 5 Feb 1981 @ Alberhiche
+
+Theofanis Gekas,              F,  1.79 m,  b. 23 May 1980 @ Larissa
+Aggelos Charisteas,           F,  1.90 m,  b. 9 Feb 1980 @ Serres
+
+Sotirios Kyrgiakos,           D,  1.92 m,  b. 23 Jul 1979 @ Trikala
+Kostas Katsouranis,           M,  1.83 m,  b. 21 Jun 1979 @ Patra
+Christos Patsatzoglou,        D,  1.82 m,  b. 19 Mar 1979 @ Athens
+Thanassis Prittas,            M,  1.83 m,  b. 9 Jan 1979 @ Thessaloniki
+
+Dimitrios Konstantopoulos,    G,  1.93 m,  b. 29 Nov 1978 @ Thessaloniki
+
+Giorgos Karagounis,           M,  1.76 m,  b. 6 Mar 1977 @ Pyrgos
+
+Nikos Liberopoulos,           F,  1.86 m,  b. 4 Aug 1975 @ Kalamata
+
+Konstantinos Chalkias,        G,  1.99 m,  b. 30 May 1974 @ Larisa

@@ -1,0 +1,129 @@
+=================================
+=  Finland
+
+Jaaso Jantunen,               G,  1.96 m,  b. 31 Jan 2005 @ Helsinki
+Tomas Galvez,                 D,  - ,      b. 28 Jan 2005 @ Watford
+
+Otso Liimatta,                M,  1.69 m,  b. 10 Jul 2004 @ Oulo
+Isak Vidjeskog,               M,  - ,      b. 28 Mar 2004
+Jimi Tauriainen,              F,  - ,      b. 9 Mar 2004 @ Helsinki
+Arttu Lötjönen,               D,  1.84 m,  b. 28 Jan 2004 @ Pori
+Rony Jansson,                 D,  1.83 m,  b. 10 Jan 2004 @ Espoo
+
+Niklas Pyyhtiä,               M,  1.88 m,  b. 25 Sep 2003 @ Turku
+Jasper Samooja,               G,  1.93 m,  b. 21 Jul 2003 @ Helsinki
+Miika Koskela,                D,  1.95 m,  b. 12 Jul 2003 @ Oulu
+Casper Terho,                 F,  1.81 m,  b. 24 Jun 2003 @ Helsinki
+Leo Walta,                    M,  1.70 m,  b. 24 Jun 2003 @ Vantaa
+Maksim Stjopin,               F,  - ,      b. 8 Apr 2003
+Lasse Schulz,                 G,  1.98 m,  b. 29 Mar 2003 @ Helsn
+Agon Sadiku,                  F,  1.84 m,  b. 10 Mar 2003 @ Raahe
+Henri Salomaa,                F,  1.84 m,  b. 14 Feb 2003
+Kai Meriluoto,                F,  1.83 m,  b. 2 Jan 2003 @ Pori
+
+Tony Miettinen,               D,  1.84 m,  b. 23 Sep 2002 @ Mombasa
+Lucas Bergström,              G,  1.99 m,  b. 5 Sep 2002 @ Paragas
+Antonio Yakoub,               F,  1.80 m,  b. 12 Jun 2002
+Naatan Skyttä,                M,  1.70 m,  b. 7 May 2002 @ Ylöjärvi
+Eetu Mömmö,                   F,  1.83 m,  b. 4 May 2002
+Adam Markhiyev,               M,  1.83 m,  b. 17 Mar 2002 @ Nazran
+Ville Koski,                  D,  1.85 m,  b. 27 Jan 2002 @ Tuusula
+Santeri Väänänen,             M,  1.77 m,  b. 1 Jan 2002 @ Helsinki
+
+Jeremiah Streng,              F,  1.88 m,  b. 8 Nov 2001 @ Vaasa
+Terry Ablade,                 F,  1.81 m,  b. 12 Oct 2001 @ Accra
+Viljami Sinisalo,             G,  1.96 m,  b. 11 Oct 2001 @ Espoo
+Johannes Yli-Kokko,           M,  1.85 m,  b. 24 Aug 2001 @ Espoo
+Oliver Antman,                M,  1.75 m,  b. 15 Aug 2001 @ Vantaa
+Patrik Raitanen,              D,  1.87 m,  b. 13 Jun 2001 @ Ulvila
+Maxi Tainio,                  M,  - ,      b. 24 May 2001 @ Auxerre
+Janne-Pekka Laine,            M,  1.84 m,  b. 25 Jan 2001 @ Tampere
+Anssi Suhonen,                M,  1.70 m,  b. 14 Jan 2001 @ Hyvinkää
+Silman El Baset,              D,  1.88 m,  b. 1 Jan 2001
+
+Jaakko Oksanen,               D,  1.84 m,  b. 7 Nov 2000 @ Helsinki
+Daniel Håkans,                M,  1.78 m,  b. 26 Oct 2000 @ Vaasa
+Tuomas Ollila,                D,  1.73 m,  b. 25 Apr 2000 @ Helsinki
+Otto Huuhtanen,               G,  1.89 m,  b. 28 Feb 2000 @ Espoo
+
+Onni Valakari,                M,  1.87 m,  b. 18 Aug 1999 @ Motherwell
+Saku Ylätupa,                 M,  1.71 m,  b. 4 Aug 1999 @ Espoo
+Timo Stavitski,               F,  1.80 m,  b. 17 Jul 1999 @ Kirkkonummi
+Serge Atakayi,                F,  1.71 m,  b. 30 Jun 1999 @ Kinshasa
+Marcus Forss,                 F,  1.86 m,  b. 18 Jun 1999 @ Turku
+Eetu Vertainen,               F,  1.87 m,  b. 11 May 1999 @ Espoo
+Jonas Häkkinen,               D,  1.86 m,  b. 21 Mar 1999 @ Vancouver
+Miko Virtanen,                M,  1.81 m,  b. 29 Jan 1999 @ Tampere
+Alex Bradley,                 M,  1.78 m,  b. 27 Jan 1999 @ Worcester
+Abukar Mohamed,               M,  1.86 m,  b. 1 Jan 1999 @ Mogadishu
+
+Jasin Assehnoun,              F,  1.76 m,  b. 26 Dec 1998 @ Tampere
+Kaan Kairinen,                M,  1.78 m,  b. 22 Dec 1998 @ Turku
+Lassi Lappalainen,            M,  1.83 m,  b. 24 Aug 1998 @ Helsinki
+Will Jaaskelainen,            G,  1.83 m,  b. 25 Jul 1998 @ Bolton
+Benjamin Källman,             F,  1.81 m,  b. 17 Jun 1998 @ Ekenäs
+Aapo Halme,                   D,  1.93 m,  b. 22 May 1998 @ Helsinki
+Mikael Soisalo,               M,  1.81 m,  b. 24 Apr 1998 @ Helsinki
+Hugo Keto,                    G,  1.91 m,  b. 9 Feb 1998 @ Helsinki
+Lucas Lingman,                M,  1.78 m,  b. 25 Jan 1998 @ Espoo
+Niilo Mäenpää,                M,  1.80 m,  b. 14 Jan 1998 @ Hämeenlinna
+
+Ilmari Niskanen,              M,  1.77 m,  b. 27 Oct 1997 @ Kiuruvesi
+Santeri Hostikka,             M,  1.83 m,  b. 30 Sep 1997 @ Järvenpää
+Fredrik Jensen,               M,  1.83 m,  b. 9 Sep 1997 @ Porvoo
+Diogo Tomas,                  D,  1.93 m,  b. 31 Jul 1997 @ Oulu
+Leo Väisänen,                 D,  1.86 m,  b. 23 Jul 1997 @ Helsinki
+Lauri Ala-Myllymäki,          M,  1.82 m,  b. 4 Jun 1997 @ Tampere
+Arttu Hoskonen,               D,  1.88 m,  b. 16 Apr 1997 @ Kaarina
+Niko Hämäläinen,              M,  1.78 m,  b. 5 Mar 1997 @ Miami
+
+Rasmus Karjalainen,           F,  1.85 m,  b. 4 Apr 1996 @ Oulu
+Urho Nissilä,                 M,  1.72 m,  b. 4 Apr 1996 @ Kuopio
+Richard Jensen,               D,  1.84 m,  b. 17 Mar 1996 @ Porvoo
+
+Jasse Tuominen,               F,  1.87 m,  b. 12 Nov 1995 @ Lahti
+Glen Kamara,                  M,  1.81 m,  b. 28 Oct 1995 @ Tampere
+Carl-Johan Eriksson,          G,  1.91 m,  b. 25 Apr 1995 @ Helsinki
+Miro Tenho,                   D,  1.90 m,  b. 2 Apr 1995 @ Kaarina
+Simon Skrabb,                 F,  1.74 m,  b. 19 Jan 1995 @ Jakobstad
+
+Robert Taylor,                M,  1.82 m,  b. 21 Oct 1994 @ Kuopio
+Pyry Soiri,                   M|F,1.83 m,  b. 22 Sep 1994 @ Ekenäs
+Robert Ivanov,                D,  1.97 m,  b. 19 Sep 1994 @ Helsinki
+Daniel O'Shaughnessy,         D,  1.86 m,  b. 14 Sep 1994 @ Riihimäki
+Joel Pohjanpalo,              F,  1.84 m,  b. 13 Sep 1994 @ Helsinki
+Jere Uronen,                  D,  1.77 m,  b. 13 Jul 1994 @ Turku
+Sauli Väisänen,               D,  1.90 m,  b. 5 Jun 1994 @ Helsinki
+
+Thomas Lam,                   D,  1.88 m,  b. 18 Dec 1993 @ Amsterdam
+Robin Lod,                    M,  1.80 m,  b. 17 Apr 1993 @ Helsinki
+Jesse Joronen,                G,  1.97 m,  b. 21 Mar 1993 @ Helsinki
+Nikolai Alho,                 D,  1.72 m,  b. 12 Mar 1993 @ Helsinki
+
+Juha Pirinen,                 D,  1.80 m,  b. 22 Oct 1991 @ Valkeakoski
+Roope Riski,                  F,  1.80 m,  b. 16 Aug 1991 @ Turku
+Rasmus Schüller,              M,  1.77 m,  b. 18 Jun 1991 @ Espoo
+
+Petteri Forsell,              M,  1.69 m,  b. 16 Oct 1990 @ Kokkola
+Joni Kauko,                   M,  1.85 m,  b. 12 Jul 1990 @ Turku
+Teemu Pukki,                  F,  1.76 m,  b. 29 Mar 1990 @ Kotka
+
+Lukáš Hrádecký,               G,  1.87 m,  b. 24 Nov 1989 @ Bratislava
+Albin Granlund,               D,  1.78 m,  b. 1 Sep 1989 @ Parainen
+Juhani Ojala,                 D,  1.91 m,  b. 19 Jun 1989 @ Vantaa
+
+Jukka Raitala,                D,  1.80 m,  b. 15 Sep 1988 @ Kerava
+Paulus Arajuuri,              D,  1.92 m,  b. 15 Jun 1988 @ Helsinki
+Joona Toivio,                 D,  1.86 m,  b. 10 Mar 1988 @ Sipoo
+
+Roman Eremenko,               M,  1.80 m,  b. 19 Mar 1987 @ Moscow
+Anssi Jaakkola,               G,  1.93 m,  b. 13 Mar 1987 @ Kemi
+Tim Sparv,                    M,  1.94 m,  b. 20 Feb 1987 @ Vaasa
+
+Perparim Hetemaj,             M,  1.75 m,  b. 12 Dec 1986 @ Skenderaj
+Boris Rotenberg,              D,  1.89 m,  b. 19 May 1986 @ St. Petersburg
+
+Niklas Moisander,             D,  1.83 m,  b. 29 Sep 1985 @ Turku
+Niki Mäenpää,                 G,  1.92 m,  b. 23 Jan 1985 @ Espoo
+
+Jussi Jääskeläinen,           G,  1.91 m,  b. 19 Apr 1975 @ Mikkeli

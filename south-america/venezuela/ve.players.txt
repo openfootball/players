@@ -1,0 +1,76 @@
+=================================
+=  Venezuela
+
+Juan Arango Jr,               F,  1.84 m,  b. 27 Jun 2006 @ Calvià
+
+Kevin Kelsy,                  F,  1.93 m,  b. 27 Jul 2004 @ Valencia (VEN)
+Lewuis Peña,                  F,  1.76 m,  b. 7 Apr 2004 @ Maracaibo
+
+Samu Rodríguez,               G,  1.93 m,  b. 5 May 2003 @ La Asunción
+Telasco Segovia,              M,  1.75 m,  b. 2 Apr 2003 @ Barquisimeto
+
+Saúl Guarirapa,               F,  1.87 m,  b. 18 Oct 2002 @ Puerto La Cruz
+Matías Lacava,                F,  1.68 m,  b. 10 Oct 2002 @ Chacao
+Jon Mikel Aramburu,           D,  1.76 m,  b. 23 Jul 2002 @ Caracas
+Jeriel De Santis,             F,  1.90 m,  b. 18 Jun 2002 @ El Callao
+Daniel Pérez,                 F,  1.89 m,  b. 17 Jan 2002 @ Caracas
+
+Jovanny Bolívar,              F,  1.76 m,  b. 16 Dec 2001 @ Acarigua
+Luifer Hernández,             F,  1.78 m,  b. 28 Apr 2001 @ Puerto Cabello
+Darwin Matheus,               F,  1.70 m,  b. 9 Apr 2001 @ Barinas
+
+Eduardo Fereira,              D,  1.69 m,  b. 29 Sep 2000 @ Valencia (VEN)
+Alejandro Marqués,            F,  1.89 m,  b. 4 Aug 2000 @ Caracas
+Enrique Peña Zauner,          M,  1.77 m,  b. 4 Mar 2000 @ Offenbach am Main
+Jorge Yriarte,                M,  1.82 m,  b. 4 Mar 2000 @ Barquisimeto
+Cristian Cásseres Jr,         M,  1.74 m,  b. 20 Jan 2000 @ Caracas
+Diego Luna,                   D,  1.85 m,  b. 2 Jan 2000 @ Ciudad Bolívar
+
+Samuel Sosa,                  M,  1.78 m,  b. 17 Dec 1999 @ Valencia
+
+Eric Ramírez,                 F,  1.89 m,  b. 20 Nov 1998 @ Barinas
+Nahuel Ferraresi,             D,  1.89 m,  b. 19 Nov 1998 @ San Cristóbal
+José Rivas,                   M,  1.77 m,  b. 13 Sep 1998 @ Valera
+Jesús Ramírez,                F,  1.84 m,  b. 4 May 1998 @ Tovar
+Wuilker Faríñez,              G,  1.80 m,  b. 15 Feb 1998 @ Caracas
+Manuel Morais,                F,  1.81 m,  b. 3 Feb 1998 @ Caracas
+Yangel Herrera,               M,  1.84 m,  b. 7 Jan 1998 @ La Guaira
+
+Ronald Hernández,             D,  1.71 m,  b. 4 Oct 1997 @ Barinas
+Sergio Córdova,               F,  1.88 m,  b. 9 Aug 1997 @ Calabozo
+Josua Mejías,                 D,  1.85 m,  b. 1 Aug 1997 @ Valencia (VEN)
+Adalberto Peñaranda,          F,  1.85 m,  b. 31 May 1997 @ El Vigia
+Joel Graterol,                G,  1.82 m,  b. 13 Feb 1997 @ Valencia (VEN)
+
+Andrés Ponce,                 F,  1.82 m,  b. 11 Nov 1996 @ La Cañada de Urdaneta
+Andris Herrera,               F,  1.75 m,  b. 20 Oct 1996 @ Caracas
+
+Jhon Murillo,                 M,  1.70 m,  b. 21 Nov 1995 @ El Nula
+Jhonder Cádiz,                F,  1.91 m,  b. 29 Jul 1995 @ Caracas
+
+Víctor García,                D,  1.75 m,  b. 11 Jun 1994 @ Cúa
+Yordan Osorio,                D,  1.89 m,  b. 10 May 1994 @ Barinas
+Juanpi,                       M,  1.75 m,  b. 24 Jan 1994 @ Caracas
+
+Mikel Villanueva,             D,  1.90 m,  b. 14 Apr 1993 @ San Cristóbal
+Wilker Ángel,                 D,  1.88 m,  b. 18 Mar 1993 @ Valera
+Darwin Machís,                F,  1.70 m,  b. 7 Feb 1993 @ Tucupita
+
+Alexander González,           D,  1.85 m,  b. 13 Sep 1992 @ Caracas
+Ernesto Torregrossa,          F,  1.84 m,  b. 28 Jun 1992 @ Caltanissetta
+Jhon Chancellor,              D,  1.98 m,  b. 2 Jan 1992 @ Puerto Ordaz
+
+Rolf Feltscher,               D,  1.81 m,  b. 6 Oct 1990 @ Bülach
+José Manuel Velázquez,        D,  1.82 m,  b. 8 Sep 1990 @ Ciudad Bolívar
+Yonathan Del Valle,           F,  1.71 m,  b. 28 May 1990 @ Guacara
+Rafael Romo,                  G,  1.97 m,  b. 25 Feb 1990 @ Turén
+
+José Salomón Rondón,          F,  1.86 m,  b. 16 Sep 1989 @ Caracas
+
+Roberto Rosales,              D,  1.75 m,  b. 20 Nov 1988 @ Caracas
+Christian Santos,             F,  1.84 m,  b. 24 Mar 1988 @ Puerto Ordaz
+Tomás Rincón,                 M,  1.77 m,  b. 13 Jan 1988 @ San Cristóbal
+
+Mario Rondón,                 F,  1.82 m,  b. 26 Mar 1986 @ Caracas
+
+Dani Hernández,               G,  1.96 m,  b. 21 Oct 1985 @ Caracas

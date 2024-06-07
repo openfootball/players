@@ -1,0 +1,90 @@
+=================================
+=  Guinea
+
+Facinet Conté,                F,  1.80 m,  b. 24 Mar 2005 @ Conakry
+
+Karim Cissé,                  F,  1.75 m,  b. 14 Nov 2004 @ Conakry
+Abdoulaye Kamara,             M,  1.82 m,  b. 6 Nov 2004 @ Conakry
+Kanté Kefing,                 F,  - ,      b. 13 Apr 2004
+Ibrahima Sory Bangoura,       M,  - ,      b. 5 Jan 2004
+
+Mamadi Camara,                F,  - ,      b. 31 Dec 2003
+Ibrahim Diakité,              D,  1.78 m,  b. 31 Oct 2003 @ Compiègne
+Salifou Soumah,               F,  - ,      b. 3 Oct 2003 @ Conakry
+Moustapha Cissé,              F,  1.82 m,  b. 14 Sep 2003 @ Conakry
+Mamadou Sylla,                M,  1.79 m,  b. 26 Jan 2003 @ Barcelona
+Ilaix Moriba,                 M,  1.85 m,  b. 19 Jan 2003 @ Conakry
+
+Algassime Bah,                M|F,1.82 m,  b. 12 Nov 2002
+Momo Cissé,                   M,  1.78 m,  b. 17 Oct 2002 @ Conakry
+Amadou Doumbouya,             M,  1.73 m,  b. 12 Oct 2002 @ Kindia
+Saïdou Sow,                   D,  1.85 m,  b. 4 Jul 2002 @ Conakry
+Sekou Tidiany Bangoura,       M,  - ,      b. 5 Apr 2002
+Mamadou Cellou,               F,  1.77 m,  b. 5 Jan 2002 @ Conakry
+
+Ousmane Camara,               F,  1.84 m,  b. 3 Nov 2001 @ Conakry
+Amadou Keita,                 M,  1.70 m,  b. 28 Oct 2001 @ Conakry
+Elhadj Bah,                   F,  1.83 m,  b. 22 Aug 2001 @ Boké
+Aguibou Camara,               M,  1.67 m,  b. 20 May 2001 @ Matam
+Seydouba Cissé,               M,  1.78 m,  b. 10 Feb 2001 @ Dabola
+
+Cheick Conde,                 M,  1.85 m,  b. 26 Jul 2000 @ Conakry
+Emmanuel Tolno,               M,  - ,      b. 8 Jul 2000
+Abdoulaye Sylla,              D,  1.81 m,  b. 10 Apr 2000 @ Conakry
+Kandet Diawara,               F,  1.80 m,  b. 10 Feb 2000 @ Lille
+Victor Kantabadouno,          F,  1.80 m,  b. 1 Jan 2000 @ Guéckédou
+
+Maï Traoré,                   F,  1.85 m,  b. 24 Nov 1999 @ Conakry
+Ibrahima Camará,              M,  1.90 m,  b. 25 Jan 1999 @ Conakry
+
+Morlaye Sylla,                M,  1.70 m,  b. 23 Jul 1998 @ Conakry
+Mohamed Bayo,                 F,  1.88 m,  b. 4 Jun 1998 @ Clermont-Ferrand
+Morgan Guilavogui,            M|F,1.88 m,  b. 10 Mar 1998 @ Ollioules
+
+Moussa Doumbouya,             F,  1.85 m,  b. 12 Dec 1997 @ Conakry
+Mohamed Ali Camara,           D,  1.91 m,  b. 28 Aug 1997 @ Kérouané
+Momo Yansane,                 F,  1.83 m,  b. 29 Jul 1997 @ Fria
+Amadou Diawara,               M,  1.83 m,  b. 17 Jul 1997 @ Conakry
+Mady Camara,                  M,  1.82 m,  b. 28 Feb 1997 @ Matam
+Mamadou Kané,                 M,  1.72 m,  b. 22 Jan 1997 @ Conakry
+
+Mouctar Diakhaby,             D,  1.89 m,  b. 19 Dec 1996 @ Vendôme
+Mohamed Mara,                 M,  1.70 m,  b. 12 Dec 1996 @ Conakry
+François Kamano,              F,  1.82 m,  b. 1 May 1996 @ Conakry
+Ibrahima Conté,               D,  1.91 m,  b. 3 Apr 1996 @ Conakry
+Sehrou Guirassy,              F,  1.87 m,  b. 12 Mar 1996 @ Arles
+Ibrahima Sory Sankhon,        D,  1.77 m,  b. 1 Jan 1996 @ Forécariah
+
+Sory Kaba,                    F,  1.91 m,  b. 10 Apr 1995 @ Conakry
+Naby Keïta,                   M,  1.72 m,  b. 10 Feb 1995 @ Conakry
+
+Kamso Mara,                   M,  1.86 m,  b. 24 Dec 1994 @ Conakry
+Mamadou Diallo,               F,  1.77 m,  b. 19 Sep 1994 @ Yeumbeul
+Amadou Diallo,                M,  1.79 m,  b. 21 Jun 1994 @ Paris
+Abdoulaye Touré,              M,  1.87 m,  b. 3 Mar 1994 @ Nantes
+Ibrahima Cissé,               M,  1.84 m,  b. 28 Feb 1994 @ Liège
+Issiaga Sylla,                D,  1.80 m,  b. 1 Jan 1994 @ Conakry
+
+Mory Konaté,                  M,  1.91 m,  b. 15 Nov 1993 @ Conakry
+Mohamed Yattara,              F,  1.85 m,  b. 28 Jul 1993 @ Conakry
+
+Alhassane Keita,              F,  1.83 m,  b. 18 Apr 1992 @ Conakry
+Julian Jeanvier,              D,  1.83 m,  b. 31 Mar 1992 @ Clichy
+Alhassane Bangoura,           F,  1.74 m,  b. 30 Mar 1992 @ Conakry
+Simon Falette,                D,  1.84 m,  b. 19 Feb 1992 @ Le Mans
+
+Mikael Dyrestam,              D,  1.85 m,  b. 10 Dec 1991 @ Växjö
+
+Idrissa Sylla,                F,  1.87 m,  b. 3 Dec 1990 @ Conakry
+Bengadli-Fodé Koita,          F,  1.86 m,  b. 21 Oct 1990 @ Paris
+José Kanté,                   F,  1.84 m,  b. 27 Sep 1990 @ Sabadell
+Florentin Pogba,              D,  1.88 m,  b. 19 Aug 1990 @ Conakry
+
+Ousmane Kanté,                D,  1.85 m,  b. 21 Sep 1989 @ Paris
+
+Karamoko Cissé,               F,  1.83 m,  b. 14 Nov 1988 @ Koubia
+Ibrahima Traoré,              M|F,1.72 m,  b. 21 Apr 1988 @ Villepinte
+
+Ernest Seka,                  D,  1.85 m,  b. 22 Jun 1987 @ Clichy
+
+Aly Keita,                    G,  1.85 m,  b. 8 Dec 1986 @ Västerås

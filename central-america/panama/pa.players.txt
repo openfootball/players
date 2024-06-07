@@ -1,0 +1,47 @@
+=================================
+=  Panama
+
+Ángel Orelien,                M,  1.69 m,  b. 2 Apr 2001 @ Ciudad de Panamá
+
+Eduardo Guerrero,             F,  1.80 m,  b. 21 Feb 2000 @ Ciudad de Panamá
+
+Adalberto Carrasquilla,       M,  1.70 m,  b. 28 Nov 1998 @ Ciudad de Panamá
+Andrés Andrade,               D|M,1.87 m,  b. 16 Oct 1998 @ Ciudad de Panamá
+José Luis Rodríguez,          M,  1.78 m,  b. 19 Jun 1998 @ Ciudad de Panamá
+
+Ismael Díaz,                  F,  1.81 m,  b. 12 May 1997 @ Ciudad de Panamá
+Ricardo Ávila,                M,  1.84 m,  b. 4 Jan 1997 @ Ciudad de Panamá
+
+Michael Amir Murillo,         D,  1.83 m,  b. 11 Feb 1996 @ Ciudad de Panamá
+Michael Murillo,              D,  1.83 m,  b. 11 Feb 1996 @ Ciudad de Panamá
+
+Fidel Escobar,                D,  1.81 m,  b. 9 Jan 1995 @ Ciudad de Panamá
+
+Abdiel Arroyo,                F,  1.87 m,  b. 13 Dec 1993 @ Colón
+Yoel Bárcenas,                M,  1.77 m,  b. 23 Oct 1993 @ Colón
+Édgar Bárcenas,               M,  1.75 m,  b. 23 Oct 1993 @ Colón
+
+Valentin Pimentel,            M,  1.85 m,  b. 30 May 1991 @ Ciudad de Panamá
+Erick Davis,                  D,  1.79 m,  b. 31 Mar 1991 @ Colón
+
+Álex Rodríguez,               G,  1.97 m,  b. 5 Aug 1990 @ Paraíso
+Anibal Godoy,                 M,  1.80 m,  b. 10 Feb 1990 @ Ciudad de Panamá
+
+Gabriel Torres,               F,  1.80 m,  b. 13 Oct 1988 @ Ciudad de Panamá
+Luis Ovalle,                  D,  1.78 m,  b. 7 Sep 1988 @ Ciudad de Panamá
+
+Armando Cooper,               M,  1.75 m,  b. 26 Nov 1987 @ Colón
+
+Román Torres,                 D,  1.81 m,  b. 20 Mar 1986 @ Ciudad de Panamá
+
+José Calderon,                G,  1.87 m,  b. 14 Aug 1985 @ Ciudad de Panamá
+Adolfo Machado,               D,  1.81 m,  b. 14 Feb 1985 @ Ciudad de Panamá
+
+Gabriel Gómez,                M,  1.83 m,  b. 29 May 1984 @ Ciudad de Panamá
+
+Luis Tejada,                  F,  1.86 m,  b. 28 Mar 1982 @ Ciudad de Panamá
+Harold Cummings,              D,  1.88 m,  b. 1 Mar 1982 @ Ciudad de Panamá
+
+Jaime Penedo,                 G,  1.83 m,  b. 24 Sep 1981 @ Ciudad de Panamá
+Blas Pérez,                   F,  1.87 m,  b. 13 Mar 1981 @ Ciudad de Panamá
+Felipe Baloy,                 D,  1.84 m,  b. 24 Feb 1981 @ Ciudad de Panamá

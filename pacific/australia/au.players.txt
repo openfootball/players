@@ -1,0 +1,205 @@
+=================================
+=  Australia
+
+Franco Lino,                  D,  - ,      b. 26 Aug 2005
+Sebastian Esposito,           D,  1.91 m,  b. 21 Apr 2005 @ Melbourne
+Steven Hall,                  G,  - ,      b. 16 Jan 2005
+
+Chris Donnell,                M,  - ,      b. 24 Oct 2004 @ Glasgow
+Garang Kuol,                  F,  1.75 m,  b. 15 Sep 2004 @ Refugee Camp (EGY)
+Aidan Coyne,                  D,  1.81 m,  b. 12 May 2004 @ Luton
+Jahce Novello,                F,  1.82 m,  b. 18 Apr 2004 @ Bunbury
+Mohamed Touré,                F,  1.79 m,  b. 26 Mar 2004 @ Conakry
+
+Joseph Forde,                 D,  1.78 m,  b. 28 Dec 2003 @ Perth
+Matt Dench,                   M,  - ,      b. 8 Dec 2003
+Cristian Volpato,             F,  1.87 m,  b. 15 Nov 2003 @ Camperdown
+Alessandro Circati,           D,  1.91 m,  b. 10 Oct 2003 @ Fidenza
+Stevan Stanic-Floody,         M,  - ,      b. 1 Aug 2003
+Gabriel Popović,              F,  1.88 m,  b. 28 Jul 2003 @ Westminster
+Angus Chapman,                F,  1.82 m,  b. 7 Jun 2003
+Nectarios Triantis,           D,  1.91 m,  b. 11 May 2003 @ Sydney
+Alex Robertson,               M,  1.82 m,  b. 17 Apr 2003 @ Dundee
+Tristan Hammond,              F,  1.72 m,  b. 5 Jan 2003 @ Westmead
+
+Marlee Francois,              F,  - ,      b. 29 Dec 2002 @ Sydney
+Cooper Skerry,                G,  1.92 m,  b. 26 Nov 2002 @ Brisbane
+Jordan Courtney-Perkins,      D,  1.89 m,  b. 6 Nov 2002 @ Adelaide
+Jordan Bos,                   D,  1.70 m,  b. 29 Oct 2002 @ Melbourne
+Cameron Peupion,              M,  1.75 m,  b. 23 Sep 2002 @ Sydney
+Nicholas Bilokapic,           G,  1.96 m,  b. 8 Sep 2002 @ Camperdown
+Patrick Yazbek,               M,  1.78 m,  b. 22 Aug 2002 @ Sydney
+Murray Miller,                M,  - ,      b. 29 Jan 2002 @ Sydney
+Ryan Teague,                  M,  1.82 m,  b. 24 Jan 2002 @ Sydney
+Doni Grdić,                   D,  1.90 m,  b. 22 Jan 2002 @ Šibenik
+
+Marco Tilio,                  F,  1.70 m,  b. 23 Aug 2001 @ Hurstville
+Jacob Italiano,               M,  1.77 m,  b. 30 Jul 2001 @ Perth
+Alou Kuol,                    F,  1.77 m,  b. 5 Jul 2001 @ Khartoum
+Hosine Bility,                D,  - ,      b. 10 May 2001
+Calem Nieuwenhof,             M,  1.81 m,  b. 17 Feb 2001 @ Sydney
+Caleb Watts,                  M,  - ,      b. 16 Jan 2001
+
+Joel King,                    D,  1.79 m,  b. 30 Oct 2000 @ Wollongong
+Samuel Silvera,               F,  1.70 m,  b. 25 Oct 2000 @ Lambeth
+Jacob Chapman,                G,  1.85 m,  b. 22 Oct 2000 @ Wahroonga
+Lewis Miller,                 D,  1.87 m,  b. 24 Aug 2000 @ Sydney
+Tyrese Francois,              D|M,1.67 m,  b. 16 Jul 2000 @ Campbell Town
+Joe Gauci,                    G,  1.93 m,  b. 4 Jul 2000 @ Adelaide
+Dylan Ryan,                   D,  1.84 m,  b. 10 Jun 2000 @ Wollongong
+Zach Duncan,                  M,  1.83 m,  b. 31 May 2000 @ Marayong
+Al Hassan Touré,              F,  1.85 m,  b. 30 May 2000 @ Guéckédou
+
+Conor Metcalfe,               M,  1.78 m,  b. 5 Nov 1999 @ Newcastle (AUS)
+Jay Rich-Baghuelou,           D,  1.96 m,  b. 22 Oct 1999 @ Sydney
+Con Ouzounidis,               D,  1.83 m,  b. 8 Oct 1999 @ Camperdown
+John Iredale,                 F,  1.83 m,  b. 1 Aug 1999 @ Sydney
+Ashley Maynard-Brewer,        G,  1.87 m,  b. 25 Jun 1999 @ Joondalup
+Nathaniel Atkinson,           D,  1.81 m,  b. 13 Jun 1999 @ Launceston
+Ben Folami,                   F,  1.70 m,  b. 8 Jun 1999 @ Sydney
+Denis Genreau,                M,  1.70 m,  b. 21 May 1999 @ Paris
+Marc Tokich,                  M,  1.87 m,  b. 15 May 1999 @ Canberra
+Apostolos Stamatelopoulos,    F,  1.84 m,  b. 9 Apr 1999 @ Adelaide
+Reagan Ogle,                  D,  1.73 m,  b. 29 Mar 1999 @ Wollongong
+Kusini Yengi,                 F,  1.76 m,  b. 15 Jan 1999 @ Adelaide
+Tete Yengi,                   M,  1.87 m,  b. 15 Jan 1999 @ Adelaide
+Daniel Arzani,                M,  1.75 m,  b. 4 Jan 1999 @ Sydney
+
+Liam McGing,                  D,  1.79 m,  b. 11 Dec 1998 @ Sydney
+Riley McGree,                 M,  1.78 m,  b. 2 Nov 1998 @ Gawler
+Harry Souttar,                D,  1.98 m,  b. 22 Oct 1998 @ Aberdeen
+Panagiotis Armenakas,         M,  1.78 m,  b. 5 Aug 1998 @ Newport Beach
+Aiden O'Neill,                M,  1.78 m,  b. 4 Jul 1998 @ Brisbane
+Cameron Devlin,               M,  1.70 m,  b. 7 Jun 1998 @ Sydney
+Keanu Baccus,                 M,  1.76 m,  b. 7 Jun 1998 @ Durban
+Kye Rowles,                   D,  1.83 m,  b. 19 May 1998 @ Southport (AUS)
+Joshua Laws,                  D,  1.85 m,  b. 26 Feb 1998 @ Glasgow
+Nicholas D'Agostino,          F,  1.75 m,  b. 25 Feb 1998 @ Sydney
+Gabriel Cleur,                M,  1.75 m,  b. 31 Jan 1998 @ Sydney
+
+Tom Glover,                   G,  1.90 m,  b. 24 Dec 1997 @ Sydney
+Anthony Kalik,                M,  1.75 m,  b. 5 Nov 1997 @ St Leonards
+Oliver Pain,                  G,  1.90 m,  b. 28 Oct 1997
+Deni Jurić,                   F,  1.88 m,  b. 3 Sep 1997 @ Kogarah
+George Timotheou,             D,  1.85 m,  b. 29 Jul 1997 @ Canberra
+Alex Gersbach,                D,  1.83 m,  b. 8 May 1997 @ Sydney
+Jordan Holmes,                G,  1.86 m,  b. 8 May 1997 @ Sydney
+Joe Champness,                F,  1.82 m,  b. 27 Apr 1997 @ Moreton Bay
+Ryan Strain,                  D,  1.81 m,  b. 2 Apr 1997 @ Coventry
+Thomas Deng,                  D,  1.85 m,  b. 20 Mar 1997 @ Nairobi
+Jordan Lyden,                 M,  1.75 m,  b. 1 Jan 1997 @ Perth (AUS)
+
+Matthew Millar,               D,  - ,      b. 23 Aug 1996
+Ajdin Hrustić,                M,  1.83 m,  b. 5 Jul 1996 @ Melbourne
+Fran Karačić,                 D,  1.85 m,  b. 12 May 1996 @ Zagreb
+Kevin Ly,                     M,  - ,      b. 12 May 1996 @ Bankstown
+Jack Iredale,                 D,  1.90 m,  b. 2 May 1996 @ Greenock
+Tom Beadling,                 D,  1.85 m,  b. 16 Jan 1996 @ Barrow-in-Furness
+
+Callum Richardson,            D,  1.80 m,  b. 9 Nov 1995 @ Bunbury
+Cameron Burgess,              D,  1.94 m,  b. 21 Oct 1995 @ Aberdeen
+Lyndon Dykes,                 F,  1.79 m,  b. 7 Oct 1995 @ Gold Coast
+Awer Mabil,                   M,  1.79 m,  b. 15 Sep 1995 @ Kakuma
+James Demetriou,              F,  - ,      b. 14 Aug 1995 @ Sydney
+Jason Cummings,               F,  1.78 m,  b. 1 Aug 1995 @ Edinburgh
+Brandon Borrello,             M,  1.78 m,  b. 25 Jul 1995 @ Adelaide
+Peter Makrillos,              M,  1.86 m,  b. 9 Apr 1995 @ Sydney
+Bruce Kamau,                  M,  1.75 m,  b. 28 Mar 1995 @ Nairobi
+Danijel Nižić,                G,  1.88 m,  b. 15 Mar 1995 @ Sydney
+Callum Elder,                 D,  1.80 m,  b. 27 Jan 1995 @ Sydney
+
+Kwame Yeboah,                 F,  1.82 m,  b. 6 Jun 1994 @ Gold Coast
+Miloš Degenek,                D,  1.87 m,  b. 28 Apr 1994 @ Knin
+Brad Smith,                   D,  1.78 m,  b. 9 Apr 1994 @ Penrith (AUS)
+
+Ryan Edwards,                 M,  1.70 m,  b. 17 Nov 1993 @ Sydney
+Ryan Williams,                M,  1.81 m,  b. 28 Oct 1993 @ Perth (AUS)
+Jamie Maclaren,               F,  1.77 m,  b. 29 Jul 1993 @ Melbourne
+Nikola Mileusnić,             M,  1.80 m,  b. 17 Jul 1993 @ Adelaide
+Adam Taggart,                 F,  1.83 m,  b. 2 Jun 1993 @ Perth
+Kenny Dougall,                M,  1.82 m,  b. 7 May 1993 @ Brisbane
+Martin Boyle,                 M,  1.78 m,  b. 25 Apr 1993 @ Aberdeen
+Mustafa Amini,                M,  1.73 m,  b. 20 Apr 1993 @ Sydney
+Curtis Good,                  D,  1.87 m,  b. 23 Mar 1993 @ Melbourne
+Jackson Irvine,               M,  1.79 m,  b. 7 Mar 1993 @ Melbourne
+
+Andrew Nabbout,               M,  1.86 m,  b. 17 Dec 1992 @ Melbourne
+Tomas Rogić,                  M,  1.89 m,  b. 16 Dec 1992 @ Griffith
+Dimitri Petratos,             M,  1.76 m,  b. 10 Nov 1992 @ Sydney
+Massimo Luongo,               M,  1.74 m,  b. 25 Sep 1992 @ Sydney
+Bailey Wright,                D,  1.84 m,  b. 28 Jul 1992 @ Melbourne
+Joshua Risdon,                D,  1.69 m,  b. 27 Jul 1992 @ Bunbury
+Ben Halloran,                 M,  1.80 m,  b. 14 Jun 1992 @ Cairns
+Lawrence Thomas,              G,  1.91 m,  b. 9 May 1992 @ Sydney
+Mat Ryan,                     G,  1.81 m,  b. 8 Apr 1992 @ Plumpton
+Matthew Ryan,                 G,  1.81 m,  b. 8 Apr 1992 @ Plumpton
+James Jeggo,                  M,  1.79 m,  b. 12 Feb 1992 @ Vienna
+Trent Sainsbury,              D,  1.85 m,  b. 5 Jan 1992 @ Perth (AUS)
+
+Craig Goodwin,                M,  1.93 m,  b. 16 Dec 1991 @ Adelaide
+Tommy Oar,                    M,  1.70 m,  b. 10 Dec 1991 @ Southport (AUS)
+Dylan McGowan,                D,  1.88 m,  b. 6 Aug 1991 @ Adelaide
+Tomi Jurić,                   F,  1.89 m,  b. 22 Jul 1991 @ Sydney
+Jason Davidson,               D,  1.80 m,  b. 29 Jun 1991 @ Melbourne
+Mark Birighitti,              G,  1.89 m,  b. 17 Apr 1991 @ Perth
+Matthew Leckie,               M|F,1.80 m,  b. 4 Feb 1991 @ Melbourne
+Mitchell Duke,                F,  1.82 m,  b. 18 Jan 1991 @ Liverpool (AUS)
+
+Aziz Behich,                  D,  1.72 m,  b. 16 Dec 1990 @ Moonee Ponds
+Dean Bouzanis,                G,  1.85 m,  b. 2 Oct 1990 @ Sydney
+Tomislav Mrčela,              D,  1.95 m,  b. 1 Oct 1990 @ Perth
+Aaron Mooy,                   M,  1.73 m,  b. 15 Sep 1990 @ Sydney
+
+Matthew Jurman,               D,  1.90 m,  b. 8 Dec 1989 @ Wollongong
+Ryan McGowan,                 D,  1.88 m,  b. 15 Aug 1989 @ Adelaide
+Alex Cisak,                   G,  1.90 m,  b. 19 May 1989 @ Kraków
+James Holland,                M,  1.80 m,  b. 15 May 1989 @ Sydney
+Chris Herd,                   M,  1.73 m,  b. 4 Apr 1989 @ Perth (AUS)
+Andrew Redmayne,              G,  1.94 m,  b. 13 Jan 1989 @ Gosford
+Oliver Bozanic,               M,  1.83 m,  b. 8 Jan 1989 @ Sydney
+
+Robbie Kruse,                 M|F,1.79 m,  b. 5 Oct 1988 @ Brisbane
+Mitchell Langerak,            G,  1.91 m,  b. 22 Aug 1988 @ Emerald
+James Troisi,                 F,  1.78 m,  b. 3 Jul 1988 @ Adelaide
+Matthew Špiranović,           D,  1.93 m,  b. 27 Jun 1988 @ Geelong
+James Meredith,               D,  1.85 m,  b. 4 Apr 1988 @ Albury
+
+Ivan Franjić,                 D,  1.80 m,  b. 10 Sep 1987 @ Melbourne
+Nikita Rukavytsya,            F,  1.83 m,  b. 22 Jun 1987 @ Mykolaiv
+Ersan Gülüm,                  D,  1.85 m,  b. 17 May 1987 @ Carlton
+Dario Vidošić,                M,  1.85 m,  b. 8 Apr 1987 @ Osijek
+
+Mark Milligan,                D|M,1.80 m,  b. 4 Aug 1985 @ Auburn
+Danny Vukovic,                G,  1.87 m,  b. 27 Mar 1985 @ Sydney
+Adam Federici,                G,  1.88 m,  b. 31 Jan 1985 @ Nowra
+
+Carl Valeri,                  M,  1.80 m,  b. 14 Aug 1984 @ Canberra
+Alex Wilkinson,               D,  1.87 m,  b. 13 Aug 1984 @ Sydney
+Mile Jedinak,                 M,  1.89 m,  b. 3 Aug 1984 @ Sydney
+Brett Holman,                 M,  1.77 m,  b. 27 Mar 1984 @ Bankstown
+
+David Carney,                 D,  1.80 m,  b. 30 Nov 1983 @ Sydney
+Matt McKay,                   M,  1.71 m,  b. 11 Jan 1983 @ Brisbane
+
+Joshua Kennedy,               F,  1.94 m,  b. 20 Aug 1982 @ Wodonga
+Brad Jones,                   G,  1.91 m,  b. 19 Mar 1982 @ Armadale
+
+Luke Wilkshire,               D,  1.76 m,  b. 2 Oct 1981 @ Wollongong
+Richard Garcia,               M,  1.80 m,  b. 4 Sep 1981 @ Perth (AUS)
+Eugene Galeković,             G,  1.86 m,  b. 12 Jun 1981 @ Melbourne
+Michael Beauchamp,            D,  1.91 m,  b. 8 Mar 1981 @ Sydney
+
+Jason Čulina,                 M,  1.75 m,  b. 5 Aug 1980 @ Sydney
+Mark Bresciano,               M,  1.82 m,  b. 11 Feb 1980 @ Melbourne
+
+Tim Cahill,                   M,  1.78 m,  b. 6 Dec 1979 @ Sydney
+Vince Grella,                 M,  1.82 m,  b. 5 Oct 1979 @ Melbourne
+Brett Emerton,                M,  1.85 m,  b. 22 Feb 1979 @ Bankstown
+
+Harry Kewell,                 F,  1.80 m,  b. 22 Sep 1978 @ Sydney
+Lucas Neill,                  D,  1.85 m,  b. 9 Mar 1978 @ Sydney
+
+Scott Chipperfield,           M,  1.80 m,  b. 30 Dec 1975 @ Wollongong
+Craig Moore,                  D,  1.85 m,  b. 12 Dec 1975 @ Sydney
+
+Mark Schwarzer,               G,  1.94 m,  b. 6 Oct 1972 @ Sydney

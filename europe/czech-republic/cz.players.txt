@@ -1,0 +1,723 @@
+=================================
+=  Czech Republic
+
+Josh King,                    F,  - ,      b. 30 Mar 2007
+
+Djordjije Medenica,           G,  - ,      b. 17 Nov 2006
+Pavel Kačor,                  M,  1.80 m,  b. 12 Sep 2006
+
+Jan Buryán,                   F,  1.76 m,  b. 11 Oct 2005 @ Mladá Boleslav
+Albert Kotlín,                G,  1.90 m,  b. 8 Sep 2005
+Thomas Jungbauer,             D,  - ,      b. 30 Jul 2005
+Štěpán Míšek,                 M,  - ,      b. 20 Jul 2005
+Jan Paluska,                  D,  1.83 m,  b. 23 Jun 2005 @ Karlovy Vary
+Jonáš Bzura,                  M,  1.79 m,  b. 22 Jun 2005
+Vojtěch Werani,               M,  1.80 m,  b. 24 Apr 2005 @ Jablonec nad Nisou
+Matouš Krulich,               F,  1.88 m,  b. 19 Apr 2005
+Viktor Baier,                 G,  - ,      b. 16 Jan 2005
+
+Tom Slončík,                  M,  - ,      b. 21 Dec 2004
+Tomáš Král,                   D,  1.85 m,  b. 26 Oct 2004 @ Mladá Boleslav
+Ondřej Čoudek,                D,  - ,      b. 25 Oct 2004
+Michal Trnovec,               F,  1.79 m,  b. 25 Sep 2004
+Mikuláš Kubný,                G,  - ,      b. 12 Sep 2004
+Milan Lexa,                   M,  1.80 m,  b. 21 Aug 2004
+Marek Švach,                  M,  - ,      b. 16 Aug 2004
+Samuel Grygar,                M,  1.85 m,  b. 9 Aug 2004
+Filip Brdička,                F,  - ,      b. 6 Aug 2004
+Alexandr Bužek,               M,  1.80 m,  b. 2 Aug 2004 @ Zlín
+Matyáš Hanč,                  D,  - ,      b. 27 Jul 2004
+Kryštof Karban,               D,  1.88 m,  b. 4 Jul 2004
+David Nykrín,                 D|M,1.75 m,  b. 28 Jun 2004
+Ondřej Sedláček,              D,  - ,      b. 20 Jun 2004
+Šimon Polášek,                D,  1.75 m,  b. 18 Jun 2004
+Lukáš Ambros,                 M,  1.82 m,  b. 5 Jun 2004 @ Dolní Němčí
+Matěj Šín,                    M,  1.80 m,  b. 2 Jun 2004 @ Ostrava
+Radek Charvát,                G,  1.85 m,  b. 17 May 2004
+Albert Labik,                 D,  1.78 m,  b. 13 May 2004
+Daniel Kutík,                 D,  1.84 m,  b. 12 May 2004 @ Hradec Králové
+Lukáš Mašek,                  M,  1.82 m,  b. 8 May 2004 @ Mladá Boleslav
+Jakub Hudák,                  M,  1.81 m,  b. 5 May 2004
+Vojtěch Hora,                 M,  - ,      b. 5 May 2004
+Daniel Macej,                 D,  1.87 m,  b. 29 Apr 2004
+Daniel Holásek,               D,  1.85 m,  b. 22 Apr 2004 @ Brno
+Alexandr Urban,               G,  - ,      b. 20 Apr 2004
+Matyáš Korselt,               M,  1.70 m,  b. 7 Apr 2004
+Ondřej Kukučka,               D,  1.90 m,  b. 23 Mar 2004
+Martin Hrubý,                 G,  1.92 m,  b. 22 Mar 2004
+Patrik Měkota,                D,  1.88 m,  b. 21 Mar 2004 @ Bezděkov nad Metují
+Vojtěch Myška,                G,  1.86 m,  b. 16 Mar 2004
+Ondřej Kričfaluši,            D,  1.77 m,  b. 9 Mar 2004
+Radim Šudák,                  M,  1.79 m,  b. 2 Mar 2004
+Matyáš Vojta,                 F,  1.89 m,  b. 26 Feb 2004 @ Prague
+Colin Andrew,                 G,  - ,      b. 25 Feb 2004 @ Prague
+Lucas Kubr,                   D,  1.79 m,  b. 25 Feb 2004 @ Tongeren
+Seydil Toure,                 D,  - ,      b. 24 Feb 2004
+Daniel Samek,                 M,  1.84 m,  b. 19 Feb 2004 @ Hradec Králové
+David Jurčenko,               F,  1.81 m,  b. 28 Jan 2004
+Tadeáš Vachoušek,             F,  1.83 m,  b. 11 Jan 2004
+Lukáš Fila,                   M,  1.83 m,  b. 7 Jan 2004
+
+Tadeáš Stoppen,               G,  1.89 m,  b. 30 Dec 2003
+Matěj Hadaš,                  F,  1.84 m,  b. 25 Nov 2003
+Radek Vítek,                  G,  1.98 m,  b. 24 Oct 2003 @ Vsetín
+Filip Uriča,                  M,  1.80 m,  b. 10 Sep 2003
+Michal Černák,                M,  1.74 m,  b. 1 Sep 2003
+Matěj Jurásek,                M,  1.81 m,  b. 30 Aug 2003 @ Karviná
+Denis Kramář,                 F,  1.85 m,  b. 8 Aug 2003
+Matěj Náprstek,               F,  1.84 m,  b. 27 Jul 2003 @ Litoměřice
+Maxmilián Jiří Kytka,         M,  1.72 m,  b. 17 Jul 2003
+Denis Halinský,               D,  - ,      b. 13 Jul 2003
+Adam Kadlec,                  D,  - ,      b. 6 Jul 2003
+Filip Nalezinek,              G,  1.97 m,  b. 4 Jul 2003 @ Pardubice
+Adam Karabec,                 M,  1.81 m,  b. 2 Jul 2003 @ Samotišky
+David Krch,                   M,  - ,      b. 30 Jun 2003
+Patrik Vydra,                 D,  1.90 m,  b. 20 Jun 2003 @ Beroun
+Lukáš Endl,                   D,  1.91 m,  b. 17 Jun 2003 @ Brno
+Jakub Drozd,                  M,  1.84 m,  b. 13 Jun 2003
+Daniel Hais,                  F,  1.92 m,  b. 2 Jun 2003
+Oldřich Pragr,                M,  1.75 m,  b. 25 May 2003 @ Znojmo
+Ota Kohoutek,                 M,  1.72 m,  b. 23 May 2003 @ Brno
+Karel Spáčil,                 D,  1.89 m,  b. 18 May 2003
+Adam Číž,                     M,  1.75 m,  b. 16 May 2003
+Marek Beránek,                M,  1.80 m,  b. 16 May 2003
+Patrik Kulíšek,               D,  1.88 m,  b. 14 May 2003
+Filip Horsky,                 F,  1.85 m,  b. 9 May 2003 @ Prague
+Petr Juliš,                   F,  1.88 m,  b. 17 Apr 2003 @ Chrudim
+Denis Alijagić,               F,  1.84 m,  b. 10 Apr 2003 @ Prague
+David Jambor,                 M,  1.80 m,  b. 31 Mar 2003 @ Nové Město na Moravě
+Krystof Obadal,               D,  1.82 m,  b. 22 Mar 2003
+Denis Višinský,               M,  1.78 m,  b. 21 Mar 2003 @ Hořín
+Tomáš Rataj,                  F,  1.87 m,  b. 21 Mar 2003
+Daniel Langhamer,             M,  - ,      b. 20 Mar 2003
+Antonín Kinský,               G,  1.90 m,  b. 13 Mar 2003
+Vojtěch Stránský,             F,  1.81 m,  b. 13 Mar 2003 @ Ostrava
+Dalibor Večerka,              D,  1.85 m,  b. 12 Mar 2003
+Daniel Kaštánek,              M,  1.95 m,  b. 12 Mar 2003
+Štěpán Chaloupek,             D,  1.90 m,  b. 8 Mar 2003
+Filip Prebsl,                 D,  1.86 m,  b. 4 Mar 2003 @ Prague
+Filip Vecheta,                F,  - ,      b. 15 Feb 2003
+Dominik Mareš,                M,  - ,      b. 3 Feb 2003
+Martin Kudela,                M,  - ,      b. 29 Jan 2003
+Jáchym Šíp,                   M,  1.76 m,  b. 22 Jan 2003 @ Kroměříž
+Martin Vitík,                 D,  1.92 m,  b. 21 Jan 2003
+Kryštof Daněk,                M,  1.83 m,  b. 5 Jan 2003 @ Samotišky
+
+Ladislav Dufek,               M,  1.72 m,  b. 23 Dec 2002
+Adam Čičovský,                M,  1.70 m,  b. 8 Dec 2002 @ Ústí nad Labem
+Kryštof Lichtenberg,          G,  1.97 m,  b. 30 Nov 2002 @ Mělník
+Samuel Šigut,                 M,  1.78 m,  b. 31 Oct 2002 @ Frýdek-Místek
+Vojtěch Baloun,               D,  1.87 m,  b. 25 Oct 2002
+Jiří Borek,                   G,  - ,      b. 23 Sep 2002
+Martin Suchomel,              D,  1.83 m,  b. 11 Sep 2002
+Štěpán Bachůrek,              G,  1.92 m,  b. 24 Aug 2002
+Adam Stejskal,                G,  1.89 m,  b. 23 Aug 2002 @ Brno
+Martin Hlaváč,                D,  1.83 m,  b. 22 Aug 2002
+Daniel Fila,                  F,  1.90 m,  b. 21 Aug 2002 @ Brno
+Michal Ševčík,                M,  1.81 m,  b. 13 Aug 2002 @ Třebíč
+Libor Bobčík,                 F,  1.89 m,  b. 8 Aug 2002
+František Matys,              D,  1.88 m,  b. 5 Aug 2002
+Sebastian Boháč,              M,  1.78 m,  b. 27 Jul 2002 @ Hlučín
+Adam Hložek,                  F,  1.80 m,  b. 25 Jul 2002 @ Ivančice
+Lukáš Horníček,               G,  1.97 m,  b. 13 Jul 2002 @ Vysoké Mýto
+Juraj Teplan,                 M,  1.89 m,  b. 7 Jul 2002
+David Tkáč,                   D,  1.82 m,  b. 6 Jul 2002
+Jakub Křišťan,                M,  1.83 m,  b. 5 Jul 2002 @ Prague
+Petr Kurka,                   D,  1.81 m,  b. 4 Jul 2002 @ Vysoké Mýto
+Matyáš Coňk,                  D,  1.84 m,  b. 3 Jul 2002 @ Prague
+Tomáš Schánělec,              F,  1.84 m,  b. 20 Jun 2002 @ Písek
+Lukáš Hájek,                  M,  1.72 m,  b. 11 Jun 2002
+Václav Sejk,                  F,  1.80 m,  b. 18 May 2002 @ Děčín
+Adam Ritter,                  M,  1.84 m,  b. 16 Apr 2002 @ Jihlava
+Jan Sirotník,                 G,  1.90 m,  b. 16 Apr 2002
+Pavel Hural,                  M,  1.81 m,  b. 16 Apr 2002
+Lukáš Pešl,                   G,  1.97 m,  b. 12 Apr 2002
+Matěj Kadlec,                 D,  - ,      b. 4 Apr 2002
+Zdeněk Říha,                  D,  1.88 m,  b. 4 Apr 2002
+Samuel Šimek,                 M,  1.80 m,  b. 30 Mar 2002
+Antonín Svoboda,              F,  1.88 m,  b. 14 Mar 2002 @ Brno
+Marek Icha,                   M,  1.87 m,  b. 14 Mar 2002
+Ondřej Mastný,                G,  1.83 m,  b. 8 Mar 2002 @ Třebíč
+Aleš Kočí,                    M,  - ,      b. 5 Mar 2002
+Jan Hellebrand,               M,  1.77 m,  b. 2 Mar 2002
+David Pech,                   M,  1.77 m,  b. 22 Feb 2002 @ Brandýs nad Labem
+Tomáš Koukola,                D,  1.86 m,  b. 16 Feb 2002
+Josef Koželuh,                D,  1.80 m,  b. 15 Feb 2002 @ Plzeň
+Matouš Nikl,                  M,  1.91 m,  b. 2 Feb 2002
+Dominik Procházka,            F,  1.78 m,  b. 25 Jan 2002
+Denis Budínský,               M,  1.76 m,  b. 22 Jan 2002
+Vojtěch Novák,                M,  1.76 m,  b. 20 Jan 2002
+Lukáš Vorlický,               F,  1.86 m,  b. 18 Jan 2002 @ Boskovice
+Jaroslav Harušťák,            D,  1.80 m,  b. 8 Jan 2002
+
+Adam Ščudla,                  M,  1.79 m,  b. 28 Dec 2001
+Daniel Smékal,                F,  1.93 m,  b. 8 Dec 2001
+Radek Lehovec,                D,  - ,      b. 5 Dec 2001
+Josef Švanda,                 D,  1.78 m,  b. 3 Dec 2001
+Vojtěch Sychra,               M,  - ,      b. 30 Nov 2001
+Martin Cedidla,               D,  1.85 m,  b. 22 Nov 2001
+Karel Pojezný,                D,  1.86 m,  b. 23 Sep 2001 @ Jihlava
+Denis Donát,                  D,  1.89 m,  b. 14 Sep 2001 @ Náchod
+Petr Jaroň,                   M,  1.78 m,  b. 30 Aug 2001
+Ibrahim Aldin,                M,  1.75 m,  b. 6 Aug 2001 @ Brno
+Pavel Hájek,                  F,  1.84 m,  b. 3 Aug 2001
+Vítězslav Jaroš,              G,  1.90 m,  b. 23 Jul 2001 @ Příbram
+Matěj Vít,                    M,  1.78 m,  b. 22 Jul 2001 @ Mimon
+Jakub Markovič,               G,  1.88 m,  b. 13 Jul 2001 @ Přerov
+Marek Kejř,                   M,  1.82 m,  b. 12 Jul 2001 @ Hradec Králové
+Pavel Juroška,                M,  - ,      b. 7 Jul 2001
+Lukáš Hasalík,                G,  1.93 m,  b. 20 Jun 2001
+Nicolas Penner,               M,  1.77 m,  b. 19 Jun 2001 @ České Budějovice
+Petr Pudhorocký,              M,  1.74 m,  b. 13 Jun 2001 @ Prague
+Oliver Velich,                F,  1.85 m,  b. 12 Jun 2001
+Matěj Ryneš,                  M,  1.86 m,  b. 30 May 2001
+Adam Gabriel,                 D,  1.90 m,  b. 28 May 2001
+Šimon Gabriel,                D,  1.87 m,  b. 28 May 2001 @ Prague
+Adam Gorčica,                 M,  1.76 m,  b. 26 May 2001
+Daniel Kosek,                 D,  1.81 m,  b. 19 May 2001 @ Pardubice
+Marek Polášek,                M,  - ,      b. 18 May 2001
+Matěj Radosta,                M,  1.75 m,  b. 10 May 2001 @ Ústí nad Labem
+Tomáš Polyák,                 M,  1.84 m,  b. 7 May 2001
+Jan Fiala,                    F,  1.98 m,  b. 4 May 2001
+Matyáš Kozák,                 F,  1.75 m,  b. 4 May 2001
+Michal Hošek,                 D,  1.85 m,  b. 22 Apr 2001 @ Prague
+Lukáš Červ,                   M,  1.79 m,  b. 10 Apr 2001
+Tomáš Kubart,                 D,  - ,      b. 10 Apr 2001
+Lukáš Hrdlička,               M,  1.79 m,  b. 3 Apr 2001
+Ladislav Krobot,              F,  1.81 m,  b. 1 Apr 2001
+Václav Smrkovský,             G,  1.86 m,  b. 26 Mar 2001
+Jakub Hora,                   D,  1.81 m,  b. 8 Mar 2001
+Jakub Emmer,                  M,  1.75 m,  b. 1 Mar 2001 @ Teplice
+Jan Halász,                   D,  1.82 m,  b. 28 Feb 2001 @ Kladno
+Tomáš Vlček,                  D,  1.81 m,  b. 28 Feb 2001
+Radim Černický,               M,  1.90 m,  b. 18 Feb 2001
+Jáchym Šerák,                 G,  1.87 m,  b. 14 Feb 2001
+Jan Žambůrek,                 M,  1.82 m,  b. 13 Feb 2001
+Jakub Trefil,                 G,  1.88 m,  b. 9 Feb 2001
+Daniel Kerl,                  G,  - ,      b. 14 Jan 2001
+Tomáš Vincour,                D,  - ,      b. 2 Jan 2001
+
+Pavel Šulc,                   M,  1.81 m,  b. 29 Dec 2000 @ Karlovy Vary
+Jan Knapík,                   D,  1.92 m,  b. 11 Dec 2000
+Martin Vlachovský,            M,  1.75 m,  b. 28 Nov 2000
+Kristian Michal,              M,  1.70 m,  b. 26 Nov 2000
+David Zima,                   D,  1.90 m,  b. 8 Nov 2000 @ Olomouc
+Lukáš Husek,                  D,  2.02 m,  b. 25 Oct 2000 @ Jablonec nad Nisou
+Michal Fukala,                D,  1.80 m,  b. 22 Oct 2000 @ Frýdek-Místek
+Denis Vala,                   D,  - ,      b. 11 Oct 2000
+David Píchal,                 M,  - ,      b. 5 Oct 2000
+Martin Janáček,               G,  1.96 m,  b. 22 Sep 2000 @ Cehnice
+Jaromír Srubek,               D,  - ,      b. 21 Sep 2000
+Adam Lupač,                   M,  - ,      b. 20 Sep 2000
+Filip Souček,                 M,  1.82 m,  b. 16 Sep 2000 @ Štěpánkovice
+Michal Beran,                 M,  1.67 m,  b. 22 Aug 2000
+Štěpán Langer,                M,  1.79 m,  b. 16 Aug 2000
+Tomáš Čvančara,               F,  1.90 m,  b. 13 Aug 2000 @ Neratovice
+David Jurásek,                D,  1.83 m,  b. 7 Aug 2000 @ Dolní Němčí
+Adam Zadražil,                G,  1.93 m,  b. 6 Aug 2000 @ Mladá Boleslav
+Jiří Mezera,                  D,  1.90 m,  b. 21 Jul 2000
+Denis Darmovzal,              M,  1.84 m,  b. 17 Jul 2000
+Štěpán Harazim,               D,  1.83 m,  b. 13 Jul 2000 @ Opava
+Patrik Slaměna,               M|F,1.77 m,  b. 7 Jul 2000
+Jakub Elbel,                  D,  1.90 m,  b. 6 Jul 2000
+Martin Melichar,              G,  1.86 m,  b. 6 Jul 2000
+Martin Rolinek,               D,  1.88 m,  b. 30 Jun 2000 @ Brno
+David Heidenreich,            D,  1.91 m,  b. 24 Jun 2000 @ Ústí nad Labem
+Jakub Brát,                   G,  1.88 m,  b. 22 Jun 2000 @ Trutnov
+David Macháček,               M,  1.81 m,  b. 14 Jun 2000
+Michal Kinčl,                 M,  1.79 m,  b. 5 Jun 2000
+Michal Kohut,                 M,  - ,      b. 4 Jun 2000
+Václav Míka,                  D,  1.89 m,  b. 1 Jun 2000 @ Plzeň
+Tomáš Koschatzký,             D,  1.81 m,  b. 31 May 2000
+Vasil Kušej,                  F,  1.68 m,  b. 24 May 2000 @ Ústí nad Labem
+Tomáš Zlatohlávek,            M,  1.83 m,  b. 22 May 2000
+Matěj Kovář,                  G,  1.96 m,  b. 17 May 2000 @ Uherské Hradiště
+Tomáš Vajner,                 G,  1.85 m,  b. 13 May 2000
+Daniel Horák,                 D,  1.85 m,  b. 10 May 2000
+Jan Kubala,                   M,  1.89 m,  b. 5 May 2000 @ Frýdek-Místek
+Dominik Žák,                  M,  1.83 m,  b. 30 Apr 2000
+Vojtěch Marek,                G,  1.90 m,  b. 18 Apr 2000 @ Brno
+Štěpán Krunert,               M,  1.88 m,  b. 23 Mar 2000
+Vojtěch Patrák,               F,  1.76 m,  b. 18 Mar 2000
+Daniel Kováč,                 M,  1.80 m,  b. 3 Mar 2000
+František Belej,              F,  - ,      b. 29 Feb 2000
+Filip Kaloč,                  M,  1.90 m,  b. 27 Feb 2000 @ Ostrava
+Pavel Osmančík,               F,  1.75 m,  b. 27 Feb 2000
+Ondřej Pachlopník,            M,  1.79 m,  b. 14 Feb 2000 @ Brno
+Vladimír Neuman,              G,  1.96 m,  b. 10 Feb 2000
+Matěj Valenta,                M,  1.81 m,  b. 9 Feb 2000 @ Prague
+Tomáš Ostrák,                 F,  1.76 m,  b. 5 Feb 2000 @ Frýdek-Místek
+Tomáš Solil,                  M,  - ,      b. 1 Feb 2000
+Robin Hranáč,                 D,  1.89 m,  b. 29 Jan 2000 @ Plzeň
+Jakub Kolář,                  D,  1.88 m,  b. 16 Jan 2000
+Michael Hönig,                M,  1.69 m,  b. 13 Jan 2000
+David Doležal,                M,  1.77 m,  b. 5 Jan 2000
+Matěj Koubek,                 F,  1.79 m,  b. 4 Jan 2000 @ Prague
+
+Matěj Polidar,                D|M,1.79 m,  b. 20 Dec 1999
+Lukáš Rogožan,                F,  1.75 m,  b. 1 Dec 1999
+Jonáš Vais,                   M,  1.84 m,  b. 24 Nov 1999
+Hugo Jan Bačkovský,           G,  1.84 m,  b. 10 Nov 1999
+Jakub Matoušek,               M,  1.77 m,  b. 25 Oct 1999
+Václav Svoboda,               D,  1.81 m,  b. 16 Sep 1999
+Filip Kubala,                 F,  1.82 m,  b. 2 Sep 1999 @ Třinec
+Adam Petrák,                  M,  1.81 m,  b. 20 Aug 1999
+Dominik Pleštil,              M,  1.86 m,  b. 9 Aug 1999 @ Jablonec nad Nisou
+Dominik Gembický,             F,  1.80 m,  b. 26 Jul 1999
+Václav Drchal,                F,  1.87 m,  b. 25 Jul 1999 @ České Budějovice
+Dominik Soukeník,             M,  1.82 m,  b. 13 Jul 1999
+Filip Čihák,                  D,  1.90 m,  b. 10 Jul 1999 @ Plzeň
+Vojtěch Křišťál,              D,  1.87 m,  b. 10 Jul 1999 @ Jihlava
+Jakub Lapeš,                  G,  1.89 m,  b. 4 Jul 1999
+David Buchta,                 M,  1.84 m,  b. 27 Jun 1999
+Lukáš Pfeifer,                M,  - ,      b. 24 Jun 1999
+Michal Vrána,                 M,  - ,      b. 18 Jun 1999
+Radovan Murin,                G,  1.83 m,  b. 3 Jun 1999 @ Spišská Nová Ves
+Michal Sadílek,               M,  1.69 m,  b. 31 May 1999 @ Uherské Hradiště
+Patrik Hellebrand,            M,  1.80 m,  b. 16 May 1999 @ Opava
+Mojmír Chytil,                F,  1.87 m,  b. 29 Apr 1999 @ Skalka
+Ondřej Zmrzlý,                D|M,1.85 m,  b. 22 Apr 1999
+Ladislav Krejčí,              M,  1.87 m,  b. 20 Apr 1999 @ Brno
+Dominik Plechatý,             D,  1.82 m,  b. 18 Apr 1999 @ Zvole
+Martin Graiciar,              F,  1.84 m,  b. 11 Apr 1999 @ Plzeň
+Jiří Boula,                   M,  1.81 m,  b. 8 Apr 1999 @ Prague
+Jan Král,                     D,  1.90 m,  b. 5 Apr 1999 @ Česká Lípa
+Petr Mikulec,                 G,  1.96 m,  b. 5 Apr 1999 @ Vrchlabí
+Antonín Růsek,                F,  1.87 m,  b. 22 Mar 1999 @ Troskotovice
+Pavel Zifčák,                 F,  1.87 m,  b. 2 Mar 1999 @ Velká Bystřice
+Jiří Spáčil,                  M,  1.79 m,  b. 11 Feb 1999
+Jakub Černín,                 D,  1.99 m,  b. 8 Feb 1999 @ Ladná
+František Kotek,              G,  1.80 m,  b. 3 Feb 1999 @ Prague
+Christian Frýdek,             M,  1.71 m,  b. 1 Feb 1999 @ Leverkusen
+David Huf,                    F,  1.87 m,  b. 23 Jan 1999 @ Jevíčko
+Patrik Žitný,                 M,  1.77 m,  b. 21 Jan 1999 @ Ústí nad Labem
+Jan Fortelný,                 M,  1.75 m,  b. 19 Jan 1999 @ Prague
+Jiří Letáček,                 G,  1.96 m,  b. 9 Jan 1999 @ Pardubice
+Jiří Sláma,                   D,  1.77 m,  b. 8 Jan 1999
+Luděk Němeček,                G,  1.97 m,  b. 4 Jan 1999
+
+Miroslav Dvořák,              D,  1.86 m,  b. 18 Dec 1998
+Marcel Čermák,                M,  1.77 m,  b. 25 Nov 1998 @ Prague
+Marek Kouba,                  G,  1.85 m,  b. 1 Nov 1998 @ Prague
+Robert Jukl,                  M,  1.80 m,  b. 28 Oct 1998 @ Hradec Králové
+Ondřej Lingr,                 M,  1.75 m,  b. 7 Oct 1998 @ Havířov
+Matouš Trmal,                 G,  1.94 m,  b. 2 Oct 1998 @ Znojmo
+Adam Rychlý,                  D,  1.93 m,  b. 25 Sep 1998 @ Opava
+Denis Granečný,               D,  1.80 m,  b. 7 Sep 1998 @ Ostrava
+Martin Nečas,                 D,  1.68 m,  b. 4 Sep 1998
+Jakub Klíma,                  D,  1.83 m,  b. 28 Aug 1998 @ Kolín
+Jan Čtvrtečka,                G,  1.90 m,  b. 14 Aug 1998
+Dušan Pinc,                   F,  1.93 m,  b. 1 Aug 1998
+Ladislav Mužík,               M|F,- ,      b. 25 Jul 1998
+Nicolas Šmíd,                 G,  - ,      b. 23 Jul 1998
+Dominik Hašek,                D,  1.86 m,  b. 19 Jul 1998
+Daniel Souček,                D,  1.80 m,  b. 18 Jul 1998 @ Prague
+Ondřej Chvěja,                M|F,1.85 m,  b. 17 Jul 1998 @ Hlučín
+Karel Hasil,                  D,  - ,      b. 13 Jul 1998
+Tomáš Smejkal,                M,  1.76 m,  b. 7 Jul 1998
+Adam Richter,                 G,  1.88 m,  b. 25 Jun 1998 @ Kolín
+Matěj Luksch,                 G,  1.91 m,  b. 19 Jun 1998 @ České Budějovice
+Michal Hlavatý,               M,  1.70 m,  b. 17 Jun 1998 @ Hořovice
+Dominik Janošek,              M,  1.83 m,  b. 13 Jun 1998 @ Rajhrad
+František Čech,               D,  1.79 m,  b. 12 Jun 1998 @ Hradec Králové
+Daniel Vašulín,               F,  1.95 m,  b. 11 Jun 1998 @ Hlinsko
+Jan Šulc,                     M,  1.69 m,  b. 2 Jun 1998 @ Liberec
+David Douděra,                D|M,1.75 m,  b. 31 May 1998 @ Brandýs Nad Labem
+Daniel Mareček,               M,  1.80 m,  b. 30 May 1998 @ Prague
+Jakub Rezek,                  M,  1.74 m,  b. 29 May 1998 @ Uherský Brod
+Daniel Köstl,                 D,  1.89 m,  b. 23 May 1998 @ Prague
+Roman Holiš,                  D,  1.86 m,  b. 21 May 1998
+Alex Král,                    M,  1.84 m,  b. 19 May 1998 @ Košice
+Libor Holík,                  D,  1.80 m,  b. 12 May 1998 @ Záhorovice
+Jan Matoušek,                 M,  1.76 m,  b. 9 May 1998 @ Příbram
+Jan Plachý,                   G,  1.95 m,  b. 7 May 1998 @ Teplice
+Jiří Ciupa,                   G,  1.90 m,  b. 7 May 1998
+Ladislav Kodad,               D,  1.80 m,  b. 23 Apr 1998
+Antonín Vaníček,              M,  1.80 m,  b. 22 Apr 1998
+Jakub Matoušek,               F,  - ,      b. 10 Apr 1998
+Ondřej Šašinka,               F,  1.82 m,  b. 21 Mar 1998 @ Frýdek-Místek
+Emil Tischler,                D|M,1.84 m,  b. 13 Mar 1998 @ Stockerau
+Jakub Martinec,               D,  1.87 m,  b. 13 Mar 1998 @ Vysoké Mýto
+Patrik Schön,                 M,  1.80 m,  b. 12 Mar 1998
+Pavel Bucha,                  M,  1.74 m,  b. 11 Mar 1998 @ Nelahozeves
+Daniel Stropek,               D,  1.86 m,  b. 3 Mar 1998
+Ondřej Mach,                  G,  1.92 m,  b. 3 Mar 1998 @ Hradec Králové
+Patrik Haitl,                 D,  1.71 m,  b. 1 Mar 1998
+David Šimek,                  D,  1.93 m,  b. 15 Feb 1998
+Ondřej Lehoczki,              D,  1.83 m,  b. 10 Feb 1998 @ Varnsdorf
+Ondřej Novotný,               F,  1.83 m,  b. 5 Feb 1998
+Matěj Chaluš,                 D,  1.85 m,  b. 2 Feb 1998 @ Prague
+Jan Šiška,                    G,  1.90 m,  b. 31 Jan 1998
+Martin Jedlička,              G,  1.86 m,  b. 24 Jan 1998 @ Příbram
+Dominik Smékal,               F,  1.81 m,  b. 22 Jan 1998 @ Boskovice
+Filip Havelka,                M,  1.77 m,  b. 21 Jan 1998 @ Prague
+
+Lukáš Matějka,                F,  1.82 m,  b. 20 Dec 1997 @ Plzeň
+Roman Květ,                   M,  1.87 m,  b. 17 Dec 1997
+Radek Látal,                  D,  1.85 m,  b. 16 Dec 1997
+Václav Černý,                 F,  1.78 m,  b. 17 Oct 1997 @ Příbram
+Michal Bílek,                 M,  1.74 m,  b. 13 Oct 1997 @ Kladno
+Jiří Januška,                 M,  1.78 m,  b. 11 Oct 1997
+Michal Surzyn,                D,  1.78 m,  b. 10 Sep 1997 @ Olomouc
+David Lischka,                D,  1.89 m,  b. 15 Aug 1997 @ Ludgeřovice
+Marek Vintr,                  M,  1.85 m,  b. 1 Aug 1997 @ Brno
+Daniel Trubač,                M,  1.75 m,  b. 17 Jul 1997 @ Opočno
+Tomáš Wiesner,                D,  1.76 m,  b. 17 Jul 1997 @ Prague
+Filip Blecha,                 M,  1.78 m,  b. 16 Jul 1997
+Jakub Janetzký,               M,  1.81 m,  b. 12 Jun 1997 @ Opava
+Matěj Pulkrab,                F,  1.85 m,  b. 23 May 1997 @ Prague
+Denis Laňka,                  M,  1.76 m,  b. 13 May 1997
+Štěpán Hrnčíř,                G,  - ,      b. 8 May 1997
+Lukáš Zukal,                  D,  - ,      b. 4 May 1997
+Jan Vodháněl,                 M,  1.75 m,  b. 25 Apr 1997 @ Mladá Boleslav
+Tomáš Ladra,                  M,  1.78 m,  b. 24 Apr 1997 @ Česká Lípa
+Lukáš Kania,                  M,  1.68 m,  b. 19 Apr 1997
+Roman Macek,                  M,  1.88 m,  b. 18 Apr 1997 @ Zlín
+Martin Macej,                 F,  1.88 m,  b. 15 Apr 1997
+Ondřej Mihálik,               M|F,1.88 m,  b. 2 Apr 1997 @ Jablonec nad Nisou
+David Štěpánek,               D,  1.83 m,  b. 30 Mar 1997 @ Humpolec
+Filip Hašek,                  M,  1.68 m,  b. 20 Mar 1997 @ Prague
+Dominik Sváček,               G,  1.88 m,  b. 24 Feb 1997 @ Klatovy
+David Březina,                D,  1.83 m,  b. 16 Feb 1997 @ Prague
+Jan Stejskal,                 G,  1.90 m,  b. 14 Feb 1997 @ Pardubice
+Dominik Šup,                  F,  1.82 m,  b. 28 Jan 1997
+Jakub Kučera,                 M,  1.83 m,  b. 28 Jan 1997 @ Brno
+Vojtěch Smrž,                 M,  1.83 m,  b. 20 Jan 1997 @ Šumperk
+Martin Chlumecký,             D,  1.88 m,  b. 11 Jan 1997 @ Prague
+Jan Kuchta,                   F,  1.77 m,  b. 8 Jan 1997 @ Liberec
+Jiří Klíma,                   F,  1.90 m,  b. 5 Jan 1997 @ Jihlava
+Jiří Floder,                  G,  1.90 m,  b. 3 Jan 1997 @ Brno
+
+Matěj Helešic,                D,  1.75 m,  b. 12 Nov 1996 @ Ostrava
+Lukáš Provod,                 M,  1.89 m,  b. 23 Oct 1996 @ Plzeň
+Michal Sáček,                 D|M,1.75 m,  b. 19 Sep 1996 @ Hustopeče
+Jakub Pokorný,                D,  1.86 m,  b. 11 Sep 1996 @ Višňové
+Kryštof Lasák,                G,  1.86 m,  b. 25 Aug 1996
+Michal Bezpalec,              M,  1.82 m,  b. 19 Aug 1996 @ Strakonice
+Tomáš Zajíc,                  F,  1.82 m,  b. 12 Aug 1996 @ Suchov
+Jakub Barac,                  M,  1.76 m,  b. 4 Aug 1996
+Laco Takács,                  D|M,1.93 m,  b. 15 Jul 1996 @ Františkovy Lázně
+Jakub Šural,                  D,  1.81 m,  b. 1 Jul 1996 @ Brno
+Jurij Medveděv,               D,  1.80 m,  b. 18 Jun 1996 @ Badamsha
+Vojtěch Vorel,                G,  1.90 m,  b. 18 Jun 1996 @ Prague
+Lukáš Havel,                  D,  1.86 m,  b. 6 Jun 1996 @ České Budějovice
+Aleš Matějů,                  D,  1.84 m,  b. 3 Jun 1996 @ Příbram
+Šimon Chwaszcz,               F,  1.92 m,  b. 28 May 1996
+Lukáš Sadílek,                M,  1.79 m,  b. 23 May 1996 @ Uherský Ostroh
+Dominik Kostka,               D|F,1.77 m,  b. 4 May 1996
+Jindřich Staněk,              G,  1.92 m,  b. 27 Apr 1996 @ Strakonice
+Miloš Kratochvíl,             M,  1.87 m,  b. 26 Apr 1996 @ Karlovy Vary
+Filip Zorvan,                 M,  1.71 m,  b. 7 Apr 1996 @ Opočno
+Jakub Yunis,                  F,  1.91 m,  b. 25 Mar 1996 @ Brno
+Martin Toml,                  D,  1.86 m,  b. 25 Mar 1996 @ Brandýs nad Labem
+Ondřej Bačo,                  D,  1.87 m,  b. 25 Mar 1996 @ Brumov-Bylnice
+David Broukal,                D,  - ,      b. 16 Mar 1996
+Jiří Kulhánek,                M,  1.85 m,  b. 8 Mar 1996 @ Prague
+Petr Kodeš,                   M,  1.85 m,  b. 31 Jan 1996 @ Krupka
+Patrik Schick,                F,  1.86 m,  b. 24 Jan 1996 @ Prague
+Jakub Jankto,                 M,  1.84 m,  b. 19 Jan 1996 @ Prague
+Jan Suchan,                   M,  1.79 m,  b. 18 Jan 1996 @ Příbram
+Petr Rybička,                 F,  1.86 m,  b. 14 Jan 1996 @ Chrudim
+Vít Nemrava,                  G,  1.82 m,  b. 9 Jan 1996
+
+David Černý,                  F,  1.85 m,  b. 10 Dec 1995
+Jaroslav Tregler,             M,  1.81 m,  b. 1 Dec 1995 @ Hořovice
+Jakub Přichystal,             F,  1.78 m,  b. 25 Oct 1995 @ Brno
+Martin Hašek,                 M,  1.74 m,  b. 3 Oct 1995 @ Liberec
+Dominik Preisler,             D,  1.83 m,  b. 20 Sep 1995
+Jan Vondra,                   D,  1.78 m,  b. 13 Sep 1995 @ Prague
+Filip Žák,                    F,  1.84 m,  b. 1 Sep 1995
+Jiří Kateřiňák,               M,  1.74 m,  b. 25 Aug 1995 @ Prague
+Jan Záviška,                  M,  1.77 m,  b. 21 Aug 1995 @ Hlinsko
+Daniel Holzer,                M,  1.75 m,  b. 18 Aug 1995 @ Ostrava
+Filip Novotný,                M,  1.74 m,  b. 17 Aug 1995 @ Litomerice
+Lukáš Kalvach,                M,  1.81 m,  b. 19 Jul 1995 @ Olomouc
+Dominik Mašek,                M,  1.84 m,  b. 10 Jul 1995 @ Příbram
+Marek Havlík,                 M,  1.76 m,  b. 8 Jul 1995 @ Lubná
+Filip Panák,                  D,  1.88 m,  b. 1 Jul 1995
+Václav Jemelka,               D,  1.86 m,  b. 23 Jun 1995 @ Olomouc
+Ondřej Ševčík,                D,  1.88 m,  b. 9 Jun 1995
+Pavel Halouska,               G,  1.94 m,  b. 23 May 1995 @ Brno
+Jan Mejdr,                    D,  1.85 m,  b. 11 May 1995 @ Prague
+Ondřej Kočí,                  G,  1.98 m,  b. 7 Apr 1995 @ Prague
+Lukáš Hůlka,                  D,  1.82 m,  b. 31 Mar 1995 @ Mladá Boleslav
+Tomáš Souček,                 M,  1.90 m,  b. 27 Feb 1995 @ Havlíčkův Brod
+Jiří Bederka,                 D,  1.89 m,  b. 18 Feb 1995 @ Náchod
+Jan Silný,                    F,  1.87 m,  b. 15 Feb 1995
+Jakub Nečas,                  M|F,1.74 m,  b. 26 Jan 1995 @ Prague
+Tomáš Chorý,                  F,  1.99 m,  b. 26 Jan 1995 @ Olomouc
+Jan Prosek,                   D,  - ,      b. 23 Jan 1995
+Stefan Šimić,                 D,  1.89 m,  b. 20 Jan 1995 @ Prague
+Jakub Šiman,                  G,  1.97 m,  b. 7 Jan 1995 @ Plzeň
+Patrik Čavoš,                 M,  1.80 m,  b. 7 Jan 1995 @ Prague
+Lukáš Soukup,                 G,  1.93 m,  b. 6 Jan 1995
+
+Damián Bariš,                 M,  1.78 m,  b. 9 Dec 1994 @ Trenčín
+Antonín Barák,                M,  1.90 m,  b. 3 Dec 1994 @ Příbram
+Lukáš Juliš,                  F,  1.86 m,  b. 2 Dec 1994 @ Chrudim
+Ondřej Karafiát,              D,  1.82 m,  b. 1 Dec 1994 @ Prague
+Patrizio Stronati,            D,  1.90 m,  b. 17 Nov 1994
+Michal Hubínek,               M,  1.69 m,  b. 10 Nov 1994 @ Prague
+Jan Sedlák,                   M,  1.81 m,  b. 25 Oct 1994 @ Blansko
+Ondřej Kolář,                 G,  1.93 m,  b. 17 Oct 1994 @ Liberec
+Aleš Čermák,                  M,  1.80 m,  b. 1 Oct 1994 @ Prague
+Rudolf Reiter,                M,  1.80 m,  b. 28 Sep 1994 @ Prague
+Adam Vlkanova,                M,  1.68 m,  b. 4 Sep 1994 @ Hradec Králové
+Jakub Fulnek,                 M,  1.72 m,  b. 26 Aug 1994 @ Lhotka
+Otto Urma,                    D,  1.78 m,  b. 17 Aug 1994 @ Domoušice
+Milan Havel,                  D,  1.71 m,  b. 7 Aug 1994 @ Prague
+Daniel Tetour,                M,  1.81 m,  b. 17 Jul 1994 @ Prague
+Jan Hlavica,                  D,  1.86 m,  b. 17 Jul 1994 @ Kelč
+Jan Štěrba,                   D,  1.86 m,  b. 8 Jul 1994 @ Ostrava
+Václav Jurečka,               F,  1.82 m,  b. 26 Jun 1994
+Michal Trávník,               M,  1.74 m,  b. 17 May 1994 @ Mutěnice
+Tomáš Břečka,                 D,  1.85 m,  b. 12 May 1994 @ Kroměříž
+Petr Ševčík,                  M,  1.72 m,  b. 4 May 1994 @ Jeseník
+Robert Hrubý,                 M,  1.84 m,  b. 27 Apr 1994 @ Prague
+Jan Shejbal,                  D|M,1.85 m,  b. 20 Apr 1994 @ Pardubice
+Michael Lüftner,              D,  1.90 m,  b. 14 Mar 1994 @ Chabařovice
+Lukáš Vraštil,                D,  1.81 m,  b. 10 Mar 1994 @ Jilemnice
+Adam Fousek,                  M,  1.85 m,  b. 8 Mar 1994 @ Pardubice
+Antonín Křapka,               D,  1.83 m,  b. 22 Jan 1994 @ Mladá Boleslav
+Lukáš Zima,                   G,  1.96 m,  b. 9 Jan 1994 @ Hradec Králové
+Patrik Brandner,              M|F,1.80 m,  b. 4 Jan 1994 @ Hořovice
+Filip Kaša,                   D,  1.89 m,  b. 1 Jan 1994 @ Ostrava
+
+Jan Sýkora,                   M,  1.70 m,  b. 29 Dec 1993 @ Plzeň
+Miloš Kopečný,                D,  1.79 m,  b. 26 Dec 1993 @ Holešov
+Jakub Plšek,                  M,  1.86 m,  b. 13 Dec 1993 @ Jasenná
+Karel Soldát,                 M,  1.87 m,  b. 7 Nov 1993
+Jan Hladík,                   F,  1.84 m,  b. 21 Sep 1993 @ Znojmo
+Michal Jeřábek,               D,  1.91 m,  b. 10 Sep 1993 @ Prague
+Jaroslav Svozil,              D,  1.83 m,  b. 9 Sep 1993
+Jan Kliment,                  F,  1.85 m,  b. 1 Sep 1993 @ Myjava
+Tomáš Zahradníček,            M,  1.82 m,  b. 11 Aug 1993
+David Hovorka,                D,  1.79 m,  b. 7 Aug 1993 @ Prague
+Jaromír Zmrhal,               M,  1.89 m,  b. 2 Aug 1993 @ Žatec
+David Ledecký,                F,  1.84 m,  b. 24 Jul 1993 @ Brandýs nad Labem
+Stanislav Vávra,              F,  1.80 m,  b. 20 Jul 1993 @ Kroměříž
+Lukáš Pokorný,                D,  1.86 m,  b. 5 Jul 1993
+Petr Hronek,                  M,  1.82 m,  b. 4 Jul 1993 @ Prague
+David Houska,                 M,  1.75 m,  b. 29 Jun 1993 @ Olomouc
+Jakub Pešek,                  M,  1.76 m,  b. 24 Jun 1993 @ Chrudim
+Martin Nový,                  D,  1.78 m,  b. 23 Jun 1993 @ Prague
+Matěj Hanousek,               D,  1.82 m,  b. 2 Jun 1993 @ Prague
+Tomáš Kalas,                  D,  1.84 m,  b. 15 May 1993 @ Olomouc
+David Puškáč,                 F,  1.90 m,  b. 14 May 1993 @ Karviná
+Matěj Hrabina,                D,  1.79 m,  b. 29 Apr 1993 @ Opava
+Šimon Falta,                  M,  1.83 m,  b. 23 Apr 1993 @ Ústí nad Orlicí
+Václav Prošek,                M,  1.77 m,  b. 8 Apr 1993 @ Rakovník
+Tomáš Holeš,                  D|M,1.80 m,  b. 31 Mar 1993 @ Polička
+Vojtěch Kubista,              M,  1.92 m,  b. 19 Mar 1993 @ Jablonec nad Nisou
+Michael Krmenčik,             F,  1.87 m,  b. 15 Mar 1993 @ Kraslice
+Jan Juroška,                  D,  1.80 m,  b. 2 Mar 1993 @ Valašské Meziříčí
+Patrik Vízek,                 G,  1.88 m,  b. 26 Feb 1993 @ Hradec Králové
+Roman Haša,                   F,  1.78 m,  b. 15 Feb 1993
+Lukáš Masopust,               M,  1.79 m,  b. 12 Feb 1993 @ Božejov
+Filip Twardzik,               D|M,1.80 m,  b. 10 Feb 1993 @ Třinec
+Jiří Texl,                    M,  1.81 m,  b. 3 Jan 1993 @ Třebíč
+Matěj Hybš,                   D,  1.81 m,  b. 3 Jan 1993 @ Prague
+
+Marek Červenka,               F,  1.82 m,  b. 17 Dec 1992 @ Prague
+Tomáš Hájek,                  D,  1.86 m,  b. 1 Dec 1992 @ Zlín
+Jan Řezníček,                 M,  1.80 m,  b. 22 Nov 1992 @ Pardubice
+Dominik Simerský,             D,  1.90 m,  b. 29 Sep 1992 @ Otrokovice
+Filip Nguyen,                 G,  1.90 m,  b. 14 Sep 1992 @ Banská Bystrica
+Michal Reichl,                G,  1.89 m,  b. 14 Sep 1992
+Tomáš Koubek,                 G,  1.97 m,  b. 26 Aug 1992 @ Hradec Králové
+Lukáš Holík,                  F,  1.78 m,  b. 23 Aug 1992 @ Zlín
+Milan Knobloch,               G,  1.91 m,  b. 23 Aug 1992
+Vladimír Coufal,              D,  1.79 m,  b. 22 Aug 1992 @ Ludgeřovice
+Jaroslav Zelený,              D,  1.89 m,  b. 20 Aug 1992 @ Hradec Králové
+Lukáš Kryštůfek,              D,  1.84 m,  b. 15 Aug 1992 @ Humpolec
+Jakub Brabec,                 D,  1.86 m,  b. 6 Aug 1992 @ Prague
+Adam Jánoš,                   M,  1.73 m,  b. 20 Jul 1992 @ Uherské Hradiště
+Petr Buchta,                  D,  1.85 m,  b. 15 Jul 1992 @ Brno
+Ladislav Krejčí,              M,  1.78 m,  b. 5 Jul 1992 @ Prague
+Tomáš Přikryl,                M,  1.78 m,  b. 4 Jul 1992 @ Olomouc
+Michal Petráň,                F,  1.84 m,  b. 26 Jun 1992 @ Pardubice
+Michal Leibl,                 D,  1.84 m,  b. 7 Jun 1992 @ Osek
+Filip Mucha,                  G,  1.90 m,  b. 4 Jun 1992 @ Olomouc
+Aleš Nešický,                 M,  1.79 m,  b. 1 Jun 1992 @ Vysoké Mýto
+Václav Kadlec,                F,  1.79 m,  b. 20 May 1992 @ Prague
+Milan Jirásek,                M,  1.76 m,  b. 14 May 1992 @ Chrudim
+Jakub Jugas,                  D,  1.86 m,  b. 5 May 1992 @ Mladá Boleslav
+Matěj Vydra,                  F,  1.80 m,  b. 1 May 1992 @ Chotěboř
+Jakub Urbanec,                M,  1.82 m,  b. 27 Apr 1992
+Pavel Kadeřábek,              D,  1.77 m,  b. 25 Apr 1992 @ Prague
+Aleš Mandous,                 G,  1.90 m,  b. 21 Apr 1992 @ Nekmíř
+Antonín Fantiš,               F,  1.75 m,  b. 15 Apr 1992 @ Prague
+Jiří Pavlenka,                G,  1.96 m,  b. 14 Apr 1992 @ Hlučín
+Lukáš Budínský,               M,  1.79 m,  b. 27 Mar 1992 @ Prague
+Martin Frýdek,                D|M,1.79 m,  b. 24 Mar 1992 @ Hradec Králové
+Martin Hála,                  D|M,1.75 m,  b. 24 Mar 1992 @ Olomouc
+Daniel Krch,                  D,  1.80 m,  b. 20 Mar 1992 @ Tábor
+Jan Koudelka,                 M,  1.76 m,  b. 12 Mar 1992 @ Boskovice
+Jiří Skalák,                  M|F,1.75 m,  b. 12 Mar 1992 @ Pardubice
+Ondřej Petrák,                D|M,1.87 m,  b. 11 Mar 1992 @ Prague
+Martin Sladký,                D,  1.78 m,  b. 1 Mar 1992 @ Domažlice
+Martin Šejvl,                 D,  1.77 m,  b. 18 Feb 1992 @ Pardubice
+Erik Daniel,                  M,  1.78 m,  b. 4 Feb 1992 @ Bratislava
+Tomáš Petrášek,               D,  1.99 m,  b. 2 Feb 1992 @ Rychnov nad Kněžnou
+Jan Mikula,                   D,  1.78 m,  b. 5 Jan 1992 @ Havlíčkův Brod
+
+Jaroslav Navrátil,            F,  1.85 m,  b. 30 Dec 1991 @ Hustopeče
+Tomáš Holý,                   G,  2.06 m,  b. 10 Dec 1991 @ Rychnov nad Kněžnou
+Radek Voltr,                  M,  1.78 m,  b. 28 Nov 1991 @ Hradec Králové
+Petr Schwarz,                 M,  1.74 m,  b. 12 Nov 1991 @ Hradec Králové
+Milan Jurdik,                 F,  1.82 m,  b. 8 Nov 1991 @ Považská Bystrica
+David Jablonský,              D,  1.90 m,  b. 8 Oct 1991 @ Sokolov
+Tomáš Malinský,               M,  1.70 m,  b. 25 Aug 1991 @ Skuteč
+Marek Hanousek,               M,  1.85 m,  b. 6 Aug 1991 @ Prague
+Tomáš Kučera,                 M,  1.85 m,  b. 20 Jul 1991 @ Havlíčkův Brod
+Tomáš Čelůstka,               D,  1.81 m,  b. 19 Jul 1991 @ Zlín
+Vlastimil Daníček,            M,  1.87 m,  b. 15 Jul 1991 @ Zlín
+Jaroslav Málek,               M,  1.70 m,  b. 9 Jul 1991
+Martin Pospíšil,              M,  1.78 m,  b. 26 Jun 1991 @ Bělkovice-Lašťany
+Stanislav Dostál,             G,  1.85 m,  b. 20 Jun 1991 @ Zlín
+Ondřej Zahustel,              D,  1.83 m,  b. 18 Jun 1991 @ Mladá Boleslav
+David Pavelka,                M,  1.74 m,  b. 18 May 1991 @ Prague
+Roman Potočný,                M,  1.85 m,  b. 25 Apr 1991 @ Roudnice nad Labem
+Pavel Moulis,                 M,  1.85 m,  b. 7 Apr 1991 @ Teplice
+Milan Heča,                   G,  1.92 m,  b. 21 Mar 1991 @ Krumvíř
+David Vaněček,                F,  1.93 m,  b. 9 Mar 1991 @ Planá
+Martin Kouřil,                D,  2.00 m,  b. 24 Feb 1991 @ Jablonec nad Nisou
+Jakub Hora,                   M,  1.76 m,  b. 23 Feb 1991 @ Most
+Václav Juřena,                F,  1.87 m,  b. 2 Feb 1991 @ Třinec
+Martin Šindelář,              D,  1.89 m,  b. 22 Jan 1991
+Vilém Fendrich,               G,  1.93 m,  b. 22 Jan 1991
+Jan Kvída,                    D,  1.86 m,  b. 17 Jan 1991 @ Příbram
+Petr Mareš,                   M,  1.83 m,  b. 17 Jan 1991 @ Planá
+Jan Bořil,                    D,  1.75 m,  b. 11 Jan 1991 @ Nymburk
+Zdeněk Folprecht,             M,  1.79 m,  b. 7 Jan 1991 @ Kladno
+Šimon Šumbera,                M,  1.79 m,  b. 5 Jan 1991 @ Medlov
+
+Václav Hladký,                G,  1.89 m,  b. 14 Nov 1990 @ Brno
+Jan Chramosta,                F,  1.80 m,  b. 12 Oct 1990 @ Prague
+Martin Šustr,                 G,  1.86 m,  b. 3 Oct 1990 @ Boskovice
+Josef Divíšek,                D,  1.84 m,  b. 24 Sep 1990 @ Prague
+Stanislav Tecl,               F,  1.80 m,  b. 1 Sep 1990 @ Jindřichův Hradec
+Vladimír Darida,              M,  1.70 m,  b. 8 Aug 1990 @ Plzeň
+Alois Hyčka,                  D,  1.66 m,  b. 22 Jul 1990 @ Cheb
+Ondřej Vaněk,                 M,  1.79 m,  b. 5 Jul 1990 @ Brno
+Lukáš Bartošák,               D|M,1.76 m,  b. 3 Jul 1990 @ Brumov
+Filip Novák,                  D,  1.84 m,  b. 26 Jun 1990 @ Přerov
+Stanislav Hofmann,            D,  1.90 m,  b. 17 Jun 1990
+Luděk Pernica,                D,  1.86 m,  b. 16 Jun 1990 @ Boskovice
+Martin Nešpor,                F,  1.84 m,  b. 5 Jun 1990 @ Prague
+Jan Kopic,                    M,  1.77 m,  b. 4 Jun 1990 @ Jihlava
+Josef Šural,                  M,  1.84 m,  b. 30 May 1990 @ Hustopeče
+Pavel Vyhnal,                 F,  1.88 m,  b. 25 May 1990 @ Prague
+Martin Doležal,               F,  1.88 m,  b. 3 May 1990 @ Valašské Meziříčí
+Lukáš Mareček,                M,  1.82 m,  b. 17 Apr 1990 @ Ivančice
+Jan Navrátil,                 M,  1.70 m,  b. 13 Apr 1990 @ Přerov
+Martin Sus,                   D,  1.78 m,  b. 15 Mar 1990 @ Benešov
+Lukáš Hejda,                  D,  1.91 m,  b. 9 Mar 1990 @ Bilovec
+Roman Valeš,                  G,  1.90 m,  b. 6 Mar 1990 @ Nymburk
+Michal Frydrych,              D,  1.88 m,  b. 27 Feb 1990 @ Hustopeče nad Bečvou
+
+Pavel Novák,                  D,  1.87 m,  b. 30 Nov 1989 @ Jindřichův Hradec
+Jan Morávek,                  M,  1.79 m,  b. 1 Nov 1989 @ Prague
+Martin Dostál,                D,  1.75 m,  b. 23 Sep 1989 @ Prague
+Michael Rabušic,              F,  1.84 m,  b. 17 Sep 1989 @ Náměšť nad Oslavou
+Pavel Dreska,                 D,  1.85 m,  b. 17 Sep 1989 @ Prostějov
+Milan Kerbr,                  D,  1.82 m,  b. 10 Sep 1989 @ Uherské Hradiště
+Tomáš Necid,                  F,  1.90 m,  b. 13 Aug 1989 @ Prague
+Radim Breite,                 M,  1.75 m,  b. 10 Aug 1989 @ Krupka
+Daniel Bartl,                 M,  1.81 m,  b. 5 Jul 1989 @ Ostrava
+Ondřej Čelůstka,              D,  1.85 m,  b. 18 Jun 1989 @ Zlín
+Libor Kozák,                  F,  1.93 m,  b. 30 May 1989 @ Brumov-Bylnice
+Tomáš Pekhart,                F,  1.95 m,  b. 26 May 1989 @ Sušici
+Tomáš Dočekal,                F,  1.95 m,  b. 24 May 1989 @ Smrzovka
+Petr Reinberk,                D,  1.78 m,  b. 23 May 1989
+Jan Hošek,                    D,  1.89 m,  b. 1 Apr 1989 @ Nýrsko
+Tomáš Vaclík,                 G,  1.88 m,  b. 29 Mar 1989 @ Ostrava
+Martin Zeman,                 M,  1.74 m,  b. 28 Mar 1989 @ Tábor
+Ondřej Mazuch,                D,  1.88 m,  b. 15 Mar 1989 @ Hodonín
+Tomáš Jursa,                  M,  1.82 m,  b. 9 Mar 1989 @ Karviná
+Pavel Dvořák,                 F,  1.87 m,  b. 19 Feb 1989 @ Vysoké Mýto
+Martin Berkovec,              G,  1.90 m,  b. 12 Feb 1989 @ Mariánské Lázně
+Radim Řezník,                 D,  1.80 m,  b. 20 Jan 1989 @ Český Těšín
+Tomáš Smola,                  F,  1.91 m,  b. 19 Jan 1989 @ Louny
+
+Zdeněk Ondrášek,              F,  1.86 m,  b. 22 Dec 1988 @ Strakonice
+Adam Hloušek,                 D|M,1.83 m,  b. 20 Dec 1988 @ Turnov
+Tomáš Pilík,                  M,  1.85 m,  b. 20 Dec 1988 @ Příbram
+Marek Boháč,                  G,  1.93 m,  b. 31 Oct 1988 @ Prague
+Václav Pilař,                 M,  1.69 m,  b. 13 Oct 1988 @ Chlumec nad Cidlinou
+Bořek Dočkal,                 M,  1.82 m,  b. 30 Sep 1988 @ Městec Králové
+Tomáš Poznar,                 F,  1.94 m,  b. 27 Sep 1988 @ Zlín
+Vít Beneš,                    D,  1.85 m,  b. 12 Aug 1988 @ Ústí nad Labem
+Jan Kovařík,                  M,  1.82 m,  b. 19 Jun 1988 @ Most
+Tomáš Hořava,                 M,  1.81 m,  b. 29 May 1988 @ Drnovice
+Jakub Řezníček,               F,  1.86 m,  b. 26 May 1988 @ Příbram
+Vojtěch Šrom,                 G,  1.92 m,  b. 3 May 1988 @ Litovel
+Jan Hanuš,                    G,  1.88 m,  b. 28 Apr 1988 @ Chlumec nad Cidlinou
+Marek Suchý,                  D,  1.82 m,  b. 29 Mar 1988 @ Prague
+Michal Škoda,                 F,  1.91 m,  b. 1 Mar 1988 @ Prague
+David Bartek,                 D,  1.76 m,  b. 13 Feb 1988 @ Prague
+
+Jan Schaffartzik,             M,  1.84 m,  b. 15 Dec 1987 @ Opava
+Tomáš Vondrášek,              D,  1.75 m,  b. 26 Oct 1987 @ Sokolov
+Tomáš Fryšták,                G,  1.92 m,  b. 18 Aug 1987 @ Uherské Hradiště
+Jan Moravec,                  D,  1.75 m,  b. 13 Jul 1987 @ Rohozná
+Jakub Podaný,                 D,  1.84 m,  b. 15 Jun 1987 @ Přerov
+Kamil Vacek,                  M,  1.83 m,  b. 18 May 1987 @ Ústí nad Orlicí
+Jakub Rada,                   M,  1.85 m,  b. 5 May 1987 @ Prague
+Jan Krob,                     D,  1.75 m,  b. 27 Apr 1987 @ Beroun
+Ondřej Kúdela,                D,  1.84 m,  b. 26 Mar 1987
+Jakub Mareš,                  F,  1.82 m,  b. 26 Jan 1987 @ Teplice
+
+Josef Hnaníček,               D,  1.82 m,  b. 28 Dec 1986 @ Zlín
+Theodor Gebre Selassie,       D,  1.82 m,  b. 24 Dec 1986 @ Třebíč
+Jan Kalabiška,                D|M,1.88 m,  b. 22 Dec 1986 @ Mělník
+Jakub Diviš,                  G,  1.95 m,  b. 27 Jul 1986 @ Turnov
+František Rajtoral,           D,  1.77 m,  b. 12 Mar 1986 @ Příbram
+Petr Jiráček,                 M,  1.80 m,  b. 2 Mar 1986 @ Tuchořice
+Petr Javorek,                 M,  1.86 m,  b. 9 Feb 1986 @ Prague
+Martin Fillo,                 D,  1.77 m,  b. 7 Feb 1986 @ Planá
+Milan Škoda,                  F,  1.90 m,  b. 16 Jan 1986 @ Prague
+
+Jan Šeda,                     G,  1.89 m,  b. 17 Dec 1985 @ Vysoké Mýto
+Aleš Hruška,                  G,  1.93 m,  b. 23 Nov 1985 @ Městec Králové
+Jiří Kladrubský,              D,  1.85 m,  b. 19 Nov 1985 @ České Budějovice
+Zdeněk Zlámal,                G,  1.93 m,  b. 5 Nov 1985 @ Přerov
+Daniel Kolář,                 M,  1.79 m,  b. 27 Oct 1985 @ Prague
+Přemysl Kovář,                G,  1.87 m,  b. 14 Oct 1985 @ Boskovice
+Daniel Pudil,                 M,  1.85 m,  b. 27 Sep 1985 @ Prague
+Jan Žídek,                    D,  1.86 m,  b. 4 Jul 1985
+Michal Vepřek,                D,  1.77 m,  b. 17 Jun 1985 @ Olomouc
+Michal Papadopulos,           F,  1.83 m,  b. 14 Apr 1985 @ Ostrava
+Tomáš Černý,                  G,  1.85 m,  b. 10 Apr 1985 @ Ústí nad Labem
+Vlastimil Hrubý,              G,  1.87 m,  b. 21 Feb 1985 @ Znojmo
+Pavel Černý,                  F,  1.85 m,  b. 28 Jan 1985 @ Hradec Králové
+
+Michal Kadlec,                D,  1.83 m,  b. 13 Dec 1984 @ Vyškov
+Jiří Fleišman,                D,  1.85 m,  b. 2 Oct 1984 @ Most
+Petr Bolek,                   G,  1.90 m,  b. 13 Jun 1984 @ Ostrava
+Roman Hubník,                 D,  1.91 m,  b. 6 Jun 1984 @ Vsetín
+Václav Procházka,             D,  1.85 m,  b. 8 May 1984 @ Rokycany
+Jan Jeřábek,                  M,  1.83 m,  b. 12 Feb 1984 @ Prachovice
+
+David Limberský,              D,  1.78 m,  b. 6 Oct 1983 @ Plzeň
+Tomáš Sivok,                  D,  1.85 m,  b. 15 Sep 1983 @ Pelhřimov
+Milan Petržela,               M,  1.71 m,  b. 19 Jun 1983 @ Prague
+Tomáš Grigar,                 G,  1.91 m,  b. 1 Feb 1983 @ Ostrava
+
+Jan Laštuvka,                 G,  1.91 m,  b. 7 Jul 1982 @ Havirov
+Petr Čech,                    G,  1.96 m,  b. 20 May 1982 @ Plzeň
+Jan Rezek,                    M|F,1.77 m,  b. 5 May 1982 @ Most
+Jaroslav Plašil,              M,  1.83 m,  b. 5 Jan 1982 @ Opočno
+
+Marek Matějovský,             M,  1.78 m,  b. 20 Dec 1981 @ Brandýs nad Labem
+Milan Baroš,                  F,  1.84 m,  b. 28 Oct 1981 @ Valašské Meziříčí
+David Lafata,                 F,  1.80 m,  b. 18 Sep 1981 @ České Budějovice
+Tomáš Hübschman,              D|M,1.80 m,  b. 4 Sep 1981 @ Prague
+Josef Jindřišek,              M,  1.78 m,  b. 14 Feb 1981 @ Plavy
+
+Tomáš Rosický,                M,  1.78 m,  b. 4 Oct 1980 @ Prague
+Pavel Krmaš,                  D,  1.93 m,  b. 3 Mar 1980 @ Broumov
+
+Jaroslav Drobný,              G,  1.92 m,  b. 18 Oct 1979 @ Počátky
+
+Pavel Zavadil,                M,  1.78 m,  b. 30 Apr 1978 @ Olomouc

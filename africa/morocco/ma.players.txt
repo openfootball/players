@@ -1,0 +1,202 @@
+=================================
+=  Morocco
+
+Benjamin Bouchouari,          M,  1.65 m,  b. 13 Nov 2011 @ Borgerhout
+
+Adam Aznou,                   D,  1.78 m,  b. 2 Jun 2006 @ Barcelona
+Mohamed-Amine Ezzarhouni,     G,  - ,      b. 29 May 2006
+
+Gessime Yassine,              F,  1.76 m,  b. 22 Nov 2005 @ Salon-de-Provence
+Othmane Maamma,               F,  1.77 m,  b. 6 Oct 2005 @ Alès
+Ali Houary,                   F,  1.78 m,  b. 5 Aug 2005 @ Orihuela
+Ayman Arguigue,               F,  - ,      b. 13 May 2005 @ Carcaixent
+Yassin Tallal,                F,  1.73 m,  b. 3 Mar 2005 @ Madrid
+Yassin Sabili,                F,  - ,      b. 31 Jan 2005
+Rachad Fettal,                F,  1.84 m,  b. 16 Jan 2005 @ Torre-Pacheco
+Ismail Oulad M'Hand,          M,  - ,      b. 11 Jan 2005 @ Den Haag
+
+Abdellah Baallal,             F,  1.75 m,  b. 7 Nov 2004 @ Casablanca
+Sami Tlemcani,                G,  - ,      b. 21 Jul 2004 @ Saint-Maurice
+Ayoub Amraoui,                D,  1.84 m,  b. 14 May 2004 @ La Seyne-sur-Mer
+Ayman El Wafi,                D,  1.89 m,  b. 11 May 2004 @ Tangier
+Bilal El Khannouss,           M,  1.80 m,  b. 10 May 2004 @ Strombeek-Bever
+Ilias Akhomach,               F,  1.75 m,  b. 16 Apr 2004 @ Els Hostalets de Pierola
+Elias Mago,                   G,  - ,      b. 23 Mar 2004
+Omar Sadik,                   F,  - ,      b. 22 Mar 2004
+Camil Mmaee,                  F,  1.84 m,  b. 21 Feb 2004 @ Geraardsbergen
+Abde Raihani,                 F,  1.87 m,  b. 3 Feb 2004 @ Barcelona
+Mehdi Boukamir,               D,  1.88 m,  b. 26 Jan 2004
+
+Omar El Hilali,               D,  1.83 m,  b. 12 Sep 2003 @ L'Hospitalet de Llobregat
+Achrif Laâziri,               D,  1.77 m,  b. 8 Jul 2003 @ Hay Hassani
+Chadi Riad,                   D,  1.86 m,  b. 17 Jun 2003 @ Palma de Mallorca
+Reda Ergouai,                 D,  1.86 m,  b. 14 Jun 2003 @ Montpellier
+Oussama El Goumiri,           D,  - ,      b. 28 Apr 2003
+Anas Nanah,                   D,  1.77 m,  b. 12 Mar 2003
+Mohamed Essahel,              M,  1.73 m,  b. 17 Feb 2003
+Marvel,                       D,  1.84 m,  b. 7 Jan 2003 @ Casablanca
+
+Younes Taha,                  M,  1.76 m,  b. 27 Nov 2002 @ Drachten
+Kays Ruiz,                    M,  1.78 m,  b. 26 Aug 2002 @ Lyon
+Kays Ruiz-Atil,               M,  1.78 m,  b. 26 Aug 2002 @ Lyon
+Haitam Abaida,                F,  1.72 m,  b. 1 Jun 2002 @ Polinyà
+Oussama Targhalline,          M,  1.86 m,  b. 20 May 2002 @ Sidi Belyout
+Mohamed Jaouab,               D,  1.90 m,  b. 14 May 2002 @ Kasba Tadla
+Bilal Ouacharaf,              F,  1.80 m,  b. 9 May 2002 @ El Ejido
+Mohamed El Idrissi,           F,  - ,      b. 26 Mar 2002
+Ali Loune,                    M,  1.80 m,  b. 17 Mar 2002 @ Hanau
+Yassine Kechta,               M,  1.66 m,  b. 25 Feb 2002 @ Paris
+Alaa Bellaarouch,             G,  1.88 m,  b. 1 Feb 2002 @ Casablanca
+Amir Richardson,              M,  1.78 m,  b. 24 Jan 2002 @ Nice
+Ibrahim El Kadiri,            F,  1.70 m,  b. 23 Jan 2002 @ Amsterdam
+
+Zakaria El Ouahdi,            M,  1.72 m,  b. 31 Dec 2001 @ Hoboken
+Abde Ezzalzouli,              F,  1.77 m,  b. 17 Dec 2001 @ Beni Mellal
+Mohamed Souboul,              D,  - ,      b. 17 Nov 2001 @ Casablanca
+Ibrahim Salah,                F,  1.85 m,  b. 30 Aug 2001 @ Saint-Josse-ten-Noode
+Nassim Chadli,                M,  1.81 m,  b. 28 Jul 2001 @ Bagnols-sur-Cèze
+Amine El Ouazzani,            F,  1.88 m,  b. 15 Jul 2001 @ Grenoble
+Anouar El Azzouzi,            D,  1.87 m,  b. 29 May 2001 @ Veenendaal
+Oussama El Azzouzi,           M,  1.89 m,  b. 29 May 2001 @ Veenendaal
+Ayman Azhil,                  M,  1.71 m,  b. 10 Apr 2001 @ Düsseldorf
+Hernâni Infande,              F,  1.78 m,  b. 3 Apr 2001 @ Bissau
+Montasser Lahtimi,            F,  1.85 m,  b. 1 Apr 2001 @ Rabat
+Adil Tahif,                   D,  - ,      b. 24 Feb 2001
+Ilyas Chaira,                 F,  1.80 m,  b. 2 Feb 2001 @ Ripoll
+Nabil Touaizi,                F,  1.83 m,  b. 1 Feb 2001 @ Santomera
+Ismael Saibari,               M,  1.85 m,  b. 28 Jan 2001 @ Terrassa
+Ayman Ouhatti,                M,  1.85 m,  b. 15 Jan 2001 @ Rabat
+Emin Ghazoini,                D,  1.84 m,  b. 9 Jan 2001 @ Rome
+
+Gassan Ahadme,                F,  1.84 m,  b. 17 Nov 2000 @ Vic
+Anass Zaroury,                F,  1.76 m,  b. 7 Nov 2000 @ Mechelen
+Souffian El Karouani,         D,  1.78 m,  b. 19 Oct 2000 @ ’s-Hertogenbosch
+Ismail Achik,                 F,  1.80 m,  b. 30 Jul 2000 @ Casablanca
+Amine Adli,                   F,  1.74 m,  b. 10 May 2000 @ Béziers
+Aymane Mourid,                M,  1.82 m,  b. 7 May 2000 @ Casablanca
+Azzedine Ounahi,              M,  1.82 m,  b. 19 Apr 2000 @ Casablanca
+Zakaria Aboukhlal,            F,  1.78 m,  b. 18 Feb 2000 @ Rotterdam
+Issam El Maach,               G,  1.83 m,  b. 1 Feb 2000 @ Heerlen
+Ayoub Jabbari,                F,  1.98 m,  b. 30 Jan 2000 @ Rabat
+Abdelwahed Wahib,             D,  1.77 m,  b. 27 Jan 2000 @ Casablanca
+
+Mahmoud Bentayg,              D,  1.81 m,  b. 30 Oct 1999 @ Casablanca
+Brahim Díaz,                  F,  1.71 m,  b. 3 Aug 1999 @ Málaga
+Nassim Boujellab,             M,  1.81 m,  b. 20 Jun 1999 @ Hohenlimburg
+Achraf Dari,                  D,  1.88 m,  b. 6 May 1999 @ Casablanca
+Imrân Louza,                  M,  1.78 m,  b. 1 May 1999 @ Nantes
+Youness Lachhab,              M,  1.92 m,  b. 23 Apr 1999 @ El Palmar
+Amine Khammas,                D,  1.72 m,  b. 6 Apr 1999 @ Reet
+Abdelkabir Abqar,             D,  1.88 m,  b. 10 Mar 1999 @ Settat
+Driss Khalid,                 F,  1.80 m,  b. 7 Feb 1999 @ Toulouse
+Shady Oukhadda,               D,  1.86 m,  b. 17 Jan 1999 @ Abano Terme
+
+Achraf Hakimi,                D,  1.80 m,  b. 4 Nov 1998 @ Madrid
+Sofiane Alakouch,             D,  1.75 m,  b. 29 Jul 1998 @ Nîmes
+Ayoub Abou,                   M,  1.75 m,  b. 28 Jun 1998 @ Casablanca
+Amine Benchaib,               M,  1.81 m,  b. 18 Jun 1998 @ Gent
+Hachim Mastour,               M,  1.75 m,  b. 15 Jun 1998 @ Reggio Emilia
+Mourad Daoudi,                F,  1.90 m,  b. 27 May 1998 @ Balsapintada
+Hamza El Kaouakibi,           D,  1.85 m,  b. 22 May 1998 @ Bentivoglio
+Aymen Barkok,                 D|M,1.88 m,  b. 21 May 1998 @ Frankfurt am Main
+Ousama Siddiki,               F,  1.81 m,  b. 13 Apr 1998 @ Tétouan
+Sami Ben Amar,                F,  1.85 m,  b. 2 Mar 1998 @ Nice
+Walid Cheddira,               F,  1.87 m,  b. 22 Jan 1998 @ Loreto
+Hicham Boussefiane,           M,  1.76 m,  b. 9 Jan 1998 @ Rabat
+
+Moha Ezzarfani,               M,  1.76 m,  b. 15 Nov 1997 @ Nador
+Noussair Mazraoui,            D,  1.78 m,  b. 14 Nov 1997 @ Leiderdorp
+Ismaël Kandouss,              D,  1.92 m,  b. 12 Nov 1997 @ Lille
+Ilias Chair,                  M,  1.58 m,  b. 30 Oct 1997 @ Antwerp
+Hamza Mendyl,                 D,  1.79 m,  b. 21 Oct 1997 @ Casablanca
+Anas Ouahim,                  M,  1.72 m,  b. 23 Sep 1997 @ Leverkusen
+Saad Agouzoul,                D,  1.91 m,  b. 10 Aug 1997 @ Marrakech
+Amine Harit,                  M,  1.79 m,  b. 18 Jun 1997 @ Pontoise
+Yousseff En-Nesyri,           F,  1.89 m,  b. 1 Jun 1997 @ Fez
+Alexis André Jr,              G,  1.90 m,  b. 31 May 1997 @ Mulhouse
+Karim Loukili,                F,  1.75 m,  b. 28 Apr 1997 @ Den Haag
+Benaissa Benamar,             D,  1.91 m,  b. 8 Apr 1997 @ Amsterdam
+Ryan Mmaee,                   F,  1.83 m,  b. 1 Apr 1997 @ Geraardsbergen
+Yahya Nadrani,                D,  1.83 m,  b. 14 Jan 1997 @ Saint-Etienne
+Mohamed El Bouazzati,         D,  1.87 m,  b. 9 Jan 1997 @ Nador
+
+Abdelhamid Sabiri,            M|F,1.83 m,  b. 28 Nov 1996 @ Goulmima
+Selim Amallah,                M,  1.80 m,  b. 15 Nov 1996 @ Hautrage
+Samy Mmaee,                   D,  1.85 m,  b. 8 Sep 1996 @ Halle
+Sofyan Amrabat,               M,  1.83 m,  b. 21 Aug 1996 @ Huizen
+Youssef Aït Bennasser,        M,  1.84 m,  b. 7 Jul 1996 @ Toul
+Hamza Sakhi,                  M,  1.73 m,  b. 7 Jun 1996 @ Rabat
+Amine Talal,                  M,  1.76 m,  b. 5 Jun 1996 @ Casablanca
+Abdel Al Badaoui,             F,  1.79 m,  b. 25 May 1996
+Fahd Moufi,                   D,  1.79 m,  b. 5 May 1996 @ Mulhouse
+Ahmed Reda Tagnaouti,         G,  1.82 m,  b. 5 Apr 1996 @ Casablanca
+Nayef Aguerd,                 D,  1.88 m,  b. 30 Mar 1996 @ Kenitra
+Oussama Idrissi,              F,  1.83 m,  b. 26 Feb 1996 @ Bergen op Zoom
+Moha,                         F,  1.80 m,  b. 13 Jan 1996 @ Nador
+
+Mohamed Bouldini,             F,  1.84 m,  b. 27 Nov 1995 @ Casablanca
+Munir El Haddadi,             F,  1.72 m,  b. 1 Sep 1995 @ San Lorenzo de El Escorial
+Ismail H'Maidat,              M,  1.85 m,  b. 16 Jun 1995 @ Enschede
+Yahia Attiyat Allah,          D,  1.76 m,  b. 2 Mar 1995 @ Safi
+Anuar,                        M,  1.72 m,  b. 15 Jan 1995 @ Ceuta
+
+Adam Masina,                  D,  1.91 m,  b. 2 Jan 1994 @ Khouribga
+
+Badr Benoun,                  D,  1.93 m,  b. 30 Sep 1993 @ Casablanca
+Sofiane Boufal,               M,  1.70 m,  b. 17 Sep 1993 @ Paris
+Sofian Chakla,                D,  1.88 m,  b. 2 Sep 1993 @ Kenitra
+Ayoub El Kaabi,               F,  1.82 m,  b. 26 Jun 1993 @ Casablanca
+Badr Boulahroud,              M,  1.78 m,  b. 21 Apr 1993 @ Rabat
+Tarik Tissoudali,             F,  1.75 m,  b. 2 Apr 1993 @ Amsterdam
+Hakim Ziyech,                 M,  1.80 m,  b. 19 Mar 1993 @ Dronten
+Zakaria Labyad,               M,  1.70 m,  b. 9 Mar 1993 @ Utrecht
+
+Amine Oudrhiri,               M,  1.84 m,  b. 4 Nov 1992 @ Ermont
+Rachid Alioui,                F,  1.86 m,  b. 18 Jun 1992 @ La Rochelle
+Jawad El Yamiq,               D,  1.90 m,  b. 29 Feb 1992 @ Khourigba
+Achraf Lazaar,                D,  1.73 m,  b. 22 Jan 1992 @ Casablanca
+
+Adrien Regattin,              M,  1.66 m,  b. 22 Aug 1991 @ Sète
+Mehdi Bourabia,               M,  1.83 m,  b. 7 Aug 1991 @ Dijon
+Yahya Jabrane,                M,  1.87 m,  b. 18 Jun 1991 @ Settat
+Adil Rhaili,                  D,  1.92 m,  b. 25 Apr 1991 @ Casablanca
+Yassine Bounou,               G,  1.92 m,  b. 5 Apr 1991 @ Montreal
+Yacine Qasmi,                 F,  1.83 m,  b. 3 Jan 1991 @ Pontoise
+
+Abderrazak Hamdallah,         F,  1.79 m,  b. 17 Dec 1990 @ Safi
+Hamadi Al Ghaddioui,          F,  1.90 m,  b. 22 Sep 1990 @ Bonn
+Omar El Kaddouri,             M,  1.85 m,  b. 21 Aug 1990 @ Brussels
+Yassine El Ghanassy,          M,  1.75 m,  b. 12 Jul 1990 @ La Louvière
+Soufiane Bidaoui,             F,  1.76 m,  b. 20 Apr 1990 @ Etterbeek
+Romain Saïss,                 D|M,1.90 m,  b. 26 Mar 1990 @ Bourg-de-Péage
+Abdelhamid El Kaoutari,       D,  1.80 m,  b. 17 Mar 1990 @ Montpellier
+Younès Belhanda,              M,  1.74 m,  b. 25 Feb 1990 @ Avignon
+
+Issam Chebake,                D,  1.76 m,  b. 12 Oct 1989 @ Agadir
+Mehdi Carcela-Gonzalez,       M,  1.76 m,  b. 1 Jul 1989 @ Liège
+Adel Taarabt,                 M,  1.80 m,  b. 24 May 1989 @ Fez
+Munir,                        G,  1.90 m,  b. 10 May 1989 @ Melilla
+Mohamed Amsif,                G,  1.87 m,  b. 7 Feb 1989 @ Düsseldorf
+Zakarya Bergdich,             D,  1.78 m,  b. 7 Jan 1989 @ Paris
+Zouhair Feddal,               D,  1.91 m,  b. 1 Jan 1989 @ Tétouan
+
+Ismaïl Aissati,               M,  1.74 m,  b. 16 Aug 1988 @ Utrecht
+Oussama Assaidi,              M,  1.78 m,  b. 5 Aug 1988 @ Beni Boughafar
+Fayçal Fajr,                  M,  1.78 m,  b. 1 Aug 1988 @ Rouen
+Moestafa El Kabir,            F,  1.77 m,  b. 10 May 1988 @ Targuist
+
+Yunis Abdelhamid,             D,  1.89 m,  b. 28 Sep 1987 @ Montpellier
+Khalid Boutaïb,               F,  1.90 m,  b. 24 Apr 1987 @ Bagnols sur Cèze
+Mehdi Benatia,                D,  1.90 m,  b. 17 Apr 1987 @ Courcouronnes
+Nordin Amrabat,               M,  1.81 m,  b. 31 Mar 1987 @ Naarden
+Aziz Bouhaddouz,              F,  1.88 m,  b. 30 Mar 1987 @ Berkane
+Youssef El Arabi,             F,  1.83 m,  b. 3 Feb 1987 @ Caen
+
+Fouad Chafik,                 D,  1.83 m,  b. 16 Oct 1986 @ Pierrelatte
+Manuel Da Costa,              D,  1.91 m,  b. 6 May 1986 @ Saint-Max
+Nabil Dirar,                  M,  1.82 m,  b. 25 Feb 1986 @ Casablanca
+
+Karim El Ahmadi,              M,  1.85 m,  b. 27 Jan 1985 @ Enschede
+
+Mbark Boussoufa,              M,  1.68 m,  b. 15 Aug 1984 @ Amsterdam
+Marouane Chamakh,             F,  1.85 m,  b. 10 Jan 1984 @ Tonnens

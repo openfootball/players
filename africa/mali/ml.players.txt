@@ -1,0 +1,128 @@
+=================================
+=  Mali
+
+Malick Yalcouyé,              M,  1.71 m,  b. 18 Nov 2005 @ Bandiagara
+Amady Camara,                 F,  1.80 m,  b. 28 May 2005 @ Bamako
+
+Moussa Yeo,                   M,  1.72 m,  b. 1 Jun 2004
+Mahamadou Doumbia,            M,  - ,      b. 15 May 2004
+Cheick Oumar Konaté,          D,  1.73 m,  b. 2 Apr 2004 @ Bamako
+
+Mahamadou Diarra,             F,  - ,      b. 30 Nov 2003
+Moussa Diakité,               M,  1.89 m,  b. 4 Nov 2003
+Diby Keita,                   M,  1.81 m,  b. 8 Jul 2003 @ Toledo
+Kamory Doumbia,               M,  1.70 m,  b. 18 Feb 2003 @ Bamako
+
+Ibrahim Bamba,                D,  - ,      b. 31 Dec 2002 @ Bamako
+Dorgeles Nene,                F,  1.74 m,  b. 23 Dec 2002 @ Kayes
+Lassine Soumaoro,             D,  - ,      b. 19 Dec 2002 @ Bamako
+Mamady Diambou,               M,  1.76 m,  b. 11 Nov 2002 @ Bamako
+Dawda Camara,                 F,  - ,      b. 4 Nov 2002
+Jaures Assoumou,              F,  1.82 m,  b. 17 Oct 2002 @ Dabou
+Daouda Guindo,                D,  1.83 m,  b. 14 Oct 2002
+Mamadou Sangaré,              M,  1.78 m,  b. 26 Jun 2002 @ Bamako
+Coli Saco,                    M,  1.97 m,  b. 15 May 2002 @ Créteil
+Siriné Doucoure,              F,  1.93 m,  b. 8 Apr 2002 @ Paris
+Habib Keïta,                  M,  1.82 m,  b. 5 Feb 2002 @ Bamako
+Issouf Sissokho,              M,  1.73 m,  b. 29 Jan 2002 @ Bamako
+Moussa Diarra,                D,  1.88 m,  b. 20 Jan 2002 @ Bamako
+
+Moïse Sahi,                   F,  1.75 m,  b. 20 Dec 2001 @ Abidjan
+El Bilal Touré,               F,  1.85 m,  b. 3 Oct 2001 @ Adjamé
+Boubacar Traoré,              M,  1.83 m,  b. 20 Aug 2001 @ Bamako
+Issa Fomba,                   F,  1.75 m,  b. 24 May 2001 @ Bamako
+Régis N'Do,                   F,  1.81 m,  b. 22 May 2001 @ Bamako
+Aboubacar Konté,              M,  1.75 m,  b. 2 Mar 2001
+Fodé Doucouré,                D,  1.72 m,  b. 3 Feb 2001 @ Bamako
+Sibiry Keita,                 M,  1.73 m,  b. 30 Jan 2001
+
+Ismaïla Coulibaly,            M,  1.83 m,  b. 25 Dec 2000
+Nadjib Cissé,                 D,  1.88 m,  b. 22 Dec 2000 @ Abidjan
+Aldom Deuro,                  M,  1.78 m,  b. 20 Dec 2000
+Moussa Diarra,                D,  1.83 m,  b. 10 Nov 2000 @ Stains
+Moussa Sissako,               D,  1.89 m,  b. 10 Nov 2000 @ Clichy
+Amadou Dante,                 D,  1.79 m,  b. 7 Oct 2000
+Lassana N'Diaye,              F,  1.80 m,  b. 3 Oct 2000
+Mamadou Fofana,               M,  1.77 m,  b. 17 Sep 2000 @ Le Havre
+Ibrahima Kébé,                M,  1.80 m,  b. 2 Aug 2000 @ Bamako
+Ousmane Diakité,              M,  1.87 m,  b. 25 Jul 2000
+Abdoulaye Diaby,              D,  1.95 m,  b. 4 Jul 2000 @ Bamako
+Amadou Camara,                F,  1.87 m,  b. 30 Jun 2000 @ Bamako
+Sambou Sissoko,               M,  1.81 m,  b. 29 Jun 2000
+Mamady Diarra,                F,  1.70 m,  b. 26 Jun 2000 @ Bamako
+Ibrahim Kane,                 D,  1.75 m,  b. 23 Jun 2000
+Bassekou Diabaté,             F,  1.84 m,  b. 15 Apr 2000 @ Bamako
+Sory Ibrahim Diarra,          F,  1.89 m,  b. 28 Feb 2000 @ Segou
+Cheick Doucouré,              M,  1.80 m,  b. 8 Jan 2000 @ Bamako
+Mohamed Camara,               M,  1.75 m,  b. 6 Jan 2000 @ Bamako
+
+Boubacar Traore,              F,  1.90 m,  b. 14 Dec 1999 @ San
+Lassine Sinayoko,             F,  1.84 m,  b. 8 Dec 1999 @ Bamako
+Sekou Koita,                  F,  1.72 m,  b. 28 Nov 1999 @ Kita
+Mahamadou Ba,                 M,  1.75 m,  b. 21 Sep 1999 @ Bamako
+Bourama Fomba,                D,  1.86 m,  b. 10 Jul 1999 @ Bamako
+Sikou Niakaté,                D,  1.86 m,  b. 10 Jul 1999 @ Montreuil
+Ibrahima Koné,                F,  1.90 m,  b. 16 Jun 1999 @ Bamako
+
+Siaka Bagayoko,               D,  1.72 m,  b. 4 Jul 1998 @ Bamako
+Moussa Djénépo,               M,  1.77 m,  b. 15 Jun 1998 @ Bamako
+Aly Mallé,                    F,  1.77 m,  b. 3 Apr 1998 @ Bamako
+Youba Diarra,                 M,  1.78 m,  b. 24 Mar 1998 @ Bamako
+Idrissa Diarra,               D,  1.90 m,  b. 3 Feb 1998 @ Bamako
+Amadou Haidara,               M,  1.75 m,  b. 31 Jan 1998 @ Bamako
+Mamadou Fofana,               D|M,1.87 m,  b. 21 Jan 1998 @ Bamako
+
+Boubakar Kouyaté,             D,  1.93 m,  b. 15 Apr 1997 @ Bamako
+
+Kévin Zohi,                   F,  1.77 m,  b. 19 Dec 1996 @ Lopou
+Rominigue Kouamé,             M,  1.77 m,  b. 17 Dec 1996 @ Lopou
+Cheick Keita,                 D,  1.80 m,  b. 16 Nov 1996 @ Bamako
+Hamidou Traoré,               M,  1.75 m,  b. 7 Oct 1996 @ Bamako
+Yves Bissouma,                M,  1.81 m,  b. 30 Aug 1996 @ Issia
+Mahamé Siby,                  M,  1.88 m,  b. 7 Jul 1996 @ Aubervilliers
+Almamy Touré,                 D,  1.82 m,  b. 28 Apr 1996 @ Bamako
+Lassana Coulibaly,            M,  1.83 m,  b. 10 Apr 1996 @ Bamako
+Diadie Samassékou,            M,  1.77 m,  b. 11 Jan 1996 @ Bamako
+
+Ibrahim Sissoko,              F,  1.90 m,  b. 27 Nov 1995 @ Créteil
+Fousseni Diabaté,             M,  1.75 m,  b. 18 Oct 1995 @ Aubervilliers
+Youssouf Koné,                D,  1.74 m,  b. 5 Jul 1995 @ Bamako
+Adama Traoré,                 M|F,1.78 m,  b. 5 Jun 1995 @ Bamako
+Falaye Sacko,                 D,  1.79 m,  b. 1 May 1995 @ Bamako
+Mamadou Maiga,                M,  1.78 m,  b. 10 Feb 1995 @ Bamako
+Souleymane Diarra,            M,  1.73 m,  b. 30 Jan 1995 @ Bamako
+Alassane Diaby,               M,  1.85 m,  b. 6 Jan 1995 @ Saint-Denis
+Hamidou Maiga,                D,  1.97 m,  b. 2 Jan 1995 @ Bamako
+
+Bakary Nimaga,                M,  1.89 m,  b. 6 Dec 1994 @ Bamako
+Moussa Sidibé,                M,  1.70 m,  b. 21 Nov 1994 @ Bamako
+Ismael Diawara,               G,  1.94 m,  b. 11 Nov 1994 @ Bamako
+Senou Coulibaly,              D,  1.93 m,  b. 4 Sep 1994 @ Pontoise
+Moussa Doumbia,               M,  1.73 m,  b. 15 Aug 1994 @ Bamako
+Abdoulaye Keita,              M,  1.75 m,  b. 5 Jan 1994 @ Bamako
+
+Adama Niane,                  F,  1.82 m,  b. 16 Jun 1993 @ Bamako
+Abdoulaye Doucouré,           M,  1.84 m,  b. 1 Jan 1993 @ Meulan-en-Yvelines
+
+Massadio Haïdara,             D,  1.79 m,  b. 2 Dec 1992 @ Trappes
+Birama Touré,                 M,  1.83 m,  b. 6 Jun 1992 @ Kayes
+Nouha Dicko,                  F,  1.73 m,  b. 14 May 1992 @ Saint-Maurice
+Cheick Diarra,                F,  1.76 m,  b. 11 Feb 1992 @ Bamako
+Hamary Traoré,                D,  1.75 m,  b. 27 Jan 1992 @ Bamako
+Charles Traoré,               D,  1.80 m,  b. 1 Jan 1992 @ Aulnay-sous-Bois
+
+Kalifa Coulibaly,             F,  1.97 m,  b. 21 Aug 1991 @ Bamako
+Abdoulay Diaby,               F,  1.72 m,  b. 21 May 1991 @ Nanterre
+Moussa Marega,                F,  1.86 m,  b. 14 Apr 1991 @ Les Ulis
+Molla Wagué,                  D,  1.91 m,  b. 21 Feb 1991 @ Vernon
+
+Yacouba Sylla,                M,  1.84 m,  b. 29 Nov 1990 @ Étampes
+Mamadou Samassa,              G,  1.91 m,  b. 16 Feb 1990 @ Montreuil
+
+Samba Sow,                    M,  1.85 m,  b. 29 Apr 1989 @ Bamako
+Sambou Yatabaré,              M,  1.90 m,  b. 2 Mar 1989 @ Beauvais
+
+Bakary Sako,                  M,  1.84 m,  b. 24 Apr 1988 @ Ivry-sur-Seine
+
+Modibo Maïga,                 F,  1.85 m,  b. 3 Sep 1986 @ Bamako
+Mustapha Yatabaré,            F,  1.82 m,  b. 26 Jan 1986 @ Beauvais

@@ -1,0 +1,350 @@
+=================================
+=  Serbia
+
+Matija Popović,               M,  1.93 m,  b. 8 Jan 2006 @ Altötting
+
+Aleksandar Stanković,         M,  1.85 m,  b. 3 Aug 2005 @ Milan
+Jovan Milošević,              F,  1.92 m,  b. 31 Jul 2005 @ Čačak
+Jan-Carlo Simić,              D,  1.86 m,  b. 2 May 2005 @ Nürtingen
+Milan Majstorović,            D,  1.85 m,  b. 21 Feb 2005 @ Novi Sad
+Marko Mladenović,             M,  1.74 m,  b. 30 Jan 2005 @ Nürtingen
+
+Mihailo Ivanović,             F,  - ,      b. 29 Nov 2004 @ Novi Sad
+Nikola Zečević,               D,  1.90 m,  b. 16 Jun 2004 @ Kraljevo
+Mateja Milovanović,           D,  1.81 m,  b. 18 Apr 2004 @ Vlaardingen
+Stefan Melentijević,          D,  1.89 m,  b. 20 Mar 2004 @ Herceg Novi
+Lazar Žaknić,                 D,  1.92 m,  b. 16 Mar 2004 @ Belgrade
+Aleksa Todorović,             G,  1.93 m,  b. 25 Jan 2004 @ Kruševac
+Marko Lazetić,                F,  1.90 m,  b. 22 Jan 2004 @ Belgrade
+Stefan Leković,               D,  1.92 m,  b. 9 Jan 2004 @ Belgrade
+Uroš Kabić,                   F,  1.83 m,  b. 1 Jan 2004 @ Novi Sad
+
+Nikola Jojić,                 M,  - ,      b. 15 Sep 2003 @ Čačak
+Goran Babić,                  M,  - ,      b. 10 Sep 2003 @ Hammersmith
+Petar Ratkov,                 F,  1.93 m,  b. 18 Aug 2003 @ Belgrade
+Marko Milovanović,            F,  1.96 m,  b. 4 Aug 2003 @ Smederevo
+Ognjen Radošević,             M,  - ,      b. 1 Aug 2003
+Srdjan Hrstić,                F,  1.92 m,  b. 18 Jul 2003 @ Sombor
+Mihajlo Ilić,                 D,  1.92 m,  b. 4 Jul 2003 @ Jagodina
+Nemanja Krsmanović,           D,  1.81 m,  b. 9 May 2003 @ Šabac
+Nemanja Motika,               F,  1.79 m,  b. 20 Mar 2003 @ Berlin
+Uroš Lazić,                   D,  1.74 m,  b. 15 Mar 2003 @ Niš
+
+Uroš Drezgić,                 D,  1.90 m,  b. 4 Oct 2002 @ Šabac
+Filip Stevanović,             F,  1.77 m,  b. 25 Sep 2002 @ Arilje
+Dejan Tetek,                  M,  1.81 m,  b. 24 Sep 2002 @ Oxford
+Stefan Mitrović,              F,  1.81 m,  b. 15 Aug 2002 @ Kruševac
+Nemanja Jović,                F,  1.78 m,  b. 8 Aug 2002 @ Zvornik
+Dennis Stojković,             M,  1.75 m,  b. 3 Aug 2002
+Lazar Mirković,               D,  1.92 m,  b. 27 Jul 2002 @ Trstenik
+Branislav Knežević,           M,  1.83 m,  b. 21 Jul 2002 @ Šabac
+Vladimir Prijović,            D,  1.85 m,  b. 26 Jun 2002 @ Priboj
+Milan Kremenović,             D,  1.91 m,  b. 8 Mar 2002 @ Berlin
+Filip Stanković,              G,  1.86 m,  b. 25 Feb 2002 @ Rome
+Lazar Samardžić,              M,  1.84 m,  b. 24 Feb 2002 @ Berlin
+Luka Simić,                   M,  1.72 m,  b. 4 Jan 2002 @ Thiene
+
+Marko Ivezić,                 M,  1.91 m,  b. 2 Dec 2001 @ Belgrade
+Aleksandar Ćirković,          F,  1.80 m,  b. 21 Sep 2001 @ Smederevska Palanka
+Nikola Bursać,                G,  1.91 m,  b. 11 Sep 2001 @ Toronto
+Nikola Stajić,                D,  1.82 m,  b. 8 Sep 2001 @ Paraćin
+Nikola Štulić,                F,  1.88 m,  b. 8 Sep 2001 @ Sremska Mitrovica
+Strahinja Pavlović,           D,  1.94 m,  b. 24 May 2001 @ Šabac
+Dragoljub Savić,              M|F,1.73 m,  b. 25 Apr 2001 @ Novi Sad
+Vladimir Arsić,               D,  1.92 m,  b. 20 Apr 2001 @ Banja Luka
+Luka Bijelović,               F,  1.88 m,  b. 11 Apr 2001 @ Subotica
+Kristijan Belić,              M,  1.77 m,  b. 25 Mar 2001 @ Sint-Truiden
+Danilo Mitrović,              D,  1.82 m,  b. 23 Mar 2001 @ Novi Sad
+Ivan Ilić,                    M,  1.85 m,  b. 17 Mar 2001 @ Niš
+Njegoš Kupusović,             F,  1.79 m,  b. 22 Feb 2001 @ St Petersburg
+Mirko Topić,                  M,  1.90 m,  b. 5 Feb 2001 @ Novi Sad
+Strahinja Eraković,           D,  1.86 m,  b. 22 Jan 2001 @ Belgrade
+Bogdan Jočić,                 M,  1.81 m,  b. 11 Jan 2001 @ Belgrade
+
+Željko Gavrić,                M,  1.81 m,  b. 5 Dec 2000 @ Ugljevik
+Uroš Milovanović,             F,  1.87 m,  b. 18 Oct 2000 @ Duisburg
+Filip Antonijević,            D,  1.75 m,  b. 24 Jul 2000 @ Belgrade
+Dimitrije Kamenović,          D,  1.88 m,  b. 16 Jul 2000 @ Pirot
+Armin Djerlek,                M,  1.73 m,  b. 15 Jul 2000 @ Novi Pazar
+Amir Saipi,                   G,  1.92 m,  b. 8 Jul 2000 @ Schaffhausen
+Nikolas Agrafiotis,           F,  1.77 m,  b. 25 Apr 2000 @ 's-Hertogenbosch
+Slobodan Tedić,               F,  1.90 m,  b. 13 Apr 2000 @ Podgorica
+Andrej Ilić,                  F,  1.89 m,  b. 3 Apr 2000 @ Belgrade
+Svetozar Marković,            D,  1.84 m,  b. 23 Mar 2000 @ Bijeljina
+Slobodan Rubežić,             D,  1.94 m,  b. 21 Mar 2000 @ Belgrade
+Nikola Djorić,                D,  1.92 m,  b. 3 Mar 2000 @ Belgrade
+Boris Popović,                D,  1.89 m,  b. 26 Feb 2000 @ Tours
+Petar Karaklajić,             F,  1.80 m,  b. 1 Feb 2000 @ Belgrade
+Nikola Stošić,                M,  1.80 m,  b. 29 Jan 2000 @ Salzburg
+Dušan Vlahović,               F,  1.90 m,  b. 28 Jan 2000 @ Belgrade
+Miloš Bočić,                  F,  1.73 m,  b. 26 Jan 2000 @ Belgrade
+
+Bojan Radulović,              F,  1.91 m,  b. 29 Dec 1999 @ Lleida
+Milan Obradović,              D,  1.89 m,  b. 27 Dec 1999 @ Brus
+Mihajlo Banjac,               M,  1.86 m,  b. 10 Nov 1999 @ Novi Sad
+Stefan Vilotić,               D,  1.85 m,  b. 16 Oct 1999 @ Belgrade
+Djordje Petrović,             G,  1.94 m,  b. 8 Oct 1999 @ Požarevac
+Aleksa Terzić,                D,  1.84 m,  b. 17 Aug 1999 @ Belgrade
+Vladan Dekić,                 G,  1.91 m,  b. 10 Aug 1999 @ Belgrade
+Dejan Joveljić,               F,  1.81 m,  b. 7 Aug 1999 @ Bijeljina
+Njegoš Petrović,              M,  1.85 m,  b. 18 Jul 1999 @ Krupanj
+Aleksa Pejić,                 M,  1.90 m,  b. 9 Jul 1999 @ Belgrade
+Luka Ilić,                    M,  1.82 m,  b. 2 Jul 1999 @ Niš
+Mihajlo Ivančević,            D,  1.87 m,  b. 7 Apr 1999 @ Bačka Topola
+Vladan Vidaković,             M,  1.93 m,  b. 14 Mar 1999 @ Novi Sad
+Mladen Devetak,               D,  1.84 m,  b. 12 Mar 1999 @ Novi Sad
+Djordje Jovanović,            F,  1.85 m,  b. 15 Feb 1999 @ Leposavić
+Nemanja Mićević,              D,  1.90 m,  b. 28 Jan 1999 @ Užice
+Filip Ugrinić,                M,  1.82 m,  b. 5 Jan 1999 @ Lucerne
+
+Stefano Surdanović,           F,  1.83 m,  b. 23 Nov 1998 @ Wels
+Erhan Mašović,                D,  1.87 m,  b. 22 Nov 1998 @ Novi Pazar
+Nikola Čumić,                 F,  1.76 m,  b. 20 Nov 1998 @ Užice
+Petar Mićin,                  M,  1.89 m,  b. 29 Sep 1998 @ Novi Sad
+Nikola Pejović,               D,  1.85 m,  b. 22 Sep 1998 @ Zemun
+Luka Adžić,                   M,  1.84 m,  b. 17 Sep 1998 @ Belgrade
+Nikola Stevanović,            D,  1.90 m,  b. 13 Sep 1998 @ Niš
+Filip Damjanović,             D,  1.77 m,  b. 2 Jul 1998 @ Belgrade
+Adrian Szöke,                 M,  1.86 m,  b. 1 Jul 1998 @ Senta
+Danilo Pejović,               D,  1.91 m,  b. 21 Jun 1998 @ Subotica
+Sava Petrov,                  F,  1.87 m,  b. 18 Jun 1998 @ Belgrade
+Dominik Dinga,                D,  1.85 m,  b. 7 Apr 1998 @ Novi Sad
+Marko Nikolić,                D,  1.83 m,  b. 31 Mar 1998 @ Belgrade
+Lazar Romanić,                F,  1.80 m,  b. 25 Mar 1998 @ Kragujevac
+Uroš Račić,                   M,  1.93 m,  b. 17 Mar 1998 @ Kraljevo
+Kosta Aleksić,                F,  1.82 m,  b. 9 Mar 1998 @ Novi Sad
+Veljko Birmančević,           M,  1.78 m,  b. 5 Mar 1998 @ Šabac
+Jovan Nišić,                  M,  1.77 m,  b. 3 Mar 1998 @ Belgrade
+Igor Zlatanović,              F,  1.80 m,  b. 10 Feb 1998 @ Užice
+Marko Ilić,                   G,  1.91 m,  b. 3 Feb 1998 @ Novi Sad
+Milos Spasić,                 D,  1.80 m,  b. 29 Jan 1998
+Bogdan Stamenković,           F,  1.84 m,  b. 19 Jan 1998 @ Surdulica
+
+Luka Jović,                   F,  1.81 m,  b. 23 Dec 1997 @ Bijeljina
+Aleksandar Busnić,            M,  1.91 m,  b. 4 Dec 1997 @ Belgrade
+Nikola Milenković,            D,  1.95 m,  b. 12 Oct 1997 @ Belgrade
+Bojan Avramović,              D,  1.80 m,  b. 17 Sep 1997 @ Oberstdorf
+Andrija Majdevac,             F,  1.86 m,  b. 7 Aug 1997 @ Kruševac
+Lazar Randjelović,            M,  1.78 m,  b. 5 Aug 1997 @ Pertate
+Ivan Šaponjić,                F,  1.92 m,  b. 2 Aug 1997 @ Nova Varoš
+Miloš Spasić,                 F,  1.85 m,  b. 29 Jul 1997 @ Piot
+Aleksandar Lutovac,           F,  1.75 m,  b. 28 Jun 1997 @ Belgrade
+Strahinja Tanasijević,        D,  1.83 m,  b. 12 Jun 1997 @ Mladenovac
+Djordje Nikolić,              G,  1.95 m,  b. 13 Apr 1997 @ Belgrade
+Nikola Kuveljić,              M,  1.94 m,  b. 6 Apr 1997 @ Belgrade
+Petar Gigić,                  F,  1.84 m,  b. 7 Mar 1997 @ Priština
+Nemanja Tekijaski,            D,  1.86 m,  b. 2 Mar 1997 @ Pančevo
+Stefan Šapić,                 D,  2.02 m,  b. 26 Feb 1997 @ Belgrade
+Vanja Milinković-Savić,       G,  2.02 m,  b. 20 Feb 1997 @ Ourense
+Nemanja Glavčić,              M,  1.72 m,  b. 19 Feb 1997 @ Kraljevo
+Stefan Stojanović,            G,  1.88 m,  b. 9 Feb 1997 @ Kruševac
+Nikola Radmanovac,            D,  1.89 m,  b. 30 Jan 1997 @ Kruševac
+Nemanja Belaković,            F,  1.82 m,  b. 8 Jan 1997 @ Kraljevo
+Lazar Zličić,                 M,  1.82 m,  b. 7 Jan 1997 @ Novi Sad
+
+Dragan Rosić,                 G,  1.89 m,  b. 15 Nov 1996 @ Užice
+Miroslav Bogosavac,           D,  1.76 m,  b. 14 Oct 1996 @ Sremska Mitrovica
+Nikola Petković,              M,  1.84 m,  b. 23 Sep 1996 @ Belgrade
+Miloš Vulić,                  M,  1.83 m,  b. 19 Aug 1996 @ Kruševac
+Saša Lukić,                   M,  1.83 m,  b. 13 Aug 1996 @ Šabac
+Ivan Kricak,                  D,  1.82 m,  b. 19 Jul 1996 @ Belgrade
+Andrija Živković,             M,  1.70 m,  b. 11 Jul 1996 @ Niš
+Miloš Pantović,               M|F,1.85 m,  b. 7 Jul 1996 @ Munich
+Filip Bainović,               M,  1.76 m,  b. 23 Jun 1996 @ Pozarevac
+Miloš Vranjanin,              D,  1.90 m,  b. 11 Jun 1996 @ Belgrade
+Filip Kusić,                  D,  1.87 m,  b. 3 Jun 1996 @ Augsburg
+Boris Radunović,              G,  1.94 m,  b. 26 May 1996 @ Belgrade
+Vukašin Jovanović,            D,  1.88 m,  b. 17 May 1996 @ Belgrade
+Srdjan Babić,                 D,  1.92 m,  b. 22 Apr 1996 @ Banja Luka
+Marko Grujić,                 M,  1.91 m,  b. 13 Apr 1996 @ Belgrade
+Djordje Denić,                M,  1.82 m,  b. 1 Apr 1996 @ Belgrade
+Nemanja Radonjić,             M,  1.85 m,  b. 15 Feb 1996 @ Niš
+Milan Gajić,                  D,  1.78 m,  b. 28 Jan 1996 @ Vukovar
+Dejan Kerkez,                 D,  1.90 m,  b. 20 Jan 1996 @ Novi Sad
+Nenad Cvetković,              D,  1.95 m,  b. 6 Jan 1996 @ Užice
+
+Nikola Maraš,                 D,  1.92 m,  b. 19 Dec 1995 @ Belgrade
+Srdjan Plavšić,               M,  1.66 m,  b. 3 Dec 1995 @ Novi Sad
+Mihailo Ristić,               D,  1.83 m,  b. 31 Oct 1995 @ Bijeljina
+Predrag Rajković,             G,  1.91 m,  b. 31 Oct 1995 @ Negotin
+Miloš Šatara,                 D,  1.90 m,  b. 28 Oct 1995 @ Gradiška
+Ivan Kostić,                  G,  1.91 m,  b. 24 Oct 1995 @ Knjaževac
+Milan Makarić,                F,  1.85 m,  b. 4 Oct 1995 @ Novi Sad
+Dejan Dražić,                 M,  1.75 m,  b. 26 Sep 1995 @ Sombor
+Miloš Veljković,              D|M,1.73 m,  b. 26 Sep 1995 @ Basel
+Radovan Pankov,               D,  1.85 m,  b. 5 Aug 1995 @ Novi Sad
+Filip Dmitrović,              G,  1.91 m,  b. 28 Jul 1995 @ Kraljevo
+Aleksandar Vukotić,           D,  2.01 m,  b. 22 Jul 1995 @ Kraljevo
+Komnen Andrić,                F,  1.89 m,  b. 1 Jul 1995 @ Novi Pazar
+Nikola Šipčić,                D,  1.92 m,  b. 17 May 1995 @ Priboj
+Nemanja Antonov,              D,  1.82 m,  b. 6 May 1995 @ Pančevo
+Sasa Zdjelar,                 M,  1.84 m,  b. 20 Mar 1995 @ Belgrade
+Sergej Milinković-Savić,      M,  1.91 m,  b. 27 Feb 1995 @ Lleida
+Milos Jovičić,                D,  1.87 m,  b. 29 Jan 1995
+Emil Rockov,                  G,  1.88 m,  b. 27 Jan 1995 @ Novi Sad
+Nemanja Maksimović,           M,  1.84 m,  b. 26 Jan 1995 @ Banja Koviljača
+
+Nikola Ninković,              F,  1.82 m,  b. 19 Dec 1994 @ Bogatić
+Andrija Luković,              M,  1.89 m,  b. 24 Oct 1994 @ Belgrade
+Aleksandar Mitrović,          F,  1.89 m,  b. 16 Sep 1994 @ Belgrade
+Ivan Miladinović,             D,  1.89 m,  b. 14 Aug 1994 @ Ćuprija
+Petar Golubović,              D,  1.84 m,  b. 13 Jul 1994 @ Belgrade
+Bojan Nastić,                 D,  1.77 m,  b. 6 Jul 1994 @ Novi Sad
+Mihailo Cmiljanović,          D,  1.80 m,  b. 15 Jun 1994 @ Prijepolje
+Bojan Djordjić,               M,  1.76 m,  b. 26 May 1994 @ Sombor
+Uroš Radaković,               D,  1.94 m,  b. 31 Mar 1994 @ Novi Sad
+Lazar Marković,               M,  1.75 m,  b. 2 Mar 1994 @ Belgrade
+Uroš Djurdjević,              F,  1.82 m,  b. 2 Mar 1994 @ Belgrade
+Nikola Antić,                 D,  1.78 m,  b. 4 Jan 1994 @ Belgrade
+
+Miloš Stanojević,             M,  1.89 m,  b. 20 Nov 1993 @ Valjevo
+Andrija Pavlović,             F,  1.88 m,  b. 16 Nov 1993 @ Belgrade
+Aleksandar Radovanović,       D,  1.89 m,  b. 11 Nov 1993 @ Šabac
+Matija Ljujić,                M,  1.85 m,  b. 28 Oct 1993 @ Pirjepolje
+Miloš Deletić,                F,  1.79 m,  b. 13 Oct 1993 @ Belgrade
+Bojan Čečarić,                M,  1.90 m,  b. 10 Oct 1993 @ Nova Pazova
+Djordje Crnomarković,         D,  1.88 m,  b. 10 Sep 1993 @ Belgrade
+Vladimir Rodić,               M,  1.76 m,  b. 7 Sep 1993 @ Belgrade
+Saša Jovanović,               M,  1.84 m,  b. 30 Aug 1993 @ Belgrade
+Darko Lemajić,                F,  1.97 m,  b. 20 Aug 1993 @ Belgrade
+Filip Pajović,                G,  1.83 m,  b. 30 Jul 1993 @ Zrenjanin
+Ivan Lakićević,               D,  1.80 m,  b. 27 Jul 1993 @ Belgrade
+Marko Jevtović,               M,  1.92 m,  b. 24 Jul 1993 @ Belgrade
+Marko Poletanović,            M,  1.84 m,  b. 20 Jul 1993 @ Novi Sad
+Lazar Rosić,                  D,  1.86 m,  b. 29 Jun 1993 @ Kragujevac
+Milan Jevtović,               M,  1.84 m,  b. 13 Jun 1993 @ Čačak
+Dušan Pantelić,               M,  1.78 m,  b. 15 Apr 1993 @ Kragujevac
+Matija Nastasić,              D,  1.87 m,  b. 28 Mar 1993 @ Belgrade
+Branko Jovićić,               M,  1.79 m,  b. 18 Mar 1993 @ Čačak
+Uroš Spajić,                  D,  1.86 m,  b. 13 Feb 1993 @ Belgrade
+Nemanja Radoja,               M,  1.86 m,  b. 6 Feb 1993 @ Novi Sad
+Filip Stojković,              D,  1.74 m,  b. 22 Jan 1993 @ Belgrade
+Daniel Farkaš,                D,  1.80 m,  b. 13 Jan 1993 @ Senta
+
+Aleksandar Jovanović,         G,  1.91 m,  b. 6 Dec 1992 @ Niš
+Daniel Petrović,              D,  1.85 m,  b. 27 Nov 1992 @ Linz
+Filip Malbašić,               F,  1.83 m,  b. 18 Nov 1992 @ Belgrade
+Filip Kostić,                 M|F,1.80 m,  b. 1 Nov 1992 @ Kragujevac
+Uroš Ćosić,                   D,  1.86 m,  b. 24 Oct 1992 @ Belgrade
+Adam Marušić,                 D|M,1.85 m,  b. 17 Oct 1992 @ Belgrade
+Marko Gobeljić,               D,  1.85 m,  b. 13 Sep 1992 @ Kraljevo
+Marko Petković,               D,  1.85 m,  b. 3 Sep 1992 @ Sremska Mitrovica
+Nenad Lukić,                  F,  1.85 m,  b. 2 Sep 1992 @ Sremska Mitrovica
+Lazar Ćirković,               D,  1.92 m,  b. 22 Aug 1992 @ Niš
+Nikola Stojiljković,          F,  1.82 m,  b. 17 Aug 1992 @ Belgrade
+Stefan Dražić,                F,  1.87 m,  b. 14 Aug 1992 @ Belgrade
+Radomir Milosavljević,        M,  1.83 m,  b. 30 Jul 1992 @ Ćuprija
+Srđan Dimitrov,               M,  1.75 m,  b. 28 Jul 1992 @ Újvidék
+Aleksandar Pešić,             F,  1.90 m,  b. 21 May 1992 @ Niš
+Nikola Boranijašević,         D,  1.82 m,  b. 19 May 1992 @ Nova Varoš
+Goran Čaušić,                 M,  1.80 m,  b. 5 May 1992 @ Belgrade
+Jovan Stojanović,             M,  1.87 m,  b. 21 Apr 1992 @ Belgrade
+Nikola Trujić,                F,  1.82 m,  b. 14 Apr 1992 @ Bor
+Aleksandar Pantić,            D,  1.84 m,  b. 11 Apr 1992 @ Arandjelovac
+Milan Rundić,                 D,  1.86 m,  b. 29 Mar 1992 @ Belgrade
+Miloš Jojić,                  M,  1.77 m,  b. 19 Mar 1992 @ Stara Pazova
+Djordje Despotović,           F,  1.88 m,  b. 4 Mar 1992 @ Donja Borina
+Darko Brašanac,               M,  1.78 m,  b. 12 Feb 1992 @ Čajetina
+Filip Djuričić,               M,  1.76 m,  b. 30 Jan 1992 @ Obrenovac
+Marko Dmitrović,              G,  1.94 m,  b. 24 Jan 1992 @ Subotica
+
+Bojan Matić,                  F,  1.91 m,  b. 22 Dec 1991 @ Zrenjanin
+Aleksandar Sedlar,            D,  1.78 m,  b. 13 Dec 1991 @ Novi Sad
+Nikola Maksimović,            D,  1.93 m,  b. 25 Nov 1991 @ Bajina Bašta
+Nemanja Gudelj,               M,  1.77 m,  b. 16 Nov 1991 @ Belgrade
+Aleksandar Tanasin,           D,  1.76 m,  b. 15 Nov 1991 @ Novi Sad
+Ognjen Mudrinski,             F,  1.78 m,  b. 15 Nov 1991 @ Novi Sad
+Adem Ljajić,                  M|F,1.81 m,  b. 29 Sep 1991 @ Novi Pazar
+Marko Vešović,                D,  1.77 m,  b. 28 Aug 1991 @ Podgorica
+Filip Mladenović,             D,  1.80 m,  b. 15 Aug 1991 @ Čačak
+Nemanja Miletić,              D,  1.82 m,  b. 26 Jul 1991 @ Loznica
+Nikola Mirković,              G,  1.92 m,  b. 26 Jul 1991 @ Kruševac
+Vladimir Golemić,             D,  1.92 m,  b. 28 Jun 1991 @ Kruševac
+Marko Šćepović,               F,  1.90 m,  b. 23 May 1991 @ Belgrade
+Danijel Aleksić,              M|F,1.82 m,  b. 30 Apr 1991 @ Pula
+Luka Milivojević,             M,  1.83 m,  b. 7 Apr 1991 @ Kragujevac
+Milan Rodić,                  D,  1.83 m,  b. 2 Apr 1991 @ Belgrade
+Marko Milošević,              G,  1.87 m,  b. 7 Feb 1991 @ Belgrade
+Aleksandar Ignjovski,         D|M,1.75 m,  b. 27 Jan 1991 @ Belgrade
+
+Branimir Aleksić,             G,  1.87 m,  b. 24 Dec 1990 @ Subotica
+Vukadin Vukadinović,          F,  1.91 m,  b. 14 Dec 1990 @ Belgrade
+Miroslav Bjeloš,              M,  1.77 m,  b. 29 Oct 1990 @ Novi Sad
+Slobodan Medojević,           M,  1.75 m,  b. 20 Oct 1990 @ Novi Sad
+Dušan Jovančić,               M,  1.86 m,  b. 19 Oct 1990 @ Belgrade
+Darko Lazović,                M,  1.81 m,  b. 15 Sep 1990 @ Čačak
+Nenad Krstičić,               M,  1.82 m,  b. 3 Jul 1990 @ Belgrade
+Petar Škuletić,               F,  1.89 m,  b. 29 Jun 1990 @ Nikšić
+Miloš Stamenković,            D,  1.86 m,  b. 1 Jun 1990 @ Belgrade
+Miloš Kosanović,              D,  1.91 m,  b. 28 May 1990 @ Čonoplja
+Uroš Matić,                   M,  1.84 m,  b. 23 May 1990 @ Šabac
+Stefan Mitrović,              D,  1.89 m,  b. 22 May 1990 @ Belgrade
+Zoran Gajić,                  D,  1.86 m,  b. 18 May 1990 @ Belgrade
+Vaso Vasić,                   G,  1.86 m,  b. 26 Apr 1990 @ Leuggern
+Aleksandar Prijović,          F,  1.90 m,  b. 21 Apr 1990 @ St Gallen
+Stefan Šćepović,              F,  1.86 m,  b. 10 Jan 1990 @ Belgrade
+
+Budimir Janošević,            G,  1.90 m,  b. 21 Oct 1989 @ Belgrade
+Dejan Sorgić,                 F,  1.77 m,  b. 15 Sep 1989 @ Zug
+Ivan Ostojić,                 D,  1.90 m,  b. 26 Jun 1989 @ Pančevo
+Branko Pauljević,             D,  1.80 m,  b. 12 Jun 1989 @ Kusići
+Norbert Könyves,              F,  1.86 m,  b. 10 Jun 1989 @ Bačka Palanka
+Nemanja Milunović,            D,  1.93 m,  b. 31 May 1989 @ Čačak
+Nemanja Kuzmanović,           M,  1.80 m,  b. 27 May 1989 @ Plav
+Slobodan Simović,             M,  1.90 m,  b. 22 May 1989 @ Čačak
+Živko Živković,               G,  1.93 m,  b. 14 Apr 1989 @ Užice
+Andreja Prokić,               M,  1.78 m,  b. 9 Apr 1989 @ Kragujevac
+Radosav Petrović,             M,  1.93 m,  b. 8 Mar 1989 @ Ub
+Slobodan Rajković,            D,  1.95 m,  b. 3 Feb 1989 @ Belgrade
+
+Neven Subotić,                D,  1.93 m,  b. 10 Dec 1988 @ Banja Luka
+Miralem Sulejmani,            M,  1.78 m,  b. 5 Dec 1988 @ Belgrade
+Dušan Tadić,                  M,  1.81 m,  b. 20 Nov 1988 @ Bačka Topola
+Ivan Radovanović,             M,  1.86 m,  b. 29 Aug 1988 @ Belgrade
+Dejan Karan,                  D,  1.88 m,  b. 13 Aug 1988 @ Novi Sad
+Nemanja Matić,                M,  1.94 m,  b. 1 Aug 1988 @ Šabac
+Ivan Obradović,               D,  1.81 m,  b. 25 Jul 1988 @ Belgrade
+Branislav Danilović,          G,  1.90 m,  b. 24 Jun 1988 @ Belgrade
+Denis Petric,                 G,  1.86 m,  b. 24 May 1988 @ Ljubljana
+
+Vladimir Bajić,               G,  1.91 m,  b. 28 Nov 1987 @ Novi Sad
+Filip Djordjević,             F,  1.86 m,  b. 28 Sep 1987 @ Belgrade
+Bojan Šaranov,                G,  1.88 m,  b. 22 Sep 1987 @ Belgrade
+Zdravko Kuzmanović,           M,  1.86 m,  b. 22 Sep 1987 @ Berne
+Žarko Udovičić,               M,  1.85 m,  b. 31 Aug 1987 @ Užice
+Nenad Tomović,                D,  1.84 m,  b. 30 Aug 1987 @ Kragujevac
+Zoran Tošić,                  M,  1.71 m,  b. 28 Apr 1987 @ Zrenjanin
+Gojko Kačar,                  M,  1.86 m,  b. 26 Jan 1987 @ Novi Sad
+Nikola Mitrović,              M,  1.80 m,  b. 2 Jan 1987 @ Kruševac
+
+Milan Gajić,                  M,  1.82 m,  b. 17 Nov 1986 @ Kruševac
+Nikola Djurdjić,              F,  1.84 m,  b. 1 Apr 1986 @ Pirot
+
+Aleksandar Kolarov,           D,  1.87 m,  b. 10 Nov 1985 @ Belgrade
+Marko Blažić,                 M,  1.78 m,  b. 2 Aug 1985 @ Mladenovac
+Duško Tošić,                  D,  1.81 m,  b. 19 Jan 1985 @ Zrenjanin
+
+Miloš Ninković,               M,  1.80 m,  b. 25 Dec 1984 @ Belgrade
+Miloš Krasić,                 M,  1.86 m,  b. 1 Nov 1984 @ Belgrade
+Nemanja Rnić,                 D,  1.79 m,  b. 30 Sep 1984 @ Belgrade
+Aleksandar Todorovski,        D,  1.81 m,  b. 26 Feb 1984 @ Kraljevo
+Branislav Ivanović,           D,  1.88 m,  b. 22 Feb 1984 @ Sremska Mitrovica
+Antonio Rukavina,             D,  1.76 m,  b. 26 Jan 1984 @ Belgrade
+Dragan Mrdja,                 F,  1.87 m,  b. 23 Jan 1984 @ Belgrade
+
+Djordje Kamber,               D,  1.83 m,  b. 20 Nov 1983 @ Kragujevac
+Vladimir Stojković,           G,  1.95 m,  b. 28 Jul 1983 @ Loznica
+Danko Lazović,                F,  1.85 m,  b. 17 May 1983 @ Kragujevac
+Nenad Milijaš,                M,  1.88 m,  b. 30 Apr 1983 @ Belgrade
+
+Aleksandar Luković,           D,  1.84 m,  b. 23 Oct 1982 @ Kraljevo
+
+Nemanja Vidić,                D,  1.88 m,  b. 21 Oct 1981 @ Užice
+Milan Jovanović,              M,  1.83 m,  b. 18 Apr 1981 @ Bajina Bašta
+
+Andjelko Djuričić,            G,  1.93 m,  b. 21 Nov 1980 @ Zemun
+Nikola Žigić,                 F,  2.02 m,  b. 25 Sep 1980 @ Bačka Topola
+Bojan Isailović,              G,  1.87 m,  b. 25 Mar 1980 @ Belgrade
+
+Marko Pantelić,               F,  1.83 m,  b. 15 Sep 1978 @ Belgrade
+Dejan Stanković,              M,  1.81 m,  b. 11 Sep 1978 @ Belgrade

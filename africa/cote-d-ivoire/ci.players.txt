@@ -1,0 +1,263 @@
+=================================
+=  Côte d'Ivoire
+
+Seydou Fini,                  F,  1.78 m,  b. 2 Jun 2006
+Yassine Touré,                F,  - ,      b. 10 Mar 2006 @ Watford
+Bazoumana Touré,              M,  - ,      b. 2 Mar 2006
+
+Abou Bassinga,                M,  - ,      b. 13 Jul 2005
+Bakary Haidara,               D,  - ,      b. 1 Jun 2005
+Amadou Koné,                  M,  - ,      b. 14 May 2005 @ Bamako
+Mohamed Fofana,               M,  1.87 m,  b. 6 May 2005 @ Vieil-Ousrou
+Ivan M'Bahia,                 D,  1.74 m,  b. 19 Apr 2005 @ Yopougon
+Luck Zogbé,                   D,  1.78 m,  b. 24 Mar 2005 @ Vieil-Ousrou
+Severin Nioule,               F,  1.75 m,  b. 3 Mar 2005
+
+Chaka Traoré,                 F,  1.75 m,  b. 23 Dec 2004 @ Attécoubé
+Seydou Traore,                F,  1.85 m,  b. 5 Dec 2004 @ Abobo
+Junior Ajayi,                 F,  1.83 m,  b. 11 Oct 2004 @ Abidjan
+Aboubacar Traoré,             D,  - ,      b. 20 Aug 2004
+Mario Dorgeles,               M,  1.77 m,  b. 7 Aug 2004 @ Andokoi
+Amidou Traoré,                M,  - ,      b. 13 Jul 2004
+Abundance Salaou,             M,  1.83 m,  b. 5 Jul 2004 @ Abidjan
+Yaya Fofana,                  M,  1.80 m,  b. 12 Jun 2004 @ Abidjan
+Karim Konaté,                 F,  1.78 m,  b. 21 Mar 2004 @ Koumassi
+Cheick Mamadou Diabaté,       D,  1.88 m,  b. 1 Jan 2004 @ Abidjan
+
+Ange Ahoussou,                D,  1.88 m,  b. 22 Dec 2003 @ Bouaké
+Oumar Diakité,                F,  1.82 m,  b. 20 Dec 2003 @ Bingerville
+Ibrahim Cissé,                D,  - ,      b. 6 Dec 2003
+Ousmande Diomandé,            D,  1.90 m,  b. 4 Dec 2003 @ Abidjan
+Sankara Karamoko,             F,  1.75 m,  b. 9 Nov 2003
+Ben Hamed Touré,              F,  1.85 m,  b. 21 Aug 2003 @ Lopou
+Junior Diaz,                  D,  1.93 m,  b. 23 Jul 2003 @ Saint-Herblain
+Richard Koné,                 F,  - ,      b. 13 Jul 2003
+Amane Romeo,                  M,  1.69 m,  b. 1 Jul 2003 @ Abidjan
+Junior Diomande,              M,  1.69 m,  b. 20 May 2003
+Jean N'Guessan,               M,  1.77 m,  b. 17 Apr 2003 @ Daloa
+Larsson Coulibaly,            M,  1.80 m,  b. 17 Apr 2003 @ Yopougon
+Badra Cisse,                  D,  - ,      b. 20 Mar 2003 @ Gbolouville
+Yannick Agnero,               F,  - ,      b. 20 Feb 2003
+
+Yannick Adjoumani,            D,  1.68 m,  b. 29 Dec 2002
+Abakar Sylla,                 D,  1.88 m,  b. 25 Dec 2002 @ Daloa
+Datro Fofana,                 F,  1.81 m,  b. 22 Dec 2002 @ Ouragahio
+Abdoulaye Bakayoko,           D,  1.85 m,  b. 15 Dec 2002 @ Agou
+Bénie Traoré,                 M,  1.72 m,  b. 30 Nov 2002 @ Bouaké
+Brahima Ouattara,             F,  1.70 m,  b. 23 Nov 2002 @ Koko
+Siriky Diabaté,               D,  1.94 m,  b. 6 Oct 2002 @ Gnakoragui
+Cheick Junior Fofana,         M,  1.87 m,  b. 15 Aug 2002 @ Divo
+Amad Diallo,                  M|F,1.73 m,  b. 11 Jul 2002 @ Abidjan
+Manssour Fofana,              M,  1.75 m,  b. 10 Jul 2002 @ Abobo
+Alassane Sidibe,              M,  1.77 m,  b. 9 Jun 2002 @ Abidjan
+Mory Bamba,                   F,  1.72 m,  b. 1 Jun 2002 @ Bondoukou
+Néné Bi Junior Gbamblé,       M,  1.73 m,  b. 9 May 2002
+Fernand Gouré,                F,  1.89 m,  b. 12 Apr 2002 @ Yamoussoukro
+Mohamed Koné,                 G,  1.86 m,  b. 7 Mar 2002 @ Adjamé
+Drissa Camara,                M,  1.79 m,  b. 18 Feb 2002 @ Abobo
+Djakaría Barro,               F,  - ,      b. 12 Jan 2002
+Simon Adingra,                F,  1.75 m,  b. 1 Jan 2002 @ Yamoussoukro
+
+Siriky Sanogo,                M,  1.80 m,  b. 21 Dec 2001 @ Bingerville
+Mohamed Bamba,                F,  1.80 m,  b. 10 Dec 2001 @ Bouaké
+Lassina Sangaré,              M,  1.83 m,  b. 20 Nov 2001 @ Séguéla
+Salif Sidibe,                 M,  1.78 m,  b. 15 Nov 2001
+Mohammed Diomande,            M,  1.75 m,  b. 30 Oct 2001 @ Yopougon
+Fred Gnalega,                 M,  1.75 m,  b. 8 Oct 2001 @ Ahoutoué
+Bamo Meïté,                   D,  1.83 m,  b. 20 Jun 2001 @ Kani
+Sinaly Diomandé,              D,  1.84 m,  b. 9 Apr 2001 @ Yopougon
+Armel Zohouri,                D,  1.76 m,  b. 5 Apr 2001 @ Divo
+Parfait Guiagon,              M,  1.69 m,  b. 22 Feb 2001
+Nicolas Tié,                  G,  1.86 m,  b. 13 Feb 2001 @ Lille
+Dieudonné Gaucho Debohi,      D|M,1.85 m,  b. 15 Jan 2001 @ Man
+Loué Bayere Junior,           F,  1.87 m,  b. 14 Jan 2001 @ Abidjan
+Adama Fofana,                 F,  1.80 m,  b. 4 Jan 2001
+Aziz Ouattara,                M,  1.88 m,  b. 4 Jan 2001 @ Abidjan
+Odilon Kossounou,             D,  1.91 m,  b. 4 Jan 2001 @ Abidjan
+
+Mory Gbane,                   M,  1.88 m,  b. 25 Dec 2000 @ Toumodi
+Wilfried Singo,               D,  1.90 m,  b. 25 Dec 2000 @ Grand-Béréby
+Tavio Kouakou D'Almeida,      D,  1.79 m,  b. 11 Dec 2000
+Moussa Koné,                  M,  1.75 m,  b. 19 Nov 2000 @ Abobo
+Kader Keita,                  M,  1.78 m,  b. 6 Nov 2000
+Konan N’Dri,                  F,  1.74 m,  b. 27 Aug 2000
+Yahia Fofana,                 G,  1.94 m,  b. 21 Aug 2000 @ Paris
+Ben Lhassine Kone,            M,  1.72 m,  b. 14 Mar 2000 @ Abidjan
+Hamed Junior Traoré,          M|F,1.84 m,  b. 16 Feb 2000 @ Abidjan
+Zié Ouattara,                 D,  1.77 m,  b. 9 Jan 2000 @ Abidjan
+
+Caleb Zady Sery,              F,  1.76 m,  b. 20 Dec 1999 @ Agbeille
+Christian Kouan,              M,  1.78 m,  b. 20 Dec 1999 @ Abidjan
+Chris Kouakou,                M,  - ,      b. 15 Dec 1999
+Ibrahim Diabate,              F,  1.85 m,  b. 17 Nov 1999 @ Bouaké
+Adama Fofana,                 D,  1.70 m,  b. 11 Oct 1999 @ Mankono
+Souleymane Diaby,             D,  1.73 m,  b. 8 Oct 1999 @ Divo
+Anderson Niangbo,             F,  1.73 m,  b. 6 Oct 1999
+Charly Keita,                 F,  1.83 m,  b. 23 Aug 1999 @ Yopougon
+Evan Ndicka,                  D,  1.90 m,  b. 20 Aug 1999 @ Paris
+Axel Bamba,                   D,  1.85 m,  b. 6 Jul 1999 @ Zürich
+Trazié Thomas,                M,  1.72 m,  b. 1 Jul 1999 @ Divo
+Moussa Guel,                  F,  1.72 m,  b. 23 Jun 1999 @ Cocody
+Habib Sylla,                  D,  1.77 m,  b. 12 Feb 1999 @ Agboville
+Ibrahim Cissé,                D,  1.91 m,  b. 11 Jan 1999 @ Koun-Fao
+Emmanuel Latte Lath,          F,  1.77 m,  b. 1 Jan 1999 @ Anoumabo
+
+Kalpi Ouattara,               D,  1.73 m,  b. 29 Dec 1998
+Issouf Macalou,               F,  1.85 m,  b. 27 Dec 1998 @ Abidjan
+Mohamed Doumbia,              M,  1.82 m,  b. 25 Dec 1998 @ Abidjan
+Laurent Kissiedou,            M,  1.73 m,  b. 22 Dec 1998 @ Divo
+Silas Gnaka,                  D|M,1.79 m,  b. 18 Dec 1998 @ Abidjan
+Kouya Mabea,                  D,  1.77 m,  b. 23 Oct 1998 @ Abidjan
+Alo Sanogo,                   F,  1.77 m,  b. 20 Oct 1998
+Benito,                       M,  1.79 m,  b. 7 Sep 1998 @ Abidjan
+Djakaridja Junior Traoré,     F,  1.90 m,  b. 2 Aug 1998 @ Abobo
+Christ Tiehi,                 M,  1.79 m,  b. 16 Jun 1998 @ Paris
+Koffi Kouao,                  D,  1.73 m,  b. 20 May 1998 @ Abidjan
+Ismaila Soro,                 M,  1.73 m,  b. 7 May 1998 @ Yakassé-Mé
+Idrissa Doumbia,              M,  1.84 m,  b. 14 Apr 1998 @ Yamoussoukro
+Jean Thierry Lazare Amani,    M,  1.72 m,  b. 7 Mar 1998 @ Diégonéfla
+Wilfried Kanga,               F,  1.82 m,  b. 21 Feb 1998 @ Montreuil-sous-Bois
+
+Paul Akouokou,                M,  1.81 m,  b. 20 Dec 1997 @ Abidjan
+Eboue Kouassi,                M,  1.85 m,  b. 13 Dec 1997 @ Abidjan
+Mohamed Konaté,               F,  1.90 m,  b. 12 Dec 1997 @ Odienné
+Cristian Kouamé,              F,  1.85 m,  b. 6 Dec 1997 @ Bingerville
+Ibrahim Sangaré,              M,  1.91 m,  b. 2 Dec 1997 @ Abidjan
+Cheick Timité,                M,  1.77 m,  b. 20 Nov 1997 @ Abidjan
+Aboubakar Keita,              M,  1.88 m,  b. 5 Nov 1997 @ Abidjan
+Jean-Armel Drolé,             F,  1.85 m,  b. 18 Aug 1997 @ Abidjan
+Mohamed Tijani,               D,  1.88 m,  b. 10 Jul 1997 @ Abidjan
+Emmanuel Agbadou,             D,  1.92 m,  b. 17 Jun 1997 @ Abidjan
+Nadrey Dago,                  F,  1.76 m,  b. 7 May 1997 @ Attécoubé
+Ismaël Diallo,                D,  1.78 m,  b. 29 Jan 1997 @ Abidjan
+Vakoun Issouf Bayo,           F,  1.84 m,  b. 10 Jan 1997 @ Daloa
+Jérémie Boga,                 F,  1.72 m,  b. 3 Jan 1997 @ Marseille
+Yves Dabila,                  D,  1.83 m,  b. 1 Jan 1997 @ Kouassi-Datèkro
+
+Franck Kessie,                M,  1.83 m,  b. 19 Dec 1996 @ Ouragahio
+Jean-Morel Poé,               M,  1.84 m,  b. 15 Dec 1996 @ Abidjan
+Willie Britto,                D,  1.83 m,  b. 15 Dec 1996 @ Tapéguhé
+Cédric Kipré,                 D,  1.90 m,  b. 9 Dec 1996 @ Paris
+Cedric Gondo,                 F,  1.87 m,  b. 25 Nov 1996 @ Divo
+Mohamed Aidara,               D,  1.86 m,  b. 6 Nov 1996 @ Abidjan
+Victorien Angban,             M,  1.80 m,  b. 29 Sep 1996 @ Abidjan
+Maxwel Cornet,                M|F,1.79 m,  b. 27 Sep 1996 @ Bregbo
+Souleyman Doumbia,            D,  1.75 m,  b. 24 Sep 1996 @ Paris
+Siriki Dembélé,               M,  1.70 m,  b. 7 Sep 1996
+William Togui,                F,  1.81 m,  b. 7 Aug 1996 @ Lakota
+Adriel Ba Loua,               M,  1.70 m,  b. 25 Jul 1996 @ Yopougon
+Oumar Sako,                   D,  1.91 m,  b. 4 May 1996 @ Abobo
+Souleymane Koné,              D,  1.92 m,  b. 1 May 1996 @ Grand-Bassam
+Jonathan Bamba,               F,  1.73 m,  b. 26 Mar 1996 @ Alfortville
+Chris Bedia,                  F,  1.90 m,  b. 5 Mar 1996 @ Abidjan
+Yakou Méïte,                  M,  1.84 m,  b. 11 Feb 1996 @ Paris
+Eloge Koffi Guy Yao,          D,  1.82 m,  b. 20 Jan 1996 @ Akrroukro
+Habib Maïga,                  M,  1.81 m,  b. 1 Jan 1996 @ Gagnoa
+
+Ghislain Konan,               D,  1.76 m,  b. 27 Dec 1995 @ Abidjan
+Mory Kone,                    F,  1.78 m,  b. 13 Jul 1995 @ San Pedro
+Nicolas Pépé,                 F,  1.78 m,  b. 29 May 1995 @ Mantes-la-Jolie
+Jean-Philippe Gbamin,         M,  1.86 m,  b. 25 May 1995 @ San-Pédro
+Daouda Bamba,                 F,  1.84 m,  b. 5 Mar 1995 @ Dabou
+
+Hillel Konaté,                G,  1.82 m,  b. 28 Dec 1994 @ Poitiers
+Achille Anani,                F,  1.79 m,  b. 27 Dec 1994 @ Aboisso
+Serge Arnaud Aka,             M,  1.83 m,  b. 16 Nov 1994 @ Divo
+Jean Evrard Kouassi,          F,  1.74 m,  b. 25 Sep 1994 @ N'Damien
+Hassane Kamara,               D,  1.68 m,  b. 19 Sep 1994 @ Saint-Denis
+Luc Kassi,                    M,  1.79 m,  b. 20 Aug 1994 @ Abidjan
+Ambroise Gboho,               F,  1.77 m,  b. 6 Aug 1994 @ Man
+Serge N'Guessan,              M,  1.65 m,  b. 31 Jul 1994 @ Abidjan
+Cédric Gogoua,                D,  1.90 m,  b. 10 Jul 1994 @ Abidjan
+Sébastien Haller,             F,  1.87 m,  b. 22 Jun 1994 @ Ris-Orangis
+Eric Bailly,                  D,  1.87 m,  b. 12 Apr 1994 @ Abidjan
+Jean-Eudes Aholou,            M,  1.86 m,  b. 20 Mar 1994 @ Abidjan
+
+Senin Sebai,                  F,  1.82 m,  b. 18 Dec 1993 @ Abidjan
+Franck Boli,                  F,  1.80 m,  b. 7 Dec 1993 @ Yamoussoukro
+Roger Assalé,                 F,  1.67 m,  b. 13 Nov 1993 @ Abengourou
+Mandé Sayouba,                G,  1.93 m,  b. 15 Jun 1993 @ Abidjan
+
+Serge Aurier,                 D,  1.75 m,  b. 24 Dec 1992 @ Abidjan
+Gadji Celi Junior Tallo,      F,  1.87 m,  b. 21 Dec 1992 @ Ouragahio
+Koffi Djidji,                 D,  1.84 m,  b. 30 Nov 1992 @ Bagnolet
+Wilfried Zaha,                M|F,1.80 m,  b. 10 Nov 1992 @ Abidjan
+Jean-Daniel Akpa Akpro,       M,  1.80 m,  b. 11 Oct 1992 @ Toulouse
+Cheick Doukouré,              M,  1.80 m,  b. 11 Sep 1992 @ Abidjan
+Ismaël Diomande,              M,  1.80 m,  b. 28 Aug 1992 @ Abidjan
+Adama Soumaoro,               D,  1.86 m,  b. 18 Jun 1992 @ Fontenay-aux-Roses
+Ousmane Doumbia,              M,  1.75 m,  b. 21 May 1992 @ Adjame
+Armand Gnanduillet,           F,  1.93 m,  b. 13 Feb 1992 @ Angers
+
+Mamadou Koné,                 F,  1.76 m,  b. 25 Dec 1991 @ Bingerville
+Ibrahim Sissoko,              M,  1.77 m,  b. 29 Nov 1991 @ Abidjan
+Moryké Fofana,                M,  1.78 m,  b. 23 Nov 1991 @ Grand-Bassam
+Simon Deli,                   D,  1.92 m,  b. 27 Oct 1991 @ Abidjan
+Edson Seidou,                 D,  1.82 m,  b. 6 Oct 1991 @ Céret
+Samuel Yohou,                 D,  1.90 m,  b. 6 Aug 1991 @ Villepinte
+Jean Michaël Seri,            M,  1.65 m,  b. 19 Jul 1991 @ Grand-Bereby
+Willy Boly,                   D,  1.85 m,  b. 3 Feb 1991 @ Melun
+
+Lago Junior,                  M,  1.82 m,  b. 31 Dec 1990 @ Yamoussoukro
+Brice Dja Djédjé,             D,  1.68 m,  b. 23 Dec 1990 @ Aboudé
+Mathis Bolly,                 M|F,1.85 m,  b. 14 Nov 1990 @ Oslo
+Evrard Zag,                   M,  1.70 m,  b. 14 May 1990 @ Gagnoa
+Abdoulaye Bamba,              D,  1.82 m,  b. 25 Apr 1990 @ Abidjan
+Edmond Akichi,                M,  1.78 m,  b. 24 Apr 1990 @ Abidjan
+
+Laglais Kouassi,              D|M,1.73 m,  b. 28 Dec 1989 @ San Pedro
+Jonathan Kodjia,              F,  1.89 m,  b. 22 Oct 1989 @ Saint-Denis
+Koro Koné,                    F,  1.76 m,  b. 5 Jul 1989 @ Abidjan
+Sekou Sanogo Junior,          M,  1.83 m,  b. 5 May 1989 @ Abidjan
+Giovanni Sio,                 F,  1.80 m,  b. 31 Mar 1989 @ Nantes
+Lamine Koné,                  D,  1.89 m,  b. 1 Feb 1989 @ Paris
+
+Gerard Gohou,                 F,  1.84 m,  b. 29 Dec 1988 @ Gagnoa
+Wilfried Bony,                F,  1.82 m,  b. 10 Dec 1988 @ Bingerville
+Sylvain Gbohouo,              G,  1.84 m,  b. 29 Oct 1988 @ Abidjan
+Ibrahim Traoré,               M,  1.80 m,  b. 16 Sep 1988 @ Abidjan
+Yannick Sagbo,                F,  1.83 m,  b. 12 Apr 1988 @ Marseille
+Harlem Gnohéré,               F,  1.82 m,  b. 21 Feb 1988 @ Paris
+
+Seydou Doumbia,               F,  1.78 m,  b. 31 Dec 1987 @ Yamoussoukro
+Max Gradel,                   M|F,1.77 m,  b. 30 Nov 1987 @ Abidjan
+Gervinho,                     F,  1.79 m,  b. 27 May 1987 @ Anyama
+Kouassi Gervais "Gervinho" Yao,F,  1.79 m,  b. 27 May 1987 @ Anyama
+
+Emmanuel Koné,                M,  1.77 m,  b. 31 Dec 1986 @ Abongoua
+Ousmane Viera,                D,  1.86 m,  b. 21 Dec 1986 @ Daloa
+Angoua Brou Benjamin,         D,  1.78 m,  b. 28 Nov 1986 @ Anyama
+Constant Djakpa,              D,  1.77 m,  b. 17 Oct 1986 @ Abidjan
+Ismaël Traoré,                D,  1.85 m,  b. 18 Aug 1986 @ Paris
+Zoumana Bakayogo,             D,  1.75 m,  b. 11 Aug 1986 @ Paris
+Kevin Koffi,                  F,  1.81 m,  b. 25 Jun 1986 @ Aboisso
+Cheik Ismael Tioté,           M,  1.80 m,  b. 21 Jun 1986 @ Yamoussoukro
+
+Salomon Kalou,                M|F,1.84 m,  b. 5 Aug 1985 @ Oumé
+Souleymane Bamba,             D,  1.90 m,  b. 13 Jan 1985 @ Ivry-sur-Seine
+
+Daniel Yeboah,                G,  1.87 m,  b. 13 Nov 1984 @ Treichville
+Serey Dié,                    M,  1.79 m,  b. 7 Nov 1984 @ Abidjan
+Didier Ya Konan,              M,  1.74 m,  b. 22 May 1984 @ Abidjan
+
+Arouna Koné,                  F,  1.81 m,  b. 11 Nov 1983 @ Anyama
+Emmanuel Eboué,               D,  1.78 m,  b. 4 Jun 1983 @ Abidjan
+N'Dri Romaric,                M,  1.87 m,  b. 4 Jun 1983 @ Abidjan
+Yaya Touré,                   M,  1.88 m,  b. 13 May 1983 @ Sokoura Bouaké
+Arthur Boka,                  D,  1.66 m,  b. 2 Apr 1983 @ Abidjan
+Jean-Jacques Gosso,           M,  1.77 m,  b. 15 Mar 1983 @ Abidjan
+
+Siaka Tiéné,                  D,  1.76 m,  b. 22 Feb 1982 @ Abidjan
+
+Aristide Zogbo,               G,  1.84 m,  b. 30 Dec 1981 @ Abidjan
+Abdul Kader Keïta,            F,  1.84 m,  b. 6 Aug 1981 @ Abidjan
+Guy Demel,                    D,  1.88 m,  b. 13 Jun 1981 @ Orsay
+Kolo Touré,                   D,  1.83 m,  b. 19 Mar 1981 @ Sokoura Bouaké
+Steve Gohouri,                D,  1.88 m,  b. 8 Feb 1981 @ Treichville
+
+Didier Zokora,                M,  1.79 m,  b. 14 Dec 1980 @ Abidjan
+Aruna Dindane,                F,  1.74 m,  b. 26 Nov 1980 @ Abidjan
+
+Barry "Copa" Boubacar,        G,  1.80 m,  b. 30 Dec 1979 @ Marcory
+
+Didier Drogba,                F,  1.89 m,  b. 11 Mar 1978 @ Abidjan
