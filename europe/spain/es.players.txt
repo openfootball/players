@@ -1378,6 +1378,7 @@ David Concha,                 F,  1.72 m,  b. 20 Nov 1996 @ Santander
 Sito Pascual,                 M,  1.82 m,  b. 18 Nov 1996 @ Alcoy
 Jorge Sáenz,                  D,  1.92 m,  b. 17 Nov 1996 @ Santa Cruz de Tenerife
 Pablo Bobadilla,              D,  1.87 m,  b. 16 Nov 1996 @ Logroño
+Robin Le Normand,             D,  1.87 m,  b. 11 Nov 1996 @ Pabu
 Carlos Mena,                  G,  1.88 m,  b. 7 Nov 1996 @ Ciudad Real
 Brugui,                       M,  1.73 m,  b. 4 Nov 1996 @ Bàscara
 Toni Abad,                    D,  1.74 m,  b. 3 Nov 1996 @ Valencia

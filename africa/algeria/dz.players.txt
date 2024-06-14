@@ -32,12 +32,14 @@ Abdelkahar Kadri,             M,  1.70 m,  b. 24 Jun 2000 @ El Hammamet
 Wassim Aouachria,             M,  - ,      b. 12 May 2000 @ Roubaix
 Mohammed Amoura,              F,  1.70 m,  b. 9 May 2000 @ Taher
 Nadhir Benbouali,             F,  1.90 m,  b. 17 Apr 2000 @ Chlef
+Mohamed Amine Tougai,         D,  1.91 m,  b. 22 Jan 2000 @ Bourouba
 Adem Zorgane,                 M,  1.85 m,  b. 6 Jan 2000 @ Sétif
 Karim Chaban,                 F,  1.82 m,  b. 6 Jan 2000 @ Marseille
 
 Hicham Boudaoui,              M,  1.76 m,  b. 23 Sep 1999 @ Béchar
 Mehdi Zerkane,                M,  1.86 m,  b. 15 Jul 1999 @ Clermont-Ferrand
 Yanis Hamache,                D,  1.77 m,  b. 13 Jul 1999 @ Marseille
+Zineddine Belaïd,             D,  1.87 m,  b. 20 Mar 1999 @ Thenia
 Mouhamed Belkheir,            F,  1.85 m,  b. 2 Jan 1999 @ Paris
 
 Abde Rebbach,                 F,  1.76 m,  b. 11 Aug 1998 @ Blida
@@ -72,6 +74,7 @@ Ilyes Chetti,                 D,  1.67 m,  b. 22 Jan 1995 @ Annaba
 Zakaria Naidji,               F,  1.78 m,  b. 19 Jan 1995 @ Bordj Bou Arreridj
 
 Nabil Bentaleb,               M,  1.87 m,  b. 24 Nov 1994 @ Lille
+Oussama Benbot,               G,  1.88 m,  b. 11 Oct 1994 @ Aïn M'lila
 Karim Aribi,                  F,  1.92 m,  b. 24 Jun 1994 @ Réghaïa
 Mohamed Mezghrani,            D|M,1.78 m,  b. 2 Jun 1994 @ Oran
 Haris Belkebla,               M,  1.77 m,  b. 28 Jan 1994 @ Drancy
@@ -83,14 +86,18 @@ Zinedine Ferhat,              M,  1.80 m,  b. 1 Mar 1993 @ Bordj Menaïel
 Farid Boulaya,                M,  1.80 m,  b. 25 Feb 1993 @ Vitrolles
 Ayoub Abdellaoui,             D,  1.83 m,  b. 16 Feb 1993 @ Reghaïa
 
+Sofiane Bendebka,             M,  1.81 m,  b. 9 Aug 1992 @ El Magharia
+Houcine Benayada,             D,  1.80 m,  b. 8 Aug 1992 @ Oran
 Mehdi Abeid,                  M,  1.78 m,  b. 6 Aug 1992 @ Montreuil
 Mehdi Zeffane,                D,  1.74 m,  b. 19 May 1992 @ Sainte-Foy-lès-Lyon
 Rachid Ghezzal,               M,  1.82 m,  b. 9 May 1992 @ Décines-Charpieu
+Abdelkader Bedrane,           D,  1.85 m,  b. 2 Apr 1992 @ Blida
 Youcef Belaïli,               F,  1.78 m,  b. 14 Mar 1992 @ Oran
 Julien López,                 M,  1.73 m,  b. 1 Mar 1992 @ Marseille
 Saphir Taïder,                M,  1.80 m,  b. 29 Feb 1992 @ Castres
 Ishak Belfodil,               F,  1.91 m,  b. 12 Jan 1992 @ Mostaganem
 
+Baghdad Bounedjah,            F,  1.83 m,  b. 30 Nov 1991 @ Oran
 Aïssa Mandi,                  D,  1.84 m,  b. 22 Oct 1991 @ Châlons-en-Champagne
 Andy Delort,                  F,  1.82 m,  b. 9 Oct 1991 @ Sète
 Rachid Bouhenna,              D,  1.91 m,  b. 29 Jun 1991 @ Sedan
@@ -98,9 +105,11 @@ Riyad Mahrez,                 M|F,1.79 m,  b. 21 Feb 1991 @ Sarcelles
 Mounir Bouziane,              M,  1.82 m,  b. 5 Feb 1991 @ St Louis
 Faouzi Ghoulam,               D,  1.88 m,  b. 1 Feb 1991 @ Saint-Priest-en-Jarez
 
+Moustapha Zeghba,             G,  1.90 m,  b. 21 Nov 1990 @ M'Sila
 Nabil Ghilas,                 F,  1.83 m,  b. 20 Apr 1990 @ Marseille
 Ryad Boudebouz,               M,  1.77 m,  b. 19 Feb 1990 @ Colmar
 Yacine Brahimi,               F,  1.75 m,  b. 8 Feb 1990 @ Paris
+Mehdi Jean Tahrat,            D,  1.93 m,  b. 24 Jan 1990 @ Meudon
 
 Sofiane Feghouli,             M,  1.77 m,  b. 26 Dec 1989 @ Levallois-Perret
 Djamel Benlamri,              D,  1.90 m,  b. 25 Dec 1989 @ Algiers
@@ -118,6 +127,7 @@ El Arbi Soudani,              M|F,1.82 m,  b. 25 Nov 1987 @ Chlef
 Abdelmoumene Djabou,          M,  1.65 m,  b. 31 Jan 1987 @ Sétif
 
 Rafik Halliche,               D,  1.87 m,  b. 2 Sep 1986 @ Algiers
+Azzedine Doukha,              G,  1.88 m,  b. 5 Aug 1986 @ Chettia
 Raïs M'Bolhi,                 G,  1.88 m,  b. 25 Apr 1986 @ Paris
 Habib Bellaid,                D,  1.89 m,  b. 28 Mar 1986 @ Bobigny
 Djamel Abdoun,                M,  1.80 m,  b. 14 Feb 1986 @ Montreuil-sous-Bois

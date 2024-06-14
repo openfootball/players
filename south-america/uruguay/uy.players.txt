@@ -80,6 +80,7 @@ Mauricio Lemos,               D,  1.87 m,  b. 28 Dec 1995 @ Rivera
 Nahitan Nández,               M,  1.72 m,  b. 28 Dec 1995 @ Maldonado
 Mauro Arambarri,              M,  1.75 m,  b. 30 Sep 1995 @ Salto
 Gastón Pereiro,               M|F,1.88 m,  b. 11 Jun 1995 @ Montevideo
+Camilo Cándido,               M,  1.74 m,  b. 2 Jun 1995 @ Montevideo
 Diego Poyet,                  M,  1.83 m,  b. 8 May 1995 @ Zaragoza
 Jaime Báez,                   F,  1.78 m,  b. 24 Apr 1995 @ Montevideo
 Erick Cabaco,                 D,  1.86 m,  b. 19 Apr 1995 @ Montevideo
@@ -87,6 +88,7 @@ Guillermo Cotugno,            D,  1.76 m,  b. 17 Mar 1995 @ Montevideo
 José Giménez,                 D,  1.85 m,  b. 20 Jan 1995 @ Toledo
 
 Federico Ricca,               D,  1.78 m,  b. 1 Dec 1994 @ Tarariras
+Fernando Gorriarán,           M,  1.68 m,  b. 27 Nov 1994 @ Montevideo
 Guillermo De Amores,          G,  1.85 m,  b. 19 Oct 1994 @ San Jacinto
 Giovanni González,            D,  1.75 m,  b. 20 Sep 1994 @ Montevideo
 Lucas Olaza,                  D,  1.77 m,  b. 21 Jul 1994 @ Montevideo
@@ -99,7 +101,9 @@ Rodrigo Abascal,              D,  1.86 m,  b. 14 Jan 1994 @ Montevideo
 
 Adrián Colombino,             M,  1.76 m,  b. 12 Oct 1993 @ Montevideo
 Sebastián Cristóforo,         M,  1.75 m,  b. 23 Aug 1993 @ Montevideo
+Jonathan Rodríguez,           F,  1.81 m,  b. 6 Jul 1993 @ Florida
 Felipe Avenatti,              F,  1.96 m,  b. 26 Apr 1993 @ Montevideo
+Diego Rolán,                  F,  1.78 m,  b. 24 Mar 1993 @ Montevideo
 Guillermo Varela,             D,  1.71 m,  b. 24 Mar 1993 @ Montevideo
 Sergio Rochet,                G,  1.90 m,  b. 23 Mar 1993 @ Nueva Palmira
 Michael Santos,               F,  1.70 m,  b. 13 Mar 1993 @ Montevideo
@@ -143,9 +147,10 @@ Christian Stuani,             F,  1.84 m,  b. 12 Oct 1986 @ Tala
 Cristhian Stuani,             F,  1.86 m,  b. 12 Oct 1986 @ Tala
 Sebastián Sosa,               G,  1.80 m,  b. 19 Aug 1986 @ Montevideo
 Fernando Muslera,             G,  1.90 m,  b. 16 Jun 1986 @ Montevideo
+Mathías Corujo,               D,  1.76 m,  b. 8 May 1986 @ Sauce
 Diego Godín,                  D,  1.87 m,  b. 16 Feb 1986 @ Rosario
 
-Álvaro Pereira,               M,  1.80 m,  b. 28 Nov 1985 @ Montevideo
+Álvaro Pereira,               D|M,1.80 m,  b. 28 Nov 1985 @ Montevideo
 Walter López,                 D,  1.82 m,  b. 15 Oct 1985 @ Montevideo
 Álvaro Fernández,             M,  1.85 m,  b. 11 Oct 1985 @ Colonia
 Cristian Rodríguez,           M,  1.75 m,  b. 30 Sep 1985 @ Montevideo

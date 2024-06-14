@@ -803,6 +803,7 @@ Wojciech Golla,               D,  1.82 m,  b. 12 Jan 1992 @ Złotów
 
 Mateusz Mak,                  M,  1.73 m,  b. 14 Nov 1991 @ Sucha Beskidzka
 Michał Mak,                   M,  1.72 m,  b. 14 Nov 1991 @ Sucha Beskidzka
+Taras Romanczuk,              M,  1.86 m,  b. 14 Nov 1991 @ Kovel
 Jakub Bartkowski,             D,  1.82 m,  b. 7 Nov 1991 @ Łódź
 Piotr Głowacki,               D,  1.82 m,  b. 12 Oct 1991 @ Olsztyn
 Karol Danielak,               M,  1.70 m,  b. 29 Sep 1991 @ Jarocin

@@ -3,10 +3,12 @@
 
 Ismaël Seone,                 F,  1.84 m,  b. 26 Apr 2005 @ Ouagadougou
 
+Sebas Koula,                  G,  1.96 m,  b. 1 Dec 2004 @ Strasbourg
 Bachirou Yaméogo,             M,  - ,      b. 19 Aug 2004 @ Ouagadougou
 Abdel Zagré,                  F,  1.87 m,  b. 9 Mar 2004 @ Bobo-Dioulasso
 
 Joffrey Bazié,                M,  1.75 m,  b. 27 Oct 2003 @ Ouagadougou
+Kilian Nikiema,               G,  1.86 m,  b. 22 Jun 2003 @ Voorburg
 Mohamed Ouédraogo,            D,  1.83 m,  b. 2 Jan 2003
 
 Nasser Djiga,                 D,  1.87 m,  b. 15 Nov 2002 @ Bobo-Dioulasso
@@ -23,33 +25,51 @@ Sacha Bansé,                  M,  1.80 m,  b. 16 Mar 2001 @ Geel
 Lassina Traoré,               F,  1.83 m,  b. 12 Jan 2001 @ Bobo-Dioulasso
 
 Abdoul Yoda,                  M,  - ,      b. 20 Dec 2000
+Valentin Nouma,               D,  1.77 m,  b. 14 Feb 2000 @ Bobo-Dioulasso
 
 Abou Ouattara,                F,  1.76 m,  b. 26 Dec 1999 @ Ouagadougou
 Trova Boni,                   D|M,1.85 m,  b. 21 Dec 1999 @ Ouagadougou
 Ismahila Ouédraogo,           M,  1.70 m,  b. 5 Nov 1999 @ Ouagadougou
+Djibril Ouattara,             F,  1.77 m,  b. 19 Sep 1999 @ Bobo-Dioulasso
 Edmond Tapsoba,               D,  1.90 m,  b. 2 Feb 1999 @ Ouagadougou
 
+Cedric Badolo,                M,  1.78 m,  b. 4 Nov 1998 @ Ouagadougou
 Hassane Bandé,                F,  1.78 m,  b. 31 Oct 1998 @ Ouagadougou
 Dylan Ouedraogo,              D,  1.85 m,  b. 22 Jul 1998 @ Marseille
+Dramane Salou,                M,  1.74 m,  b. 22 May 1998 @ Ouagadougou
 
 Mohamed Konaté,               F,  1.90 m,  b. 12 Dec 1997 @ Odienné
 Abdoul Guiebre,               M,  1.78 m,  b. 17 Jul 1997 @ Bobo-Dioulasso
 
+Farid Ouédraogo,              G,  1.85 m,  b. 26 Dec 1996 @ Ouagadougou
 Zakaria Sanogo,               F,  1.69 m,  b. 11 Dec 1996 @ Bobo-Dioulasso
 Gustavo Sangaré,              M,  1.80 m,  b. 8 Nov 1996 @ Bobo-Dioulasso
 Hervé Koffi,                  G,  1.83 m,  b. 16 Oct 1996 @ Bobo-Dioulasso
 Hervé Kouakou Koffi,          G,  1.83 m,  b. 16 Oct 1996 @ Bobo-Dioulasso
 Cyrille Bayala,               F,  1.81 m,  b. 24 May 1996 @ Ouagadougou
+Eric Traoré,                  F,  1.82 m,  b. 21 May 1996 @ Ouagadougou
+Stephane Aziz Ki,             M,  1.80 m,  b. 6 Mar 1996 @ Abidjan
 
+Oula Abass Traoré,            D,  1.80 m,  b. 29 Sep 1995 @ Ouagadougou
 Oula Traoré,                  D,  1.87 m,  b. 29 Sep 1995 @ Bobo-Dioulasso
 Bertrand Traoré,              M|F,1.80 m,  b. 6 Sep 1995 @ Bobo-Dioulasso
+Soumaïla Ouattara,            D,  1.82 m,  b. 4 Jul 1995 @ Bobo-Dioulasso
 
 Hillel Konaté,                G,  1.82 m,  b. 28 Dec 1994 @ Poitiers
 Issouf Paro,                  D,  1.84 m,  b. 16 Oct 1994 @ Bobo-Dioulasso
 Yacouba Coulibaly,            D,  1.70 m,  b. 2 Oct 1994 @ Bobo-Dioulasso
+Blati Touré,                  M,  1.70 m,  b. 4 Aug 1994 @ Bouaké
 
 Steeve Yago,                  D,  1.78 m,  b. 16 Dec 1992 @ Sarcelles
+Saïdou Simporé,               D,  1.79 m,  b. 31 Aug 1992 @ Ouagadougou
+Patrick Malo,                 D,  1.78 m,  b. 18 Feb 1992 @ Ouagadougou
 
+Issoufou Dayo,                D,  1.87 m,  b. 6 Aug 1991 @ Bobo-Dioulasso
+
+Aboubacar Sawadogo,           G,  1.92 m,  b. 10 Aug 1989 @ Bobo-Dioulasso
+
+Hermann Nikiema,              D,  1.88 m,  b. 30 Nov 1988 @ Ouagadougou
+Dramane Nikièma,              M,  1.75 m,  b. 17 Oct 1988 @ Bobo-Dioulasso
 Issiaka Ouédraogo,            F,  1.81 m,  b. 19 Aug 1988 @ Ouagadougou
 Hervé Oussalé,                F,  1.81 m,  b. 16 Jun 1988 @ Tyialo
 Adama Guira,                  M,  1.85 m,  b. 24 Apr 1988 @ Bobo-Dioulasso

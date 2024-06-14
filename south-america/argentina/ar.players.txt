@@ -235,7 +235,10 @@ Jonathan Calleri,             F,  1.79 m,  b. 23 Sep 1993 @ Capital Federal
 Nicolás Ratti,                G,  1.87 m,  b. 18 Sep 1993 @ Mendoza
 Alan Ruiz,                    M,  1.83 m,  b. 19 Aug 1993 @ La Plata
 Israel Coll,                  M,  1.76 m,  b. 22 Jul 1993 @ Córdoba
+Renzo Saravia,                D,  1.78 m,  b. 16 Jun 1993 @ Villa de María
 Gonzalo Paz,                  D,  1.78 m,  b. 6 Jun 1993 @ Morón
+Juan Manuel Iturbe,           F,  1.72 m,  b. 4 Jun 1993 @ Capital Federal
+Matías Kranevitter,           M,  1.78 m,  b. 21 May 1993 @ Yerba Buena
 Joaquín Arzura,               M,  1.70 m,  b. 18 May 1993 @ Campana
 Manuel De Iriondo,            M,  1.79 m,  b. 6 May 1993 @ Santa Fe
 Nehuén Paz,                   D,  1.91 m,  b. 28 Apr 1993 @ Capital Federal
@@ -290,6 +293,7 @@ Emanuel Insúa,                D,  1.80 m,  b. 10 Apr 1991 @ Capital Federal
 Gastón Campi,                 D,  1.92 m,  b. 6 Apr 1991 @ Lanús
 Facundo Ferreyra,             F,  1.86 m,  b. 14 Mar 1991 @ Lomas de Zamora
 Rodrigo Rey,                  G,  1.92 m,  b. 8 Mar 1991 @ Las Parejas
+Esteban Andrada,              G,  1.93 m,  b. 26 Jan 1991 @ Mendoza
 Marcos Mauro,                 D,  1.88 m,  b. 9 Jan 1991 @ Avellaneda
 Roberto Pereyra,              M,  1.82 m,  b. 7 Jan 1991 @ San Miguel de Tucumán
 
@@ -304,6 +308,7 @@ Rodrigo Erramuspe,            D,  1.77 m,  b. 3 May 1990 @ Mar del Plata
 Leandro Chichizola,           G,  1.86 m,  b. 27 Mar 1990 @ San Justo
 Marcos Rojo,                  D,  1.87 m,  b. 20 Mar 1990 @ La Plata
 Facundo Sánchez,              D,  1.75 m,  b. 7 Mar 1990 @ Sa Pereyra
+Guido Pizarro,                M,  1.86 m,  b. 26 Feb 1990 @ Capital Federal
 Rubén Botta,                  M,  1.76 m,  b. 31 Jan 1990 @ San Juan
 Nicolás Mazzola,              F,  1.86 m,  b. 28 Jan 1990 @ Viedma
 José Luis Palomino,           D,  1.88 m,  b. 5 Jan 1990 @ San Miguel de Tucumán
@@ -321,6 +326,7 @@ Juan Neira,                   M,  1.78 m,  b. 21 Feb 1989 @ La Plata
 Tomás De Vincenti,            M,  1.74 m,  b. 9 Feb 1989 @ Capital Federal
 Emiliano Insúa,               D,  1.73 m,  b. 7 Jan 1989 @ Buenos Aires
 
+Víctor Cuesta,                D,  1.87 m,  b. 19 Nov 1988 @ La Plata
 Carlos Izquierdoz,            D,  1.86 m,  b. 3 Nov 1988 @ San Carlos de Bariloche
 Nahuel Valentini,             D,  1.84 m,  b. 19 Sep 1988 @ Rosario
 Julio Buffarini,              D,  1.72 m,  b. 18 Aug 1988 @ General Cabrera
@@ -332,8 +338,10 @@ Santiago García,              D,  1.89 m,  b. 8 Jul 1988 @ Rosario
 Éver Banega,                  M,  1.74 m,  b. 29 Jun 1988 @ Rosario
 Lucas Pratto,                 F,  1.88 m,  b. 4 Jun 1988 @ La Plata
 Sergio Agüero,                F,  1.73 m,  b. 2 Jun 1988 @ Capital Federal
+Matías Suárez,                F,  1.76 m,  b. 9 May 1988 @ La Falda
 Óscar Trejo,                  F,  1.80 m,  b. 26 Apr 1988 @ Santiago del Estero
 Ricardo Álvarez,              M,  1.88 m,  b. 12 Apr 1988 @ Capital Federal
+Milton Casco,                 D,  1.77 m,  b. 11 Apr 1988 @ María Grande
 Juan Munafo,                  M,  1.71 m,  b. 20 Mar 1988 @ Vicente López
 Agustin Marchesin,            G,  1.88 m,  b. 16 Mar 1988 @ González Chávez
 Sebastián Blanco,             M,  1.68 m,  b. 15 Mar 1988 @ Lomas de Zamora
@@ -373,6 +381,7 @@ Lucas Biglia,                 M,  1.78 m,  b. 30 Jan 1986 @ Mercedes
 Darío Benedetto,              F,  1.75 m,  b. 10 Jan 1986 @ Berazategui
 
 Cristian Álvarez,             G,  1.86 m,  b. 13 Nov 1985 @ General Lagos
+Jonathan Maidana,             D,  1.83 m,  b. 29 Jul 1985 @ Adrogué
 José Ernesto Sosa,            M,  1.79 m,  b. 19 Jun 1985 @ Carcarañá
 Marcos Espeche,               D,  1.79 m,  b. 18 Jun 1985 @ Córdoba
 Ezequiel Lavezzi,             F,  1.73 m,  b. 3 May 1985 @ Villa Gobernador Gálvez

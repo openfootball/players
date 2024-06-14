@@ -46,6 +46,8 @@ Nándor Tamás,                 F,  1.79 m,  b. 24 Oct 2000 @ Târgu Secuiesc
 Mihai Popa,                   G,  1.90 m,  b. 12 Oct 2000 @ Constanța
 Marco Ehmann,                 D,  1.87 m,  b. 3 Aug 2000 @ Spaichingen
 Bogdan Racovițan,             D,  1.85 m,  b. 6 Jun 2000 @ Dijon
+Ștefan Târnovanu,             G,  1.97 m,  b. 9 May 2000 @ Iași
+Daniel Bîrligea,              F,  1.84 m,  b. 19 Apr 2000 @ Brăila
 Alexandru Țîrlea,             D,  1.78 m,  b. 28 Mar 2000 @ Alcalá de Hernares
 Mihael Onisa,                 M,  1.81 m,  b. 15 Mar 2000 @ Timişoara
 Dennis Politic,               M,  1.85 m,  b. 5 Mar 2000 @ Braşov
@@ -58,6 +60,7 @@ Denis Drăguş,                 F,  1.80 m,  b. 6 Jul 1999 @ Bucharest
 George Ganea,                 F,  1.79 m,  b. 26 May 1999 @ Bucharest
 Claudiu Micovschi,            M,  1.80 m,  b. 19 May 1999 @ Oradea
 Marco Dulca,                  M,  - ,      b. 11 May 1999 @ Cluj-Napoca
+Adrian Șut,                   M,  1.86 m,  b. 30 Apr 1999 @ Cociuba Mare
 Olimpiu Moruţan,              M,  1.72 m,  b. 25 Apr 1999 @ Cluj-Napoca
 Vlad Dragomir,                M,  1.78 m,  b. 24 Apr 1999 @ Timișoara
 Tudor Băluţă,                 M,  1.91 m,  b. 27 Mar 1999 @ Craiova
@@ -71,6 +74,8 @@ Marius Marin,                 M,  1.80 m,  b. 30 Aug 1998 @ Timişoara
 Dennis Man,                   F,  1.83 m,  b. 26 Aug 1998 @ Vladimirescu
 Andrei Rațiu,                 D,  1.83 m,  b. 20 Jun 1998 @ Aiud
 Virgil Ghiță,                 D,  1.86 m,  b. 4 Jun 1998 @ Piteşti
+Florinel Coman,               F,  1.78 m,  b. 10 Apr 1998 @ Brăila
+Darius Olaru,                 M,  1.78 m,  b. 3 Mar 1998 @ Mediaș
 Adrian Petre,                 F,  1.88 m,  b. 11 Feb 1998 @ Arad
 Horaţiu Moldovan,             G,  1.83 m,  b. 20 Jan 1998 @ Cluj-Napoca
 Raul Opruț,                   D,  1.84 m,  b. 4 Jan 1998 @ Oțelu Roșu
@@ -89,6 +94,7 @@ Răzvan Marin,                 M,  1.78 m,  b. 23 May 1996 @ Bucharest
 Ionuţ Nedelcearu,             D,  1.90 m,  b. 25 Apr 1996 @ Bucharest
 George Puşcaş,                F,  1.88 m,  b. 8 Apr 1996 @ Marghita
 Alexandru Tudorie,            F,  1.92 m,  b. 19 Mar 1996 @ Galați
+Adrián Rus,                   D,  1.88 m,  b. 18 Mar 1996 @ Satu Mare
 
 Valentin Cojocaru,            G,  1.95 m,  b. 1 Oct 1995 @ Bucharest
 Dorin Rotariu,                M,  1.80 m,  b. 29 Jul 1995 @ Timișoara
@@ -108,10 +114,12 @@ Alexandru Băluță,             M,  1.70 m,  b. 13 Sep 1993 @ Craiova
 Cornel Ene,                   D,  1.87 m,  b. 21 Jul 1993 @ Satu Mare
 Mihai Popescu,                D,  1.88 m,  b. 7 May 1993 @ Câmpulung
 Nicolae Stanciu,              M,  1.68 m,  b. 7 May 1993 @ Craiova
+Andrei Burcă,                 D,  1.88 m,  b. 15 Apr 1993 @ Bacău
 Florentin Matei,              M,  1.75 m,  b. 15 Apr 1993 @ Bolintin-Vale
 Florin Andone,                F,  1.80 m,  b. 11 Apr 1993 @ Joldeşti
 
-Vasile Mogos,                 D,  1.86 m,  b. 31 Oct 1992 @ Vaslui
+Vasile Mogoș,                 D,  1.86 m,  b. 31 Oct 1992 @ Vaslui
+Nicușor Bancu,                D,  1.78 m,  b. 18 Sep 1992 @ Crâmpoia
 Andrei Peteleu,               D,  1.82 m,  b. 20 Aug 1992 @ Bistrița
 Cristian Ganea,               D,  1.76 m,  b. 24 May 1992 @ Bistrița
 Marius Briceag,               D,  1.75 m,  b. 6 Apr 1992 @ Pitești

@@ -140,7 +140,7 @@ Sebastian Zettl,              M,  1.71 m,  b. 1 Jul 2001
 Raul Florucz,                 F,  1.82 m,  b. 10 Jun 2001 @ Vöcklabruck
 Junior Adamu,                 F,  1.83 m,  b. 6 Jun 2001 @ Kano
 Patrick Wimmer,               M,  1.82 m,  b. 30 May 2001 @ Tulln
-Alexander Prass,              M,  1.80 m,  b. 26 May 2001
+Alexander Prass,              M,  1.80 m,  b. 26 May 2001 @ Hellmonsödt
 Marlon Mustapha,              F,  1.83 m,  b. 24 May 2001 @ Vienna
 Niels Hahn,                   M,  1.77 m,  b. 24 May 2001 @ Wiener Neustadt
 Paul Komposch,                D,  1.87 m,  b. 13 May 2001
@@ -167,7 +167,7 @@ Dalibor Velimirović,          M,  1.86 m,  b. 13 Feb 2001 @ Vienna
 Lukas Schöfl,                 M,  1.77 m,  b. 11 Feb 2001
 Lars Nussbaumer,              M,  1.75 m,  b. 31 Jan 2001
 Matthäus Taferner,            M,  1.70 m,  b. 30 Jan 2001 @ Klagenfurt
-Matthias Seidl,               M,  1.75 m,  b. 24 Jan 2001
+Matthias Seidl,               M,  1.75 m,  b. 24 Jan 2001 @ Kuchl
 Stefan Škrbo,                 M,  1.76 m,  b. 23 Jan 2001
 Cem Üstündag,                 M,  1.72 m,  b. 20 Jan 2001 @ Schwaz
 Lukas Fahrnberger,            M,  1.82 m,  b. 8 Jan 2001 @ Vienna
@@ -309,7 +309,7 @@ Alem Pašić,                   D,  1.94 m,  b. 23 Aug 1997 @ Steyr
 Christoph Kobald,             D,  1.86 m,  b. 18 Aug 1997 @ Vienna
 Philipp Pomer,                M,  1.80 m,  b. 12 Aug 1997 @ Vienna
 Lorenz Grabovac,              M,  1.77 m,  b. 25 Jul 1997 @ Zwettl
-Maximilian Entrup,            F,  1.86 m,  b. 25 Jul 1997
+Maximilian Entrup,            F,  1.86 m,  b. 25 Jul 1997 @ Vienna
 Philipp Schmiedl,             D,  1.87 m,  b. 23 Jul 1997 @ Antau
 Benedikt Pichler,             F,  1.84 m,  b. 20 Jul 1997 @ Salzburg
 Abdullah Çelik,               D,  1.90 m,  b. 19 Jul 1997 @ Vienna

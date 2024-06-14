@@ -10,13 +10,25 @@ Alan Do Marcolino,            F,  1.94 m,  b. 19 Mar 2002 @ Libreville
 Ulrick Eneme Ella,            F,  1.84 m,  b. 22 May 2001 @ Sens
 Anthony Oyono,                D,  1.83 m,  b. 12 Apr 2001 @ Lille
 
+Alex Moucketou-Moussounda,    D,  1.84 m,  b. 10 Oct 2000 @ Libreville
+Fahd Ndzengue,                F,  1.70 m,  b. 7 Jul 2000 @ Libreville
 Shavy Babicka,                F,  1.79 m,  b. 1 Jun 2000 @ Libreville
 Sidney Obissa,                D,  1.90 m,  b. 4 May 2000 @ Libreville
 
+Junior Noubi,                 G,  1.89 m,  b. 20 Jun 1999 @ Libreville
+
+Yannis N'Gakoutou,            D,  1.77 m,  b. 30 Sep 1998 @ Saint-Denis
+
+Jean-Noël Amonome,            G,  1.86 m,  b. 24 Dec 1997 @ Libreville
+
 Louis Ameka Autchanga,        M,  1.74 m,  b. 3 Oct 1996 @ Libreville
+Medwin Biteghé,               M,  1.81 m,  b. 1 Sep 1996 @ Libreville
 Aaron Boupendza,              F,  1.80 m,  b. 7 Aug 1996 @ Moanda
+Gilchrist Nguema,             D,  1.93 m,  b. 7 Aug 1996 @ Libreville
 David Sambissa,               D,  1.77 m,  b. 11 Jan 1996 @ Saint-Maurice
 
+Junior Assoumou,              D,  1.91 m,  b. 22 Jul 1995 @ Le Mans
+Axel Méyé,                    F,  1.78 m,  b. 6 Jun 1995 @ Libreville
 Jim Allevinah,                F,  1.72 m,  b. 27 Feb 1995 @ Agen
 
 Denis Bouanga,                M|F,1.80 m,  b. 11 Nov 1994 @ Paris
@@ -24,10 +36,16 @@ Didier Ndong,                 M,  1.79 m,  b. 17 Jun 1994 @ Lambaréné
 
 Mario Lemina,                 M,  1.84 m,  b. 1 Sep 1993 @ Libreville
 Johann Obiang,                D,  1.70 m,  b. 5 Jul 1993 @ Le Blanc
+Kevin Mayi,                   F,  1.82 m,  b. 14 Jan 1993 @ Lyon
 André Biyogo Poko,            M,  1.73 m,  b. 1 Jan 1993 @ Bitam
 
+Donald Nzé,                   G,  1.83 m,  b. 5 Apr 1992 @ Lambaréné
 Aaron Appindangoyé,           D,  1.83 m,  b. 20 Feb 1992 @ Franceville
 Serge-Junior Martinsson Ngouali,M,  1.73 m,  b. 23 Jan 1992 @ Gunnilse
+
+Anthony Mfa Mezui,            G,  1.82 m,  b. 7 Mar 1991 @ Beauvais
+
+Kanga Kaku Guélor,            M,  1.67 m,  b. 1 Sep 1990 @ Oyem
 
 Pierre-Emerick Aubameyang,    F,  1.85 m,  b. 18 Jun 1989 @ Laval
 

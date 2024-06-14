@@ -26,6 +26,7 @@ James Gomez,                  D,  1.89 m,  b. 14 Nov 2001 @ Bakary Sambouya
 Alieu Fadera,                 F,  1.86 m,  b. 3 Nov 2001 @ Fajara
 Momodou Bojang,               F,  1.82 m,  b. 19 Jun 2001 @ Brikama
 Ebrima Darboe,                M,  1.78 m,  b. 6 Jun 2001 @ Bakoteh
+Lamin Sarr,                   G,  1.90 m,  b. 11 Mar 2001 @ Malmö
 
 Saikou Touray,                M,  1.75 m,  b. 6 Jun 2000 @ Tujereng
 Kalifa Kujabi,                M,  1.85 m,  b. 5 Mar 2000 @ Serrekunda
@@ -42,16 +43,21 @@ Ablie Jallow,                 M,  1.66 m,  b. 14 Nov 1998 @ Bundung
 Musa Barrow,                  F,  1.84 m,  b. 14 Nov 1998 @ Banjul
 Omar Jaiteh,                  D,  - ,      b. 1 Oct 1998
 Kalifa Manneh,                F,  1.72 m,  b. 2 Sep 1998 @ Serrekunda
+Dembo Darboe,                 F,  1.86 m,  b. 17 Aug 1998 @ Brikama
 Bakery Jatta,                 M,  1.84 m,  b. 6 Jun 1998 @ Gunjur
 Alasana Manneh,               M,  1.70 m,  b. 8 Apr 1998 @ Banjul
+Baboucarr Gaye,               G,  1.94 m,  b. 24 Feb 1998 @ Bielefeld
+Sheikh Sibi,                  G,  1.85 m,  b. 21 Feb 1998 @ Serrekunda
 
 Sulayman Bojang,              D,  1.80 m,  b. 3 Sep 1997 @ Oslo
 Ousman Manneh,                F,  1.89 m,  b. 10 Mar 1997 @ Ginak Kajata
 
 Yusupha Yaffa,                F,  1.83 m,  b. 31 Dec 1996 @ Serekunda
+Jacob Mendy,                  M,  1.82 m,  b. 27 Dec 1996 @ Faji Kunda
 Yankuba Jarju,                F,  1.82 m,  b. 20 Aug 1996 @ Pirang
 Sheriff Sinyan,               D,  1.88 m,  b. 19 Jul 1996 @ Oslo
 Noah Sonko Sundberg,          D,  1.85 m,  b. 6 Jun 1996 @ Nacka
+Yusupha Bobb,                 M,  1.75 m,  b. 22 Jan 1996 @ Banjul
 Ebou Adams,                   M,  1.81 m,  b. 15 Jan 1996 @ Greenwich
 Sulayman Marreh,              M,  1.84 m,  b. 15 Jan 1996 @ Banjul
 
@@ -60,6 +66,8 @@ Saidy Janko,                  D,  1.78 m,  b. 22 Oct 1995 @ Zürich
 Dadi Gaye,                    D,  1.83 m,  b. 21 Mar 1995 @ Oslo
 Lamin Jawo,                   F,  1.95 m,  b. 15 Mar 1995 @ Banjul
 
+Ibou Touray,                  D,  1.77 m,  b. 24 Dec 1994 @ Liverpool
+Bubacarr Jobe,                M,  1.67 m,  b. 21 Nov 1994
 Bubacarr Sanneh,              D,  1.83 m,  b. 14 Nov 1994 @ Serrekunda
 Steve Bubacarr Trawally,      M,  1.82 m,  b. 10 Nov 1994 @ Serrekunda
 Hamza Barry,                  M,  1.75 m,  b. 15 Oct 1994 @ Banjul
@@ -74,6 +82,13 @@ Lamin Colley,                 F,  1.95 m,  b. 5 Jul 1993
 Omar Colley,                  D,  1.91 m,  b. 24 Oct 1992 @ Lamin
 Modou Barrow,                 F,  1.76 m,  b. 13 Oct 1992 @ Banjul
 
+Dawda Ngum,                   M,  1.75 m,  b. 2 Sep 1990 @ Banjul
+
+Pa Modou Jagne,               D,  1.80 m,  b. 26 Dec 1989 @ Banjul
+Mohammed Mbye,                D,  1.88 m,  b. 18 Jun 1989 @ Gambia
 Mustapha Carayol,             M,  1.77 m,  b. 10 Jun 1989 @ Banjul
+
+Ebrima Sohna,                 M,  1.78 m,  b. 14 Dec 1988 @ Bakau
+Modou Jobe,                   G,  1.90 m,  b. 27 Oct 1988 @ Sanyang
 
 Pa Dibba,                     F,  1.78 m,  b. 15 Oct 1987 @ Farafenni

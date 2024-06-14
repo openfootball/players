@@ -4,25 +4,55 @@
 Hugo Buyla,                   D,  1.91 m,  b. 8 Mar 2005 @ Zaragoza
 
 Charles Ondo,                 D,  1.85 m,  b. 22 Oct 2003 @ Madrid
+Noé Ela,                      F,  1.85 m,  b. 17 Apr 2003 @ Madrid
 Loren Zúñiga,                 F,  1.80 m,  b. 18 Jan 2003 @ Fuerteventura
+
+Luis Nlavo,                   F,  1.86 m,  b. 30 Nov 2002 @ Malabo
+Néstor Senra,                 D,  1.78 m,  b. 4 Jan 2002 @ Seville
 
 Luís Asué,                    F,  1.87 m,  b. 9 Jul 2001 @ Malabo
 Dorian Hanza,                 F,  1.87 m,  b. 12 May 2001 @ Fuenlabrada
+Dorian Jr.,                   F,  1.87 m,  b. 12 May 2001 @ Fuenlabrada
 Álex Balboa,                  M,  1.81 m,  b. 6 Mar 2001 @ Vitoria-Gasteiz
 Jesús Owono,                  G,  1.83 m,  b. 1 Mar 2001 @ Bata
 
+José Elo,                     D,  1.90 m,  b. 21 Oct 2000 @ Alcorcón
+Santiago Eneme,               M,  1.83 m,  b. 29 Sep 2000 @ Malabo
+Pedro Oba,                    F,  1.61 m,  b. 18 May 2000 @ Mongomo
+Salomón Obama,                F,  1.70 m,  b. 4 Feb 2000 @ Malabo
+
+Luis Meseguer,                D,  1.80 m,  b. 7 Sep 1999 @ Madrid
+Mariano Magno Mba,            G,  - ,      b. 3 Aug 1999
 Saúl Coco,                    D,  1.88 m,  b. 9 Feb 1999 @ Lanzarote
+Basilio Ndong,                D,  1.73 m,  b. 17 Jan 1999 @ Mbini
 
 Jannick Buyla,                M,  1.80 m,  b. 6 Oct 1998 @ Zaragoza
 Josete Miranda,               F,  1.70 m,  b. 22 Jul 1998 @ Getafe
+Esteban Obiang,               D,  1.86 m,  b. 7 May 1998 @ Zaragoza
+Luis Enrique Nsue,            D,  1.87 m,  b. 16 Jan 1998 @ Ebibeyin
 
+Óscar Siafá,                  F,  1.91 m,  b. 12 Sep 1997 @ Madrid
+Marvin Anieboh,               D,  1.87 m,  b. 26 Aug 1997 @ Madrid
+Federico Nsue,                M,  1.65 m,  b. 20 Apr 1997 @ Malabo
+
+Javier Akapo,                 M,  - ,      b. 3 Sep 1996 @ Elche
 José Machín Dicombo,          M,  1.84 m,  b. 14 Aug 1996 @ Bata
+Aitor Embela,                 F,  1.82 m,  b. 17 Apr 1996 @ Figueres
 Federico Bikoro,              D,  1.88 m,  b. 17 Mar 1996 @ Douala
 
 Ibán Salvador,                F,  1.70 m,  b. 11 Dec 1995 @ L'Hospitalet de Llobregat
+Miguel Ángel Mayé,            D,  1.74 m,  b. 8 Dec 1995 @ Ebibeyin
+José Nabil Ondo,              F,  - ,      b. 23 Nov 1995
 
+Pablo Ganet,                  M,  1.82 m,  b. 4 Nov 1994 @ Málaga
+
+Felipe Ovono,                 G,  1.85 m,  b. 26 Jul 1993 @ Mongomo
 Carlos Akapo,                 D,  1.78 m,  b. 12 Mar 1993 @ Elche
 
 Pedro Obiang,                 M,  1.85 m,  b. 27 Mar 1992 @ Alcalà de Henares
+Rubén Belima,                 M,  1.80 m,  b. 11 Feb 1992 @ Mostoles
+Manuel Sapunga,               F,  1.84 m,  b. 22 Jan 1992 @ Malabo
 
-Emilio Nsue,                  M,  1.78 m,  b. 30 Sep 1989 @ Palma de Mallorca
+Cosme Anvene,                 D,  1.79 m,  b. 3 Mar 1990 @ Añisoc
+
+Emilio Nsue,                  M|F,1.78 m,  b. 30 Sep 1989 @ Palma de Mallorca

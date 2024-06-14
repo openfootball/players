@@ -5,12 +5,14 @@ Franculino Djú,               F,  1.82 m,  b. 28 Jun 2004 @ Bissau
 Marciano Tchami,              F,  1.80 m,  b. 3 Mar 2004 @ Bissau
 
 Mamadi Camara,                F,  - ,      b. 31 Dec 2003
+Fernando Embadje,             G,  1.92 m,  b. 6 Jul 2003
 Matchoi Djaló,                M,  1.75 m,  b. 10 Apr 2003 @ Bissau
 
 Manuel Baldé,                 G,  1.94 m,  b. 14 Nov 2002 @ Albufeira
 Júnior Pussick,               M,  1.67 m,  b. 21 Oct 2002 @ Bafata
 Midana Cassamá,               F,  - ,      b. 18 Aug 2002
 Sana Gomes,                   M,  - ,      b. 9 Jul 2002
+Famana Quizera,               M,  1.72 m,  b. 25 Apr 2002 @ Bissau
 Nito Gomes,                   M,  1.84 m,  b. 3 Feb 2002 @ Bissau
 Isnaba Graça,                 F,  1.90 m,  b. 4 Jan 2002 @ Bissau
 
@@ -18,6 +20,7 @@ Salifo Caropitche,            F,  - ,      b. 19 Jun 2001 @ Bafatá
 Mauro Rodrigues,              M,  1.78 m,  b. 15 Apr 2001 @ Funchal
 Soares,                       D,  1.86 m,  b. 22 Jan 2001 @ Bissau
 
+Edimar Vieira Cá,             G,  - ,      b. 14 Aug 2000
 Junior Quitirna,              M,  1.70 m,  b. 25 Apr 2000
 Rachid Baldé,                 M,  1.67 m,  b. 24 Feb 2000 @ Bissau
 
@@ -25,39 +28,64 @@ João Ricciulli,               D,  1.94 m,  b. 10 Oct 1999 @ Bissau
 Saná Gomes,                   D,  1.78 m,  b. 10 Oct 1999 @ Bissau
 Lamine Sherif,                M,  1.77 m,  b. 27 Jan 1999 @ Conakry
 
+Zidane Banjaqui,              M,  1.75 m,  b. 15 Dec 1998 @ Lisbon
 Carlos Mendes Gomes,          F,  1.78 m,  b. 14 Nov 1998 @ Yeumbeul
+Simão Júnior,                 D,  1.92 m,  b. 29 Aug 1998 @ Cacém-Sintra
 Ronaldo Vieira,               M,  1.78 m,  b. 19 Jul 1998 @ Bissau
 Idrissa Camara,               F,  1.79 m,  b. 18 Jun 1998 @ Dakar
+Leonel Ucha,                  M,  1.74 m,  b. 9 May 1998 @ Lisbon
 Houboulang Mendes,            D,  1.83 m,  b. 4 May 1998 @ Evry
+Ouparine Djoco,               G,  1.88 m,  b. 22 Apr 1998 @ Juvisy-sur-Orge
+Jefferson Encada,             F,  1.88 m,  b. 17 Apr 1998 @ Bissau
 Moreto Cassamá,               M,  1.65 m,  b. 16 Feb 1998 @ Bissau
 Fali Candé,                   D,  1.84 m,  b. 24 Jan 1998 @ Bissau
 
+Maurice Gomis,                G,  1.93 m,  b. 10 Nov 1997 @ Cuneo
 Maudo Jarjué,                 D,  1.88 m,  b. 30 Sep 1997 @ Serrekunda
 Jardel Silva,                 F,  1.84 m,  b. 20 Sep 1997 @ Bissau
 Alfa Semedo,                  M,  1.90 m,  b. 30 Aug 1997 @ Bissau
 Steve Ambri,                  F,  1.78 m,  b. 12 Aug 1997 @ Mont-Saint-Aignan
 Panutche Camará,              M|F,1.85 m,  b. 28 Feb 1997 @ Canchungo
 
+Romário Baldé,                F,  1.77 m,  b. 25 Dec 1996 @ Bissau
 Zé Turbo,                     F,  1.88 m,  b. 22 Oct 1996 @ Bissau
-Sori Mané,                    M,  1.87 m,  b. 3 Apr 1996 @ Bissau
+Prosper Mendy,                D,  1.85 m,  b. 7 Jun 1996 @ Paris
+Dálcio,                       M,  1.86 m,  b. 22 May 1996 @ Pragal
+Sori Mané,                    D|M,1.87 m,  b. 3 Apr 1996 @ Bissau
 João Jaquité,                 M,  1.72 m,  b. 22 Feb 1996 @ Bissau
 
 Bura,                         M,  1.78 m,  b. 22 Dec 1995 @ Bissau
-Mama Baldé,                   M|F,1.81 m,  b. 6 Nov 1995 @ Bissau
+Mama Baldé,                   D|M|F,1.81 m,  b. 6 Nov 1995 @ Bissau
 Jorginho,                     M,  1.69 m,  b. 21 Sep 1995 @ Bissau
 Janio Bikel,                  M,  1.74 m,  b. 28 Jun 1995 @ Bissau
 
 Carlos Embalo,                F,  1.75 m,  b. 25 Nov 1994 @ Bissau
+Rui Dabó,                     G,  1.90 m,  b. 5 Oct 1994 @ Lisbon
+Rudinilson Silva,             D,  1.80 m,  b. 20 Aug 1994 @ Bissau
 Nanú,                         D,  1.77 m,  b. 17 May 1994 @ Coimbra
 Edgar Ié,                     D,  1.76 m,  b. 1 May 1994 @ Bissau
 Carlos Mané,                  F,  1.72 m,  b. 11 Mar 1994 @ Lisbon
 Eliseu Cassamá,               D,  1.79 m,  b. 6 Feb 1994 @ Bissau
+Fernandy Mendy,               D,  1.88 m,  b. 16 Jan 1994 @ Guediawaye
 
+Tomás Dabó,                   D,  1.73 m,  b. 20 Oct 1993 @ Bissau
+Zinho Gano,                   F,  1.96 m,  b. 13 Oct 1993 @ Mechelen
 Marcelo,                      D,  1.93 m,  b. 8 Oct 1993 @ Barcelona
+Marcelo Djaló,                D,  1.93 m,  b. 8 Oct 1993 @ Barcelona
+Toni Silva,                   M,  1.79 m,  b. 15 Sep 1993 @ Bissau
+Piqueti,                      M,  1.72 m,  b. 12 Feb 1993 @ Bissau
+
+Zézinho,                      M,  1.76 m,  b. 23 Sep 1992 @ Bissau
+Juary Soares,                 D,  1.83 m,  b. 20 Feb 1992 @ Bissau
 
 Pelé,                         M,  1.82 m,  b. 29 Sep 1991 @ Cacém
+Mamadu Candé,                 D,  1.73 m,  b. 28 Aug 1991 @ Cascais
 Esmaël Gonçalves,             F,  1.84 m,  b. 25 Jun 1991 @ Bissau
 Joseph Mendes,                F,  1.86 m,  b. 30 Mar 1991 @ Évreux
 Opa Sanganté,                 D|M,1.88 m,  b. 1 Feb 1991 @ Diannah Malary
 
 Abel Camará,                  F,  1.85 m,  b. 6 Jan 1990 @ Bissau
+
+Jonas Mendes,                 G,  1.91 m,  b. 20 Nov 1989 @ Bissau
+
+Frédéric Mendy,               F,  1.94 m,  b. 18 Sep 1988 @ Paris

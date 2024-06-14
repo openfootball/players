@@ -37,6 +37,7 @@ Christian Maghoma,            D,  1.85 m,  b. 8 Nov 1997 @ Lubumbashi
 Gédéon Kalulu,                D,  1.79 m,  b. 29 Aug 1997 @ Lyon
 Meschack Elia,                F,  1.73 m,  b. 6 Aug 1997 @ Kinshasa
 Makabi Lilepo,                F,  1.85 m,  b. 27 Jul 1997
+Baggio Siadi,                 G,  1.80 m,  b. 21 Jul 1997 @ Kinshasa
 Charles Pickel,               M,  1.84 m,  b. 15 May 1997 @ Basel
 Michee Efete,                 D,  1.80 m,  b. 11 Mar 1997 @ Ealing
 
@@ -52,20 +53,25 @@ David Tutonda,                D,  1.80 m,  b. 11 Oct 1995 @ Kinshasa
 Merveille Biankadi,           M,  1.84 m,  b. 9 May 1995 @ Munich
 Walter Bwalya,                F,  1.80 m,  b. 5 May 1995 @ Lubumbashi
 Chadrac Akolo,                M|F,1.78 m,  b. 1 Apr 1995 @ Kinshasa
+Aaron Tshibola,               M,  1.80 m,  b. 2 Jan 1995 @ Newham
 
 Glody Ngonda,                 D,  1.82 m,  b. 31 Dec 1994 @ Kinshasa
 Chancel Mbemba,               D,  1.82 m,  b. 8 Aug 1994 @ Kinshasa
 Joris Kayembe,                D,  1.82 m,  b. 8 Aug 1994 @ Brussels
 Lionel Mpasi,                 G,  1.82 m,  b. 1 Aug 1994 @ Meaux
 Jonathan Bolingi,             F,  1.85 m,  b. 30 Jun 1994 @ Kinshasa
+Fiston Mayele,                F,  1.80 m,  b. 28 Jun 1994 @ Mbuji-Mayi
+Anthony Mossi,                G,  1.89 m,  b. 15 May 1994 @ Paris
 Firmin Ndombe Mubele,         F,  1.70 m,  b. 17 Apr 1994 @ Kinshasa
 Omenuke Mfulu,                M,  1.82 m,  b. 20 Mar 1994 @ Poissy
 Christian Luyindama,          D,  1.91 m,  b. 8 Jan 1994 @ Kinshasa
 
 Arthur Masuaku,               D,  1.79 m,  b. 7 Nov 1993 @ Lille
+Henoc Inonga,                 D,  1.80 m,  b. 1 Nov 1993 @ Kinshasa
 Pelly Ruddock,                M,  1.75 m,  b. 17 Jul 1993 @ Hendon
 Pelly Ruddock Mpanzu,         M,  1.75 m,  b. 17 Jul 1993 @ Hendon
 Jordan Botaka,                D|F,1.84 m,  b. 24 Jun 1993 @ Kinshasa
+Djuma Shabani,                D,  - ,      b. 16 Mar 1993 @ Kindu
 Benik Afobe,                  F,  1.83 m,  b. 12 Feb 1993 @ Leyton
 Marcel Tisserand,             D,  1.84 m,  b. 10 Jan 1993 @ Meaux
 
@@ -86,16 +92,22 @@ Nzuzi Toko,                   M,  1.71 m,  b. 20 Dec 1990 @ Kinshasa
 Kazenga LuaLua,               M,  1.80 m,  b. 10 Dec 1990 @ Kinshasa
 Fabrice N'Sakala,             D,  1.78 m,  b. 21 Jul 1990 @ Le Blanc-Mesnil
 
+Bobó Ungenda,                 D,  1.87 m,  b. 19 Nov 1989 @ Bandundu
 Parfait Mandanda,             G,  1.82 m,  b. 10 Oct 1989 @ Nevers
 Ridge Munsy,                  F,  1.86 m,  b. 9 Jul 1989 @ Lucerne
 Yannick Bolasie,              M,  1.88 m,  b. 24 May 1989 @ Kinshasa
+Ley Matampi,                  G,  1.80 m,  b. 18 Apr 1989 @ Kinshasa
 
 Ritchie Kitoko,               M,  1.77 m,  b. 11 Jun 1988 @ Kinshasa
+Wilfred Moke,                 D,  1.83 m,  b. 12 Feb 1988 @ Kinshasa
 
+Jacques Maghoma,              M,  1.78 m,  b. 23 Oct 1987 @ Lubumbashi
 Youssouf Mulumbu,             M,  1.77 m,  b. 25 Jan 1987 @ Kinshasa
 
+Issama Mpeko,                 D,  1.73 m,  b. 3 Mar 1986 @ Mbandaka
 Assani Lukimya-Mulongoti,     D,  1.89 m,  b. 25 Jan 1986 @ Uwira
 
+Trésor Mputu,                 F,  1.72 m,  b. 10 Dec 1985 @ Kinshasa
 Dieumerci Mbokani,            F,  1.85 m,  b. 22 Nov 1985 @ Kinshasa
 
 Cédric Makiadi,               M,  1.78 m,  b. 23 Feb 1984 @ Kinshasa

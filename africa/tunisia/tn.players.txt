@@ -16,12 +16,15 @@ Elias Damergy,                G,  1.87 m,  b. 17 Oct 2002 @ Mantes-la-Jolie
 Motez Nourani,                M,  1.76 m,  b. 11 Jan 2002 @ Sousse
 
 Omar Rekik,                   D,  1.86 m,  b. 20 Dec 2001 @ Den Haag
+Hamza Jelassi,                M,  1.89 m,  b. 29 Sep 2001 @ Tunis
 Nabil Makni,                  F,  1.84 m,  b. 29 Sep 2001 @ Cannes
+Alaa Ghram,                   D,  1.90 m,  b. 24 Jul 2001 @ Sfax
 Amine Cherni,                 D,  1.83 m,  b. 7 Jul 2001 @ Paris
 Ramzi Ferjani,                D,  1.91 m,  b. 11 Apr 2001 @ Sensweiler
 Anis Slimane,                 M,  1.88 m,  b. 16 Mar 2001 @ Copenhagen
 
 Idris El Mizouni,             M,  1.85 m,  b. 26 Sep 2000 @ Paris
+Houssem Tka,                  M,  1.75 m,  b. 16 Aug 2000 @ Monastir
 Mohamed Ben Fredj,            F,  1.87 m,  b. 9 May 2000 @ Toulon
 Hadj Mahmoud,                 M,  1.79 m,  b. 24 Apr 2000 @ Sousse
 Sayfallah Ltaief,             M,  1.78 m,  b. 22 Apr 2000 @ Zürich
@@ -32,7 +35,7 @@ Moataz Zemzemi,               M,  1.83 m,  b. 7 Aug 1999 @ Tunis
 Maroine Mihoubi,              D,  1.87 m,  b. 26 Jul 1999 @ Aubagne
 Hamza Rafia,                  M,  1.78 m,  b. 2 Apr 1999 @ Kalaat es Senam
 Yan Valery,                   D,  1.80 m,  b. 22 Feb 1999 @ Champigny-sur-Marne
-Elias Achouri,                M,  1.77 m,  b. 10 Feb 1999 @ Saint-Denis
+Elias Achouri,                M|F,1.77 m,  b. 10 Feb 1999 @ Saint-Denis
 
 Montassar Talbi,              D,  1.90 m,  b. 26 May 1998 @ Paris
 
@@ -45,8 +48,10 @@ Aymen Dahmen,                 G,  1.88 m,  b. 28 Jan 1997 @ Sfax
 Aïssa Laïdouni,               M,  1.83 m,  b. 13 Dec 1996 @ Montfermeil
 Manoubi Haddad,               M,  1.68 m,  b. 23 Aug 1996
 Mohamed Dräger,               D|M,1.80 m,  b. 25 Jun 1996 @ Freiburg im Breisgau
+Firas Chaouat,                F,  1.85 m,  b. 8 May 1996 @ Sfax
 Mohamed Ali Ben Salem,        D,  1.79 m,  b. 6 Jan 1996
 
+Mohamed Amine Ben Hamida,     D,  1.81 m,  b. 15 Dec 1995 @ Tunis
 Wajdi Kechrida,               D,  1.84 m,  b. 5 Nov 1995 @ Nice
 Dylan Bronn,                  D,  1.85 m,  b. 19 Jun 1995 @ Cannes
 Ellyes Skhiri,                M,  1.85 m,  b. 10 May 1995 @ Lunel
@@ -55,7 +60,7 @@ Mouez Hassen,                 G,  1.84 m,  b. 5 Mar 1995 @ Fréjus
 Nader Ghandri,                D,  1.95 m,  b. 18 Feb 1995 @ Aubervilliers
 
 Ahmed Khalil,                 M,  1.87 m,  b. 21 Dec 1994 @ Kairouan
-Ayman Ben Mohamed,            D,  1.75 m,  b. 8 Dec 1994 @ Hammersmith
+Ayman Ben Mohamed,            D|M,1.75 m,  b. 8 Dec 1994 @ Hammersmith
 Bechir Ben Saïd,              G,  1.92 m,  b. 29 Nov 1994 @ Gabès
 Mortadha Ben Ouanes,          D,  1.82 m,  b. 2 Jul 1994 @ Sousse
 Larry Azouni,                 M,  1.77 m,  b. 23 Mar 1994 @ Marseille
@@ -65,23 +70,27 @@ Selim Khelifi,                M,  1.72 m,  b. 26 Jan 1994 @ Lausanne
 Ali Abdi,                     D,  1.83 m,  b. 20 Dec 1993 @ Sfax
 Seifedin Chabbi,              F,  1.89 m,  b. 4 Jul 1993 @ Bludenz
 Yassine Meriah,               D,  1.80 m,  b. 2 Jul 1993 @ Aryanah
+Haythem Jouini,               F,  1.92 m,  b. 7 May 1993 @ Tunis
 Aymen Souda,                  M,  1.78 m,  b. 28 Feb 1993 @ Lyon
 Seifeddine Jaziri,            F,  1.80 m,  b. 12 Feb 1993 @ Tunis
 
 Hamdi Nagguez,                D,  1.95 m,  b. 28 Oct 1992 @ Menzel Kamel
 Amor Layouni,                 F,  1.91 m,  b. 3 Oct 1992 @ Falun
 Naïm Sliti,                   M,  1.72 m,  b. 27 Jul 1992 @ Marseille
+Hamza Mathlouthi,             D,  1.77 m,  b. 25 Jul 1992 @ Zarzouna
 Mohamed Amine Ben Amor,       M,  1.84 m,  b. 3 May 1992 @ Sousse
 Ferjani Sassi,                M,  1.77 m,  b. 18 Mar 1992 @ Ariana
 Oussama Haddadi,              D,  1.88 m,  b. 28 Jan 1992 @ Tunis
 Taha Yassine Khenissi,        F,  1.80 m,  b. 6 Jan 1992 @ Zarzis
 
 Issam Jebali,                 F,  1.86 m,  b. 25 Dec 1991 @ Majaz al Bab
+Moez Ben Cherifia,            G,  1.84 m,  b. 24 Jun 1991 @ Tunis
 Fakhreddine Ben Youssef,      F,  1.92 m,  b. 21 Jun 1991 @ Tunis
 Wahbi Khazri,                 M,  1.82 m,  b. 8 Feb 1991 @ Ajaccio
 
 Youssef Msakni,               M,  1.76 m,  b. 28 Oct 1990 @ Tunis
 Anice Badri,                  F,  1.78 m,  b. 18 Sep 1990 @ Lyon
+Ali Jemal,                    G,  1.92 m,  b. 9 Jun 1990 @ Tunis
 Bilel Ifa,                    D,  1.82 m,  b. 9 Mar 1990 @ Aryanah
 Rami Bedoui,                  D,  1.87 m,  b. 19 Jan 1990 @ Sousse
 Ali Maâloul,                  D,  1.74 m,  b. 1 Jan 1990 @ Sfax
@@ -97,6 +106,7 @@ Yohan Benalouane,             D,  1.85 m,  b. 28 Mar 1987 @ Bagnols-sur-Cèze
 Yoann Touzghar,               F,  1.79 m,  b. 28 Nov 1986 @ Avignon
 Saber Khalifa,                F,  1.83 m,  b. 14 Oct 1986 @ Gabès
 Sami Allagui,                 F,  1.82 m,  b. 28 May 1986 @ Düsseldorf
+Karim Aouadhi,                D,  1.94 m,  b. 2 May 1986 @ Mégrine
 Hamza Younes,                 F,  1.83 m,  b. 16 Apr 1986 @ Monastir
 
 Hamdi Harbaoui,               F,  1.85 m,  b. 5 Jan 1985 @ Bizerte

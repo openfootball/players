@@ -12,6 +12,7 @@ Iyad Mohamed,                 M,  1.91 m,  b. 5 Mar 2001 @ Dunkerque
 Faïz Mattoir,                 F,  1.64 m,  b. 12 Jul 2000 @ Mayotte
 Rafiki Saïd,                  M,  1.78 m,  b. 15 Mar 2000 @ Samba M'Bodoni
 
+Moussa Djoumoi,               F,  1.78 m,  b. 16 Jul 1999 @ Mamoudzou
 Abdallah Ali Mohamed,         D,  1.78 m,  b. 11 Apr 1999 @ Moroni
 Myziane Maolida,              F,  1.80 m,  b. 14 Feb 1999 @ Paris
 
@@ -19,15 +20,35 @@ Younn Zahary,                 D,  1.90 m,  b. 8 Oct 1998 @ Nantes
 Yacine Bourhane,              M,  1.84 m,  b. 30 Sep 1998 @ Noisy-le-Grand
 
 Hakim Abdallah,               D,  1.70 m,  b. 18 Aug 1997 @ Troyes
+Kassim M'Dahoma,              D,  1.82 m,  b. 26 Jan 1997 @ Marseille
+
+Alexis Souahy,                D,  1.85 m,  b. 13 Jan 1995 @ Montreuil
 
 Saïd Bakari,                  D|M,1.78 m,  b. 22 Sep 1994 @ La Courneuve
 Benjaloud Youssouf,           D,  1.76 m,  b. 11 Feb 1994 @ Marseille
+Rafidine Abdullah,            M,  1.79 m,  b. 15 Jan 1994 @ Marseille
 
 Faïz Selemani,                F,  1.81 m,  b. 14 Nov 1993 @ Marseille
+Nasser Chamed,                M,  1.74 m,  b. 4 Oct 1993 @ Lyon
+Moyadh Ousseni,               G,  1.85 m,  b. 2 Apr 1993 @ Fréjus
+Nakibou Aboubakari,           M,  1.80 m,  b. 10 Mar 1993 @ Saint Denis
+
+Kassim Ahamada,               D,  1.77 m,  b. 18 Apr 1992 @ Dzaoudzi
 
 Chaker Alhadhur,              D,  1.71 m,  b. 4 Dec 1991 @ Nantes
+Ahmed Mogni,                  F,  1.75 m,  b. 10 Oct 1991 @ Paris
+Ali Ahamada,                  G,  1.89 m,  b. 19 Aug 1991 @ Martigues
+Salim Ben Boina,              G,  1.89 m,  b. 19 Jul 1991 @ Marseille
 
 Youssouf M'Changama,          M,  1.75 m,  b. 29 Aug 1990 @ Marseille
+Ali M'Madi,                   F,  1.78 m,  b. 21 Apr 1990 @ Marseille
 Fouad Bachirou,               M,  1.70 m,  b. 15 Apr 1990 @ Valence
 
+El Fardou Ben Nabouhane,      F,  1.73 m,  b. 10 Jun 1989 @ Passamainty
+
 Mohamed Youssouf,             M,  1.68 m,  b. 26 Mar 1988 @ Paris
+
+Mohamed M'Changama,           F,  1.87 m,  b. 9 Jun 1987 @ Marseille
+Kassim Abdallah,              D,  1.89 m,  b. 9 Apr 1987 @ Marseille
+
+Nadjim Abdou,                 M,  1.80 m,  b. 13 Jul 1984 @ Martigues

@@ -463,6 +463,7 @@ Scott McKenna,                D,  1.88 m,  b. 12 Nov 1996 @ Dundee
 Jamie Frost,                  F,  1.75 m,  b. 6 Oct 1996 @ Macclesfield
 David Bates,                  D,  1.93 m,  b. 5 Oct 1996 @ Kirkcaldy
 Sam Lavelle,                  D,  1.83 m,  b. 3 Oct 1996 @ Blackpool
+Lewis Morgan,                 M,  1.78 m,  b. 30 Sep 1996 @ Paisley
 John Souttar,                 D,  1.85 m,  b. 25 Sep 1996 @ Aberdeen
 Chris Cadden,                 D,  1.83 m,  b. 19 Sep 1996 @ Bellshill
 Nicky Cadden,                 M,  1.78 m,  b. 19 Sep 1996 @ Bellshill
@@ -471,7 +472,7 @@ Alan Forrest,                 M,  1.75 m,  b. 9 Sep 1996 @ Irvine
 Alex Jakubiak,                F,  1.77 m,  b. 27 Aug 1996 @ Westminster
 Shaun Rooney,                 D,  1.91 m,  b. 26 Jul 1996 @ Bellshill
 Jordan McGhee,                D,  1.89 m,  b. 24 Jul 1996 @ East Kilbride
-Che Adams,                    F,  1.78 m,  b. 13 Jul 1996 @ Leicester
+Ché Adams,                    F,  1.78 m,  b. 13 Jul 1996 @ Leicester
 Ross Stewart,                 F,  1.88 m,  b. 11 Jul 1996 @ Irvine
 Scott McMann,                 D,  1.80 m,  b. 9 Jul 1996 @ Kirkintilloch
 Oliver McBurnie,              F,  1.88 m,  b. 4 Jun 1996 @ Leeds

@@ -1,6 +1,8 @@
 =================================
 =  Cameroon
 
+Wilfried Nathan Doualla,      M,  1.72 m,  b. 15 May 2006
+
 Mahamadou Nagida,             D,  1.76 m,  b. 28 Jun 2005 @ Douala
 
 Arthur Avom,                  M,  1.85 m,  b. 15 Dec 2004 @ Yaoundé
@@ -65,10 +67,12 @@ Nelson Mandela Mbouhom,       F,  1.77 m,  b. 4 May 1999 @ Douala
 Norbert Haymamba,             G,  2.05 m,  b. 30 Mar 1999 @ Douala
 Enzo Ebosse,                  D,  1.85 m,  b. 11 Mar 1999 @ Amiens
 Ignatius Ganago,              F,  1.76 m,  b. 16 Feb 1999 @ Douala
+Leonel Ateba,                 F,  1.83 m,  b. 6 Feb 1999
 
 Alvaro Ngamba,                M,  1.72 m,  b. 15 Dec 1998 @ Yaoundé
 Jerome Ngom Mbekeli,          M,  1.80 m,  b. 30 Sep 1998 @ Yaoundé
 Duplexe Tchamba,              D,  1.91 m,  b. 10 Jul 1998 @ Yaoundé
+Simon Omossola,               G,  1.89 m,  b. 5 May 1998 @ Yaoundé
 Jean Jules,                   M,  1.85 m,  b. 23 Apr 1998 @ Yaoundé
 Kévin Soni,                   M,  1.83 m,  b. 17 Apr 1998 @ Douala
 Martin Hongla,                M,  1.81 m,  b. 16 Mar 1998 @ Yaoundé
@@ -100,6 +104,7 @@ Wilfrid Kaptoum,              M,  1.74 m,  b. 7 Jul 1996 @ Douala
 Frank Boya,                   D|M,1.90 m,  b. 1 Jul 1996 @ Douala
 James Léa Siliki,             M,  1.83 m,  b. 12 Jun 1996 @ Sarcelles
 Fabrice Olinga,               M|F,1.72 m,  b. 12 May 1996 @ Douala
+Joyskim Dawa,                 D,  1.94 m,  b. 9 Apr 1996 @ Colombes
 André Onana,                  G,  1.90 m,  b. 2 Apr 1996 @ Nkol Ngok
 Olivier Kingue,               D,  1.88 m,  b. 20 Feb 1996 @ Yaoundé
 Olivier Ntcham,               M,  1.80 m,  b. 9 Feb 1996 @ Longjumeau
@@ -134,12 +139,14 @@ Karl Toko Ekambi,             F,  1.83 m,  b. 14 Sep 1992 @ Paris
 Cédric Djeugoué,              D,  1.84 m,  b. 28 Aug 1992 @ Mankwa
 Edgar Salli,                  F,  1.63 m,  b. 17 Aug 1992 @ Garoua
 Collins Fai,                  D,  1.67 m,  b. 13 Aug 1992 @ Bamenda
+Jean Efala,                   G,  1.82 m,  b. 11 Aug 1992 @ Mfou
 Stéphane Bahoken,             F,  1.85 m,  b. 28 May 1992 @ Grasse
 Loïc Feudjou,                 G,  1.83 m,  b. 14 Apr 1992 @ Yaoundé
 Vincent Aboubakar,            F,  1.82 m,  b. 22 Jan 1992 @ Garoua
 
 Jacques Zoua,                 F,  1.86 m,  b. 6 Sep 1991 @ Garoua
 Joel Matip,                   D,  1.95 m,  b. 8 Aug 1991 @ Bochum
+Yaya Banana,                  D,  1.92 m,  b. 9 Jul 1991 @ Maroua
 Ambroise Oyongo,              D,  1.75 m,  b. 22 Jun 1991 @ Ndikiniméki
 
 Michael Ngadeu-Ngadjui,       D,  1.90 m,  b. 23 Nov 1990 @ Maroua
@@ -147,6 +154,7 @@ Adolphe Teikeu,               D,  1.89 m,  b. 23 Jun 1990 @ Bandjoun
 Nicolas Nkoulou,              D,  1.84 m,  b. 27 Mar 1990 @ Yaoundé
 Sammy N'Djock,                G,  1.81 m,  b. 25 Feb 1990 @ Yaoundé
 
+Olivier Boumal,               F,  1.72 m,  b. 17 Sep 1989 @ Douala
 Jean-Armel Kana-Biyik,        D,  1.83 m,  b. 3 Jul 1989 @ Metz
 Arnaud Djoum,                 M,  1.83 m,  b. 2 May 1989 @ Yaoundé
 Eric Maxim Choupo-Moting,     F,  1.89 m,  b. 23 Mar 1989 @ Hamburg

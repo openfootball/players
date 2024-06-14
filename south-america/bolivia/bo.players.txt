@@ -1,6 +1,8 @@
 =================================
 =  Bolivia
 
+Jeyson Chura,                 F,  1.73 m,  b. 3 Feb 2002 @ Santa Cruz de la Sierra
+
 Jaume Cuéllar,                F,  1.73 m,  b. 23 Aug 2001 @ Granollers
 Jairo Quinteros,              D,  1.80 m,  b. 7 Feb 2001 @ Santa Cruz de la Sierra
 
@@ -8,9 +10,65 @@ Sebastian Joffre,             F,  1.73 m,  b. 21 Aug 1999 @ Portachuelo
 Roberto Fernández,            D,  1.78 m,  b. 12 Jul 1999 @ Santa Cruz de la Sierra
 Ramiro Vaca,                  M,  1.76 m,  b. 1 Jul 1999 @ Tarija
 
-Boris Céspedes,               M,  1.81 m,  b. 19 Jun 1995 @ Santa Cruz de la Sierra
+Rubén Cordano,                G,  1.81 m,  b. 16 Oct 1998 @ Santa Cruz de la Sierra
+Moisés Villarroel,            M,  1.77 m,  b. 7 Sep 1998 @ Santa Cruz de la Sierra
+Bruno Miranda,                F,  1.80 m,  b. 10 Feb 1998 @ Santa Cruz de la Sierra
+Henry Vaca,                   M,  1.67 m,  b. 27 Jan 1998 @ Santa Cruz de la Sierra
 
+Luis Haquin,                  D,  1.90 m,  b. 15 Nov 1997 @ Santa Cruz de la Sierra
+José María Carrasco,          D,  1.86 m,  b. 16 Aug 1997 @ Santa Cruz de la Sierra
+
+Erwin Saavedra,               D,  1.73 m,  b. 22 Feb 1996 @ Oruro
+Carmelo Algarañaz,            F,  1.75 m,  b. 27 Jan 1996 @ Santa Cruz de la Sierra
+Javier Rojas,                 G,  1.85 m,  b. 14 Jan 1996 @ Santa Cruz de la Sierra
+
+Leonardo Vaca,                F,  1.74 m,  b. 24 Nov 1995 @ Santa Cruz de la Sierra
+Boris Céspedes,               M,  1.81 m,  b. 19 Jun 1995 @ Santa Cruz de la Sierra
+Paul Arano,                   M,  1.87 m,  b. 23 Feb 1995 @ Santa Cruz de la Sierra
+
+Pedro Azogue,                 M,  1.76 m,  b. 6 Dec 1994 @ Santa Cruz de la Sierra
+José Sagredo,                 D,  1.80 m,  b. 10 Mar 1994 @ Santa Cruz de la Sierra
+Enrique Flores,               D,  1.75 m,  b. 1 Feb 1994 @ Santa Cruz de la Sierra
 Danny Bejarano,               M,  1.82 m,  b. 3 Jan 1994 @ Santa Cruz de la Sierra
 
+Diego Wayar,                  M,  1.69 m,  b. 15 Oct 1993 @ Tarija
+Luis René Barboza,            D,  1.76 m,  b. 2 Apr 1993 @ Santa Cruz de la Sierra
+Guillermo Vizcarra,           G,  1.88 m,  b. 7 Feb 1993 @ Santa Cruz de la Sierra
+
+Erwin Júnior Sánchez,         M,  1.98 m,  b. 23 Jul 1992 @ Lisbon
 Adrián Jusino,                D,  1.85 m,  b. 9 Jul 1992 @ Springfield, MA
+Leonel Justiniano,            M,  1.72 m,  b. 2 Jul 1992 @ Santa Cruz de la Sierra
+Romel Quiñónez,               G,  1.82 m,  b. 25 Jun 1992 @ Santa Cruz de la Sierra
 Samuel Galindo,               M,  1.89 m,  b. 18 Apr 1992 @ Santa Cruz de la Sierra
+Gilbert Álvarez,              F,  1.85 m,  b. 7 Apr 1992 @ Santa Cruz de la Sierra
+Óscar Ribera,                 D,  1.75 m,  b. 10 Feb 1992 @ Santa Cruz de la Sierra
+
+Diego Bejarano,               D,  1.74 m,  b. 24 Aug 1991 @ Santa Cruz de la Sierra
+Alejandro Chumacero,          M,  1.64 m,  b. 22 Apr 1991 @ La Paz
+
+Rodrigo Ramallo,              F,  1.78 m,  b. 14 Oct 1990 @ Santa Cruz de la Sierra
+Cristhian Machado,            M,  1.73 m,  b. 20 Jun 1990 @ Cochabamba
+Saúl Torres,                  D,  1.80 m,  b. 22 Mar 1990 @ Sucre
+Fernando Saucedo,             M,  1.72 m,  b. 15 Mar 1990 @ Santa Cruz de la Sierra
+
+Raúl Castro,                  M,  1.81 m,  b. 19 Aug 1989 @ La Paz
+Mario Cuéllar,                D,  1.80 m,  b. 5 May 1989 @ Santa Cruz de la Sierra
+
+Jhasmani Campos,              M,  1.74 m,  b. 10 May 1988 @ Santa Cruz de la Sierra
+Marvin Bejarano,              D,  1.70 m,  b. 6 Mar 1988 @ Tarija
+Yasmani Duk,                  F,  1.79 m,  b. 1 Mar 1988 @ Santa Cruz de la Sierra
+Ronald Eguino,                D,  1.83 m,  b. 20 Feb 1988 @ Cochabamba
+
+Marcelo Martins Moreno,       F,  1.87 m,  b. 18 Jun 1987 @ Santa Cruz de la Sierra
+Alejandro Meleán,             M,  1.83 m,  b. 16 Jun 1987 @ Miami
+Carlos Lampe,                 G,  1.94 m,  b. 17 Mar 1987 @ Santa Cruz de la Sierra
+
+Wálter Veizaga,               M,  1.79 m,  b. 22 Apr 1986 @ Cochabamba
+
+Juan Carlos Arce,             F,  1.75 m,  b. 10 Apr 1985 @ Santa Cruz de la Sierra
+Luis Gutiérrez,               D,  1.81 m,  b. 15 Jan 1985 @ Santa Cruz de la Sierra
+
+Edward Zenteno,               D,  1.80 m,  b. 5 Dec 1984 @ Cochabamba
+Martin Smedberg-Dalence,      M,  1.87 m,  b. 10 May 1984 @ Norrköping
+
+Nelson Cabrera,               D,  1.91 m,  b. 22 Apr 1983 @ Capiatá

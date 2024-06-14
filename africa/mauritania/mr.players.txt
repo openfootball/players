@@ -8,28 +8,59 @@ Djeidi Gassama,               F,  1.78 m,  b. 10 Sep 2003 @ Nieleba Haouisse
 Dawda Camara,                 F,  - ,      b. 4 Nov 2002
 
 El Mami Tetah,                M|F,1.70 m,  b. 12 Nov 2001 @ Teyarett
+Ibrahima Keita,               D,  1.81 m,  b. 8 Nov 2001 @ Bamako
+Sidi Ahmed El Abd,            M,  1.79 m,  b. 5 May 2001 @ Nouakchott
 
+Nouh Mohamed El Abd,          D,  1.86 m,  b. 24 Dec 2000 @ Tevragh-Zeina
 Idrissa Thiam,                F,  1.79 m,  b. 2 Sep 2000 @ Nouakchott
 Abdallahi Mahmoud,            D,  1.87 m,  b. 4 May 2000 @ Dar-Naim
 
+Sidi Bouna Amar,              F,  1.72 m,  b. 31 Dec 1998 @ Tevragh-Zeina
 Bakary N'Diaye,               D,  1.85 m,  b. 26 Nov 1998 @ Nouakchott
+Abdoulkader Thiam,            D,  1.76 m,  b. 3 Oct 1998 @ Maghama
 Aboubakary Koita,             F,  1.75 m,  b. 20 Sep 1998 @ Antwerp
+Khadim Diaw,                  D,  1.84 m,  b. 7 Jul 1998 @ Saint-Louis
+Hemeya Tanjy,                 F,  1.76 m,  b. 1 May 1998 @ Nouakchott
 
 Moctar Side El Hacen,         M,  1.80 m,  b. 31 Dec 1997 @ Arafat
 Aly Abeid,                    D,  1.74 m,  b. 11 Dec 1997 @ Riyadh
 Souleymane Anne,              F,  1.90 m,  b. 5 Dec 1997 @ Orléans
+Mohamed Dellahi Yali,         M,  1.83 m,  b. 1 Nov 1997 @ Nouakchott
+Alassane Diop,                M,  1.75 m,  b. 22 Sep 1997 @ Nouadhibou
 Lamine Ba,                    D,  1.88 m,  b. 24 Aug 1997 @ Villepinte
+Mouhsine Bodda,               M,  1.75 m,  b. 18 Jul 1997 @ Teyarett
 
 Harouna Sy,                   D,  1.70 m,  b. 30 Mar 1996 @ Rouen
 
 Babacar Niasse,               G,  1.90 m,  b. 20 Dec 1995 @ Dakar
+Babacar Diop,                 G,  1.86 m,  b. 17 Sep 1995 @ Nouakchott
+Omaré Gassama,                M,  1.80 m,  b. 1 Sep 1995 @ Tarbes
 Aboubakar Kamara,             F,  1.78 m,  b. 7 Mar 1995 @ Gonesse
 
+Namori Diaw,                  G,  1.82 m,  b. 30 Dec 1994 @ Nouakchott
+M'Backé N'Diaye,              G,  1.88 m,  b. 19 Dec 1994 @ Rosso
 Abdoul Ba,                    D,  2.00 m,  b. 8 Feb 1994 @ Dakar
+Bakari Camara,                M,  1.89 m,  b. 4 Jan 1994 @ Aulnay-sous-Bois
 
+Hassan Houbeib,               D,  1.81 m,  b. 31 Oct 1993 @ Teyarett
 Adama Ba,                     M,  1.79 m,  b. 27 Aug 1993 @ Sélibaby
+El-Hadji Ba,                  M,  1.83 m,  b. 5 Mar 1993 @ Paris
+Diadié Diarra,                D,  1.95 m,  b. 23 Jan 1993 @ Paris
 Pape Ibnou Ba,                F,  1.74 m,  b. 5 Jan 1993 @ Saint Louis
 
 Guessouma Fofana,             M,  1.84 m,  b. 17 Dec 1992 @ Le Havre
+Khassa Camara,                M,  1.75 m,  b. 22 Oct 1992 @ Châtenay-Malabry
 
 Harouna Abou Demba,           D,  1.77 m,  b. 31 Dec 1991 @ Mont-Saint-Aignan
+Souleymane Doukara,           F,  1.93 m,  b. 29 Sep 1991 @ Meudon
+Abdoulaye Gaye,               M,  1.72 m,  b. 13 Sep 1991 @ Nouakchott
+Ismaël Diakité,               F,  1.68 m,  b. 13 Jan 1991 @ Nouakchott
+
+Diallo Guidileye,             M,  1.81 m,  b. 30 Dec 1989 @ Djadijibiné
+Ibréhima Coulibaly,           M,  1.83 m,  b. 30 Jul 1989 @ Créteil
+
+Bessam,                       F,  1.80 m,  b. 4 Dec 1987 @ Zouérat
+
+Moustapha Diaw,               D,  1.67 m,  b. 31 Dec 1986 @ Nouakchott
+Brahim Souleymane,            G,  1.80 m,  b. 30 Dec 1986 @ Nouakchott
+Sally Sarr,                   D,  1.81 m,  b. 6 May 1986 @ Le Havre

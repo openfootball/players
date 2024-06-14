@@ -22,6 +22,7 @@ Benjamin Šeško,               F,  1.94 m,  b. 31 May 2003 @ Radeče
 Tio Cipot,                    F,  1.76 m,  b. 20 Apr 2003 @ Murska Sobota
 
 Žan Luk Leban,                G,  - ,      b. 15 Dec 2002
+Adrian Zeljković,             M,  1.92 m,  b. 19 Aug 2002 @ Žalec
 Žiga Laci,                    D,  1.89 m,  b. 20 Jul 2002 @ Murska Sobota
 Martin Pečar,                 M,  1.75 m,  b. 5 Jul 2002 @ Izola
 Enrik Ostrc,                  M,  1.87 m,  b. 21 Jun 2002 @ Postojna
@@ -42,7 +43,7 @@ Aljaž Casar,                  M,  1.90 m,  b. 17 Sep 2000
 Dušan Stojinović,             D,  1.87 m,  b. 26 Aug 2000 @ Ljubljana
 Jakub Švec,                   M,  1.77 m,  b. 23 Jul 2000 @ Žiar nad Hronom
 Egzon Kryeziu,                M,  1.80 m,  b. 25 Apr 2000 @ Kranj
-Nino Žugelj,                  F,  1.87 m,  b. 25 Apr 2000
+Nino Žugelj,                  F,  1.87 m,  b. 25 Apr 2000 @ Dravograd
 Aljoša Matko,                 F,  1.77 m,  b. 29 Mar 2000 @ Novo Mesto
 David Zec,                    D,  1.88 m,  b. 5 Jan 2000 @ Kranj
 
@@ -67,6 +68,8 @@ Jan Mlakar,                   F,  1.83 m,  b. 23 Oct 1998 @ Domžale
 Luka Štor,                    F,  1.78 m,  b. 5 Jul 1998 @ Šempeter pri Gorici
 Sandi Ogrinec,                M,  1.83 m,  b. 5 Jun 1998
 Igor Vekič,                   G,  1.92 m,  b. 6 May 1998 @ Ljubljana
+Timi Elšnik,                  M,  1.78 m,  b. 29 Apr 1998 @ Kidričevo
+Sandi Lovrič,                 M,  1.80 m,  b. 28 Mar 1998 @ Lienz
 Žiga Frelih,                  G,  1.97 m,  b. 6 Feb 1998 @ Ljubljana
 Dejan Petrovič,               M,  1.79 m,  b. 12 Jan 1998 @ Rače
 
@@ -98,6 +101,7 @@ Rok Kidrič,                   F,  1.94 m,  b. 27 Apr 1995 @ Celje
 Andrés Vombergar,             F,  1.87 m,  b. 20 Nov 1994 @ Villa Luzuriaga
 Leo Štulac,                   M,  1.75 m,  b. 26 Sep 1994 @ Koper
 Luka Krajnc,                  D,  1.88 m,  b. 19 Sep 1994 @ Ptuj
+Žan Karničnik,                D,  1.84 m,  b. 18 Sep 1994 @ Slovenj Gradec
 Jure Balkovec,                D,  1.85 m,  b. 9 Sep 1994 @ Novo Mesto
 Mitja Lotrič,                 M,  1.69 m,  b. 3 Sep 1994
 Miha Zajc,                    M,  1.80 m,  b. 1 Jul 1994 @ Šempeter pri Gorici

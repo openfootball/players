@@ -29,6 +29,7 @@ Juan Cabal,                   D,  1.86 m,  b. 8 Jan 2001 @ Cali
 Robert Mejía,                 M,  1.73 m,  b. 6 Oct 2000 @ Puerto Tejada
 Kevin Castaño,                M,  1.74 m,  b. 29 Sep 2000 @ Itagüí
 Pablo Ortiz,                  D,  1.80 m,  b. 8 Jun 2000 @ Cali
+Jaminton Campaz,              M,  1.65 m,  b. 24 May 2000 @ Ibagué
 Juan Sebastián Peñaloza,      F,  1.72 m,  b. 3 May 2000 @ Quibdó
 Wilinton Aponza,              F,  1.91 m,  b. 29 Mar 2000 @ Cali
 Dilan Ortíz,                  F,  1.88 m,  b. 15 Mar 2000 @ Popayan
@@ -89,6 +90,8 @@ Rafael Santos Borré,          F,  1.74 m,  b. 15 Sep 1995 @ Barranquilla
 Juan Ferney Otero,            F,  1.79 m,  b. 26 May 1995 @ Sipí
 Jhon Velásquez,               M,  1.74 m,  b. 2 May 1995 @ Bogotá
 Jeison Lucumí,                F,  1.77 m,  b. 8 Apr 1995 @ Suárez
+Yairo Moreno,                 M,  1.76 m,  b. 4 Apr 1995 @ Necoclí
+Álvaro Montero,               G,  1.95 m,  b. 29 Mar 1995 @ El Molino
 Jeison Medina,                F,  1.80 m,  b. 27 Feb 1995 @ Itagüí
 Juan José Narváez,            M|F,1.80 m,  b. 12 Feb 1995 @ Pasto
 Santiago Mosquera,            M,  1.68 m,  b. 7 Feb 1995 @ Buenaventura
@@ -99,26 +102,36 @@ Brayan Riascos,               F,  1.80 m,  b. 10 Oct 1994 @ Buenaventura
 Yerry Mina,                   D,  1.93 m,  b. 23 Sep 1994 @ Guachené
 José Cortés,                  F,  1.79 m,  b. 8 Sep 1994 @ Cali
 Frank Castañeda,              F,  1.72 m,  b. 17 Jul 1994 @ Cali
+Aldair Quintana,              G,  1.94 m,  b. 11 Jul 1994 @ Ibagué
 Yony González,                M,  1.82 m,  b. 11 Jul 1994 @ Medellín
+Roger Martínez,               F,  1.80 m,  b. 23 Jun 1994 @ Cartagena
 Alexis Pérez,                 D,  1.81 m,  b. 25 Mar 1994 @ Barranquilla
 Neyder Lozano,                D,  1.85 m,  b. 4 Mar 1994 @ Quibdó
 
 Wilmar Barrios,               M,  1.79 m,  b. 16 Oct 1993 @ Cartagena
 Helibelton Palacios,          D,  1.77 m,  b. 11 Jun 1993 @ Santander de Quilichao
+Cristian Bonilla,             G,  1.87 m,  b. 2 Jun 1993 @ Manizares
+Andrés Roa,                   M,  1.75 m,  b. 25 May 1993 @ Sabanalarga
 Jhon Córdoba,                 F,  1.86 m,  b. 10 May 1993 @ Istmina
+Guillermo Celis,              M,  1.77 m,  b. 6 May 1993 @ Sincelejo
 Oscar Barreto,                M,  1.64 m,  b. 28 Apr 1993 @ Bogotá
 Sebastián Pérez,              M,  1.75 m,  b. 29 Mar 1993 @ Envigado
 Éder Álvarez Balanta,         D|M,1.81 m,  b. 28 Feb 1993 @ Bogotá
 Cristian Borja,               D,  1.78 m,  b. 18 Feb 1993 @ Cali
 Miguel Borja,                 F,  1.82 m,  b. 26 Jan 1993 @ Tierra Alta
+Felipe Aguilar,               D,  1.90 m,  b. 20 Jan 1993 @ Medellín
 Juan Quintero,                M,  1.69 m,  b. 18 Jan 1993 @ Medellín
 
+Edwin Cardona,                M,  1.86 m,  b. 8 Dec 1992 @ Medellín
+Gustavo Cuéllar,              M,  1.77 m,  b. 14 Oct 1992 @ Barranquilla
 Deiver Machado,               D,  1.72 m,  b. 2 Sep 1992 @ Tadó
 Johan Mojica,                 D,  1.85 m,  b. 21 Aug 1992 @ Cali
 Didier Delgado,               D,  1.85 m,  b. 25 Jul 1992 @ Istmina
 Reinaldo Lenis,               M,  1.80 m,  b. 20 Jul 1992 @ Cali
 José Izquierdo,               F,  1.71 m,  b. 7 Jul 1992 @ Pereira
 Stiven Mendoza,               F,  1.71 m,  b. 27 Jun 1992 @ Palmira
+Stefan Medina,                D,  1.78 m,  b. 14 Jun 1992 @ Envigado
+Baldomero Perlaza,            M,  1.87 m,  b. 5 Jun 1992 @ Tuluá
 Jeison Murillo,               D,  1.82 m,  b. 27 May 1992 @ Cali
 Fabry Castro,                 M,  1.82 m,  b. 21 Feb 1992 @ Santa Bárbara
 Santiago Arias,               D,  1.70 m,  b. 13 Jan 1992 @ Medellín
@@ -126,12 +139,15 @@ Santiago Arias,               D,  1.70 m,  b. 13 Jan 1992 @ Medellín
 Cristian Montaño,             D|M,1.80 m,  b. 11 Dec 1991 @ Cali
 James Rodríguez,              M,  1.80 m,  b. 12 Jul 1991 @ Cúcuta
 Luis Muriel,                  F,  1.79 m,  b. 16 Apr 1991 @ Santo Tomás
+Yimmi Chará,                  F,  1.79 m,  b. 2 Apr 1991 @ Cali
 Duván Zapata,                 F,  1.89 m,  b. 1 Apr 1991 @ Cali
 Mateus Uribe,                 M,  1.82 m,  b. 21 Mar 1991 @ Medellín
+Frank Fabra,                  D,  1.72 m,  b. 22 Feb 1991 @ Nechí
 
 Carlos Carbonero,             M,  1.80 m,  b. 25 Jul 1990 @ Bogotá
 Víctor Ibarbo,                F,  1.88 m,  b. 19 May 1990 @ Cali
 Jhon Mosquera,                M|F,1.86 m,  b. 8 May 1990 @ Cali
+William Tesillo,              D,  1.84 m,  b. 2 Feb 1990 @ Barranquilla
 
 Daniel Torres,                M,  1.83 m,  b. 15 Nov 1989 @ Caquezá
 Bernardo Espinosa,            D,  1.92 m,  b. 11 Jul 1989 @ Cali
@@ -152,6 +168,7 @@ Carlos Sánchez,               M,  1.82 m,  b. 6 Feb 1986 @ Bogotá
 Adrián Ramos,                 F,  1.85 m,  b. 22 Jan 1986 @ Santander de Quilichao
 
 Camilo Zuñiga,                M,  1.71 m,  b. 14 Dec 1985 @ Chigorodó
+Dayro Moreno,                 M,  1.77 m,  b. 16 Sep 1985 @ Chicoral
 Hugo Rodallega,               F,  1.81 m,  b. 25 Jul 1985 @ El Carmelo
 José Cuadrado,                G,  1.84 m,  b. 1 Jun 1985 @ Valledupar
 Téofilo Gutiérrez,            F,  1.78 m,  b. 27 May 1985 @ Barranquilla
@@ -161,6 +178,8 @@ Abel Aguilar,                 M,  1.85 m,  b. 6 Jan 1985 @ Santa Fe de Bogota
 Farid Díaz,                   D,  1.68 m,  b. 20 Jul 1983 @ Valledupar
 
 Elkin Soto,                   M,  1.78 m,  b. 4 Aug 1980 @ Manizales
+
+Robinson Zapata,              G,  1.86 m,  b. 30 Sep 1978 @ Florida
 
 Mario Yepes,                  D,  1.87 m,  b. 13 Jan 1976 @ Cali
 

@@ -106,6 +106,7 @@ Dialy N'Diaye,                G,  1.93 m,  b. 4 Jul 1999
 Amadou Sagna,                 M|F,1.73 m,  b. 10 Jun 1999 @ Dakar
 Ousseynou Diagne,             M,  1.90 m,  b. 5 Jun 1999 @ Dakar
 Philippe Paulin Keny,         F,  1.86 m,  b. 18 May 1999 @ Tivaouane
+Alioune Badara Faty,          G,  - ,      b. 3 May 1999
 Souleymane Aw,                D,  1.73 m,  b. 5 Apr 1999
 Ibrahima Niane,               F,  1.87 m,  b. 11 Mar 1999 @ M'Bour
 Cheikh Tidiane Sabaly,        M,  1.68 m,  b. 4 Mar 1999 @ Kolda
@@ -218,7 +219,7 @@ Abdoulaye Seck,               D,  1.92 m,  b. 4 Jun 1992 @ M'Bour
 Sadio Mané,                   M|F,1.75 m,  b. 10 Apr 1992 @ Sédhiou
 Abdoulaye Diallo,             G,  1.89 m,  b. 30 Mar 1992 @ Reims
 Joseph Romeric Lopy,          M,  1.81 m,  b. 15 Mar 1992 @ Boutoupa
-Édouard Mendy,                G,  1.97 m,  b. 1 Mar 1992 @ Montivilliers
+Edouard Mendy,                G,  1.97 m,  b. 1 Mar 1992 @ Montivilliers
 Amidou Diop,                  M,  1.96 m,  b. 27 Feb 1992 @ Missirah
 Arthur Yannick Gomis,         F,  1.80 m,  b. 3 Feb 1992 @ Dakar
 Bouna Sarr,                   D,  1.77 m,  b. 31 Jan 1992 @ Lyon

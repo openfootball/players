@@ -8,6 +8,7 @@ Adam Griger,                  F,  1.92 m,  b. 16 Mar 2004 @ Prešov
 Bence Kovács,                 M,  1.86 m,  b. 14 Jan 2004 @ Galanta
 
 Dominik Hollý,                M,  1.83 m,  b. 11 Nov 2003 @ Bánovce nad Bebravou
+Sebastián Kóša,               D,  1.90 m,  b. 13 Sep 2003 @ Nové Zámky
 Máté Szolgai,                 M,  1.82 m,  b. 27 Jul 2003
 
 Martin Šviderský,             D|M,1.80 m,  b. 4 Oct 2002 @ Prešov
@@ -141,6 +142,7 @@ Viktor Budinský,              G,  1.86 m,  b. 9 May 1993 @ Banská Štiavnica
 Dávid Hudák,                  D,  1.94 m,  b. 21 Mar 1993 @ Bratislava
 
 Milan Lalkovič,               M,  1.74 m,  b. 9 Dec 1992 @ Košice
+Vernon De Marco,              D,  1.82 m,  b. 18 Nov 1992 @ Rosario
 Patrik Le Giang,              G,  1.85 m,  b. 8 Sep 1992 @ Lučenec
 Michal Škvarka,               M,  1.73 m,  b. 12 Aug 1992 @ Martin
 Dionatan Teixeira,            D,  1.93 m,  b. 24 Jul 1992 @ Londrina

@@ -119,6 +119,7 @@ Igor Zlatanović,              F,  1.80 m,  b. 10 Feb 1998 @ Užice
 Marko Ilić,                   G,  1.91 m,  b. 3 Feb 1998 @ Novi Sad
 Milos Spasić,                 D,  1.80 m,  b. 29 Jan 1998
 Bogdan Stamenković,           F,  1.84 m,  b. 19 Jan 1998 @ Surdulica
+Nemanja Stojić,               D,  1.90 m,  b. 15 Jan 1998 @ Belgrade
 
 Luka Jović,                   F,  1.81 m,  b. 23 Dec 1997 @ Bijeljina
 Aleksandar Busnić,            M,  1.91 m,  b. 4 Dec 1997 @ Belgrade
@@ -180,6 +181,7 @@ Nikola Šipčić,                D,  1.92 m,  b. 17 May 1995 @ Priboj
 Nemanja Antonov,              D,  1.82 m,  b. 6 May 1995 @ Pančevo
 Sasa Zdjelar,                 M,  1.84 m,  b. 20 Mar 1995 @ Belgrade
 Sergej Milinković-Savić,      M,  1.91 m,  b. 27 Feb 1995 @ Lleida
+Mijat Gačinović,              M,  1.75 m,  b. 8 Feb 1995 @ Novi Sad
 Milos Jovičić,                D,  1.87 m,  b. 29 Jan 1995
 Emil Rockov,                  G,  1.88 m,  b. 27 Jan 1995 @ Novi Sad
 Nemanja Maksimović,           M,  1.84 m,  b. 26 Jan 1995 @ Banja Koviljača
@@ -200,6 +202,7 @@ Nikola Antić,                 D,  1.78 m,  b. 4 Jan 1994 @ Belgrade
 Miloš Stanojević,             M,  1.89 m,  b. 20 Nov 1993 @ Valjevo
 Andrija Pavlović,             F,  1.88 m,  b. 16 Nov 1993 @ Belgrade
 Aleksandar Radovanović,       D,  1.89 m,  b. 11 Nov 1993 @ Šabac
+Srdjan Mijailović,            M,  1.78 m,  b. 10 Nov 1993 @ Požega
 Matija Ljujić,                M,  1.85 m,  b. 28 Oct 1993 @ Pirjepolje
 Miloš Deletić,                F,  1.79 m,  b. 13 Oct 1993 @ Belgrade
 Bojan Čečarić,                M,  1.90 m,  b. 10 Oct 1993 @ Nova Pazova
@@ -251,7 +254,7 @@ Marko Dmitrović,              G,  1.94 m,  b. 24 Jan 1992 @ Subotica
 Bojan Matić,                  F,  1.91 m,  b. 22 Dec 1991 @ Zrenjanin
 Aleksandar Sedlar,            D,  1.78 m,  b. 13 Dec 1991 @ Novi Sad
 Nikola Maksimović,            D,  1.93 m,  b. 25 Nov 1991 @ Bajina Bašta
-Nemanja Gudelj,               M,  1.77 m,  b. 16 Nov 1991 @ Belgrade
+Nemanja Gudelj,               D|M,1.77 m,  b. 16 Nov 1991 @ Belgrade
 Aleksandar Tanasin,           D,  1.76 m,  b. 15 Nov 1991 @ Novi Sad
 Ognjen Mudrinski,             F,  1.78 m,  b. 15 Nov 1991 @ Novi Sad
 Adem Ljajić,                  M|F,1.81 m,  b. 29 Sep 1991 @ Novi Pazar

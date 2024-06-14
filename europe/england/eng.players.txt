@@ -2186,7 +2186,7 @@ Jake Eggleton,                D,  - ,      b. 11 Oct 1998
 Josh Grant,                   D,  1.83 m,  b. 11 Oct 1998 @ Lambeth
 Teddy Howe,                   D,  1.77 m,  b. 9 Oct 1998 @ Oxford
 Archie Davies,                D|M,1.83 m,  b. 7 Oct 1998 @ Hastings
-Trent Alexander-Arnold,       D,  1.75 m,  b. 7 Oct 1998 @ Liverpool
+Trent Alexander-Arnold,       D|M,1.75 m,  b. 7 Oct 1998 @ Liverpool
 Alfie Whiteman,               G,  1.90 m,  b. 2 Oct 1998 @ Tottenham
 Jordi Osei-Tutu,              D,  1.76 m,  b. 2 Oct 1998 @ Slough
 Callum Smith,                 M,  - ,      b. 1 Oct 1998 @ Gateshead

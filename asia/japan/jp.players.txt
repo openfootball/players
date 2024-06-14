@@ -43,6 +43,7 @@ Kaito Mizuta,                 M,  1.82 m,  b. 8 Apr 2000 @ Tokyo
 Takuya Ogiwara,               D,  1.75 m,  b. 23 Nov 1999 @ Saitama
 Shuto Machino,                F,  1.84 m,  b. 30 Sep 1999 @ Mie
 Kanji Okunuki,                F,  1.70 m,  b. 11 Aug 1999 @ Tochigi
+Keisuke Osako,                G,  1.86 m,  b. 28 Jul 1999 @ Izumi
 Masaki Watai,                 M,  1.68 m,  b. 18 Jul 1999 @ Shizuoka
 Kanya Fujimoto,               M,  1.76 m,  b. 1 Jul 1999 @ Yamanashi
 Ryotaro Tsunoda,              D,  1.81 m,  b. 27 Jun 1999 @ Saitama
@@ -51,14 +52,20 @@ Daiki Hashioka,               D,  1.82 m,  b. 17 May 1999 @ Saitama
 Hiroki Ito,                   D|M,1.86 m,  b. 12 May 1999 @ Shizuoka
 Taichi Hara,                  F,  1.87 m,  b. 5 May 1999 @ Tokyo
 Kyosuke Tagawa,               F,  1.81 m,  b. 11 Feb 1999 @ Kagoshima
+Hiroki Abe,                   F,  1.71 m,  b. 28 Jan 1999 @ Tokyo
 Mitsuki Saito,                M,  1.65 m,  b. 10 Jan 1999 @ Kanagawa
 
 Hikaru Matsui,                D,  1.81 m,  b. 2 Dec 1998 @ Aichi
 Takehiro Tomiyasu,            D,  1.85 m,  b. 5 Nov 1998 @ Fukuoka
 Keigo Tsunemoto,              D,  1.72 m,  b. 21 Oct 1998 @ Kanagawa
+Kota Watanabe,                M,  1.65 m,  b. 18 Oct 1998 @ Kawasaki
 Ao Tanaka,                    M,  1.78 m,  b. 10 Sep 1998 @ Kawasaki
+Daiki Suga,                   F,  1.71 m,  b. 10 Sep 1998 @ Otaru
+Daiki Sugioka,                D,  1.82 m,  b. 8 Sep 1998 @ Tokyo
 Ayase Ueda,                   F,  1.82 m,  b. 28 Aug 1998 @ Mito
+Taishi Matsumoto,             M,  1.78 m,  b. 22 Aug 1998 @ Saitama
 Teruki Hara,                  M,  1.78 m,  b. 30 Jul 1998 @ Saitama
+Yugo Tatsuta,                 D,  1.89 m,  b. 21 Jun 1998 @ Shizuoka
 Ryotaro Meshino,              M,  1.71 m,  b. 18 Jun 1998 @ Osaka
 Ritsu Doan,                   M,  1.72 m,  b. 16 Jun 1998 @ Amagasaki
 Takuto Oshima,                M,  1.74 m,  b. 1 Jun 1998 @ Hirakata
@@ -75,7 +82,7 @@ Koki Machida,                 D,  1.87 m,  b. 25 Aug 1997 @ Ibaraki
 Koki Ogawa,                   F,  1.83 m,  b. 8 Aug 1997 @ Kanagawa
 Takuro Kaneko,                M,  1.78 m,  b. 30 Jul 1997 @ Saitama
 Yusuke Matsuo,                M,  1.70 m,  b. 23 Jul 1997 @ Saitama
-Tatsuya Ito,                  F,  1.63 m,  b. 26 Jun 1997 @ Taitō
+Tatsuya Ito,                  M|F,1.63 m,  b. 26 Jun 1997 @ Taitō
 Daichi Hayashi,               F,  1.78 m,  b. 23 May 1997 @ Osaka
 Kaoru Mitoma,                 M,  1.78 m,  b. 20 May 1997 @ Kawasaki
 Mizuki Arai,                  F,  1.70 m,  b. 14 Apr 1997 @ Ina
@@ -85,6 +92,7 @@ Koji Miyoshi,                 M|F,1.67 m,  b. 26 Mar 1997 @ Kawasaki
 Yuki Soma,                    M,  1.65 m,  b. 25 Feb 1997 @ Tokyo
 Yuta Nakayama,                D,  1.79 m,  b. 16 Feb 1997 @ Ryugasaki
 Tsuyoshi Watanabe,            D,  1.84 m,  b. 5 Feb 1997 @ Saitama
+Ryosuke Kojima,               G,  1.82 m,  b. 30 Jan 1997 @ Aichi
 Itsuki Urata,                 D,  1.77 m,  b. 29 Jan 1997 @ Tokyo
 Ko Itakura,                   D,  1.86 m,  b. 27 Jan 1997 @ Yokohama
 

@@ -15,6 +15,7 @@ Mikel Dyzeni,                 G,  1.86 m,  b. 28 Apr 2004
 Argjend Miftari,              M,  - ,      b. 29 Jan 2004
 
 Steven Bala,                  M,  - ,      b. 19 Nov 2003 @ Lambeth
+Medon Berisha,                M,  1.86 m,  b. 21 Oct 2003 @ Münsingen
 Etienne Tare,                 F,  1.92 m,  b. 13 Sep 2003 @ Brescia
 Leandro Frroku,               M,  1.79 m,  b. 3 Sep 2003 @ Vari
 Asan Mata,                    M,  1.73 m,  b. 18 Aug 2003
@@ -65,11 +66,13 @@ Kleandro Lleshi,              M,  1.89 m,  b. 9 Oct 1999 @ Tirana
 Geraldo Bajrami,              D,  1.87 m,  b. 24 Sep 1999 @ Birmingham
 Arbnor Muçolli,               M,  1.75 m,  b. 15 Sep 1999 @ Fredericia
 Aristidi Kolaj,               F,  1.81 m,  b. 9 Apr 1999 @ Marino
+Nedim Bajrami,                M,  1.83 m,  b. 28 Feb 1999 @ Zürich
 Lindon Selahi,                M,  1.80 m,  b. 26 Feb 1999 @ Namur
 Enis Çokaj,                   M,  1.76 m,  b. 23 Feb 1999 @ Koplik
 Albion Ademi,                 M,  1.73 m,  b. 19 Feb 1999 @ Turku
 Jon Mersinaj,                 D,  1.83 m,  b. 8 Feb 1999 @ Tirana
 
+Arbër Hoxha,                  F,  1.85 m,  b. 6 Oct 1998 @ Heidelberg
 Agon Muçolli,                 M,  1.72 m,  b. 26 Sep 1998 @ Fredericia
 Agim Zeka,                    F,  1.92 m,  b. 6 Sep 1998 @ Ludwigsburg
 Julijan Shehu,                M,  1.83 m,  b. 6 Sep 1998 @ Tirana
@@ -79,6 +82,7 @@ Erdon Daci,                   F,  1.83 m,  b. 4 Jul 1998 @ Skopje
 Marios Vrousai,               M,  1.83 m,  b. 2 Jul 1998 @ Nafpaktos
 Lirim Qamili,                 F,  1.90 m,  b. 4 Jun 1998 @ Glostrup
 Sherif Kallaku,               M,  1.81 m,  b. 1 Mar 1998 @ Fushë-Krujë
+Mirlind Daku,                 F,  1.92 m,  b. 1 Jan 1998 @ Gjilan
 
 Silvio Merkaj,                F,  1.88 m,  b. 4 Dec 1997 @ Valona
 Keidi Bare,                   M,  1.74 m,  b. 28 Aug 1997 @ Fier
@@ -139,6 +143,7 @@ Bekim Balaj,                  F,  1.83 m,  b. 11 Jan 1991 @ Tirana
 Sokol Çikalleshi,             F,  1.87 m,  b. 27 Jul 1990 @ Kavajë
 Amir Abrashi,                 M,  1.72 m,  b. 27 Mar 1990 @ Bischofszell
 
+Klaus Gjasula,                M,  1.92 m,  b. 14 Dec 1989 @ Tirana
 Ermir Lenjani,                D,  1.75 m,  b. 5 Aug 1989 @ Pristina
 Etrit Berisha,                G,  1.94 m,  b. 10 Mar 1989 @ Priština
 

@@ -198,12 +198,15 @@ Joseph-Claude Gyau,           M,  1.75 m,  b. 16 Sep 1992 @ Tampa
 Sebastian Lletget,            M,  1.78 m,  b. 3 Sep 1992 @ San Francisco
 Jann George,                  M,  1.77 m,  b. 31 Jul 1992 @ Nuremburg
 Ryan Malone,                  D,  1.88 m,  b. 11 Apr 1992 @ Springfield, MA
+Perry Kitchen,                D,  1.83 m,  b. 29 Feb 1992 @ Indianapolis
 Will Seymore,                 M,  1.82 m,  b. 29 Feb 1992 @ Colorado Springs
 
+Gyasi Zerdes,                 F,  1.88 m,  b. 2 Sep 1991 @ Hawthorne
 Joshua Gatt,                  M,  1.77 m,  b. 29 Aug 1991 @ Plymouth, MI
 Christian Ramirez,            F,  1.88 m,  b. 4 Apr 1991 @ Garden Grove
 Terrence Boyd,                F,  1.85 m,  b. 16 Feb 1991 @ Bremen
 Dillon Powers,                M,  1.80 m,  b. 14 Feb 1991 @ Plano
+Steve Birnbaum,               D,  1.85 m,  b. 23 Jan 1991 @ Irvine
 
 Aron Jóhannsson,              F,  1.84 m,  b. 10 Nov 1990 @ Mobile
 Mikkel Diskerud,              M,  1.84 m,  b. 2 Oct 1990 @ Oslo
@@ -225,13 +228,15 @@ Chris Cortez,                 F,  1.90 m,  b. 24 Jul 1988 @ Mission Viejo
 Fabian Johnson,               D|M,1.83 m,  b. 11 Dec 1987 @ Munich
 José Torres,                  M,  1.65 m,  b. 29 Oct 1987 @ Longview
 Tim Ream,                     D,  1.85 m,  b. 5 Oct 1987 @ St Louis
-Michael Bradley,              M,  1.85 m,  b. 31 Jul 1987 @ Palatine
+Michael Bradley,              M,  1.85 m,  b. 31 Jul 1987 @ Princeton
 Alejandro Bedoya,             M,  1.78 m,  b. 29 Apr 1987 @ Weston
 Matt Besler,                  D,  1.83 m,  b. 11 Feb 1987 @ Overland Park
 
+Edgar Castillo,               D,  1.75 m,  b. 10 Aug 1986 @ Las Cruces
 Graham Zusi,                  M,  1.78 m,  b. 8 Aug 1986 @ Longwood
 Maurice Edu,                  M,  1.83 m,  b. 18 Apr 1986 @ San Bernardino
 Jonathan Spector,             D,  1.82 m,  b. 1 Mar 1986 @ Arlington Heights
+Michael Orozco,               D,  1.80 m,  b. 7 Feb 1986 @ Orange
 
 Robbie Findley,               F,  1.75 m,  b. 4 Aug 1985 @ Phoenix
 Stuart Holden,                M,  1.78 m,  b. 1 Aug 1985 @ Aberdeen

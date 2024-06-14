@@ -101,6 +101,7 @@ Hamza El Kaouakibi,           D,  1.85 m,  b. 22 May 1998 @ Bentivoglio
 Aymen Barkok,                 D|M,1.88 m,  b. 21 May 1998 @ Frankfurt am Main
 Ousama Siddiki,               F,  1.81 m,  b. 13 Apr 1998 @ Tétouan
 Sami Ben Amar,                F,  1.85 m,  b. 2 Mar 1998 @ Nice
+Mehdi Benabid,                G,  1.88 m,  b. 24 Jan 1998 @ Rabat
 Walid Cheddira,               F,  1.87 m,  b. 22 Jan 1998 @ Loreto
 Hicham Boussefiane,           M,  1.76 m,  b. 9 Jan 1998 @ Rabat
 
@@ -129,9 +130,11 @@ Hamza Sakhi,                  M,  1.73 m,  b. 7 Jun 1996 @ Rabat
 Amine Talal,                  M,  1.76 m,  b. 5 Jun 1996 @ Casablanca
 Abdel Al Badaoui,             F,  1.79 m,  b. 25 May 1996
 Fahd Moufi,                   D,  1.79 m,  b. 5 May 1996 @ Mulhouse
+Abdelkrim Baadi,              D,  1.75 m,  b. 14 Apr 1996 @ Agadir
 Ahmed Reda Tagnaouti,         G,  1.82 m,  b. 5 Apr 1996 @ Casablanca
 Nayef Aguerd,                 D,  1.88 m,  b. 30 Mar 1996 @ Kenitra
-Oussama Idrissi,              F,  1.83 m,  b. 26 Feb 1996 @ Bergen op Zoom
+Soufiane Rahimi,              F,  1.81 m,  b. 23 Mar 1996 @ Casablanca
+Oussama Idrissi,              M|F,1.83 m,  b. 26 Feb 1996 @ Bergen op Zoom
 Moha,                         F,  1.80 m,  b. 13 Jan 1996 @ Nador
 
 Mohamed Bouldini,             F,  1.84 m,  b. 27 Nov 1995 @ Casablanca
@@ -150,6 +153,7 @@ Badr Boulahroud,              M,  1.78 m,  b. 21 Apr 1993 @ Rabat
 Tarik Tissoudali,             F,  1.75 m,  b. 2 Apr 1993 @ Amsterdam
 Hakim Ziyech,                 M,  1.80 m,  b. 19 Mar 1993 @ Dronten
 Zakaria Labyad,               M,  1.70 m,  b. 9 Mar 1993 @ Utrecht
+Mohamed Chibi,                D,  1.75 m,  b. 21 Jan 1993 @ Casablanca
 
 Amine Oudrhiri,               M,  1.84 m,  b. 4 Nov 1992 @ Ermont
 Rachid Alioui,                F,  1.86 m,  b. 18 Jun 1992 @ La Rochelle

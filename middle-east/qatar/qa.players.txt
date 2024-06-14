@@ -14,23 +14,35 @@ Meshaal Barsham,              G,  1.78 m,  b. 14 Feb 1998 @ Doha
 
 Bassam Al-Rawi,               D,  1.74 m,  b. 16 Dec 1997 @ Baghdad
 Tarek Salman,                 D,  1.79 m,  b. 5 Dec 1997 @ Doha
+Abdullah Al-Ahrak,            M,  1.75 m,  b. 10 May 1997 @ Doha
+Mohammed Al-Bakri,            G,  1.77 m,  b. 28 Mar 1997 @ Doha
 
 Akram Afif,                   F,  1.77 m,  b. 18 Nov 1996 @ Doha
 Assim Madibo,                 M,  1.68 m,  b. 22 Oct 1996 @ Doha
 Almoez Ali,                   F,  1.80 m,  b. 19 Aug 1996 @ Khartoum
+Tameem Al-Muhaza,             D,  1.76 m,  b. 21 Jul 1996
 Yousef Hassan,                G,  1.88 m,  b. 24 May 1996 @ Doha
 Salem Al-Hajri,               M,  1.80 m,  b. 10 Apr 1996 @ Manama
+
+Ahmad Moein,                  M,  1.72 m,  b. 20 Oct 1995 @ Doha
 
 Mohammed Muntari,             F,  1.94 m,  b. 20 Dec 1993 @ Kumasi
 Musab Kheder,                 D,  1.66 m,  b. 26 Sep 1993 @ Khartoum
 Abdelkarim Hassan,            D,  1.85 m,  b. 28 Aug 1993 @ Doha
 Ahmed Alaaeldin,              F,  1.76 m,  b. 31 Jan 1993 @ Doha
+Ahmed Fatehi,                 M,  1.71 m,  b. 25 Jan 1993 @ Doha
 Ali Assadalla,                M,  1.75 m,  b. 19 Jan 1993 @ Manama
+
+Al-Mahdi Ali Mukhtar,         D,  1.85 m,  b. 2 Mar 1992 @ Doha
 
 Hassan Al-Haydos,             F,  1.70 m,  b. 11 Dec 1990 @ Doha
 Abdulaziz Hatem,              M,  1.82 m,  b. 28 Oct 1990 @ Doha
 Karim Boudiaf,                M,  1.90 m,  b. 16 Sep 1990 @ Rueil-Malmaison
 Ró-Ró,                        D,  1.80 m,  b. 6 Aug 1990 @ Algueirão–Mem Martins
-Boualem Khoukhi,              D,  1.84 m,  b. 9 Jul 1990 @ Bou Ismaïl
+Boualem Khoukhi,              D|M,1.84 m,  b. 9 Jul 1990 @ Bou Ismaïl
 Ismaeel Mohammad,             M,  1.71 m,  b. 5 Apr 1990 @ Doha
 Saad Al-Sheeb,                G,  1.88 m,  b. 19 Feb 1990 @ Doha
+
+Ali Afif,                     M,  1.73 m,  b. 20 Jan 1988 @ Doha
+
+Hamid Ismail,                 D,  1.70 m,  b. 16 Jun 1986 @ Doha

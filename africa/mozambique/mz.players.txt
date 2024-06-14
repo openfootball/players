@@ -1,17 +1,37 @@
 =================================
 =  Mozambique
 
+Fazito,                       G,  1.78 m,  b. 9 Jun 2003
+
 Geny Catamo,                  F,  1.74 m,  b. 26 Jan 2001 @ Maputo
 
-Bruno Langa,                  D,  1.78 m,  b. 31 Oct 1997 @ Maputo
+Alfons Amade,                 M,  1.70 m,  b. 12 Nov 1999 @ Heidelberg
 
+Ernan Siluane,                G,  1.86 m,  b. 7 Sep 1998 @ Maputo
+Domingos Macandza,            D,  1.75 m,  b. 17 Jun 1998 @ Maputo
+
+Shaquille Nangy,              M,  1.81 m,  b. 24 Nov 1997 @ Inhambane
+Bruno Langa,                  D,  1.78 m,  b. 31 Oct 1997 @ Maputo
+Ivane Urrubal,                G,  1.84 m,  b. 1 Mar 1997
+João Bonde,                   M,  1.69 m,  b. 9 Jan 1997 @ Beira
+
+Nené,                         M,  1.80 m,  b. 15 Nov 1996 @ Chimoio
 Witiness Quembo,              D,  1.78 m,  b. 26 Aug 1996 @ Beira
+Amadú,                        M,  1.87 m,  b. 12 Mar 1996 @ Nampula
+Nanani,                       D,  1.70 m,  b. 8 Feb 1996 @ Matola
 
 Guima,                        M,  1.81 m,  b. 14 Nov 1995 @ Aveiro
+David Malembana,              D,  1.96 m,  b. 11 Oct 1995 @ Freital
+Lau King,                     F,  1.89 m,  b. 9 Apr 1995 @ Pemba
+Gildo Vilanculos,             F,  1.70 m,  b. 31 Jan 1995 @ Cidade da Beira
 
+Stanley Ratifo,               F,  1.90 m,  b. 5 Dec 1994 @ Halle an der Saale
 Clésio Baúque,                F,  1.74 m,  b. 11 Oct 1994 @ Maputo
+Edmilson Dove,                M,  1.80 m,  b. 18 Jul 1994 @ Tavene
 Reinildo Mandava,             D,  1.80 m,  b. 21 Jan 1994 @ Beira
 
 Zainadine Júnior,             D,  1.78 m,  b. 24 Jun 1988 @ Maputo
 
 Mexer,                        D,  1.81 m,  b. 8 Sep 1985 @ Maputo
+
+Domingues,                    M,  1.68 m,  b. 13 Nov 1983 @ Maputo

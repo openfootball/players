@@ -49,6 +49,7 @@ Carlos Salcedo,               D,  1.88 m,  b. 29 Sep 1993 @ Guadalajara
 Jesús Manuel Corona,          F,  1.73 m,  b. 6 Jan 1993 @ Hermosillo
 
 Henry Martín,                 F,  1.65 m,  b. 18 Nov 1992 @ Mérida
+Jürgen Damm,                  F,  1.87 m,  b. 7 Nov 1992 @ Tuxpan
 Diego Reyes,                  D,  1.85 m,  b. 19 Sep 1992 @ Mexico City
 
 Néstor Araujo,                D,  1.88 m,  b. 29 Aug 1991 @ Guadalajara
@@ -65,15 +66,18 @@ Javier Aquino,                M,  1.68 m,  b. 11 Feb 1990 @ Oaxaca
 Marco Fabián,                 M|F,1.70 m,  b. 21 Jul 1989 @ Guadalajara
 Giovani dos Santos,           M|F,1.73 m,  b. 11 May 1989 @ Monterrey
 Miguel Ángel Ponce,           D,  1.75 m,  b. 12 Apr 1989 @ Sacramento
+Jesús Dueñas,                 M,  1.74 m,  b. 16 Mar 1989 @ Zamora
 Carlos Vela,                  F,  1.77 m,  b. 1 Mar 1989 @ Cancún
 
 Jorge Torres,                 D,  1.76 m,  b. 16 Sep 1988 @ Tijuana
 Miguel Layún,                 D,  1.78 m,  b. 25 Jun 1988 @ Córdoba
 Javier Hernández,             F,  1.72 m,  b. 1 Jun 1988 @ Guadalajara
+Jesús Antonio Molina,         M,  1.82 m,  b. 29 Mar 1988 @ Hermosillo
 José Vázquez,                 M,  1.66 m,  b. 14 Mar 1988 @ Celaya
 Efrain Juárez,                D,  1.72 m,  b. 22 Feb 1988 @ Mexico City
 Héctor Moreno,                D,  1.82 m,  b. 17 Jan 1988 @ Culiacán
 
+Yasser Corona,                D,  1.84 m,  b. 28 Nov 1987 @ Tepic
 Rodolfo Cota,                 G,  1.82 m,  b. 3 Jul 1987 @ Mazatlán
 Pablo Barrera,                M,  1.75 m,  b. 21 Jun 1987 @ Tlalnepantla de Baz
 Hugo Ayala,                   D,  1.83 m,  b. 31 Mar 1987 @ Morelia

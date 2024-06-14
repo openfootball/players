@@ -19,6 +19,7 @@ Giorgi Omarashvili,           F,  1.90 m,  b. 10 Feb 2002 @ Tbilisi
 
 Zurab Gigashvili,             D,  1.89 m,  b. 20 Nov 2001 @ Tbilisi
 Giorgi Gagua,                 F,  1.93 m,  b. 10 Oct 2001 @ Tbilisi
+Anzor Mekvabishvili,          M,  1.74 m,  b. 5 Jun 2001 @ Tbilisi
 Aleksandre Kalandadze,        D,  1.85 m,  b. 9 May 2001 @ Tbilisi
 Iva Gelashvili,               D,  1.91 m,  b. 8 Apr 2001 @ Tbilisi
 Nika Gagnidze,                M,  1.80 m,  b. 20 Mar 2001 @ Gori
@@ -26,6 +27,7 @@ Zuriko Davitashvili,          M|F,1.75 m,  b. 15 Feb 2001 @ Tbilisi
 Giorgi Gocholeishvili,        D,  1.78 m,  b. 14 Feb 2001 @ Kutaisi
 Khvicha Kvaratskhelia,        M,  1.83 m,  b. 12 Feb 2001 @ Tbilisi
 
+Giorgi Tsitaishvili,          M,  1.71 m,  b. 18 Nov 2000 @ Rishon LeZion
 Georges Mikautadze,           F,  1.76 m,  b. 31 Oct 2000 @ Lyon
 Giorgi Mamardashvili,         G,  1.99 m,  b. 29 Sep 2000 @ Tbilisi
 
@@ -33,6 +35,7 @@ Giorgi Chakvetadze,           M,  1.83 m,  b. 29 Aug 1999 @ Tbilisi
 Zviad Natchkebia,             M,  1.70 m,  b. 19 Aug 1999 @ Chkhorotsqu
 Giorgi Kochorashvili,         M,  1.78 m,  b. 29 Jun 1999 @ Tbilisi
 Nika Ninua,                   M,  1.86 m,  b. 22 Jun 1999 @ Tbilisi
+Luka Gugeshashvili,           G,  1.96 m,  b. 29 Apr 1999 @ Tbilisi
 
 Giorgi Kokhreidze,            M,  1.71 m,  b. 18 Nov 1998 @ Tbilisi
 Luka Lakvekheliani,           D,  1.75 m,  b. 20 Oct 1998 @ Tbilisi
@@ -80,6 +83,8 @@ Nika Kvekveskiri,             M,  1.86 m,  b. 29 May 1992 @ Zugdidi
 Irakli Chezhiya,              D,  1.87 m,  b. 22 May 1992 @ Gali
 Solomon Kvirkvelia,           D,  1.90 m,  b. 6 Feb 1992 @ Samtredia
 
+Giorgi Gvelesiani,            D,  1.93 m,  b. 5 May 1991 @ Tbilisi
+
 Georgi Makaridze,             G,  1.90 m,  b. 31 Mar 1990 @ Tbilisi
 Irakliy Kvekveskiri,          M,  1.73 m,  b. 12 Mar 1990 @ Tbilisi
 
@@ -88,5 +93,8 @@ Gia Grigalava,                D,  1.90 m,  b. 5 Aug 1989 @ Kutaisi
 
 Giorgi Shelia,                G,  1.90 m,  b. 11 Dec 1988 @ Moscow
 
+Guram Kashia,                 D,  1.86 m,  b. 4 Jul 1987 @ Tbilisi
+
 Giorgi Merebashvili,          M,  1.78 m,  b. 15 Aug 1986 @ Tbilisi
 Jaba Kankava,                 M,  1.76 m,  b. 18 Mar 1986 @ Tbilisi
+Giorgi Loria,                 G,  1.97 m,  b. 27 Jan 1986 @ Tbilisi

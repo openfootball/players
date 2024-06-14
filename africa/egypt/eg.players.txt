@@ -8,49 +8,80 @@ Eyad El Askalany,             D,  1.79 m,  b. 24 Dec 2004 @ Ismailia
 Salah Basha,                  F,  1.89 m,  b. 5 Mar 2003 @ Verona
 
 Mohammed Yasser,              F,  1.93 m,  b. 5 May 2001
+Ibrahim Adel,                 F,  1.73 m,  b. 23 Apr 2001 @ Port Said
 
+Mohamed Sobhy,                G,  1.82 m,  b. 15 Jul 1999
 Omar Marmoush,                F,  1.77 m,  b. 7 Feb 1999 @ Cairo
+Mohamed Abdelmonem,           D,  1.83 m,  b. 1 Feb 1999 @ Zagazig
 
+Mahmoud Gad,                  G,  1.91 m,  b. 1 Oct 1998 @ El Senbellawein
+Marwan Attia,                 M,  1.70 m,  b. 12 Aug 1998 @ Kafr El Dawwar
+Ahmed Abou El Fotouh,         D,  1.77 m,  b. 22 Mar 1998
 Emam Ashour,                  M,  1.82 m,  b. 20 Feb 1998 @ El Senbellawein
 Ahmed Yasser Rayyan,          F,  1.85 m,  b. 24 Jan 1998 @ Cairo
 
 Mostafa Mohamed,              F,  1.85 m,  b. 28 Nov 1997 @ Giza
+Akram Tawfik,                 M,  1.75 m,  b. 8 Nov 1997 @ Kafr Saqr
+Marwan Dawoud,                D,  - ,      b. 27 Aug 1997
 Ramadan Sobhi,                M,  1.83 m,  b. 23 Jan 1997 @ Cairo
 
+Marwan Hamdy,                 F,  1.84 m,  b. 15 Nov 1996
+Baher Elmohamady,             D,  - ,      b. 1 Nov 1996 @ Ismaïlia
+Nabil Emad,                   M,  - ,      b. 6 Apr 1996
+Mohanad Lasheen,              M,  1.79 m,  b. 29 Mar 1996
 Karim Hafez,                  D,  1.75 m,  b. 12 Mar 1996 @ Beheira
+Mohamed Sherif,               F,  1.85 m,  b. 4 Feb 1996
+Mohamed Hany,                 D,  1.75 m,  b. 2 Feb 1996 @ Cairo
+Ahmed Sayed,                  M,  1.74 m,  b. 10 Jan 1996 @ Cairo
 
 Mahmoud Hamdy,                D,  1.88 m,  b. 1 Jun 1995 @ Bilbeis
+Mohamed Hamdy,                D,  1.70 m,  b. 15 Mar 1995 @ Cairo
 
 Mahmoud Hassan,               M,  1.76 m,  b. 1 Oct 1994 @ Kafr el-Sheikh
 Mahmoud Hassan Trézéguet,     M,  1.76 m,  b. 1 Oct 1994 @ Kafr el-Sheikh
+Hamdy Fathy,                  M,  1.80 m,  b. 29 Sep 1994 @ Beheira
+Mahmoud Hamada,               M,  1.77 m,  b. 1 Jun 1994 @ Alexandria
+Mostafa Fathi,                F,  1.69 m,  b. 12 May 1994 @ Mansoura
+Ahmed Ayman Mansour,          D,  1.78 m,  b. 13 Apr 1994 @ Cairo
 Mahmoud Kahraba,              M,  1.82 m,  b. 13 Apr 1994 @ Cairo
 
+Omar Kamal,                   D,  1.86 m,  b. 29 Sep 1993
 Amr Warda,                    M,  1.76 m,  b. 17 Sep 1993 @ Alexandria
 Ahmed Hassan,                 F,  1.91 m,  b. 5 Mar 1993 @ Cairo
+Yasser Ibrahim,               D,  1.85 m,  b. 10 Feb 1993 @ Mansoura
 
 Mohamed Elneny,               M,  1.80 m,  b. 11 Jul 1992 @ Mahalla
 Mohamed Salah,                M|F,1.75 m,  b. 15 Jun 1992 @ Basyoun
+Ahmed Samy,                   D,  1.84 m,  b. 1 Apr 1992 @ El Beheira
 Ali Ghazal,                   M,  1.90 m,  b. 1 Feb 1992 @ Maadi
 Omar Gaber,                   D,  1.74 m,  b. 30 Jan 1992 @ Cairo
 
 Sam Morsy,                    M,  1.75 m,  b. 10 Sep 1991 @ Wolverhampton
+Ahmed El-Shenawy,             G,  1.89 m,  b. 14 May 1991 @ Port Said
 Ayman Ashraf,                 D,  1.75 m,  b. 9 Apr 1991 @ Cairo
+Mahmoud Alaa,                 D,  1.89 m,  b. 28 Jan 1991 @ Cairo
 Ahmed Hegazy,                 D,  1.93 m,  b. 25 Jan 1991 @ Ismaïlia
+
+Arm El Soleya,                M,  1.85 m,  b. 2 Apr 1990 @ Mansoura
 
 Saad Samir,                   D,  1.86 m,  b. 1 Apr 1989 @ Cairo
 Marwan Mohsen,                F,  1.87 m,  b. 26 Feb 1989 @ Cairo
+Mohamed Abou Gabal,           G,  1.90 m,  b. 29 Jan 1989 @ Asyut
 
 Mohamed El-Shenawy,           G,  1.91 m,  b. 18 Dec 1988 @ El Hamool
 Tarek Hamed,                  M,  1.79 m,  b. 24 Oct 1988 @ Cairo
 
 Ahmed Elmohamady,             D|M,1.82 m,  b. 9 Sep 1987 @ El-Mahalla El-Kubra
+Mahmoud Genesh,               G,  1.88 m,  b. 10 Jul 1987 @ Alexandria
 Ali Gabr,                     D,  1.93 m,  b. 10 Jan 1987 @ Ismaïlia
 
+Ahmed Ali,                    F,  1.76 m,  b. 21 May 1986
 Shikabala,                    M,  1.83 m,  b. 5 Mar 1986 @ Aswan
 
 Abdallah Said,                M,  1.76 m,  b. 13 Jul 1985 @ Ismaïlia
 Mohamed Abdel-Shafy,          D,  1.79 m,  b. 1 Jul 1985 @ Cairo
 
+Walid Soliman,                M,  1.76 m,  b. 1 Dec 1984 @ Beni Mazar
 Ahmed Fathy,                  M,  1.78 m,  b. 10 Nov 1984 @ Ismaïlia
 
 Sherif Ekramy,                G,  1.91 m,  b. 1 Jul 1983 @ Cairo

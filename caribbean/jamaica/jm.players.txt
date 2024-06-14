@@ -33,8 +33,10 @@ Rolando Aarons,               M,  1.75 m,  b. 16 Nov 1995 @ Kingston
 Junior Morias,                F,  1.73 m,  b. 4 Jul 1995 @ Kingston
 
 Jevani Brown,                 F,  1.75 m,  b. 16 Oct 1994 @ Letchworth
+Damano Solomon,               D,  1.80 m,  b. 13 Oct 1994 @ Old Harbour
 Greg Leigh,                   D,  1.81 m,  b. 30 Sep 1994 @ Manchester
 Amari'i Bell,                 D,  1.79 m,  b. 5 May 1994 @ Burton upon Trent
+Chevone Marsh,                M,  1.60 m,  b. 25 Feb 1994 @ Kingston
 Jamal Lowe,                   F,  1.83 m,  b. 27 Jan 1994 @ Harrow
 
 Kevin Stewart,                M,  1.81 m,  b. 7 Sep 1993 @ Enfield
@@ -43,6 +45,7 @@ Bobby Reid,                   M,  1.70 m,  b. 2 Feb 1993 @ Bristol
 Ravel Morrison,               M,  1.75 m,  b. 2 Feb 1993 @ Wythenshawe
 Liam Moore,                   D,  1.86 m,  b. 31 Jan 1993 @ Leicester
 
+Allan Ottey,                  F,  1.80 m,  b. 18 Dec 1992 @ Montego Bay
 Daniel Johnson,               M,  1.74 m,  b. 8 Oct 1992 @ Kingston
 Kemar Lawrence,               D,  1.78 m,  b. 17 Sep 1992 @ Kingston
 Michael Hector,               D,  1.93 m,  b. 19 Jul 1992 @ Newham
@@ -51,16 +54,34 @@ Cory Burke,                   F,  1.93 m,  b. 28 Dec 1991 @ Kingston
 Curtis Tilt,                  D,  1.92 m,  b. 4 Aug 1991 @ Walsall
 Andre Gray,                   F,  1.78 m,  b. 26 Jun 1991 @ Wolverhampton
 
+Andrew Vanzie,                M,  1.86 m,  b. 26 Nov 1990 @ May Pen
+Andre Blake,                  G,  1.93 m,  b. 21 Nov 1990 @ May Pen
 Romeo Parkes,                 F,  1.76 m,  b. 11 Nov 1990 @ Port Maria
 Michail Antonio,              F,  1.80 m,  b. 28 Mar 1990 @ Wandsworth
 Dever Orgill,                 F,  1.83 m,  b. 8 Mar 1990 @ Port Antonio
 
+Rosario Harriott,             D,  1.96 m,  b. 26 Sep 1989 @ Kingston
+
+Michael Binns,                M,  1.70 m,  b. 12 Aug 1988 @ St. Catherine
+Giles Barnes,                 F,  1.83 m,  b. 5 Aug 1988 @ Barking
+
 Joel Grant,                   M,  1.83 m,  b. 27 Aug 1987 @ Hammersmith
 Garath McCleary,              M|F,1.88 m,  b. 15 May 1987 @ Oxford
 Mark Marshall,                M,  1.83 m,  b. 5 May 1987 @ Manchester (JAM)
+Duwayne Kerr,                 G,  1.99 m,  b. 16 Jan 1987 @ Burnt Savannah
 
 Adrian Mariappa,              D,  1.80 m,  b. 3 Oct 1986 @ Harrow
 
+Rodolph Austin,               M,  1.80 m,  b. 1 Jun 1985 @ Clarendon
 Daniel Gordon,                D,  1.92 m,  b. 16 Jan 1985 @ Dortmund
+Jermaine Taylor,              D,  1.81 m,  b. 14 Jan 1985 @ Portland (JAM)
+Ryan Thompson,                G,  1.85 m,  b. 7 Jan 1985 @ Kingston
 
+Clayton Donaldson,            F,  1.85 m,  b. 7 Feb 1984 @ Bradford
 Wes Morgan,                   D,  1.85 m,  b. 21 Jan 1984 @ Nottingham
+
+JeVaughn Watson,              M,  1.83 m,  b. 22 Oct 1983 @ St. Catherine
+
+Lee Williamson,               M,  1.78 m,  b. 7 Jun 1982 @ Derby
+
+Jobi McAnuff,                 M,  1.80 m,  b. 9 Nov 1981 @ Edmonton

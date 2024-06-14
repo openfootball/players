@@ -18,3 +18,5 @@ Peter Wilson,                 F,  1.80 m,  b. 9 Oct 1996 @ Monrovia
 Vajebah Sakor,                M,  1.83 m,  b. 24 Apr 1996 @ Monrovia
 
 Sam Johnson,                  F,  1.80 m,  b. 6 May 1993 @ Monrovia
+
+Darlington Nagbe,             M,  1.75 m,  b. 19 Jul 1990 @ Monrovia
