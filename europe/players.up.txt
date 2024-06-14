@@ -1,0 +1,47 @@
+= Austria
+
+Max Wöber | Maximilian Wöber,  b. 1998
+Phillipp Mwene | Philipp Mwene,  b. 1994   ## typo? always use to lls??
+
+
+= Spain
+
+Daniel Carvajal | Dani Carvajal,  b. 1992
+Alejandro Remiro | Álex Remiro,  b. 1995
+
+  
+= Belgium
+
+Yannick Ferreira Carrasco | Yannick Carrasco,   b. 1993
+
+
+= Portugal
+
+Diogo Costa | Diego Costa,   b. 1999     ## typo? always use diogo??
+
+
+= Turkey
+
+İrfan Can Kahveci | İrfan Kahveci,    b. 1995
+
+
+= Serbia
+
+## auto-translit? Đ/đ => Dj/dj - why? why not?
+
+Srdjan Babić | Srđan Babić,            b. 1996 
+Srdjan Mijailović | Srđan Mijailović,  b. 1993    
+Djordje Petrović | Đorđe Petrović,     b. 1999
+
+
+=  Slovenia
+
+Timi Elšnik | Timi Max Elšnik, b. 1998
+
+
+=  Ukraine
+
+Maksym Talovierov | Maksym Taloverov,     b.  2000
+Bohdan Mykhaylychenko  | Bohdan Mykhaylichenko,  b. 1997
+
+
