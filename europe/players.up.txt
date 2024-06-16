@@ -4,10 +4,10 @@ Max Wöber | Maximilian Wöber,  b. 1998
 Phillipp Mwene | Philipp Mwene,  b. 1994   ## typo? always use to lls??
 
 
-= Spain
+= Switzerland
 
-Daniel Carvajal | Dani Carvajal,  b. 1992
-Alejandro Remiro | Álex Remiro,  b. 1995
+Eray Cömert | Eray Cümart,     b. 1998    ## typo with ü? 
+
 
   
 = Belgium
@@ -15,9 +15,30 @@ Alejandro Remiro | Álex Remiro,  b. 1995
 Yannick Ferreira Carrasco | Yannick Carrasco,   b. 1993
 
 
+= Wales
+
+Matt Smith | Matthew Smith,            b. 1999
+Jonathan Williams | Jonny Williams,    b. 1993
+
+
+= Spain
+
+Alejandro Remiro | Álex Remiro,  b. 1995
+José Luis Gayà | José Gayà,   b. 1995
+Daniel Carvajal | Dani Carvajal,  b. 1992
+Thiago Alcántara | Thiago,    b. 1991 
+
+
 = Portugal
 
 Diogo Costa | Diego Costa,   b. 1999     ## typo? always use diogo??
+Rafa | Rafa Silva,           b. 1993
+
+
+
+=  Sweden
+
+Marcus Danielsson | Marcus Danielson,       b. 1989
 
 
 = Turkey
@@ -29,9 +50,9 @@ Diogo Costa | Diego Costa,   b. 1999     ## typo? always use diogo??
 
 ## auto-translit? Đ/đ => Dj/dj - why? why not?
 
+Djordje Petrović | Đorđe Petrović,     b. 1999
 Srdjan Babić | Srđan Babić,            b. 1996 
 Srdjan Mijailović | Srđan Mijailović,  b. 1993    
-Djordje Petrović | Đorđe Petrović,     b. 1999
 
 
 =  Slovenia
@@ -39,9 +60,35 @@ Djordje Petrović | Đorđe Petrović,     b. 1999
 Timi Elšnik | Timi Max Elšnik, b. 1998
 
 
+=  North Macedonia
+
+Ivan Tričkovski | Ivan Trichkovski,   b. 1987
+
+
+
 =  Ukraine
 
 Maksym Talovierov | Maksym Taloverov,     b.  2000
 Bohdan Mykhaylychenko  | Bohdan Mykhaylichenko,  b. 1997
+Artem Byesyedin | Artem Besedin,        b. 1996
+Yevhen Makarenko | Yevhenii Makarenko,  b. 1991
+
+
+= Russia
+
+Matvey Safonov | Matvei Safonov,     b. 1999
+Igor Diveev | Igor Diveyev,          b. 1999
+Roman Evgenyev | Roman Yevgenyev,    b. 1999
+Dmitriy Barinov | Dmitri Barinov,            b. 1996
+Vyacheslav Karavaev | Vyacheslav Karavayev,    b. 1995
+Aleksey Miranchuk | Aleksei Miranchuk,          b. 1995
+Magomed Ozdoev | Magomed Ozdoyev,      b. 1992
+Anton Zabolotniy | Anton Zabolotny,    b. 1991
+Andrey Semenov | Andrei Semyonov,    b. 1989
+Aleksey Ionov | Aleksei Ionov,       b. 1989
+Yuri Dyupin | Yury Dyupin,             b. 1988
+Fedor Kudryashov | Fyodor Kudryashov,     b. 1987
+Yuriy Zhirkov | Yuri Zhirkov,            b. 1983
+
 
 
