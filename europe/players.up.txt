@@ -27,12 +27,19 @@ Alejandro Remiro | Álex Remiro,  b. 1995
 José Luis Gayà | José Gayà,   b. 1995
 Daniel Carvajal | Dani Carvajal,  b. 1992
 Thiago Alcántara | Thiago,    b. 1991 
+Nacho Fernández | Nacho,   b. 1990
+
 
 
 = Portugal
 
 Diogo Costa | Diego Costa,   b. 1999     ## typo? always use diogo??
 Rafa | Rafa Silva,           b. 1993
+
+
+= Denmark
+
+Mathias Zanka Jørgensen | Mathias Jørgensen,    b. 1990
 
 
 

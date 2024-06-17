@@ -191,7 +191,7 @@ Jack Evans,                   M,  1.78 m,  b. 25 Apr 1998 @ Swansea
 Jay Dasilva,                  D,  1.70 m,  b. 22 Apr 1998 @ Luton
 Nathan Broadhead,             F,  1.78 m,  b. 5 Apr 1998 @ Bangor
 Ryan Leak,                    D,  1.91 m,  b. 28 Feb 1998 @ Burton-on-Trent
-Tyler Roberts,                F,  1.80 m,  b. 12 Jan 1998 @ Gloucester
+Tyler Roberts,                F,  1.80 m,  b. 12 Jan 1999 @ Gloucester
 
 Daniel James,                 M,  1.80 m,  b. 10 Nov 1997 @ Kingston upon Hull
 Chris Mepham,                 D,  1.91 m,  b. 5 Nov 1997 @ Hammersmith

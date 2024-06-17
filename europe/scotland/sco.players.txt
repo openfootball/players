@@ -522,7 +522,7 @@ Scott Fraser,                 M,  1.83 m,  b. 30 Mar 1995 @ Dundee
 Ally Gilchrist,               D,  1.75 m,  b. 3 Mar 1995 @ Edinburgh
 Danny Mullen,                 F,  1.77 m,  b. 1 Mar 1995 @ Coatbridge
 Ryan Christie,                M,  1.78 m,  b. 22 Feb 1995 @ Inverness
-Liam Kelly,                   G,  1.89 m,  b. 23 Jan 1995 @ Glasgow
+Liam Kelly,                   G,  1.89 m,  b. 23 Jan 1996 @ Glasgow
 Sam Nicholson,                M,  1.75 m,  b. 20 Jan 1995 @ Edinburgh
 Stephen Hendrie,              D,  1.78 m,  b. 8 Jan 1995 @ Glasgow
 
